@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.1.1" created="2023-03-21 11:27" -->
+	<!-- generator="WordPress/6.4.3" created="2024-03-06 05:00" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Sport </title>
 	<link>https://demos.afthemes.com/chromenews/sport</link>
 	<description>Just another ChromeNews Sites site</description>
-	<pubDate>Tue, 21 Mar 2023 11:27:40 +0000</pubDate>
+	<pubDate>Wed, 06 Mar 2024 05:00:24 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.afthemes.com/chromenews/</wp:base_site_url>
@@ -252,7 +252,7 @@
 	<wp:term><wp:term_id>18</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Social menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
 	<url>https://demos.afthemes.com/chromenews/sport/wp-content/uploads/sites/2/2018/08/cropped-af-themes-main-dark-150x150.png</url>
@@ -1275,7 +1275,7 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/chromenews/sport/2023/03/21/leagues-clubs/</link>
+		<link>https://demos.afthemes.com/chromenews/sport/2023/04/05/leagues-clubs/</link>
 		<pubDate>Tue, 31 Jul 2018 12:10:07 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/sport-pro/2018/07/31/leagues-clubs/</guid>
@@ -1283,10 +1283,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
 		<wp:post_id>78</wp:post_id>
-		<wp:post_date><![CDATA[2023-03-21 08:21:04]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-04-05 05:34:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-31 12:10:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-03-21 08:21:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-04-05 05:34:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-05 05:34:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[leagues-clubs]]></wp:post_name>
@@ -1341,10 +1341,18 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-06-09]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-03-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-04-04]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/chromenews/sport/2023/03/21/79/</link>
+		<link>https://demos.afthemes.com/chromenews/sport/2023/04/05/79/</link>
 		<pubDate>Tue, 31 Jul 2018 12:10:07 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/sport-pro/2018/07/31/79/</guid>
@@ -1352,10 +1360,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
 		<wp:post_id>79</wp:post_id>
-		<wp:post_date><![CDATA[2023-03-21 08:21:04]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-04-05 05:34:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-31 12:10:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-03-21 08:21:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-04-05 05:34:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-05 05:34:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[79]]></wp:post_name>
@@ -1410,10 +1418,18 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-06-09]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-03-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-04-04]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/chromenews/sport/2023/03/21/80/</link>
+		<link>https://demos.afthemes.com/chromenews/sport/2023/04/05/80/</link>
 		<pubDate>Tue, 31 Jul 2018 12:10:07 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/sport-pro/2018/07/31/80/</guid>
@@ -1421,10 +1437,10 @@
 		<content:encoded><![CDATA[New]]></content:encoded>
 		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
 		<wp:post_id>80</wp:post_id>
-		<wp:post_date><![CDATA[2023-03-21 08:21:04]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-04-05 05:34:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-31 12:10:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-03-21 08:21:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-04-05 05:34:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-05 05:34:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[80]]></wp:post_name>
@@ -1479,10 +1495,18 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-06-09]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-03-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-04-04]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/chromenews/sport/2023/03/21/81/</link>
+		<link>https://demos.afthemes.com/chromenews/sport/2023/04/05/81/</link>
 		<pubDate>Tue, 31 Jul 2018 12:10:07 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/sport-pro/2018/07/31/81/</guid>
@@ -1490,10 +1514,10 @@
 		<content:encoded><![CDATA[Schedule]]></content:encoded>
 		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
 		<wp:post_id>81</wp:post_id>
-		<wp:post_date><![CDATA[2023-03-21 08:21:04]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-04-05 05:34:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-31 12:10:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-03-21 08:21:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-04-05 05:34:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-05 05:34:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[81]]></wp:post_name>
@@ -1548,74 +1572,13 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-06-09]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/chromenews/sport/2023/03/21/82/</link>
-		<pubDate>Tue, 31 Jul 2018 12:10:07 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/sport-pro/2018/07/31/82/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
-		<wp:post_id>82</wp:post_id>
-		<wp:post_date><![CDATA[2023-03-21 08:21:04]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-07-31 12:10:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-03-21 08:21:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[82]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[8]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-03-21]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-07-31]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-06-09]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2023-04-04]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1815,7 +1778,7 @@
 							</item>
 					<item>
 		<title><![CDATA[All Demos]]></title>
-		<link>https://demos.afthemes.com/chromenews/sport/2023/03/21/all-demos/</link>
+		<link>https://demos.afthemes.com/chromenews/sport/2023/04/05/all-demos/</link>
 		<pubDate>Thu, 02 Aug 2018 02:35:28 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/sport-pro/?p=91</guid>
@@ -1823,16 +1786,16 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
 		<wp:post_id>91</wp:post_id>
-		<wp:post_date><![CDATA[2023-03-21 08:21:04]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-04-05 05:34:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-02 02:35:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-03-21 08:21:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-04-05 05:34:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-05 05:34:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[all-demos]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>7</wp:menu_order>
+		<wp:menu_order>6</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1871,7 +1834,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
@@ -1885,10 +1848,18 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-06-09]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-03-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-04-04]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/chromenews/sport/2023/03/21/219/</link>
+		<link>https://demos.afthemes.com/chromenews/sport/2023/04/05/219/</link>
 		<pubDate>Tue, 13 Apr 2021 06:08:47 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/darknews-pro/sport/2021/04/13/219/</guid>
@@ -1896,10 +1867,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>219</wp:post_id>
-		<wp:post_date><![CDATA[2023-03-21 08:21:04]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-04-05 05:34:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-04-13 06:08:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-03-21 08:21:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-04-05 05:34:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-05 05:34:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[219]]></wp:post_name>
@@ -1950,6 +1921,14 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-06-09]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-03-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-04-04]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[cropped-pexels-dom-le-roy-3991976]]></title>
@@ -1998,7 +1977,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Chromenews]]></title>
-		<link>https://demos.afthemes.com/chromenews/sport/2023/03/21/chromenews/</link>
+		<link>https://demos.afthemes.com/chromenews/sport/2023/04/05/chromenews/</link>
 		<pubDate>Fri, 11 Feb 2022 11:47:52 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/chromenews/sport/2022/02/11/chromenews/</guid>
@@ -2006,16 +1985,16 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>333</wp:post_id>
-		<wp:post_date><![CDATA[2023-03-21 08:21:04]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-04-05 05:34:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-02-11 11:47:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-03-21 08:21:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-04-05 05:34:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-05 05:34:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[chromenews]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>8</wp:menu_order>
+		<wp:menu_order>7</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2055,6 +2034,83 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-02-11]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-03-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-04-04]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Fashion]]></title>
+		<link>https://demos.afthemes.com/chromenews/sport/2023/04/05/fashion/</link>
+		<pubDate>Fri, 11 Feb 2022 11:47:52 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/chromenews/sport/2022/02/11/fashion/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>334</wp:post_id>
+		<wp:post_date><![CDATA[2023-04-05 05:34:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-02-11 11:47:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-04-05 05:34:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-05 05:34:59]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[fashion]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>9</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[91]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[334]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/chromenews/fashion/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-02-11]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-03-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-04-04]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2267,195 +2323,8 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Home]]></title>
-		<link>https://demos.afthemes.com/chromenews/sport/</link>
-		<pubDate>Mon, 30 Jul 2018 15:52:56 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?page_id=35</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-						]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
-		<wp:post_id>35</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-30 15:52:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-07-30 15:52:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-07-30 15:52:56]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-07-30 15:52:56]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[tmpl-front-page.php]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[storymag-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Sample Page]]></title>
-		<link>https://demos.afthemes.com/chromenews/sport/sample-page-2-2/</link>
-		<pubDate>Tue, 13 Oct 2020 16:03:03 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/kreeti-lite/sport/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="https://demo.afthemes.com/kreeti-lite/sport/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>157</wp:post_id>
-		<wp:post_date><![CDATA[2020-10-13 16:03:03]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-10-13 16:03:03]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-10-13 16:03:03]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-10-13 16:03:03]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page-2-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Sample Page]]></title>
-		<link>https://demos.afthemes.com/chromenews/sport/sample-page-2-3/</link>
-		<pubDate>Tue, 08 Dec 2020 09:38:24 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/sport/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="https://demo.afthemes.com/enternews-pro/sport/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>179</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-08 09:38:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-08 09:38:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-08 09:38:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-08 09:38:24]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page-2-3]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Fashion]]></title>
-		<link>https://demos.afthemes.com/chromenews/sport/2023/03/21/fashion/</link>
-		<pubDate>Fri, 11 Feb 2022 11:47:52 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/chromenews/sport/2022/02/11/fashion/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>334</wp:post_id>
-		<wp:post_date><![CDATA[2023-03-21 08:21:04]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-02-11 11:47:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-03-21 08:21:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[fashion]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>10</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[91]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[334]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demos.afthemes.com/chromenews/fashion/]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022-02-11]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Arabic News]]></title>
-		<link>https://demos.afthemes.com/chromenews/sport/2023/03/21/arabic-news/</link>
+		<link>https://demos.afthemes.com/chromenews/sport/2023/04/05/arabic-news/</link>
 		<pubDate>Fri, 11 Feb 2022 11:47:52 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/chromenews/sport/2022/02/11/arabic-news/</guid>
@@ -2463,16 +2332,16 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>335</wp:post_id>
-		<wp:post_date><![CDATA[2023-03-21 08:21:04]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-04-05 05:34:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-02-11 11:47:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-03-21 08:21:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-04-05 05:34:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-05 05:34:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[arabic-news]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>11</wp:menu_order>
+		<wp:menu_order>10</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2513,10 +2382,18 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-02-11]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-03-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-04-04]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[China News]]></title>
-		<link>https://demos.afthemes.com/chromenews/sport/2023/03/21/china-news/</link>
+		<link>https://demos.afthemes.com/chromenews/sport/2023/04/05/china-news/</link>
 		<pubDate>Fri, 11 Feb 2022 11:47:52 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/chromenews/sport/2022/02/11/china-news/</guid>
@@ -2524,16 +2401,16 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>336</wp:post_id>
-		<wp:post_date><![CDATA[2023-03-21 08:21:04]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-04-05 05:34:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-02-11 11:47:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-03-21 08:21:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-04-05 05:34:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-05 05:34:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[china-news]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>12</wp:menu_order>
+		<wp:menu_order>11</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2574,10 +2451,18 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-02-11]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-03-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-04-04]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Purchase]]></title>
-		<link>https://demos.afthemes.com/chromenews/sport/2023/03/21/purchase/</link>
+		<title><![CDATA[Upgrade]]></title>
+		<link>https://demos.afthemes.com/chromenews/sport/2023/04/05/purchase/</link>
 		<pubDate>Fri, 11 Feb 2022 11:47:52 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/chromenews/sport/2022/02/11/purchase/</guid>
@@ -2585,16 +2470,16 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>337</wp:post_id>
-		<wp:post_date><![CDATA[2023-03-21 08:21:04]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-04-05 05:34:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-02-11 11:47:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-03-21 08:21:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-04-05 05:34:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-05 05:34:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[purchase]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>25</wp:menu_order>
+		<wp:menu_order>28</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2625,7 +2510,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
@@ -2635,10 +2520,18 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-02-11]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-03-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-04-04]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Sport]]></title>
-		<link>https://demos.afthemes.com/chromenews/sport/2023/03/21/sport/</link>
+		<link>https://demos.afthemes.com/chromenews/sport/2023/04/05/sport/</link>
 		<pubDate>Tue, 21 Mar 2023 08:21:04 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/chromenews/sport/?p=358</guid>
@@ -2646,16 +2539,16 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>358</wp:post_id>
-		<wp:post_date><![CDATA[2023-03-21 08:21:04]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-04-05 05:34:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-03-21 08:21:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-04-05 05:34:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-05 05:34:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sport]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>9</wp:menu_order>
+		<wp:menu_order>8</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2692,10 +2585,18 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://demos.afthemes.com/chromenews/sport/]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-03-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-04-04]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Business]]></title>
-		<link>https://demos.afthemes.com/chromenews/sport/2023/03/21/business/</link>
+		<link>https://demos.afthemes.com/chromenews/sport/2023/04/05/business/</link>
 		<pubDate>Tue, 21 Mar 2023 08:21:04 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/chromenews/sport/?p=359</guid>
@@ -2703,16 +2604,16 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>359</wp:post_id>
-		<wp:post_date><![CDATA[2023-03-21 08:21:04]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-04-05 05:34:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-03-21 08:21:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-04-05 05:34:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-05 05:34:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[business]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>13</wp:menu_order>
+		<wp:menu_order>12</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2749,10 +2650,18 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://demos.afthemes.com/chromenews/business/]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-03-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-04-04]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Covid 19]]></title>
-		<link>https://demos.afthemes.com/chromenews/sport/2023/03/21/covid-19/</link>
+		<link>https://demos.afthemes.com/chromenews/sport/2023/04/05/covid-19/</link>
 		<pubDate>Tue, 21 Mar 2023 08:21:04 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/chromenews/sport/?p=360</guid>
@@ -2760,16 +2669,16 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>360</wp:post_id>
-		<wp:post_date><![CDATA[2023-03-21 08:21:04]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-04-05 05:34:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-03-21 08:21:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-04-05 05:34:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-05 05:34:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[covid-19]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>14</wp:menu_order>
+		<wp:menu_order>13</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2806,10 +2715,18 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://demos.afthemes.com/chromenews/covid-19/]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-03-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-04-04]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Beauty]]></title>
-		<link>https://demos.afthemes.com/chromenews/sport/2023/03/21/beauty/</link>
+		<link>https://demos.afthemes.com/chromenews/sport/2023/04/05/beauty/</link>
 		<pubDate>Tue, 21 Mar 2023 08:21:04 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/chromenews/sport/?p=361</guid>
@@ -2817,16 +2734,16 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>361</wp:post_id>
-		<wp:post_date><![CDATA[2023-03-21 08:21:04]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-04-05 05:34:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-03-21 08:21:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-04-05 05:34:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-05 05:34:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[beauty]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>15</wp:menu_order>
+		<wp:menu_order>14</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2863,10 +2780,18 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://demos.afthemes.com/chromenews/beauty/]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-03-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-04-04]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Restaurant]]></title>
-		<link>https://demos.afthemes.com/chromenews/sport/2023/03/21/restaurant/</link>
+		<link>https://demos.afthemes.com/chromenews/sport/2023/04/05/restaurant/</link>
 		<pubDate>Tue, 21 Mar 2023 08:21:04 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/chromenews/sport/?p=362</guid>
@@ -2874,16 +2799,16 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>362</wp:post_id>
-		<wp:post_date><![CDATA[2023-03-21 08:21:04]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-04-05 05:34:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-03-21 08:21:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-04-05 05:34:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-05 05:34:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[restaurant]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>16</wp:menu_order>
+		<wp:menu_order>15</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2920,10 +2845,18 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://demos.afthemes.com/chromenews/restaurant/]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-03-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-04-04]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Recipe]]></title>
-		<link>https://demos.afthemes.com/chromenews/sport/2023/03/21/recipe/</link>
+		<link>https://demos.afthemes.com/chromenews/sport/2023/04/05/recipe/</link>
 		<pubDate>Tue, 21 Mar 2023 08:21:04 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/chromenews/sport/?p=363</guid>
@@ -2931,16 +2864,16 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>363</wp:post_id>
-		<wp:post_date><![CDATA[2023-03-21 08:21:04]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-04-05 05:34:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-03-21 08:21:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-04-05 05:34:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-05 05:34:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[recipe]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>17</wp:menu_order>
+		<wp:menu_order>16</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2977,10 +2910,18 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://demos.afthemes.com/chromenews/recipe/]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-03-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-04-04]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Gaming]]></title>
-		<link>https://demos.afthemes.com/chromenews/sport/2023/03/21/gaming/</link>
+		<link>https://demos.afthemes.com/chromenews/sport/2023/04/05/gaming/</link>
 		<pubDate>Tue, 21 Mar 2023 08:21:04 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/chromenews/sport/?p=364</guid>
@@ -2988,16 +2929,16 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>364</wp:post_id>
-		<wp:post_date><![CDATA[2023-03-21 08:21:04]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-04-05 05:34:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-03-21 08:21:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-04-05 05:34:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-05 05:34:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gaming]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>18</wp:menu_order>
+		<wp:menu_order>17</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3034,10 +2975,18 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://demos.afthemes.com/chromenews/gaming/]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-03-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-04-04]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Automobile]]></title>
-		<link>https://demos.afthemes.com/chromenews/sport/2023/03/21/automobile/</link>
+		<link>https://demos.afthemes.com/chromenews/sport/2023/04/05/automobile/</link>
 		<pubDate>Tue, 21 Mar 2023 08:21:04 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/chromenews/sport/?p=365</guid>
@@ -3045,16 +2994,16 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>365</wp:post_id>
-		<wp:post_date><![CDATA[2023-03-21 08:21:04]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-04-05 05:34:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-03-21 08:21:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-04-05 05:34:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-05 05:34:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[automobile]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>19</wp:menu_order>
+		<wp:menu_order>18</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3091,10 +3040,18 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://demos.afthemes.com/chromenews/automobile/]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-03-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-04-04]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Travel]]></title>
-		<link>https://demos.afthemes.com/chromenews/sport/2023/03/21/travel/</link>
+		<link>https://demos.afthemes.com/chromenews/sport/2023/04/05/travel/</link>
 		<pubDate>Tue, 21 Mar 2023 08:21:04 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/chromenews/sport/?p=366</guid>
@@ -3102,16 +3059,16 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>366</wp:post_id>
-		<wp:post_date><![CDATA[2023-03-21 08:21:04]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-04-05 05:34:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-03-21 08:21:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-04-05 05:34:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-05 05:34:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[travel]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>20</wp:menu_order>
+		<wp:menu_order>19</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3148,10 +3105,18 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://demos.afthemes.com/chromenews/travel/]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-03-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-04-04]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Online News]]></title>
-		<link>https://demos.afthemes.com/chromenews/sport/2023/03/21/online-news/</link>
+		<link>https://demos.afthemes.com/chromenews/sport/2023/04/05/online-news/</link>
 		<pubDate>Tue, 21 Mar 2023 08:21:04 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/chromenews/sport/?p=367</guid>
@@ -3159,16 +3124,16 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>367</wp:post_id>
-		<wp:post_date><![CDATA[2023-03-21 08:21:04]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-04-05 05:34:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-03-21 08:21:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-04-05 05:34:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-05 05:34:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[online-news]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>21</wp:menu_order>
+		<wp:menu_order>20</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3205,10 +3170,18 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://demos.afthemes.com/chromenews/online-news/]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-03-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-04-04]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Feminine Blog]]></title>
-		<link>https://demos.afthemes.com/chromenews/sport/2023/03/21/feminine-blog/</link>
+		<link>https://demos.afthemes.com/chromenews/sport/2023/04/05/feminine-blog/</link>
 		<pubDate>Tue, 21 Mar 2023 08:21:04 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/chromenews/sport/?p=368</guid>
@@ -3216,16 +3189,16 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>368</wp:post_id>
-		<wp:post_date><![CDATA[2023-03-21 08:21:04]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-04-05 05:34:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-03-21 08:21:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-04-05 05:34:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-05 05:34:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[feminine-blog]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>22</wp:menu_order>
+		<wp:menu_order>21</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3262,10 +3235,18 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://demos.afthemes.com/chromenews/feminine-blog/]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-03-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-04-04]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Minimal Blog]]></title>
-		<link>https://demos.afthemes.com/chromenews/sport/2023/03/21/minimal-blog/</link>
+		<link>https://demos.afthemes.com/chromenews/sport/2023/04/05/minimal-blog/</link>
 		<pubDate>Tue, 21 Mar 2023 08:21:04 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/chromenews/sport/?p=369</guid>
@@ -3273,16 +3254,16 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>369</wp:post_id>
-		<wp:post_date><![CDATA[2023-03-21 08:21:04]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-04-05 05:34:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-03-21 08:21:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-04-05 05:34:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-05 05:34:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[minimal-blog]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>23</wp:menu_order>
+		<wp:menu_order>22</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3319,10 +3300,18 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://demos.afthemes.com/chromenews/minimal-blog/]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-03-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-04-04]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Construction Blog]]></title>
-		<link>https://demos.afthemes.com/chromenews/sport/2023/03/21/construction-blog/</link>
+		<link>https://demos.afthemes.com/chromenews/sport/2023/04/05/construction-blog/</link>
 		<pubDate>Tue, 21 Mar 2023 08:21:04 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/chromenews/sport/?p=370</guid>
@@ -3330,16 +3319,16 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>370</wp:post_id>
-		<wp:post_date><![CDATA[2023-03-21 08:21:04]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-04-05 05:34:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-03-21 08:21:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-03-21 08:21:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-04-05 05:34:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-05 05:34:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[construction-blog]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>24</wp:menu_order>
+		<wp:menu_order>23</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3375,6 +3364,258 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://demos.afthemes.com/chromenews/construction-blog/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-03-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-04-04]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Docs]]></title>
+		<link>https://demos.afthemes.com/chromenews/sport/2023/04/05/docs/</link>
+		<pubDate>Tue, 04 Apr 2023 08:21:13 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/chromenews/sport/?p=373</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>373</wp:post_id>
+		<wp:post_date><![CDATA[2023-04-05 05:34:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-04-04 08:21:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-04-05 05:34:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-05 05:34:59]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[docs]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>24</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[373]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://docs.afthemes.com/chromenews/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-04-04]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Blog]]></title>
+		<link>https://demos.afthemes.com/chromenews/sport/2023/04/05/blog/</link>
+		<pubDate>Tue, 04 Apr 2023 08:21:13 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/chromenews/sport/?p=374</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>374</wp:post_id>
+		<wp:post_date><![CDATA[2023-04-05 05:34:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-04-04 08:21:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-04-05 05:34:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-05 05:34:59]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blog]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>25</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[373]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[374]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://afthemes.com/blog/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-04-04]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Chromenews Video]]></title>
+		<link>https://demos.afthemes.com/chromenews/sport/2023/04/05/chromenews-video/</link>
+		<pubDate>Tue, 04 Apr 2023 08:21:13 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/chromenews/sport/?p=375</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>375</wp:post_id>
+		<wp:post_date><![CDATA[2023-04-05 05:34:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-04-04 08:21:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-04-05 05:34:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-05 05:34:59]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[chromenews-video]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>26</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[373]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[375]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://www.youtube.com/watch?v=W8NeOsnBK_A&list=PL8nUD79gscmjvGYgtQfVKgJMsBLIspJ1A]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-04-04]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Podcast]]></title>
+		<link>https://demos.afthemes.com/chromenews/sport/2023/04/05/podcast/</link>
+		<pubDate>Tue, 04 Apr 2023 08:21:13 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/chromenews/sport/?p=376</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>376</wp:post_id>
+		<wp:post_date><![CDATA[2023-04-05 05:34:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-04-04 08:21:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-04-05 05:34:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-05 05:34:59]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[podcast]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>27</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[373]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[376]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://www.youtube.com/@gowithwp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-04-04]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3938,6 +4179,132 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[chromenews-meta-content-mode]]></wp:meta_key>
 		<wp:meta_value><![CDATA[single-content-mode-boxed]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Home]]></title>
+		<link>https://demos.afthemes.com/chromenews/sport/</link>
+		<pubDate>Mon, 30 Jul 2018 15:52:56 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?page_id=35</guid>
+		<description></description>
+		<content:encoded><![CDATA[
+						]]></content:encoded>
+		<excerpt:encoded><![CDATA[
+						]]></excerpt:encoded>
+		<wp:post_id>35</wp:post_id>
+		<wp:post_date><![CDATA[2018-07-30 15:52:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-07-30 15:52:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-30 15:52:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-30 15:52:56]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[tmpl-front-page.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[storymag-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Sample Page]]></title>
+		<link>https://demos.afthemes.com/chromenews/sport/sample-page-2-2/</link>
+		<pubDate>Tue, 13 Oct 2020 16:03:03 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/kreeti-lite/sport/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>...or something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to <a href="https://demo.afthemes.com/kreeti-lite/sport/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>157</wp:post_id>
+		<wp:post_date><![CDATA[2020-10-13 16:03:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-10-13 16:03:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-10-13 16:03:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-10-13 16:03:03]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample-page-2-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Sample Page]]></title>
+		<link>https://demos.afthemes.com/chromenews/sport/sample-page-2-3/</link>
+		<pubDate>Tue, 08 Dec 2020 09:38:24 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/sport/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>...or something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to <a href="https://demo.afthemes.com/enternews-pro/sport/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>179</wp:post_id>
+		<wp:post_date><![CDATA[2020-12-08 09:38:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-12-08 09:38:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-08 09:38:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-08 09:38:24]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample-page-2-3]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>

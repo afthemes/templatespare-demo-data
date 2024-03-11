@@ -1,361 +1,4 @@
 {
-    "covernews": {
-        "free": "covernews",
-        "premium": "covernews-pro",
-        "demodata": [
-            {
-                "slug": "covernews",
-                "title": "CoverNews",
-                "category": "General",
-                "subtitle": "CoverNews",
-                "url": "https://demos.afthemes.com/covernews/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "news"
-                ]
-            },
-            {
-                "slug": "sport",
-                "title": "CoverNews",
-                "category": "Sport",
-                "subtitle": "Sport",
-                "url": "https://demos.afthemes.com/covernews/sport/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "sport"
-                ]
-            },
-            {
-                "slug": "fashion",
-                "title": "CoverNews",
-                "category": "Fashion",
-                "subtitle": "Fashion",
-                "url": "https://demos.afthemes.com/covernews/fashion/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "fashion"
-                ]
-            },
-            {
-                "slug": "arabic-news",
-                "title": "CoverNews",
-                "subtitle": "Arabic News",
-                "category": "General",
-                "url": "https://demos.afthemes.com/covernews/arabic-news/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "general",
-                    "rtl"
-                ]
-            },
-            {
-                "slug": "china-news",
-                "title": "CoverNews",
-                "subtitle": "China News",
-                "category": "General",
-                "url": "https://demos.afthemes.com/covernews/china-news/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "chinese"
-                ]
-            },
-            {
-                "slug": "indian",
-                "title": "CoverNews",
-                "category": "General",
-                "subtitle": "भारतीय",
-                "url": "https://demos.afthemes.com/covernews/hindi-news",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "indian"
-                ]
-            },
-            {
-                "slug": "spanish",
-                "title": "CoverNews",
-                "category": "Blog",
-                "subtitle": "Espa\u00f1ol",
-                "url": "https://demos.afthemes.com/covernews/spanish",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "spanish"
-                ]
-            },
-            {
-                "slug": "russian",
-                "title": "CoverNews",
-                "category": "Blog",
-                "subtitle": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
-                "url": "https://demos.afthemes.com/covernews/russian",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "russian"
-                ]
-            },
-            {
-                "slug": "japanese",
-                "title": "CoverNews",
-                "category": "Blog",
-                "subtitle": "日本語",
-                "url": "https://demos.afthemes.com/covernews/japanese",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "japanese"
-                ]
-            },
-            {
-                "slug": "nepali",
-                "title": "CoverNews",
-                "category": "Blog",
-                "subtitle": "नेपाली",
-                "url": "https://demos.afthemes.com/covernews/nepali",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "nepali"
-                ]
-            },
-            {
-                "slug": "german",
-                "title": "CoverNews",
-                "category": "Blog",
-                "subtitle": "Deutsch",
-                "url": "https://demos.afthemes.com/covernews/german",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "german"
-                ]
-            },
-            {
-                "slug": "general",
-                "title": "CoverNews",
-                "category": "Elementor",
-                "subtitle": "General",
-                "url": "https://demos.afthemes.com/covernews/general/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "general",
-                    "elementor"
-                ],
-                "builder": "elementor"
-            },
-            {
-                "slug": "music",
-                "title": "CoverNews",
-                "category": "Elementor",
-                "subtitle": "Music",
-                "url": "https://demos.afthemes.com/covernews/music/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "blog",
-                    "elementor"
-                ],
-                "builder": "elementor"
-            },
-            {
-                "slug": "vegetables",
-                "title": "CoverNews",
-                "category": "Elementor",
-                "subtitle": "Vegetables",
-                "url": "https://demos.afthemes.com/covernews/vegetables/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "blog",
-                    "elementor"
-                ],
-                "builder": "elementor"
-            },
-            {
-                "slug": "ornament",
-                "title": "CoverNews",
-                "category": "Elementor",
-                "subtitle": "Ornament",
-                "url": "https://demos.afthemes.com/covernews/ornament/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "blog",
-                    "elementor"
-                ],
-                "builder": "elementor"
-            },
-            {
-                "slug": "covid",
-                "title": "CoverNews",
-                "category": "Elementor",
-                "subtitle": "Covid",
-                "url": "https://demos.afthemes.com/covernews/covid/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "covid",
-                    "elementor"
-                ],
-                "builder": "elementor"
-            },
-            {
-                "slug": "crypto-news",
-                "title": "CoverNews",
-                "category": "Business",
-                "subtitle": "Crypto News",
-                "url": "https://demos.afthemes.com/covernews/crypto-news/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "crypto"
-                ]
-            },
-            {
-                "slug": "hybridnews-dark",
-                "title": "CoverNews",
-                "category": "General",
-                "subtitle": "Hybridnews Dark",
-                "url": "https://demos.afthemes.com/covernews/hybridnews-dark/",
-                "builder": "blockspare",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "dark",
-                    "gutenberg"
-                ]
-            },
-            {
-                "slug": "hybridnews",
-                "title": "CoverNews",
-                "category": "General",
-                "subtitle": "Hybridnews",
-                "url": "https://demos.afthemes.com/covernews/hybridnews/",
-                "builder": "blockspare",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "child",
-                    "gutenberg"
-                ]
-            },
-            {
-                "slug": "newsment",
-                "title": "CoverNews",
-                "category": "General",
-                "subtitle": "Newsment",
-                "url": "https://demos.afthemes.com/covernews/newsment/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "child"
-                ]
-            },
-            {
-                "slug": "newscover",
-                "title": "CoverNews",
-                "category": "Dark",
-                "subtitle": "NewsCover",
-                "url": "https://demos.afthemes.com/covernews/newscover/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "child"
-                ]
-            },
-            {
-                "slug": "coverstory",
-                "title": "CoverNews",
-                "category": "General",
-                "subtitle": "CoverStory",
-                "url": "https://demos.afthemes.com/covernews/coverstory/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "child"
-                ]
-            },
-            {
-                "slug": "hardnews",
-                "title": "CoverNews",
-                "category": "General",
-                "subtitle": "HardNews",
-                "url": "https://demos.afthemes.com/covernews/hardnews/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "child"
-                ]
-            },
-            {
-                "slug": "newsquare",
-                "title": "CoverNews",
-                "category": "General",
-                "subtitle": "NewsQuare",
-                "url": "https://demos.afthemes.com/covernews/newsquare/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "child"
-                ]
-            },
-            {
-                "slug": "newswords",
-                "title": "CoverNews",
-                "category": "General",
-                "subtitle": "NewsWords",
-                "url": "https://demos.afthemes.com/covernews/newswords/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "child"
-                ]
-            },
-            {
-                "slug": "daily-newscast",
-                "title": "CoverNews",
-                "category": "General",
-                "subtitle": "Daily Newscast",
-                "url": "https://demos.afthemes.com/covernews/daily-newscast/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "child"
-                ]
-            },
-            {
-                "slug": "newsport",
-                "title": "CoverNews",
-                "category": "General",
-                "subtitle": "Newsport",
-                "url": "https://demos.afthemes.com/covernews/newsport/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "child"
-                ]
-            },
-            {
-                "slug": "covermag",
-                "title": "CoverNews",
-                "category": "General",
-                "subtitle": "Covermag",
-                "url": "https://demos.afthemes.com/covernews/covermag/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "child"
-                ]
-            }
-        ]
-    },
     "covernews-pro": {
         "free": "covernews",
         "premium": "covernews-pro",
@@ -635,6 +278,1539 @@
                     "pro",
                     "magazine",
                     "chinese"
+                ]
+            }
+        ]
+    },
+    "covernews": {
+        "free": "covernews",
+        "premium": "covernews-pro",
+        "demodata": [
+            {
+                "slug": "covernews",
+                "title": "CoverNews",
+                "category": "General",
+                "subtitle": "CoverNews",
+                "url": "https://demos.afthemes.com/covernews/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "news"
+                ]
+            },
+            {
+                "slug": "sport",
+                "title": "CoverNews",
+                "category": "Sport",
+                "subtitle": "Sport",
+                "url": "https://demos.afthemes.com/covernews/sport/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "sport"
+                ]
+            },
+            {
+                "slug": "fashion",
+                "title": "CoverNews",
+                "category": "Fashion",
+                "subtitle": "Fashion",
+                "url": "https://demos.afthemes.com/covernews/fashion/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "fashion"
+                ]
+            },
+            {
+                "slug": "arabic-news",
+                "title": "CoverNews",
+                "subtitle": "Arabic News",
+                "category": "General",
+                "url": "https://demos.afthemes.com/covernews/arabic-news/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "general",
+                    "rtl"
+                ]
+            },
+            {
+                "slug": "china-news",
+                "title": "CoverNews",
+                "subtitle": "China News",
+                "category": "General",
+                "url": "https://demos.afthemes.com/covernews/china-news/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "chinese"
+                ]
+            },
+            {
+                "slug": "indian",
+                "title": "CoverNews",
+                "category": "General",
+                "subtitle": "भारतीय",
+                "url": "https://demos.afthemes.com/covernews/hindi-news",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "indian"
+                ]
+            },
+            {
+                "slug": "spanish",
+                "title": "CoverNews",
+                "category": "Blog",
+                "subtitle": "Espa\u00f1ol",
+                "url": "https://demos.afthemes.com/covernews/spanish",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "spanish"
+                ]
+            },
+            {
+                "slug": "russian",
+                "title": "CoverNews",
+                "category": "Blog",
+                "subtitle": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+                "url": "https://demos.afthemes.com/covernews/russian",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "russian"
+                ]
+            },
+            {
+                "slug": "japanese",
+                "title": "CoverNews",
+                "category": "Blog",
+                "subtitle": "日本語",
+                "url": "https://demos.afthemes.com/covernews/japanese",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "japanese"
+                ]
+            },
+            {
+                "slug": "nepali",
+                "title": "CoverNews",
+                "category": "Blog",
+                "subtitle": "नेपाली",
+                "url": "https://demos.afthemes.com/covernews/nepali",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "nepali"
+                ]
+            },
+            {
+                "slug": "german",
+                "title": "CoverNews",
+                "category": "Blog",
+                "subtitle": "Deutsch",
+                "url": "https://demos.afthemes.com/covernews/german",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "german"
+                ]
+            },
+            {
+                "slug": "general",
+                "title": "CoverNews",
+                "category": "Elementor",
+                "subtitle": "General",
+                "url": "https://demos.afthemes.com/covernews/general/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "general",
+                    "elementor"
+                ],
+                "builder": "elementor"
+            },
+            {
+                "slug": "music",
+                "title": "CoverNews",
+                "category": "Elementor",
+                "subtitle": "Music",
+                "url": "https://demos.afthemes.com/covernews/music/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "blog",
+                    "elementor"
+                ],
+                "builder": "elementor"
+            },
+            {
+                "slug": "vegetables",
+                "title": "CoverNews",
+                "category": "Elementor",
+                "subtitle": "Vegetables",
+                "url": "https://demos.afthemes.com/covernews/vegetables/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "blog",
+                    "elementor"
+                ],
+                "builder": "elementor"
+            },
+            {
+                "slug": "ornament",
+                "title": "CoverNews",
+                "category": "Elementor",
+                "subtitle": "Ornament",
+                "url": "https://demos.afthemes.com/covernews/ornament/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "blog",
+                    "elementor"
+                ],
+                "builder": "elementor"
+            },
+            {
+                "slug": "covid",
+                "title": "CoverNews",
+                "category": "Elementor",
+                "subtitle": "Covid",
+                "url": "https://demos.afthemes.com/covernews/covid/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "covid",
+                    "elementor"
+                ],
+                "builder": "elementor"
+            },
+            {
+                "slug": "crypto-news",
+                "title": "CoverNews",
+                "category": "Business",
+                "subtitle": "Crypto News",
+                "url": "https://demos.afthemes.com/covernews/crypto-news/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "crypto"
+                ]
+            },
+            {
+                "slug": "hybridnews-dark",
+                "title": "CoverNews",
+                "category": "General",
+                "subtitle": "Hybridnews Dark",
+                "url": "https://demos.afthemes.com/covernews/hybridnews-dark/",
+                "builder": "blockspare",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "dark",
+                    "gutenberg"
+                ]
+            },
+            {
+                "slug": "hybridnews",
+                "title": "CoverNews",
+                "category": "General",
+                "subtitle": "HybridNews",
+                "url": "https://demos.afthemes.com/covernews/hybridnews/",
+                "builder": "blockspare",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "child",
+                    "gutenberg"
+                ]
+            },
+            {
+                "slug": "newsment",
+                "title": "CoverNews",
+                "category": "General",
+                "subtitle": "Newsment",
+                "url": "https://demos.afthemes.com/covernews/newsment/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "child"
+                ]
+            },
+            {
+                "slug": "newscover",
+                "title": "CoverNews",
+                "category": "Dark",
+                "subtitle": "NewsCover",
+                "url": "https://demos.afthemes.com/covernews/newscover/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "child"
+                ]
+            },
+            {
+                "slug": "coverstory",
+                "title": "CoverNews",
+                "category": "General",
+                "subtitle": "CoverStory",
+                "url": "https://demos.afthemes.com/covernews/coverstory/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "child"
+                ]
+            },
+            {
+                "slug": "hardnews",
+                "title": "CoverNews",
+                "category": "General",
+                "subtitle": "HardNews",
+                "url": "https://demos.afthemes.com/covernews/hardnews/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "child"
+                ]
+            },
+            {
+                "slug": "newsquare",
+                "title": "CoverNews",
+                "category": "General",
+                "subtitle": "NewsQuare",
+                "url": "https://demos.afthemes.com/covernews/newsquare/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "child"
+                ]
+            },
+            {
+                "slug": "newswords",
+                "title": "CoverNews",
+                "category": "General",
+                "subtitle": "NewsWords",
+                "url": "https://demos.afthemes.com/covernews/newswords/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "child"
+                ]
+            },
+            {
+                "slug": "daily-newscast",
+                "title": "CoverNews",
+                "category": "General",
+                "subtitle": "Daily Newscast",
+                "url": "https://demos.afthemes.com/covernews/daily-newscast/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "child"
+                ]
+            },
+            {
+                "slug": "newsport",
+                "title": "CoverNews",
+                "category": "General",
+                "subtitle": "Newsport",
+                "url": "https://demos.afthemes.com/covernews/newsport/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "child"
+                ]
+            },
+            {
+                "slug": "covermag",
+                "title": "CoverNews",
+                "category": "General",
+                "subtitle": "Covermag",
+                "url": "https://demos.afthemes.com/covernews/covermag/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "child"
+                ]
+            }
+        ]
+    },
+    "chromenews-pro": {
+        "free": "chromenews",
+        "premium": "chromenews-pro",
+        "demodata": [
+            {
+                "slug": "chromenews",
+                "title": "ChromeNews Pro",
+                "category": "General",
+                "subtitle": "ChromeNews Pro",
+                "url": "https://demos.afthemes.com/chromenews-pro/",
+                "tags": [
+                    "pro",
+                    "news",
+                    "magazine"
+                ]
+            },
+            {
+                "slug": "fashion",
+                "title": "ChromeNews Pro",
+                "category": "Fashion",
+                "subtitle": "Fashion Pro",
+                "url": "https://demos.afthemes.com/chromenews-pro/fashion/",
+                "tags": [
+                    "pro",
+                    "magazine",
+                    "fashion"
+                ]
+            },
+            {
+                "slug": "sport",
+                "title": "ChromeNews Pro",
+                "category": "Sport",
+                "subtitle": "Sport Pro",
+                "url": "https://demos.afthemes.com/chromenews-pro/sport/",
+                "tags": [
+                    "pro",
+                    "magazine",
+                    "sport"
+                ]
+            },
+            {
+                "slug": "china-news",
+                "title": "ChromeNews Pro",
+                "category": "General",
+                "subtitle": "China News Pro",
+                "url": "https://demos.afthemes.com/chromenews-pro/china-news/",
+                "tags": [
+                    "pro",
+                    "magazine",
+                    "chinese"
+                ]
+            },
+            {
+                "slug": "arabic-news",
+                "title": "ChromeNews Pro",
+                "category": "General",
+                "subtitle": "Arabic News Pro",
+                "url": "https://demos.afthemes.com/chromenews-pro/arabic-news/",
+                "tags": [
+                    "pro",
+                    "magazine",
+                    "rtl"
+                ]
+            },
+            {
+                "slug": "indian",
+                "title": "ChromeNews Pro",
+                "category": "Blog",
+                "subtitle": "भारतीय",
+                "url": "https://demos.afthemes.com/chromenews-pro/indian-news/",
+                "tags": [
+                    "pro",
+                    "magazine",
+                    "indian"
+                ]
+            },
+            {
+                "slug": "spanish",
+                "title": "ChromeNews Pro",
+                "subtitle": "Espa\u00f1ol",
+                "category": "Blog",
+                "url": "https://demos.afthemes.com/chromenews-pro/spanish/",
+                "tags": [
+                    "pro",
+                    "magazine",
+                    "spanish"
+                ]
+            },
+            {
+                "slug": "russian",
+                "title": "ChromeNews Pro",
+                "category": "Blog",
+                "subtitle": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+                "url": "https://demos.afthemes.com/chromenews-pro/russian/",
+                "tags": [
+                    "pro",
+                    "magazine",
+                    "russian"
+                ]
+            },
+            {
+                "slug": "japanese",
+                "title": "ChromeNews Pro",
+                "category": "Blog",
+                "subtitle": "日本語",
+                "url": "https://demos.afthemes.com/chromenews-pro/japanese/",
+                "tags": [
+                    "pro",
+                    "magazine",
+                    "japanese"
+                ]
+            },
+            {
+                "slug": "nepali",
+                "title": "ChromeNews Pro",
+                "category": "Blog",
+                "subtitle": "नेपाली",
+                "url": "https://demos.afthemes.com/chromenews-pro/nepali/",
+                "tags": [
+                    "pro",
+                    "magazine",
+                    "nepali"
+                ]
+            },
+            {
+                "slug": "german",
+                "title": "ChromeNews Pro",
+                "category": "Blog",
+                "subtitle": "Deutsch",
+                "url": "https://demos.afthemes.com/chromenews-pro/german/",
+                "tags": [
+                    "pro",
+                    "magazine",
+                    "german"
+                ]
+            },
+            {
+                "slug": "restaurant",
+                "title": "ChromeNews Pro",
+                "category": "Blog",
+                "subtitle": "Restaurant Pro",
+                "url": "https://demos.afthemes.com/chromenews-pro/recipe/",
+                "tags": [
+                    "pro",
+                    "magazine",
+                    "food"
+                ]
+            },
+            {
+                "slug": "gaming",
+                "title": "ChromeNews Pro",
+                "category": "Blog",
+                "subtitle": "Gaming Pro",
+                "url": "https://demos.afthemes.com/chromenews-pro/gaming/",
+                "tags": [
+                    "pro",
+                    "blog",
+                    "game"
+                ]
+            },
+            {
+                "slug": "automobile",
+                "title": "ChromeNews Pro",
+                "category": "Blog",
+                "subtitle": "Automobile Pro",
+                "url": "https://demos.afthemes.com/chromenews-pro/automobile/",
+                "tags": [
+                    "pro",
+                    "blog",
+                    "automobile"
+                ]
+            },
+            {
+                "slug": "online-news",
+                "title": "ChromeNews Pro",
+                "category": "General",
+                "subtitle": "Online News Pro",
+                "url": "https://demos.afthemes.com/chromenews-pro/online-news/",
+                "tags": [
+                    "pro",
+                    "magazine",
+                    "news"
+                ]
+            },
+            {
+                "slug": "construction-blog",
+                "title": "ChromeNews Pro",
+                "category": "Blog",
+                "subtitle": "Construction Blog Pro",
+                "url": "https://demos.afthemes.com/chromenews-pro/construction-blog/",
+                "tags": [
+                    "pro",
+                    "magazine",
+                    "construction"
+                ]
+            },
+            {
+                "slug": "business",
+                "title": "ChromeNews Pro",
+                "category": "Elementor",
+                "subtitle": "Businsess News Pro",
+                "url": "https://demos.afthemes.com/chromenews-pro/business/",
+                "tags": [
+                    "pro",
+                    "news",
+                    "business",
+                    "elementor"
+                ],
+                "builder": "elementor"
+            },
+            {
+                "slug": "charity",
+                "title": "ChromeNews Pro",
+                "category": "Blockspare",
+                "subtitle": "Charity Pro",
+                "url": "https://demos.afthemes.com/chromenews-pro/charity/",
+                "tags": [
+                    "pro",
+                    "blog",
+                    "gutenberg"
+                ],
+                "builder": "blockspare"
+            },
+            {
+                "slug": "travel",
+                "title": "ChromeNews Pro",
+                "category": "Elementor",
+                "subtitle": "Travel Pro",
+                "url": "https://demos.afthemes.com/chromenews-pro/travel/",
+                "tags": [
+                    "pro",
+                    "magazine",
+                    "travel",
+                    "elementor"
+                ],
+                "builder": "elementor"
+            },
+            {
+                "slug": "crypto-news",
+                "title": "ChromeNews Pro",
+                "category": "Elementor",
+                "subtitle": "Crypto News Pro",
+                "url": "https://demos.afthemes.com/chromenews-pro/crypto-news/",
+                "tags": [
+                    "pro",
+                    "news",
+                    "business",
+                    "elementor"
+                ],
+                "builder": "elementor"
+            },
+            {
+                "slug": "beauty",
+                "title": "ChromeNews Pro",
+                "category": "Elementor",
+                "subtitle": "Beauty Pro",
+                "url": "https://demos.afthemes.com/chromenews-pro/beauty/",
+                "tags": [
+                    "pro",
+                    "magazine",
+                    "fashion",
+                    "elementor"
+                ],
+                "builder": "elementor"
+            },
+            {
+                "slug": "covid-19",
+                "title": "ChromeNews Pro",
+                "category": "Elementor",
+                "subtitle": "Covid-19 Pro",
+                "url": "https://demos.afthemes.com/chromenews-pro/covid-19/",
+                "tags": [
+                    "pro",
+                    "magazine",
+                    "covid",
+                    "elementor"
+                ],
+                "builder": "elementor"
+            },
+            {
+                "slug": "gadgets",
+                "title": "ChromeNews Pro",
+                "category": "Elementor",
+                "subtitle": "Gadgets Pro",
+                "url": "https://demos.afthemes.com/chromenews-pro/gadgets/",
+                "tags": [
+                    "pro",
+                    "business",
+                    "news",
+                    "elementor"
+                ],
+                "builder": "elementor"
+            }
+        ]
+    },
+    "chromenews": {
+        "free": "chromenews",
+        "premium": "chromenews-pro",
+        "demodata": [
+            {
+                "slug": "chromenews",
+                "title": "ChromeNews",
+                "category": "General",
+                "subtitle": "ChromeNews",
+                "url": "https://demos.afthemes.com/chromenews/",
+                "tags": [
+                    "free",
+                    "news",
+                    "magazine",
+                    "general"
+                ]
+            },
+            {
+                "slug": "fashion",
+                "title": "ChromeNews",
+                "category": "Fashion",
+                "subtitle": "Fashion",
+                "url": "https://demos.afthemes.com/chromenews/fashion/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "fashion"
+                ]
+            },
+            {
+                "slug": "sport",
+                "title": "ChromeNews",
+                "category": "Sport",
+                "subtitle": "Sport",
+                "url": "https://demos.afthemes.com/chromenews/sport/",
+                "tags": [
+                    "free",
+                    "blog",
+                    "sport"
+                ]
+            },
+            {
+                "slug": "arabic-news",
+                "title": "ChromeNews",
+                "category": "General",
+                "subtitle": "Arabic News",
+                "url": "https://demos.afthemes.com/chromenews/arabic-news/",
+                "tags": [
+                    "free",
+                    "news",
+                    "rtl"
+                ]
+            },
+            {
+                "slug": "china-news",
+                "title": "ChromeNews",
+                "category": "General",
+                "subtitle": "China News",
+                "url": "https://demos.afthemes.com/chromenews/china-news/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "chinese"
+                ]
+            },
+            {
+                "slug": "indian",
+                "title": "ChromeNews",
+                "category": "Blog",
+                "subtitle": "भारतीय",
+                "url": "https://demos.afthemes.com/chromenews/indian-news/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "indian"
+                ]
+            },
+            {
+                "slug": "spanish",
+                "title": "ChromeNews",
+                "category": "Blog",
+                "subtitle": "Espa\u00f1ol",
+                "url": "https://demos.afthemes.com/chromenews/spanish/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "spanish"
+                ]
+            },
+            {
+                "slug": "russian",
+                "title": "ChromeNews",
+                "category": "Blog",
+                "subtitle": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+                "url": "https://demos.afthemes.com/chromenews/russian/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "russian"
+                ]
+            },
+            {
+                "slug": "japanese",
+                "title": "ChromeNews",
+                "category": "Blog",
+                "subtitle": "日本語",
+                "url": "https://demos.afthemes.com/chromenews/japanese/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "japanese"
+                ]
+            },
+            {
+                "slug": "nepali",
+                "title": "ChromeNews",
+                "category": "Blog",
+                "subtitle": "नेपाली",
+                "url": "https://demos.afthemes.com/chromenews/nepali/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "nepali"
+                ]
+            },
+            {
+                "slug": "german",
+                "title": "ChromeNews",
+                "category": "Blog",
+                "subtitle": "Deutsch",
+                "url": "https://demos.afthemes.com/chromenews/german/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "german"
+                ]
+            },
+            {
+                "slug": "blocknews-dark",
+                "title": "ChromeNews",
+                "category": "General",
+                "subtitle": "Blocknews Dark",
+                "url": "https://demos.afthemes.com/chromenews/blocknews-dark/",
+                "builder": "blockspare",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "dark",
+                    "gutenberg"
+                ]
+            },
+            {
+                "slug": "gaming",
+                "title": "ChromeNews",
+                "category": "Blog",
+                "subtitle": "Gaming",
+                "url": "https://demos.afthemes.com/chromenews/gaming/",
+                "tags": [
+                    "free",
+                    "blog",
+                    "game"
+                ]
+            },
+            {
+                "slug": "automobile",
+                "title": "ChromeNews",
+                "category": "Blog",
+                "subtitle": "Automobile",
+                "url": "https://demos.afthemes.com/chromenews/automobile/",
+                "tags": [
+                    "free",
+                    "blog",
+                    "automobile"
+                ]
+            },
+            {
+                "slug": "construction-blog",
+                "title": "ChromeNews",
+                "category": "Blog",
+                "subtitle": "Construction Blog",
+                "url": "https://demos.afthemes.com/chromenews/construction-blog/",
+                "tags": [
+                    "free",
+                    "construction",
+                    "blog"
+                ]
+            },
+            {
+                "slug": "covid-19",
+                "title": "ChromeNews",
+                "category": "Elementor",
+                "subtitle": "Covid 19",
+                "url": "https://demos.afthemes.com/chromenews/covid-19/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "covid",
+                    "elementor"
+                ],
+                "builder": "elementor"
+            },
+            {
+                "slug": "business",
+                "title": "ChromeNews",
+                "category": "Elementor",
+                "subtitle": "Business",
+                "url": "https://demos.afthemes.com/chromenews/business/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "business",
+                    "elementor"
+                ],
+                "builder": "elementor"
+            },
+            {
+                "slug": "beauty",
+                "title": "ChromeNews",
+                "category": "Elementor",
+                "subtitle": "Beauty",
+                "url": "https://demos.afthemes.com/chromenews/beauty/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "fashion",
+                    "elementor"
+                ],
+                "builder": "elementor"
+            },
+            {
+                "slug": "restaurant",
+                "title": "ChromeNews",
+                "category": "Elementor",
+                "subtitle": "Restaurant",
+                "url": "https://demos.afthemes.com/chromenews/restaurant/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "food",
+                    "elementor"
+                ],
+                "builder": "elementor"
+            },
+            {
+                "slug": "chromeblog",
+                "title": "ChromeNews",
+                "category": "General",
+                "subtitle": "Chromeblog",
+                "url": "https://demos.afthemes.com/chromenews/chromeblog/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "child"
+                ]
+            },
+            {
+                "slug": "chromegrid",
+                "title": "ChromeNews",
+                "category": "General",
+                "subtitle": "Chromegrid",
+                "url": "https://demos.afthemes.com/chromenews/chromegrid/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "child"
+                ]
+            },
+            {
+                "slug": "chromemag",
+                "title": "ChromeNews",
+                "category": "General",
+                "subtitle": "Chromemag",
+                "url": "https://demos.afthemes.com/chromenews/chromemag/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "child"
+                ]
+            }
+        ]
+    },
+    "morenews-pro": {
+        "free": "morenews",
+        "premium": "morenews-pro",
+        "demodata": [
+            {
+                "slug": "morenews",
+                "title": "MoreNews Pro",
+                "category": "General",
+                "subtitle": "MoreNews Pro",
+                "url": "https://demos.afthemes.com/morenews-pro/",
+                "tags": [
+                    "pro",
+                    "magazine",
+                    "news"
+                ]
+            },
+            {
+                "slug": "sport",
+                "title": "MoreNews Pro",
+                "category": "Sport",
+                "subtitle": "Sport Pro",
+                "url": "https://demos.afthemes.com/morenews-pro/sport/",
+                "tags": [
+                    "pro",
+                    "sport",
+                    "dark"
+                ]
+            },
+            {
+                "slug": "food-recipe",
+                "title": "MoreNews Pro",
+                "category": "Blog",
+                "subtitle": "Food and Recipe Pro",
+                "url": "https://demos.afthemes.com/morenews-pro/food-recipe/",
+                "tags": [
+                    "pro",
+                    "magazine",
+                    "food"
+                ]
+            },
+            {
+                "slug": "classic",
+                "title": "MoreNews Pro",
+                "category": "General",
+                "subtitle": "Classic Pro",
+                "url": "https://demos.afthemes.com/morenews-pro/classic/",
+                "tags": [
+                    "pro",
+                    "magazine",
+                    "classic"
+                ]
+            },
+            {
+                "slug": "fashion",
+                "title": "MoreNews Pro",
+                "category": "Fashion",
+                "subtitle": "Fashion Pro",
+                "url": "https://demos.afthemes.com/morenews-pro/fashion/",
+                "tags": [
+                    "pro",
+                    "magazine",
+                    "fashion"
+                ]
+            },
+            {
+                "slug": "fitness-magazine",
+                "title": "MoreNews Pro",
+                "category": "Blog",
+                "subtitle": "Fitness Pro",
+                "url": "https://demos.afthemes.com/morenews-pro/fitness-magazine/",
+                "tags": [
+                    "pro",
+                    "magazine",
+                    "sport"
+                ]
+            },
+            {
+                "slug": "travel",
+                "title": "MoreNews Pro",
+                "category": "Blog",
+                "subtitle": "Travel Pro",
+                "url": "https://demos.afthemes.com/morenews-pro/travel/",
+                "tags": [
+                    "pro",
+                    "blog",
+                    "travel"
+                ]
+            },
+            {
+                "slug": "crypto-news",
+                "title": "MoreNews Pro",
+                "category": "Business",
+                "subtitle": "Crypto News Pro",
+                "url": "https://demos.afthemes.com/morenews-pro/crypto-news/",
+                "tags": [
+                    "pro",
+                    "business",
+                    "crypto"
+                ]
+            },
+            {
+                "slug": "arabic-news",
+                "title": "MoreNews Pro",
+                "category": "General",
+                "subtitle": "Arabic News Pro",
+                "url": "https://demos.afthemes.com/morenews-pro/arabic-news/",
+                "tags": [
+                    "pro",
+                    "news",
+                    "general",
+                    "rtl"
+                ]
+            },
+            {
+                "slug": "china-today",
+                "title": "MoreNews Pro",
+                "category": "General",
+                "subtitle": "China Today Pro",
+                "url": "https://demos.afthemes.com/morenews-pro/china-today/",
+                "tags": [
+                    "pro",
+                    "news",
+                    "general"
+                ]
+            }
+        ]
+    },
+    "morenews": {
+        "free": "morenews",
+        "premium": "morenews-pro",
+        "demodata": [
+            {
+                "slug": "morenews",
+                "title": "morenews",
+                "category": "General",
+                "subtitle": "MoreNews",
+                "url": "https://demos.afthemes.com/morenews/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "news"
+                ]
+            },
+            {
+                "slug": "sport",
+                "title": "morenews",
+                "category": "Sport",
+                "subtitle": "Sport",
+                "url": "https://demos.afthemes.com/morenews/sport/",
+                "tags": [
+                    "free",
+                    "news",
+                    "sport"
+                ]
+            },
+            {
+                "slug": "classic",
+                "title": "morenews",
+                "category": "General",
+                "subtitle": "Classic",
+                "url": "https://demos.afthemes.com/morenews/classic/",
+                "tags": [
+                    "free",
+                    "news",
+                    "classic"
+                ]
+            },
+            {
+                "slug": "food-recipe",
+                "title": "morenews",
+                "category": "Blog",
+                "subtitle": "Food and Recipe",
+                "url": "https://demos.afthemes.com/morenews/food-recipe/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "food"
+                ]
+            },
+            {
+                "slug": "crypto-news",
+                "title": "morenews",
+                "category": "Business",
+                "subtitle": "Crypto News",
+                "url": "https://demos.afthemes.com/morenews/crypto-news/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "crypto"
+                ]
+            },
+            {
+                "slug": "esport",
+                "title": "morenews",
+                "category": "Elementor",
+                "subtitle": "Esports",
+                "url": "https://demos.afthemes.com/morenews/esports/",
+                "tags": [
+                    "free",
+                    "blog",
+                    "elementor"
+                ],
+                "builder": "elementor"
+            },
+            {
+                "slug": "arabic-news",
+                "title": "morenews",
+                "category": "General",
+                "subtitle": "Arabic News",
+                "url": "https://demos.afthemes.com/morenews/arabic-news/",
+                "tags": [
+                    "free",
+                    "news",
+                    "general",
+                    "rtl"
+                ]
+            },
+            {
+                "slug": "local-business",
+                "title": "morenews",
+                "category": "Elementor",
+                "subtitle": "Local Business",
+                "url": "https://demos.afthemes.com/morenews/local-business/",
+                "tags": [
+                    "free",
+                    "business",
+                    "elementor"
+                ],
+                "builder": "elementor"
+            },
+            {
+                "slug": "china-today",
+                "title": "morenews",
+                "category": "General",
+                "subtitle": "China Today",
+                "url": "https://demos.afthemes.com/morenews/china-today/",
+                "tags": [
+                    "free",
+                    "news",
+                    "general"
+                ]
+            },
+            {
+                "slug": "moreblock",
+                "title": "morenews",
+                "category": "General",
+                "subtitle": "Moreblock",
+                "url": "https://demos.afthemes.com/morenews/moreblock/",
+                "tags": [
+                    "free",
+                    "news",
+                    "gutenberg"
+                ],
+                "builder": "blockspare"
+            },
+            {
+                "slug": "moreblock-dark",
+                "title": "morenews",
+                "category": "General",
+                "subtitle": "Moreblock Dark",
+                "url": "https://demos.afthemes.com/morenews/moreblock-dark/",
+                "tags": [
+                    "free",
+                    "news",
+                    "gutenberg"
+                ],
+                "builder": "blockspare"
+            },
+            {
+                "slug": "fashion",
+                "title": "morenews",
+                "category": "Fashion",
+                "subtitle": "Fashion",
+                "url": "https://demos.afthemes.com/morenews/fashion/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "fashion"
+                ]
+            },
+            {
+                "slug": "travel",
+                "title": "morenews",
+                "category": "Blog",
+                "subtitle": "Travel",
+                "url": "https://demos.afthemes.com/morenews/travel/",
+                "tags": [
+                    "free",
+                    "blog",
+                    "travel"
+                ]
+            },
+            {
+                "slug": "real-estate",
+                "title": "morenews",
+                "category": "Elementor",
+                "subtitle": "Real Estate",
+                "url": "https://demos.afthemes.com/morenews/real-estate/",
+                "tags": [
+                    "free",
+                    "blog",
+                    "elementor"
+                ],
+                "builder": "elementor"
+            },
+            {
+                "slug": "beauty-studio",
+                "title": "morenews",
+                "category": "Elementor",
+                "subtitle": "Beauty Studio",
+                "url": "https://demos.afthemes.com/morenews/beauty-studio/",
+                "tags": [
+                    "free",
+                    "fashion",
+                    "elementor"
+                ],
+                "builder": "elementor"
+            },
+            {
+                "slug": "architecture-blog",
+                "title": "morenews",
+                "category": "Elementor",
+                "subtitle": "Architecture Blog",
+                "url": "https://demos.afthemes.com/morenews/architecture-blog/",
+                "tags": [
+                    "free",
+                    "blog",
+                    "elementor"
+                ],
+                "builder": "elementor"
+            }
+        ]
+    },
+    "newsphere-pro": {
+        "free": "newsphere",
+        "premium": "newsphere-pro",
+        "demodata": [
+            {
+                "slug": "newsphere",
+                "title": "Newsphere Pro",
+                "category": "General",
+                "subtitle": "Newsphere Pro",
+                "url": "https://demos.afthemes.com/newsphere-pro/",
+                "tags": [
+                    "pro",
+                    "magazine",
+                    "news"
+                ]
+            },
+            {
+                "slug": "dark",
+                "title": "Newsphere Pro",
+                "category": "General",
+                "subtitle": "Dark Pro",
+                "url": "https://demos.afthemes.com/newsphere-pro/dark/",
+                "tags": [
+                    "pro",
+                    "magazine",
+                    "dark"
+                ]
+            },
+            {
+                "slug": "light",
+                "title": "Newsphere Pro",
+                "category": "General",
+                "subtitle": "Light Pro",
+                "url": "https://demos.afthemes.com/newsphere-pro/light/",
+                "tags": [
+                    "pro",
+                    "news",
+                    "light"
+                ]
+            },
+            {
+                "slug": "sport",
+                "title": "Newsphere Pro",
+                "category": "Sport",
+                "subtitle": "Sport Pro",
+                "url": "https://demos.afthemes.com/newsphere-pro/sport/",
+                "tags": [
+                    "pro",
+                    "news",
+                    "sport"
+                ]
+            },
+            {
+                "slug": "fashion",
+                "title": "Newsphere Pro",
+                "category": "Fashion",
+                "subtitle": "Fashion Pro",
+                "url": "https://demos.afthemes.com/newsphere-pro/fashion/",
+                "tags": [
+                    "pro",
+                    "magazine",
+                    "fashion"
+                ]
+            },
+            {
+                "slug": "masonry",
+                "title": "Newsphere Pro",
+                "category": "General",
+                "subtitle": "Masonry Pro",
+                "url": "https://demos.afthemes.com/newsphere-pro/masonry/",
+                "tags": [
+                    "pro",
+                    "blog",
+                    "general"
+                ]
+            },
+            {
+                "slug": "recipe",
+                "title": "Newsphere Pro",
+                "category": "Blog",
+                "subtitle": "Recipe Pro",
+                "url": "https://demos.afthemes.com/newsphere-pro/recipe/",
+                "tags": [
+                    "pro",
+                    "magazine",
+                    "food"
+                ]
+            },
+            {
+                "slug": "travel",
+                "title": "Newsphere Pro",
+                "category": "Blog",
+                "subtitle": "Travel Pro",
+                "url": "https://demos.afthemes.com/newsphere-pro/travel/",
+                "tags": [
+                    "pro",
+                    "blog",
+                    "travel"
+                ]
+            },
+            {
+                "slug": "minimal",
+                "title": "Newsphere Pro",
+                "category": "Blog",
+                "subtitle": "Minimal Pro",
+                "url": "https://demos.afthemes.com/newsphere-pro/minimal/",
+                "tags": [
+                    "pro",
+                    "blog",
+                    "minimal"
+                ]
+            }
+        ]
+    },
+    "newsphere": {
+        "free": "newsphere",
+        "premium": "newsphere-pro",
+        "demodata": [
+            {
+                "slug": "newsphere",
+                "title": "Newsphere",
+                "category": "General",
+                "subtitle": "Newsphere",
+                "url": "https://demos.afthemes.com/newsphere/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "news"
+                ]
+            },
+            {
+                "slug": "sport",
+                "title": "Newsphere",
+                "category": "Sport",
+                "subtitle": "Sport",
+                "url": "https://demos.afthemes.com/newsphere/sport/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "sport"
+                ]
+            },
+            {
+                "slug": "fashion",
+                "title": "Newsphere",
+                "category": "Fashion",
+                "subtitle": "Fashion",
+                "url": "https://demos.afthemes.com/newsphere/fashion/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "fashion"
+                ]
+            },
+            {
+                "slug": "crypto-news",
+                "title": "Newsphere",
+                "category": "Business",
+                "subtitle": "Crypto News",
+                "url": "https://demos.afthemes.com/newsphere/crypto-news/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "crypto"
+                ]
+            },
+            {
+                "slug": "arabic-news",
+                "title": "Newsphere",
+                "category": "General",
+                "subtitle": "Arabic News",
+                "url": "https://demos.afthemes.com/newsphere/arabic-news/",
+                "tags": [
+                    "free",
+                    "news",
+                    "general",
+                    "rtl"
+                ]
+            },
+            {
+                "slug": "china-news",
+                "title": "Newsphere",
+                "category": "General",
+                "subtitle": "China News",
+                "url": "https://demos.afthemes.com/newsphere/china-news/",
+                "tags": [
+                    "free",
+                    "general",
+                    "chinese"
+                ]
+            },
+            {
+                "slug": "newsblock",
+                "title": "Newsphere",
+                "category": "General",
+                "subtitle": "Newsblock",
+                "url": "https://demos.afthemes.com/newsphere/newsblock/",
+                "tags": [
+                    "free",
+                    "general",
+                    "gutenberg"
+                ],
+                "builder": "blockspare"
+            },
+            {
+                "slug": "newsblock-dark",
+                "title": "Newsphere",
+                "category": "General",
+                "subtitle": "Newsblock Dark",
+                "url": "https://demos.afthemes.com/newsphere/newsblock-dark/",
+                "tags": [
+                    "free",
+                    "general",
+                    "gutenberg"
+                ],
+                "builder": "blockspare"
+            },
+            {
+                "slug": "headnews",
+                "title": "Newsphere",
+                "category": "General",
+                "subtitle": "Headnews",
+                "url": "https://demos.afthemes.com/newsphere/headnews/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "child"
+                ]
+            },
+            {
+                "slug": "newspin",
+                "title": "Newsphere",
+                "category": "General",
+                "subtitle": "Newspin",
+                "url": "https://demos.afthemes.com/newsphere/newspin/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "child"
+                ]
+            },
+            {
+                "slug": "sportion",
+                "title": "Newsphere",
+                "category": "General",
+                "subtitle": "Sportion",
+                "url": "https://demos.afthemes.com/newsphere/sportion/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "child"
+                ]
+            },
+            {
+                "slug": "magcess",
+                "title": "Newsphere",
+                "category": "General",
+                "subtitle": "Magcess",
+                "url": "https://demos.afthemes.com/newsphere/magcess/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "child"
                 ]
             }
         ]
@@ -1596,773 +2772,6 @@
             }
         ]
     },
-    "kreeti-lite": {
-        "free": "kreeti-lite",
-        "premium": "kreeti",
-        "demodata": [
-            {
-                "slug": "kreeti-lite",
-                "title": "Kreeti Lite",
-                "category": "General",
-                "subtitle": "Kreeti Lite",
-                "url": "https://demos.afthemes.com/kreeti-lite/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "news"
-                ]
-            },
-            {
-                "slug": "sport",
-                "title": "Kreeti Lite",
-                "category": "Sport",
-                "subtitle": "Sport",
-                "url": "https://demos.afthemes.com/kreeti-lite/sport/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "sport"
-                ]
-            },
-            {
-                "slug": "fashion",
-                "title": "Kreeti Lite",
-                "category": "Fashion",
-                "subtitle": "Fashion",
-                "url": "https://demos.afthemes.com/kreeti-lite/fashion/",
-                "tags": [
-                    "free",
-                    "news",
-                    "fashion"
-                ]
-            },
-            {
-                "slug": "gadgets",
-                "title": "Kreeti Lite",
-                "category": "Business",
-                "subtitle": "Gadgets",
-                "url": "https://demos.afthemes.com/kreeti-lite/gadgets",
-                "tags": [
-                    "free",
-                    "tech",
-                    "gadget",
-                    "business"
-                ]
-            },
-            {
-                "slug": "wedding",
-                "title": "Kreeti Lite",
-                "category": "Blog",
-                "subtitle": "Wedding",
-                "url": "https://demos.afthemes.com/kreeti-lite/wedding/",
-                "tags": [
-                    "free",
-                    "blog",
-                    "general"
-                ]
-            }
-        ]
-    },
-    "kreeti": {
-        "free": "kreeti-lite",
-        "premium": "kreeti",
-        "demodata": [
-            {
-                "slug": "kreeti",
-                "title": "Kreeti",
-                "category": "General",
-                "subtitle": "Kreeti",
-                "url": "https://demos.afthemes.com/kreeti/",
-                "tags": [
-                    "pro",
-                    "magazine",
-                    "news"
-                ]
-            },
-            {
-                "slug": "dark",
-                "title": "Kreeti",
-                "category": "General",
-                "subtitle": "Dark",
-                "url": "https://demos.afthemes.com/kreeti/dark/",
-                "tags": [
-                    "pro",
-                    "magazine",
-                    "dark"
-                ]
-            },
-            {
-                "slug": "fashion",
-                "title": "Kreeti",
-                "category": "Fashion",
-                "subtitle": "Fashion",
-                "url": "https://demos.afthemes.com/kreeti/fashion/",
-                "tags": [
-                    "pro",
-                    "magazine",
-                    "fashion"
-                ]
-            },
-            {
-                "slug": "sport",
-                "title": "Kreeti",
-                "category": "Sport",
-                "subtitle": "Sport",
-                "url": "https://demos.afthemes.com/kreeti/sport/",
-                "tags": [
-                    "pro",
-                    "magazine",
-                    "sport"
-                ]
-            },
-            {
-                "slug": "travel",
-                "title": "Kreeti",
-                "category": "Blog",
-                "subtitle": "Travel",
-                "url": "https://demos.afthemes.com/kreeti/travel/",
-                "tags": [
-                    "pro",
-                    "blog",
-                    "travel"
-                ]
-            },
-            {
-                "slug": "wedding",
-                "title": "Kreeti",
-                "category": "Blog",
-                "subtitle": "Wedding",
-                "url": "https://demos.afthemes.com/kreeti/wedding/",
-                "tags": [
-                    "pro",
-                    "blog",
-                    "general"
-                ]
-            },
-            {
-                "slug": "business-news",
-                "title": "Kreeti",
-                "category": "Business",
-                "subtitle": "Business News",
-                "url": "https://demos.afthemes.com/kreeti/business-news",
-                "tags": [
-                    "pro",
-                    "news",
-                    "business"
-                ]
-            },
-            {
-                "slug": "lifestyle",
-                "title": "Kreeti",
-                "category": "Blog",
-                "subtitle": "Lifestyle",
-                "url": "https://demos.afthemes.com/kreeti/lifestyle/",
-                "tags": [
-                    "pro",
-                    "magazine",
-                    "general"
-                ]
-            },
-            {
-                "slug": "recipe",
-                "title": "Kreeti",
-                "category": "Blog",
-                "subtitle": "Recipe",
-                "url": "https://demos.afthemes.com/kreeti/recipe/",
-                "tags": [
-                    "pro",
-                    "food",
-                    "general"
-                ]
-            }
-        ]
-    },
-    "magazine-7": {
-        "free": "magazine-7",
-        "premium": "magazine-7-plus",
-        "demodata": [
-            {
-                "slug": "magazine-7",
-                "title": "Magazine 7",
-                "category": "General",
-                "subtitle": "Magazine 7",
-                "url": "https://demos.afthemes.com/magazine-7",
-                "tags": [
-                    "free",
-                    "news",
-                    "fashion"
-                ]
-            },
-            {
-                "slug": "restro",
-                "title": "Magazine 7",
-                "category": "Blog",
-                "subtitle": "Restro",
-                "url": "https://demos.afthemes.com/magazine-7/restro",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "food"
-                ]
-            },
-            {
-                "slug": "beautiful-blog",
-                "title": "Magazine 7",
-                "category": "Blog",
-                "subtitle": "Beautiful Blog",
-                "url": "https://demos.afthemes.com/magazine-7/beautiful-blog",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "child"
-                ]
-            },
-            {
-                "slug": "newstorial",
-                "title": "Magazine 7",
-                "category": "General",
-                "subtitle": "Newstorial",
-                "url": "https://demos.afthemes.com/magazine-7/newstorial",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "child"
-                ]
-            },
-            {
-                "slug": "featured-news",
-                "title": "Magazine 7",
-                "category": "General",
-                "subtitle": "Featured News",
-                "url": "https://demos.afthemes.com/magazine-7/featured-news",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "child"
-                ]
-            },
-            {
-                "slug": "magaziness",
-                "title": "Magazine 7",
-                "category": "General",
-                "subtitle": "Magaziness",
-                "url": "https://demos.afthemes.com/magazine-7/magaziness",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "child"
-                ]
-            }
-        ]
-    },
-    "magazine-7-plus": {
-        "free": "magazine-7",
-        "premium": "magazine-7-plus",
-        "demodata": [
-            {
-                "slug": "magazine-7",
-                "title": "Magazine 7 Plus",
-                "category": "General",
-                "subtitle": "Magazine 7 Plus",
-                "url": "https://demos.afthemes.com/magazine-7-plus",
-                "tags": [
-                    "pro",
-                    "news",
-                    "fashion"
-                ]
-            },
-            {
-                "slug": "restro",
-                "title": "Magazine 7 Plus",
-                "category": "Blog",
-                "subtitle": "Restro Plus",
-                "url": "https://demos.afthemes.com/magazine-7-plus/restro",
-                "tags": [
-                    "pro",
-                    "magazine",
-                    "food"
-                ]
-            },
-            {
-                "slug": "photography",
-                "title": "Magazine 7 Plus",
-                "category": "Blog",
-                "subtitle": "Photography Plus",
-                "url": "https://demos.afthemes.com/magazine-7-plus/photography",
-                "tags": [
-                    "pro",
-                    "blog",
-                    "photography"
-                ]
-            },
-            {
-                "slug": "minimal-mag",
-                "title": "Magazine 7 Plus",
-                "category": "Blog",
-                "subtitle": "Minimal Mag Plus",
-                "url": "https://demos.afthemes.com/magazine-7-plus/minimal-mag",
-                "tags": [
-                    "pro",
-                    "magazine",
-                    "minimal"
-                ]
-            },
-            {
-                "slug": "mag-shop",
-                "title": "Magazine 7 Plus",
-                "category": "shop",
-                "subtitle": "Mag Shop Plus",
-                "url": "https://demos.afthemes.com/magazine-7-plus/mag-shop",
-                "tags": [
-                    "pro",
-                    "fashion",
-                    "ecommerce"
-                ]
-            }
-        ]
-    },
-    "magnitude": {
-        "free": "magnitude",
-        "premium": "magnitude-pro",
-        "demodata": [
-            {
-                "slug": "magnitude",
-                "title": "Magnitude",
-                "category": "General",
-                "subtitle": "Magnitude",
-                "url": "https://demos.afthemes.com/magnitude/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "fashion"
-                ]
-            },
-            {
-                "slug": "newsportal",
-                "title": "Magnitude",
-                "category": "General",
-                "subtitle": "Newsportal",
-                "url": "https://demos.afthemes.com/magnitude/newsportal/",
-                "tags": [
-                    "free",
-                    "news",
-                    "general"
-                ]
-            },
-            {
-                "slug": "sport",
-                "title": "Magnitude",
-                "category": "Sport",
-                "subtitle": "Sport",
-                "url": "https://demos.afthemes.com/magnitude/sport/",
-                "tags": [
-                    "free",
-                    "news",
-                    "sport"
-                ]
-            }
-        ]
-    },
-    "magnitude-pro": {
-        "free": "magnitude",
-        "premium": "magnitude-pro",
-        "demodata": [
-            {
-                "slug": "magnitude",
-                "title": "Magnitude Pro",
-                "category": "General",
-                "subtitle": "Magnitude Pro",
-                "url": "https://demos.afthemes.com/magnitude-pro/",
-                "tags": [
-                    "pro",
-                    "magazine",
-                    "fashion"
-                ]
-            },
-            {
-                "slug": "newsportal",
-                "title": "Magnitude Pro",
-                "category": "General",
-                "subtitle": "Newsportal Pro",
-                "url": "https://demos.afthemes.com/magnitude-pro/newsportal/",
-                "tags": [
-                    "pro",
-                    "news",
-                    "general"
-                ]
-            },
-            {
-                "slug": "sport",
-                "title": "Magnitude Pro",
-                "category": "Sport",
-                "subtitle": "Sport Pro",
-                "url": "https://demos.afthemes.com/magnitude-pro/sport/",
-                "tags": [
-                    "pro",
-                    "magazine",
-                    "sport"
-                ]
-            },
-            {
-                "slug": "dark",
-                "title": "Magnitude Pro",
-                "category": "Dark",
-                "subtitle": "Magnitude Dark",
-                "url": "https://demos.afthemes.com/magnitude-pro/dark/",
-                "tags": [
-                    "pro",
-                    "news",
-                    "dark"
-                ]
-            },
-            {
-                "slug": "gadgets",
-                "title": "Magnitude Pro",
-                "category": "Business",
-                "subtitle": "Magnitude Dark",
-                "url": "https://demos.afthemes.com/magnitude-pro/dark/",
-                "tags": [
-                    "pro",
-                    "news",
-                    "gadget",
-                    "tech"
-                ]
-            }
-        ]
-    },
-    "morenews": {
-        "free": "morenews",
-        "premium": "morenews-pro",
-        "demodata": [
-            {
-                "slug": "morenews",
-                "title": "morenews",
-                "category": "General",
-                "subtitle": "MoreNews",
-                "url": "https://demos.afthemes.com/morenews/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "news"
-                ]
-            },
-            {
-                "slug": "sport",
-                "title": "morenews",
-                "category": "Sport",
-                "subtitle": "Sport",
-                "url": "https://demos.afthemes.com/morenews/sport/",
-                "tags": [
-                    "free",
-                    "news",
-                    "sport"
-                ]
-            },
-            {
-                "slug": "classic",
-                "title": "morenews",
-                "category": "General",
-                "subtitle": "Classic",
-                "url": "https://demos.afthemes.com/morenews/classic/",
-                "tags": [
-                    "free",
-                    "news",
-                    "classic"
-                ]
-            },
-            {
-                "slug": "food-recipe",
-                "title": "morenews",
-                "category": "Blog",
-                "subtitle": "Food and Recipe",
-                "url": "https://demos.afthemes.com/morenews/food-recipe/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "food"
-                ]
-            },
-            {
-                "slug": "crypto-news",
-                "title": "morenews",
-                "category": "Business",
-                "subtitle": "Crypto News",
-                "url": "https://demos.afthemes.com/morenews/crypto-news/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "crypto"
-                ]
-            },
-            {
-                "slug": "esport",
-                "title": "morenews",
-                "category": "Elementor",
-                "subtitle": "Esports",
-                "url": "https://demos.afthemes.com/morenews/esports/",
-                "tags": [
-                    "free",
-                    "blog",
-                    "elementor"
-                ],
-                "builder": "elementor"
-            },
-            {
-                "slug": "arabic-news",
-                "title": "morenews",
-                "category": "General",
-                "subtitle": "Arabic News",
-                "url": "https://demos.afthemes.com/morenews/arabic-news/",
-                "tags": [
-                    "free",
-                    "news",
-                    "general",
-                    "rtl"
-                ]
-            },
-            {
-                "slug": "local-business",
-                "title": "morenews",
-                "category": "Elementor",
-                "subtitle": "Local Business",
-                "url": "https://demos.afthemes.com/morenews/local-business/",
-                "tags": [
-                    "free",
-                    "business",
-                    "elementor"
-                ],
-                "builder": "elementor"
-            },
-            {
-                "slug": "china-today",
-                "title": "morenews",
-                "category": "General",
-                "subtitle": "China Today",
-                "url": "https://demos.afthemes.com/morenews/china-today/",
-                "tags": [
-                    "free",
-                    "news",
-                    "general"
-                ]
-            },
-            {
-                "slug": "moreblock",
-                "title": "morenews",
-                "category": "General",
-                "subtitle": "Moreblock",
-                "url": "https://demos.afthemes.com/morenews/moreblock/",
-                "tags": [
-                    "free",
-                    "news",
-                    "gutenberg"
-                ],
-                "builder": "blockspare"
-            },
-            {
-                "slug": "moreblock-dark",
-                "title": "morenews",
-                "category": "General",
-                "subtitle": "Moreblock Dark",
-                "url": "https://demos.afthemes.com/morenews/moreblock-dark/",
-                "tags": [
-                    "free",
-                    "news",
-                    "gutenberg"
-                ],
-                "builder": "blockspare"
-            },
-            {
-                "slug": "fashion",
-                "title": "morenews",
-                "category": "Fashion",
-                "subtitle": "Fashion",
-                "url": "https://demos.afthemes.com/morenews/fashion/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "fashion"
-                ]
-            },
-            {
-                "slug": "travel",
-                "title": "morenews",
-                "category": "Blog",
-                "subtitle": "Travel",
-                "url": "https://demos.afthemes.com/morenews/travel/",
-                "tags": [
-                    "free",
-                    "blog",
-                    "travel"
-                ]
-            },
-            {
-                "slug": "real-estate",
-                "title": "morenews",
-                "category": "Elementor",
-                "subtitle": "Real Estate",
-                "url": "https://demos.afthemes.com/morenews/real-estate/",
-                "tags": [
-                    "free",
-                    "blog",
-                    "elementor"
-                ],
-                "builder": "elementor"
-            },
-            {
-                "slug": "beauty-studio",
-                "title": "morenews",
-                "category": "Elementor",
-                "subtitle": "Beauty Studio",
-                "url": "https://demos.afthemes.com/morenews/beauty-studio/",
-                "tags": [
-                    "free",
-                    "fashion",
-                    "elementor"
-                ],
-                "builder": "elementor"
-            },
-            {
-                "slug": "architecture-blog",
-                "title": "morenews",
-                "category": "Elementor",
-                "subtitle": "Architecture Blog",
-                "url": "https://demos.afthemes.com/morenews/architecture-blog/",
-                "tags": [
-                    "free",
-                    "blog",
-                    "elementor"
-                ],
-                "builder": "elementor"
-            }
-        ]
-    },
-    "morenews-pro": {
-        "free": "morenews",
-        "premium": "morenews-pro",
-        "demodata": [
-            {
-                "slug": "morenews",
-                "title": "MoreNews Pro",
-                "category": "General",
-                "subtitle": "MoreNews Pro",
-                "url": "https://demos.afthemes.com/morenews-pro/",
-                "tags": [
-                    "pro",
-                    "magazine",
-                    "news"
-                ]
-            },
-            {
-                "slug": "sport",
-                "title": "MoreNews Pro",
-                "category": "Sport",
-                "subtitle": "Sport Pro",
-                "url": "https://demos.afthemes.com/morenews-pro/sport/",
-                "tags": [
-                    "pro",
-                    "sport",
-                    "dark"
-                ]
-            },
-            {
-                "slug": "food-recipe",
-                "title": "MoreNews Pro",
-                "category": "Blog",
-                "subtitle": "Food and Recipe Pro",
-                "url": "https://demos.afthemes.com/morenews-pro/food-recipe/",
-                "tags": [
-                    "pro",
-                    "magazine",
-                    "food"
-                ]
-            },
-            {
-                "slug": "classic",
-                "title": "MoreNews Pro",
-                "category": "General",
-                "subtitle": "Classic Pro",
-                "url": "https://demos.afthemes.com/morenews-pro/classic/",
-                "tags": [
-                    "pro",
-                    "magazine",
-                    "classic"
-                ]
-            },
-            {
-                "slug": "fashion",
-                "title": "MoreNews Pro",
-                "category": "Fashion",
-                "subtitle": "Fashion Pro",
-                "url": "https://demos.afthemes.com/morenews-pro/fashion/",
-                "tags": [
-                    "pro",
-                    "magazine",
-                    "fashion"
-                ]
-            },
-            {
-                "slug": "fitness-magazine",
-                "title": "MoreNews Pro",
-                "category": "Blog",
-                "subtitle": "Fitness Pro",
-                "url": "https://demos.afthemes.com/morenews-pro/fitness-magazine/",
-                "tags": [
-                    "pro",
-                    "magazine",
-                    "sport"
-                ]
-            },
-            {
-                "slug": "travel",
-                "title": "MoreNews Pro",
-                "category": "Blog",
-                "subtitle": "Travel Pro",
-                "url": "https://demos.afthemes.com/morenews-pro/travel/",
-                "tags": [
-                    "pro",
-                    "blog",
-                    "travel"
-                ]
-            },
-            {
-                "slug": "crypto-news",
-                "title": "MoreNews Pro",
-                "category": "Business",
-                "subtitle": "Crypto News Pro",
-                "url": "https://demos.afthemes.com/morenews-pro/crypto-news/",
-                "tags": [
-                    "pro",
-                    "business",
-                    "crypto"
-                ]
-            },
-            {
-                "slug": "arabic-news",
-                "title": "MoreNews Pro",
-                "category": "General",
-                "subtitle": "Arabic News Pro",
-                "url": "https://demos.afthemes.com/morenews-pro/arabic-news/",
-                "tags": [
-                    "pro",
-                    "news",
-                    "general",
-                    "rtl"
-                ]
-            },
-            {
-                "slug": "china-today",
-                "title": "MoreNews Pro",
-                "category": "General",
-                "subtitle": "China Today Pro",
-                "url": "https://demos.afthemes.com/morenews-pro/china-today/",
-                "tags": [
-                    "pro",
-                    "news",
-                    "general"
-                ]
-            }
-        ]
-    },
     "newsium": {
         "free": "newsium",
         "premium": "newsium-pro",
@@ -3020,115 +3429,40 @@
             }
         ]
     },
-    "newsphere": {
-        "free": "newsphere",
-        "premium": "newsphere-pro",
+    "magazine-7": {
+        "free": "magazine-7",
+        "premium": "magazine-7-plus",
         "demodata": [
             {
-                "slug": "newsphere",
-                "title": "Newsphere",
+                "slug": "magazine-7",
+                "title": "Magazine 7",
                 "category": "General",
-                "subtitle": "Newsphere",
-                "url": "https://demos.afthemes.com/newsphere/",
+                "subtitle": "Magazine 7",
+                "url": "https://demos.afthemes.com/magazine-7",
                 "tags": [
                     "free",
-                    "magazine",
-                    "news"
-                ]
-            },
-            {
-                "slug": "sport",
-                "title": "Newsphere",
-                "category": "Sport",
-                "subtitle": "Sport",
-                "url": "https://demos.afthemes.com/newsphere/sport/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "sport"
-                ]
-            },
-            {
-                "slug": "fashion",
-                "title": "Newsphere",
-                "category": "Fashion",
-                "subtitle": "Fashion",
-                "url": "https://demos.afthemes.com/newsphere/fashion/",
-                "tags": [
-                    "free",
-                    "magazine",
+                    "news",
                     "fashion"
                 ]
             },
             {
-                "slug": "crypto-news",
-                "title": "Newsphere",
-                "category": "Business",
-                "subtitle": "Crypto News",
-                "url": "https://demos.afthemes.com/newsphere/crypto-news/",
+                "slug": "restro",
+                "title": "Magazine 7",
+                "category": "Blog",
+                "subtitle": "Restro",
+                "url": "https://demos.afthemes.com/magazine-7/restro",
                 "tags": [
                     "free",
                     "magazine",
-                    "crypto"
+                    "food"
                 ]
             },
             {
-                "slug": "arabic-news",
-                "title": "Newsphere",
-                "category": "General",
-                "subtitle": "Arabic News",
-                "url": "https://demos.afthemes.com/newsphere/arabic-news/",
-                "tags": [
-                    "free",
-                    "news",
-                    "general",
-                    "rtl"
-                ]
-            },
-            {
-                "slug": "china-news",
-                "title": "Newsphere",
-                "category": "General",
-                "subtitle": "China News",
-                "url": "https://demos.afthemes.com/newsphere/china-news/",
-                "tags": [
-                    "free",
-                    "general",
-                    "chinese"
-                ]
-            },
-            {
-                "slug": "newsblock",
-                "title": "Newsphere",
-                "category": "General",
-                "subtitle": "Newsblock",
-                "url": "https://demos.afthemes.com/newsphere/newsblock/",
-                "tags": [
-                    "free",
-                    "general",
-                    "gutenberg"
-                ],
-                "builder": "blockspare"
-            },
-            {
-                "slug": "newsblock-dark",
-                "title": "Newsphere",
-                "category": "General",
-                "subtitle": "Newsblock Dark",
-                "url": "https://demos.afthemes.com/newsphere/newsblock-dark/",
-                "tags": [
-                    "free",
-                    "general",
-                    "gutenberg"
-                ],
-                "builder": "blockspare"
-            },
-            {
-                "slug": "headnews",
-                "title": "Newsphere",
-                "category": "General",
-                "subtitle": "Headnews",
-                "url": "https://demos.afthemes.com/newsphere/headnews/",
+                "slug": "beautiful-blog",
+                "title": "Magazine 7",
+                "category": "Blog",
+                "subtitle": "Beautiful Blog",
+                "url": "https://demos.afthemes.com/magazine-7/beautiful-blog",
                 "tags": [
                     "free",
                     "magazine",
@@ -3136,11 +3470,11 @@
                 ]
             },
             {
-                "slug": "newspin",
-                "title": "Newsphere",
+                "slug": "newstorial",
+                "title": "Magazine 7",
                 "category": "General",
-                "subtitle": "Newspin",
-                "url": "https://demos.afthemes.com/newsphere/newspin/",
+                "subtitle": "Newstorial",
+                "url": "https://demos.afthemes.com/magazine-7/newstorial",
                 "tags": [
                     "free",
                     "magazine",
@@ -3148,11 +3482,11 @@
                 ]
             },
             {
-                "slug": "sportion",
-                "title": "Newsphere",
+                "slug": "featured-news",
+                "title": "Magazine 7",
                 "category": "General",
-                "subtitle": "Sportion",
-                "url": "https://demos.afthemes.com/newsphere/sportion/",
+                "subtitle": "Featured News",
+                "url": "https://demos.afthemes.com/magazine-7/featured-news",
                 "tags": [
                     "free",
                     "magazine",
@@ -3160,11 +3494,11 @@
                 ]
             },
             {
-                "slug": "magcess",
-                "title": "Newsphere",
+                "slug": "magaziness",
+                "title": "Magazine 7",
                 "category": "General",
-                "subtitle": "Magcess",
-                "url": "https://demos.afthemes.com/newsphere/magcess/",
+                "subtitle": "Magaziness",
+                "url": "https://demos.afthemes.com/magazine-7/magaziness",
                 "tags": [
                     "free",
                     "magazine",
@@ -3173,88 +3507,28 @@
             }
         ]
     },
-    "newsphere-pro": {
-        "free": "newsphere",
-        "premium": "newsphere-pro",
+    "magazine-7-plus": {
+        "free": "magazine-7",
+        "premium": "magazine-7-plus",
         "demodata": [
             {
-                "slug": "newsphere",
-                "title": "Newsphere Pro",
+                "slug": "magazine-7",
+                "title": "Magazine 7 Plus",
                 "category": "General",
-                "subtitle": "Newsphere Pro",
-                "url": "https://demos.afthemes.com/newsphere-pro/",
-                "tags": [
-                    "pro",
-                    "magazine",
-                    "news"
-                ]
-            },
-            {
-                "slug": "dark",
-                "title": "Newsphere Pro",
-                "category": "General",
-                "subtitle": "Dark Pro",
-                "url": "https://demos.afthemes.com/newsphere-pro/dark/",
-                "tags": [
-                    "pro",
-                    "magazine",
-                    "dark"
-                ]
-            },
-            {
-                "slug": "light",
-                "title": "Newsphere Pro",
-                "category": "General",
-                "subtitle": "Light Pro",
-                "url": "https://demos.afthemes.com/newsphere-pro/light/",
+                "subtitle": "Magazine 7 Plus",
+                "url": "https://demos.afthemes.com/magazine-7-plus",
                 "tags": [
                     "pro",
                     "news",
-                    "light"
-                ]
-            },
-            {
-                "slug": "sport",
-                "title": "Newsphere Pro",
-                "category": "Sport",
-                "subtitle": "Sport Pro",
-                "url": "https://demos.afthemes.com/newsphere-pro/sport/",
-                "tags": [
-                    "pro",
-                    "news",
-                    "sport"
-                ]
-            },
-            {
-                "slug": "fashion",
-                "title": "Newsphere Pro",
-                "category": "Fashion",
-                "subtitle": "Fashion Pro",
-                "url": "https://demos.afthemes.com/newsphere-pro/fashion/",
-                "tags": [
-                    "pro",
-                    "magazine",
                     "fashion"
                 ]
             },
             {
-                "slug": "masonry",
-                "title": "Newsphere Pro",
-                "category": "General",
-                "subtitle": "Masonry Pro",
-                "url": "https://demos.afthemes.com/newsphere-pro/masonry/",
-                "tags": [
-                    "pro",
-                    "blog",
-                    "general"
-                ]
-            },
-            {
-                "slug": "recipe",
-                "title": "Newsphere Pro",
+                "slug": "restro",
+                "title": "Magazine 7 Plus",
                 "category": "Blog",
-                "subtitle": "Recipe Pro",
-                "url": "https://demos.afthemes.com/newsphere-pro/recipe/",
+                "subtitle": "Restro Plus",
+                "url": "https://demos.afthemes.com/magazine-7-plus/restro",
                 "tags": [
                     "pro",
                     "magazine",
@@ -3262,27 +3536,148 @@
                 ]
             },
             {
-                "slug": "travel",
-                "title": "Newsphere Pro",
+                "slug": "photography",
+                "title": "Magazine 7 Plus",
                 "category": "Blog",
-                "subtitle": "Travel Pro",
-                "url": "https://demos.afthemes.com/newsphere-pro/travel/",
+                "subtitle": "Photography Plus",
+                "url": "https://demos.afthemes.com/magazine-7-plus/photography",
                 "tags": [
                     "pro",
                     "blog",
-                    "travel"
+                    "photography"
                 ]
             },
             {
-                "slug": "minimal",
-                "title": "Newsphere Pro",
+                "slug": "minimal-mag",
+                "title": "Magazine 7 Plus",
                 "category": "Blog",
-                "subtitle": "Minimal Pro",
-                "url": "https://demos.afthemes.com/newsphere-pro/minimal/",
+                "subtitle": "Minimal Mag Plus",
+                "url": "https://demos.afthemes.com/magazine-7-plus/minimal-mag",
                 "tags": [
                     "pro",
-                    "blog",
+                    "magazine",
                     "minimal"
+                ]
+            },
+            {
+                "slug": "mag-shop",
+                "title": "Magazine 7 Plus",
+                "category": "shop",
+                "subtitle": "Mag Shop Plus",
+                "url": "https://demos.afthemes.com/magazine-7-plus/mag-shop",
+                "tags": [
+                    "pro",
+                    "fashion",
+                    "ecommerce"
+                ]
+            }
+        ]
+    },
+    "magnitude": {
+        "free": "magnitude",
+        "premium": "magnitude-pro",
+        "demodata": [
+            {
+                "slug": "magnitude",
+                "title": "Magnitude",
+                "category": "General",
+                "subtitle": "Magnitude",
+                "url": "https://demos.afthemes.com/magnitude/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "fashion"
+                ]
+            },
+            {
+                "slug": "newsportal",
+                "title": "Magnitude",
+                "category": "General",
+                "subtitle": "Newsportal",
+                "url": "https://demos.afthemes.com/magnitude/newsportal/",
+                "tags": [
+                    "free",
+                    "news",
+                    "general"
+                ]
+            },
+            {
+                "slug": "sport",
+                "title": "Magnitude",
+                "category": "Sport",
+                "subtitle": "Sport",
+                "url": "https://demos.afthemes.com/magnitude/sport/",
+                "tags": [
+                    "free",
+                    "news",
+                    "sport"
+                ]
+            }
+        ]
+    },
+    "magnitude-pro": {
+        "free": "magnitude",
+        "premium": "magnitude-pro",
+        "demodata": [
+            {
+                "slug": "magnitude",
+                "title": "Magnitude Pro",
+                "category": "General",
+                "subtitle": "Magnitude Pro",
+                "url": "https://demos.afthemes.com/magnitude-pro/",
+                "tags": [
+                    "pro",
+                    "magazine",
+                    "fashion"
+                ]
+            },
+            {
+                "slug": "newsportal",
+                "title": "Magnitude Pro",
+                "category": "General",
+                "subtitle": "Newsportal Pro",
+                "url": "https://demos.afthemes.com/magnitude-pro/newsportal/",
+                "tags": [
+                    "pro",
+                    "news",
+                    "general"
+                ]
+            },
+            {
+                "slug": "sport",
+                "title": "Magnitude Pro",
+                "category": "Sport",
+                "subtitle": "Sport Pro",
+                "url": "https://demos.afthemes.com/magnitude-pro/sport/",
+                "tags": [
+                    "pro",
+                    "magazine",
+                    "sport"
+                ]
+            },
+            {
+                "slug": "dark",
+                "title": "Magnitude Pro",
+                "category": "Dark",
+                "subtitle": "Magnitude Dark",
+                "url": "https://demos.afthemes.com/magnitude-pro/dark/",
+                "tags": [
+                    "pro",
+                    "news",
+                    "dark"
+                ]
+            },
+            {
+                "slug": "gadgets",
+                "title": "Magnitude Pro",
+                "category": "Business",
+                "subtitle": "Magnitude Dark",
+                "url": "https://demos.afthemes.com/magnitude-pro/dark/",
+                "tags": [
+                    "pro",
+                    "news",
+                    "gadget",
+                    "tech"
                 ]
             }
         ]
@@ -3637,582 +4032,6 @@
             }
         ]
     },
-    "chromenews": {
-        "free": "chromenews",
-        "premium": "chromenews-pro",
-        "demodata": [
-            {
-                "slug": "chromenews",
-                "title": "ChromeNews",
-                "category": "General",
-                "subtitle": "ChromeNews",
-                "url": "https://demos.afthemes.com/chromenews/",
-                "tags": [
-                    "free",
-                    "news",
-                    "magazine",
-                    "general"
-                ]
-            },
-            {
-                "slug": "fashion",
-                "title": "ChromeNews",
-                "category": "Fashion",
-                "subtitle": "Fashion",
-                "url": "https://demos.afthemes.com/chromenews/fashion/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "fashion"
-                ]
-            },
-            {
-                "slug": "sport",
-                "title": "ChromeNews",
-                "category": "Sport",
-                "subtitle": "Sport",
-                "url": "https://demos.afthemes.com/chromenews/sport/",
-                "tags": [
-                    "free",
-                    "blog",
-                    "sport"
-                ]
-            },
-            {
-                "slug": "arabic-news",
-                "title": "ChromeNews",
-                "category": "General",
-                "subtitle": "Arabic News",
-                "url": "https://demos.afthemes.com/chromenews/arabic-news/",
-                "tags": [
-                    "free",
-                    "news",
-                    "rtl"
-                ]
-            },
-            {
-                "slug": "china-news",
-                "title": "ChromeNews",
-                "category": "General",
-                "subtitle": "China News",
-                "url": "https://demos.afthemes.com/chromenews/china-news/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "chinese"
-                ]
-            },
-            {
-                "slug": "indian",
-                "title": "ChromeNews",
-                "category": "Blog",
-                "subtitle": "भारतीय",
-                "url": "https://demos.afthemes.com/chromenews/indian-news/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "indian"
-                ]
-            },
-            {
-                "slug": "spanish",
-                "title": "ChromeNews",
-                "category": "Blog",
-                "subtitle": "Espa\u00f1ol",
-                "url": "https://demos.afthemes.com/chromenews/spanish/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "spanish"
-                ]
-            },
-            {
-                "slug": "russian",
-                "title": "ChromeNews",
-                "category": "Blog",
-                "subtitle": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
-                "url": "https://demos.afthemes.com/chromenews/russian/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "russian"
-                ]
-            },
-            {
-                "slug": "japanese",
-                "title": "ChromeNews",
-                "category": "Blog",
-                "subtitle": "日本語",
-                "url": "https://demos.afthemes.com/chromenews/japanese/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "japanese"
-                ]
-            },
-            {
-                "slug": "nepali",
-                "title": "ChromeNews",
-                "category": "Blog",
-                "subtitle": "नेपाली",
-                "url": "https://demos.afthemes.com/chromenews/nepali/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "nepali"
-                ]
-            },
-            {
-                "slug": "german",
-                "title": "ChromeNews",
-                "category": "Blog",
-                "subtitle": "Deutsch",
-                "url": "https://demos.afthemes.com/chromenews/german/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "german"
-                ]
-            },
-            {
-                "slug": "blocknews-dark",
-                "title": "ChromeNews",
-                "category": "General",
-                "subtitle": "Blocknews Dark",
-                "url": "https://demos.afthemes.com/chromenews/blocknews-dark/",
-                "builder": "blockspare",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "dark",
-                    "gutenberg"
-                ]
-            },
-            {
-                "slug": "gaming",
-                "title": "ChromeNews",
-                "category": "Blog",
-                "subtitle": "Gaming",
-                "url": "https://demos.afthemes.com/chromenews/gaming/",
-                "tags": [
-                    "free",
-                    "blog",
-                    "game"
-                ]
-            },
-            {
-                "slug": "automobile",
-                "title": "ChromeNews",
-                "category": "Blog",
-                "subtitle": "Automobile",
-                "url": "https://demos.afthemes.com/chromenews/automobile/",
-                "tags": [
-                    "free",
-                    "blog",
-                    "automobile"
-                ]
-            },
-            {
-                "slug": "construction-blog",
-                "title": "ChromeNews",
-                "category": "Blog",
-                "subtitle": "Construction Blog",
-                "url": "https://demos.afthemes.com/chromenews/construction-blog/",
-                "tags": [
-                    "free",
-                    "construction",
-                    "blog"
-                ]
-            },
-            {
-                "slug": "covid-19",
-                "title": "ChromeNews",
-                "category": "Elementor",
-                "subtitle": "Covid 19",
-                "url": "https://demos.afthemes.com/chromenews/covid-19/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "covid",
-                    "elementor"
-                ],
-                "builder": "elementor"
-            },
-            {
-                "slug": "business",
-                "title": "ChromeNews",
-                "category": "Elementor",
-                "subtitle": "Business",
-                "url": "https://demos.afthemes.com/chromenews/business/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "business",
-                    "elementor"
-                ],
-                "builder": "elementor"
-            },
-            {
-                "slug": "beauty",
-                "title": "ChromeNews",
-                "category": "Elementor",
-                "subtitle": "Beauty",
-                "url": "https://demos.afthemes.com/chromenews/beauty/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "fashion",
-                    "elementor"
-                ],
-                "builder": "elementor"
-            },
-            {
-                "slug": "restaurant",
-                "title": "ChromeNews",
-                "category": "Elementor",
-                "subtitle": "Restaurant",
-                "url": "https://demos.afthemes.com/chromenews/restaurant/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "food",
-                    "elementor"
-                ],
-                "builder": "elementor"
-            },
-            {
-                "slug": "chromeblog",
-                "title": "ChromeNews",
-                "category": "General",
-                "subtitle": "Chromeblog",
-                "url": "https://demos.afthemes.com/chromenews/chromeblog/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "child"
-                ]
-            },
-            {
-                "slug": "chromegrid",
-                "title": "ChromeNews",
-                "category": "General",
-                "subtitle": "Chromegrid",
-                "url": "https://demos.afthemes.com/chromenews/chromegrid/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "child"
-                ]
-            },
-            {
-                "slug": "chromemag",
-                "title": "ChromeNews",
-                "category": "General",
-                "subtitle": "Chromemag",
-                "url": "https://demos.afthemes.com/chromenews/chromemag/",
-                "tags": [
-                    "free",
-                    "magazine",
-                    "child"
-                ]
-            }
-        ]
-    },
-    "chromenews-pro": {
-        "free": "chromenews",
-        "premium": "chromenews-pro",
-        "demodata": [
-            {
-                "slug": "chromenews",
-                "title": "ChromeNews Pro",
-                "category": "General",
-                "subtitle": "ChromeNews Pro",
-                "url": "https://demos.afthemes.com/chromenews-pro/",
-                "tags": [
-                    "pro",
-                    "news",
-                    "magazine"
-                ]
-            },
-            {
-                "slug": "fashion",
-                "title": "ChromeNews Pro",
-                "category": "Fashion",
-                "subtitle": "Fashion Pro",
-                "url": "https://demos.afthemes.com/chromenews-pro/fashion/",
-                "tags": [
-                    "pro",
-                    "magazine",
-                    "fashion"
-                ]
-            },
-            {
-                "slug": "sport",
-                "title": "ChromeNews Pro",
-                "category": "Sport",
-                "subtitle": "Sport Pro",
-                "url": "https://demos.afthemes.com/chromenews-pro/sport/",
-                "tags": [
-                    "pro",
-                    "magazine",
-                    "sport"
-                ]
-            },
-            {
-                "slug": "china-news",
-                "title": "ChromeNews Pro",
-                "category": "General",
-                "subtitle": "China News Pro",
-                "url": "https://demos.afthemes.com/chromenews-pro/china-news/",
-                "tags": [
-                    "pro",
-                    "magazine",
-                    "chinese"
-                ]
-            },
-            {
-                "slug": "arabic-news",
-                "title": "ChromeNews Pro",
-                "category": "General",
-                "subtitle": "Arabic News Pro",
-                "url": "https://demos.afthemes.com/chromenews-pro/arabic-news/",
-                "tags": [
-                    "pro",
-                    "magazine",
-                    "rtl"
-                ]
-            },
-            {
-                "slug": "indian",
-                "title": "ChromeNews Pro",
-                "category": "Blog",
-                "subtitle": "भारतीय",
-                "url": "https://demos.afthemes.com/chromenews-pro/indian-news/",
-                "tags": [
-                    "pro",
-                    "magazine",
-                    "indian"
-                ]
-            },
-            {
-                "slug": "spanish",
-                "title": "ChromeNews Pro",
-                "subtitle": "Espa\u00f1ol",
-                "category": "Blog",
-                "url": "https://demos.afthemes.com/chromenews-pro/spanish/",
-                "tags": [
-                    "pro",
-                    "magazine",
-                    "spanish"
-                ]
-            },
-            {
-                "slug": "russian",
-                "title": "ChromeNews Pro",
-                "category": "Blog",
-                "subtitle": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
-                "url": "https://demos.afthemes.com/chromenews-pro/russian/",
-                "tags": [
-                    "pro",
-                    "magazine",
-                    "russian"
-                ]
-            },
-            {
-                "slug": "japanese",
-                "title": "ChromeNews Pro",
-                "category": "Blog",
-                "subtitle": "日本語",
-                "url": "https://demos.afthemes.com/chromenews-pro/japanese/",
-                "tags": [
-                    "pro",
-                    "magazine",
-                    "japanese"
-                ]
-            },
-            {
-                "slug": "nepali",
-                "title": "ChromeNews Pro",
-                "category": "Blog",
-                "subtitle": "नेपाली",
-                "url": "https://demos.afthemes.com/chromenews-pro/nepali/",
-                "tags": [
-                    "pro",
-                    "magazine",
-                    "nepali"
-                ]
-            },
-            {
-                "slug": "german",
-                "title": "ChromeNews Pro",
-                "category": "Blog",
-                "subtitle": "Deutsch",
-                "url": "https://demos.afthemes.com/chromenews-pro/german/",
-                "tags": [
-                    "pro",
-                    "magazine",
-                    "german"
-                ]
-            },
-            {
-                "slug": "restaurant",
-                "title": "ChromeNews Pro",
-                "category": "Blog",
-                "subtitle": "Restaurant Pro",
-                "url": "https://demos.afthemes.com/chromenews-pro/recipe/",
-                "tags": [
-                    "pro",
-                    "magazine",
-                    "food"
-                ]
-            },
-            {
-                "slug": "gaming",
-                "title": "ChromeNews Pro",
-                "category": "Blog",
-                "subtitle": "Gaming Pro",
-                "url": "https://demos.afthemes.com/chromenews-pro/gaming/",
-                "tags": [
-                    "pro",
-                    "blog",
-                    "game"
-                ]
-            },
-            {
-                "slug": "automobile",
-                "title": "ChromeNews Pro",
-                "category": "Blog",
-                "subtitle": "Automobile Pro",
-                "url": "https://demos.afthemes.com/chromenews-pro/automobile/",
-                "tags": [
-                    "pro",
-                    "blog",
-                    "automobile"
-                ]
-            },
-            {
-                "slug": "online-news",
-                "title": "ChromeNews Pro",
-                "category": "General",
-                "subtitle": "Online News Pro",
-                "url": "https://demos.afthemes.com/chromenews-pro/online-news/",
-                "tags": [
-                    "pro",
-                    "magazine",
-                    "news"
-                ]
-            },
-            {
-                "slug": "construction-blog",
-                "title": "ChromeNews Pro",
-                "category": "Blog",
-                "subtitle": "Construction Blog Pro",
-                "url": "https://demos.afthemes.com/chromenews-pro/construction-blog/",
-                "tags": [
-                    "pro",
-                    "magazine",
-                    "construction"
-                ]
-            },
-            {
-                "slug": "business",
-                "title": "ChromeNews Pro",
-                "category": "Elementor",
-                "subtitle": "Businsess News Pro",
-                "url": "https://demos.afthemes.com/chromenews-pro/business/",
-                "tags": [
-                    "pro",
-                    "news",
-                    "business",
-                    "elementor"
-                ],
-                "builder": "elementor"
-            },
-            {
-                "slug": "charity",
-                "title": "ChromeNews Pro",
-                "category": "Blockspare",
-                "subtitle": "Charity Pro",
-                "url": "https://demos.afthemes.com/chromenews-pro/charity/",
-                "tags": [
-                    "pro",
-                    "blog",
-                    "gutenberg"
-                ],
-                "builder": "blockspare"
-            },
-            {
-                "slug": "travel",
-                "title": "ChromeNews Pro",
-                "category": "Elementor",
-                "subtitle": "Travel Pro",
-                "url": "https://demos.afthemes.com/chromenews-pro/travel/",
-                "tags": [
-                    "pro",
-                    "magazine",
-                    "travel",
-                    "elementor"
-                ],
-                "builder": "elementor"
-            },
-            {
-                "slug": "crypto-news",
-                "title": "ChromeNews Pro",
-                "category": "Elementor",
-                "subtitle": "Crypto News Pro",
-                "url": "https://demos.afthemes.com/chromenews-pro/crypto-news/",
-                "tags": [
-                    "pro",
-                    "news",
-                    "business",
-                    "elementor"
-                ],
-                "builder": "elementor"
-            },
-            {
-                "slug": "beauty",
-                "title": "ChromeNews Pro",
-                "category": "Elementor",
-                "subtitle": "Beauty Pro",
-                "url": "https://demos.afthemes.com/chromenews-pro/beauty/",
-                "tags": [
-                    "pro",
-                    "magazine",
-                    "fashion",
-                    "elementor"
-                ],
-                "builder": "elementor"
-            },
-            {
-                "slug": "covid-19",
-                "title": "ChromeNews Pro",
-                "category": "Elementor",
-                "subtitle": "Covid-19 Pro",
-                "url": "https://demos.afthemes.com/chromenews-pro/covid-19/",
-                "tags": [
-                    "pro",
-                    "magazine",
-                    "covid",
-                    "elementor"
-                ],
-                "builder": "elementor"
-            },
-            {
-                "slug": "gadgets",
-                "title": "ChromeNews Pro",
-                "category": "Elementor",
-                "subtitle": "Gadgets Pro",
-                "url": "https://demos.afthemes.com/chromenews-pro/gadgets/",
-                "tags": [
-                    "pro",
-                    "business",
-                    "news",
-                    "elementor"
-                ],
-                "builder": "elementor"
-            }
-        ]
-    },
     "broadnews": {
         "free": "broadnews",
         "premium": "broadnews-pro",
@@ -4369,6 +4188,187 @@
                     "pro",
                     "magazine",
                     "chinese"
+                ]
+            }
+        ]
+    },
+    "kreeti": {
+        "free": "kreeti-lite",
+        "premium": "kreeti",
+        "demodata": [
+            {
+                "slug": "kreeti",
+                "title": "Kreeti",
+                "category": "General",
+                "subtitle": "Kreeti",
+                "url": "https://demos.afthemes.com/kreeti/",
+                "tags": [
+                    "pro",
+                    "magazine",
+                    "news"
+                ]
+            },
+            {
+                "slug": "dark",
+                "title": "Kreeti",
+                "category": "General",
+                "subtitle": "Dark",
+                "url": "https://demos.afthemes.com/kreeti/dark/",
+                "tags": [
+                    "pro",
+                    "magazine",
+                    "dark"
+                ]
+            },
+            {
+                "slug": "fashion",
+                "title": "Kreeti",
+                "category": "Fashion",
+                "subtitle": "Fashion",
+                "url": "https://demos.afthemes.com/kreeti/fashion/",
+                "tags": [
+                    "pro",
+                    "magazine",
+                    "fashion"
+                ]
+            },
+            {
+                "slug": "sport",
+                "title": "Kreeti",
+                "category": "Sport",
+                "subtitle": "Sport",
+                "url": "https://demos.afthemes.com/kreeti/sport/",
+                "tags": [
+                    "pro",
+                    "magazine",
+                    "sport"
+                ]
+            },
+            {
+                "slug": "travel",
+                "title": "Kreeti",
+                "category": "Blog",
+                "subtitle": "Travel",
+                "url": "https://demos.afthemes.com/kreeti/travel/",
+                "tags": [
+                    "pro",
+                    "blog",
+                    "travel"
+                ]
+            },
+            {
+                "slug": "wedding",
+                "title": "Kreeti",
+                "category": "Blog",
+                "subtitle": "Wedding",
+                "url": "https://demos.afthemes.com/kreeti/wedding/",
+                "tags": [
+                    "pro",
+                    "blog",
+                    "general"
+                ]
+            },
+            {
+                "slug": "business-news",
+                "title": "Kreeti",
+                "category": "Business",
+                "subtitle": "Business News",
+                "url": "https://demos.afthemes.com/kreeti/business-news",
+                "tags": [
+                    "pro",
+                    "news",
+                    "business"
+                ]
+            },
+            {
+                "slug": "lifestyle",
+                "title": "Kreeti",
+                "category": "Blog",
+                "subtitle": "Lifestyle",
+                "url": "https://demos.afthemes.com/kreeti/lifestyle/",
+                "tags": [
+                    "pro",
+                    "magazine",
+                    "general"
+                ]
+            },
+            {
+                "slug": "recipe",
+                "title": "Kreeti",
+                "category": "Blog",
+                "subtitle": "Recipe",
+                "url": "https://demos.afthemes.com/kreeti/recipe/",
+                "tags": [
+                    "pro",
+                    "food",
+                    "general"
+                ]
+            }
+        ]
+    },
+    "kreeti-lite": {
+        "free": "kreeti-lite",
+        "premium": "kreeti",
+        "demodata": [
+            {
+                "slug": "kreeti-lite",
+                "title": "Kreeti Lite",
+                "category": "General",
+                "subtitle": "Kreeti Lite",
+                "url": "https://demos.afthemes.com/kreeti-lite/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "news"
+                ]
+            },
+            {
+                "slug": "sport",
+                "title": "Kreeti Lite",
+                "category": "Sport",
+                "subtitle": "Sport",
+                "url": "https://demos.afthemes.com/kreeti-lite/sport/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "sport"
+                ]
+            },
+            {
+                "slug": "fashion",
+                "title": "Kreeti Lite",
+                "category": "Fashion",
+                "subtitle": "Fashion",
+                "url": "https://demos.afthemes.com/kreeti-lite/fashion/",
+                "tags": [
+                    "free",
+                    "news",
+                    "fashion"
+                ]
+            },
+            {
+                "slug": "gadgets",
+                "title": "Kreeti Lite",
+                "category": "Business",
+                "subtitle": "Gadgets",
+                "url": "https://demos.afthemes.com/kreeti-lite/gadgets",
+                "tags": [
+                    "free",
+                    "tech",
+                    "gadget",
+                    "business"
+                ]
+            },
+            {
+                "slug": "wedding",
+                "title": "Kreeti Lite",
+                "category": "Blog",
+                "subtitle": "Wedding",
+                "url": "https://demos.afthemes.com/kreeti-lite/wedding/",
+                "tags": [
+                    "free",
+                    "blog",
+                    "general"
                 ]
             }
         ]

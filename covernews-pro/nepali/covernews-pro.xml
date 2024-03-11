@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.4.2" created="2023-12-27 08:11" -->
+	<!-- generator="WordPress/6.4.3" created="2024-03-05 08:58" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>नेपाली समाचार</title>
 	<link>https://demos.afthemes.com/covernews-pro/nepali</link>
 	<description></description>
-	<pubDate>Wed, 27 Dec 2023 08:11:46 +0000</pubDate>
+	<pubDate>Tue, 05 Mar 2024 08:58:17 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.afthemes.com/covernews-pro/</wp:base_site_url>
@@ -391,7 +391,7 @@
 	<wp:term><wp:term_id>29</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Social menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
 	<url>https://demos.afthemes.com/covernews-pro/nepali/wp-content/uploads/sites/30/2018/11/cropped-af-themes-logo-150x150.png</url>
@@ -587,100 +587,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://instagram.com/afthemes]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Linkedin]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/nepali/2018/07/18/linkedin/</link>
-		<pubDate>Wed, 18 Jul 2018 12:08:58 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=48</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-						]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
-		<wp:post_id>48</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-18 12:08:58]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-07-18 12:08:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-07-18 12:08:58]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-07-18 12:08:58]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[linkedin]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="social-menu-items"><![CDATA[Social menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[48]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://linkedin.com/afthemes]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[VK]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/nepali/2018/07/18/vk/</link>
-		<pubDate>Wed, 18 Jul 2018 12:10:43 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=52</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-						]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
-		<wp:post_id>52</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-18 12:10:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-07-18 12:10:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-07-18 12:10:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-07-18 12:10:43]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[vk]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="social-menu-items"><![CDATA[Social menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[52]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://vk.com/afthemes]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1131,6 +1037,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:898;s:4:"file";s:39:"2018/04/pexels-mick-latter-13650411.jpg";s:8:"filesize";i:242762;s:5:"sizes";a:9:{s:6:"medium";a:5:{s:4:"file";s:39:"pexels-mick-latter-13650411-300x210.jpg";s:5:"width";i:300;s:6:"height";i:210;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21597;}s:5:"large";a:5:{s:4:"file";s:40:"pexels-mick-latter-13650411-1024x718.jpg";s:5:"width";i:1024;s:6:"height";i:718;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:191262;}s:9:"thumbnail";a:5:{s:4:"file";s:39:"pexels-mick-latter-13650411-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8136;}s:12:"medium_large";a:5:{s:4:"file";s:39:"pexels-mick-latter-13650411-768x539.jpg";s:5:"width";i:768;s:6:"height";i:539;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:118148;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:40:"pexels-mick-latter-13650411-1115x715.jpg";s:5:"width";i:1115;s:6:"height";i:715;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:204736;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:39:"pexels-mick-latter-13650411-800x500.jpg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:115230;}s:18:"covernews-featured";a:5:{s:4:"file";s:40:"pexels-mick-latter-13650411-1024x718.jpg";s:5:"width";i:1024;s:6:"height";i:718;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:191262;}s:16:"covernews-medium";a:5:{s:4:"file";s:39:"pexels-mick-latter-13650411-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:57907;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:39:"pexels-mick-latter-13650411-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:33367;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[cropped-pexels-sulav-loktam-4360449.jpg]]></title>
@@ -1178,489 +1088,171 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[वेस्टमिन्स्टर ब्रिजमा मलाई समात्ने 'परी' खोज्दै]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/nepali/2018/07/18/searching-for-the-angel-who-held-me-on-westminster-bridge/</link>
-		<pubDate>Wed, 18 Jul 2018 11:10:42 +0000</pubDate>
+		<title><![CDATA[pexels-mehmet-turgut-kirkgoz-11408377 (1)]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/nepali/pexels-mehmet-turgut-kirkgoz-11408377-1/</link>
+		<pubDate>Wed, 24 Jan 2024 12:00:54 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=12</guid>
+		<guid isPermaLink="false">https://demos.afthemes.com/covernews-pro/nepali/wp-content/uploads/sites/30/2024/01/pexels-mehmet-turgut-kirkgoz-11408377-1.jpg</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>२०७९ जेठदेखि २०८० असारसम्म त्रिविअन्तर्गतका विभिन्न संकायका विभिन्न तह उत्तीर्ण गरेका ७३ हजार ७ सय ४९ छात्रछात्रा सोमबार दीक्षित भएका हुन् । समारोहमा सहभागी हुन आवेदन दिएकामध्ये १२ हजार ४ सय १५ विद्यार्थी सहभागी भएको परीक्षा नियन्त्रक पुष्पराज जोशीले बताए । यो संख्या विश्वमै सबैभन्दा धेरै भएको त्रिविको दाबी छ ।</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>कीर्तिमान बनेको भन्दै समारोहका प्रमुख अतिथि राष्ट्रपति रामचन्द्र पौडेल, कुलपति तथा प्रधानमन्त्री पुष्पकमल दाहाल, उपकुलपतिको जिम्मेवारीमा रहेका शिवलाल भुसाल मात्र होइन त्रिविका प्राध्यापक, कर्मचारी पनि पुलकित देखिन्थे । विश्वमा नै सबैभन्दा धेरै विद्यार्थी दीक्षित गर्ने विश्वविद्यालयका रूपमा अफिसियल वर्ल्ड रेकर्ड नामक एक संस्थाले प्रमाणपत्र दिएको परीक्षा नियन्त्रक जोशीले बताएका थिए । ‘त्यही प्रमाणपत्रका आधारमा गिनिज बुक अफ वल्ड रेकर्डमा समेत रेकर्ड कायम गर्ने प्रक्रियामा छौं,’ उनले भने । जबकि यसअघि नाम र काम नै थाहा नभएको यो संस्थाको आधिकारितामाथि नै शंका छ ।</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>प्राज्ञिक अभ्यास र शैक्षिक गुणस्तरमा क्षमतावान हुनुपर्ने विश्वविद्यालय औचित्य र आधिकारिकता नभएको कीर्तिमानको पछि लागेको भन्दै धेरैले आलोचना गरेका छन् । ‘दीक्षान्त कार्यक्रम भनेको त एउटा उत्साह र औपचारिक कार्यक्रम मात्र हो,’ उनले भने, ‘त्यहाँ कति विद्यार्थी सहभागी भए/भएनन् त्यसको महत्त्व शैक्षिक गुणस्तरमा हुन्छ र ?,’ पूर्वउपकुलपति हीराबहादुर महर्जनले भने ।</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,  At vero eos et accusam et justo duo dolores et ea rebum.  Lorem ipsum dolor sit amet,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  Stet clita kasd gubergren,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  sed diam voluptua.  		]]></excerpt:encoded>
-		<wp:post_id>12</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-18 11:10:42]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-07-18 11:10:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-19 10:25:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-19 10:25:30]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[searching-for-the-angel-who-held-me-on-westminster-bridge]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>771</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-24 12:00:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-24 12:00:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-01-24 12:00:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-01-24 12:00:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[pexels-mehmet-turgut-kirkgoz-11408377-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="stories"><![CDATA[कथाहरू]]></category>
-		<category domain="post_tag" nicename="stories"><![CDATA[कथाहरू]]></category>
-		<category domain="post_tag" nicename="newsbeat"><![CDATA[न्यूजबिट]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[estory-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews-pro/nepali/wp-content/uploads/sites/30/2024/01/pexels-mehmet-turgut-kirkgoz-11408377-1-scaled.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/01/pexels-mehmet-turgut-kirkgoz-11408377-1-scaled.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[searching-for-the-angel-who-held-me-on-westminster-bridge__trashed]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_987369a2f3470dcc2a3785ae9004fce7]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<iframe title="Fire extinguishers and soap at Hong Kong protest - BBC News" width="640" height="360" src="https://www.youtube.com/embed/e3YQxqgzTKU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_time_987369a2f3470dcc2a3785ae9004fce7]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1567577654]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[753]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[covernews-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[covernews-meta-content-mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:7:{s:5:"width";i:2560;s:6:"height";i:1440;s:4:"file";s:58:"2024/01/pexels-mehmet-turgut-kirkgoz-11408377-1-scaled.jpg";s:8:"filesize";i:623054;s:5:"sizes";a:11:{s:6:"medium";a:5:{s:4:"file";s:51:"pexels-mehmet-turgut-kirkgoz-11408377-1-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15867;}s:5:"large";a:5:{s:4:"file";s:52:"pexels-mehmet-turgut-kirkgoz-11408377-1-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:128144;}s:9:"thumbnail";a:5:{s:4:"file";s:51:"pexels-mehmet-turgut-kirkgoz-11408377-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7699;}s:12:"medium_large";a:5:{s:4:"file";s:51:"pexels-mehmet-turgut-kirkgoz-11408377-1-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:77613;}s:9:"1536x1536";a:5:{s:4:"file";s:52:"pexels-mehmet-turgut-kirkgoz-11408377-1-1536x864.jpg";s:5:"width";i:1536;s:6:"height";i:864;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:261010;}s:9:"2048x2048";a:5:{s:4:"file";s:53:"pexels-mehmet-turgut-kirkgoz-11408377-1-2048x1152.jpg";s:5:"width";i:2048;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:426727;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:52:"pexels-mehmet-turgut-kirkgoz-11408377-1-1115x715.jpg";s:5:"width";i:1115;s:6:"height";i:715;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:167217;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:51:"pexels-mehmet-turgut-kirkgoz-11408377-1-800x500.jpg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:90979;}s:18:"covernews-featured";a:5:{s:4:"file";s:52:"pexels-mehmet-turgut-kirkgoz-11408377-1-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:128144;}s:16:"covernews-medium";a:5:{s:4:"file";s:51:"pexels-mehmet-turgut-kirkgoz-11408377-1-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:46455;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:51:"pexels-mehmet-turgut-kirkgoz-11408377-1-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:26879;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:14:"original_image";s:43:"pexels-mehmet-turgut-kirkgoz-11408377-1.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[तपाईंले पेनाल्टी शूटआउट बारे जान्न आवश्यक छ]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/nepali/2018/07/18/all-you-need-to-know-about-penalty-shootouts/</link>
-		<pubDate>Wed, 18 Jul 2018 11:16:45 +0000</pubDate>
+		<title><![CDATA[pexels-bijay-chaurasia-13061761 (1) (1)]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/nepali/pexels-bijay-chaurasia-13061761-1-1/</link>
+		<pubDate>Wed, 24 Jan 2024 12:18:02 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=15</guid>
+		<guid isPermaLink="false">https://demos.afthemes.com/covernews-pro/nepali/wp-content/uploads/sites/30/2024/01/pexels-bijay-chaurasia-13061761-1-1.jpg</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>२०७९ जेठदेखि २०८० असारसम्म त्रिविअन्तर्गतका विभिन्न संकायका विभिन्न तह उत्तीर्ण गरेका ७३ हजार ७ सय ४९ छात्रछात्रा सोमबार दीक्षित भएका हुन् । समारोहमा सहभागी हुन आवेदन दिएकामध्ये १२ हजार ४ सय १५ विद्यार्थी सहभागी भएको परीक्षा नियन्त्रक पुष्पराज जोशीले बताए । यो संख्या विश्वमै सबैभन्दा धेरै भएको त्रिविको दाबी छ ।</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>कीर्तिमान बनेको भन्दै समारोहका प्रमुख अतिथि राष्ट्रपति रामचन्द्र पौडेल, कुलपति तथा प्रधानमन्त्री पुष्पकमल दाहाल, उपकुलपतिको जिम्मेवारीमा रहेका शिवलाल भुसाल मात्र होइन त्रिविका प्राध्यापक, कर्मचारी पनि पुलकित देखिन्थे । विश्वमा नै सबैभन्दा धेरै विद्यार्थी दीक्षित गर्ने विश्वविद्यालयका रूपमा अफिसियल वर्ल्ड रेकर्ड नामक एक संस्थाले प्रमाणपत्र दिएको परीक्षा नियन्त्रक जोशीले बताएका थिए । ‘त्यही प्रमाणपत्रका आधारमा गिनिज बुक अफ वल्ड रेकर्डमा समेत रेकर्ड कायम गर्ने प्रक्रियामा छौं,’ उनले भने । जबकि यसअघि नाम र काम नै थाहा नभएको यो संस्थाको आधिकारितामाथि नै शंका छ ।</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>प्राज्ञिक अभ्यास र शैक्षिक गुणस्तरमा क्षमतावान हुनुपर्ने विश्वविद्यालय औचित्य र आधिकारिकता नभएको कीर्तिमानको पछि लागेको भन्दै धेरैले आलोचना गरेका छन् । ‘दीक्षान्त कार्यक्रम भनेको त एउटा उत्साह र औपचारिक कार्यक्रम मात्र हो,’ उनले भने, ‘त्यहाँ कति विद्यार्थी सहभागी भए/भएनन् त्यसको महत्त्व शैक्षिक गुणस्तरमा हुन्छ र ?,’ पूर्वउपकुलपति हीराबहादुर महर्जनले भने ।</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,  At vero eos et accusam et justo duo dolores et ea rebum.  Lorem ipsum dolor sit amet,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  Stet clita kasd gubergren,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  sed diam voluptua.  		]]></excerpt:encoded>
-		<wp:post_id>15</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-18 11:16:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-07-18 11:16:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-19 09:54:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-19 09:54:35]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[all-you-need-to-know-about-penalty-shootouts]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>777</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-24 12:18:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-24 12:18:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-01-24 12:18:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-01-24 12:18:02]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[pexels-bijay-chaurasia-13061761-1-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="sports"><![CDATA[खेलकुद]]></category>
-		<category domain="post_tag" nicename="sport"><![CDATA[खेलकुद]]></category>
-		<category domain="post_tag" nicename="newsbeat"><![CDATA[न्यूजबिट]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[estory-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews-pro/nepali/wp-content/uploads/sites/30/2024/01/pexels-bijay-chaurasia-13061761-1-1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/01/pexels-bijay-chaurasia-13061761-1-1.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[8]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:844;s:4:"file";s:47:"2024/01/pexels-bijay-chaurasia-13061761-1-1.jpg";s:8:"filesize";i:738543;s:5:"sizes";a:9:{s:6:"medium";a:5:{s:4:"file";s:47:"pexels-bijay-chaurasia-13061761-1-1-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14005;}s:5:"large";a:5:{s:4:"file";s:48:"pexels-bijay-chaurasia-13061761-1-1-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:140572;}s:9:"thumbnail";a:5:{s:4:"file";s:47:"pexels-bijay-chaurasia-13061761-1-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7352;}s:12:"medium_large";a:5:{s:4:"file";s:47:"pexels-bijay-chaurasia-13061761-1-1-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:81274;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:48:"pexels-bijay-chaurasia-13061761-1-1-1115x715.jpg";s:5:"width";i:1115;s:6:"height";i:715;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:193668;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:47:"pexels-bijay-chaurasia-13061761-1-1-800x500.jpg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:102085;}s:18:"covernews-featured";a:5:{s:4:"file";s:48:"pexels-bijay-chaurasia-13061761-1-1-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:140572;}s:16:"covernews-medium";a:5:{s:4:"file";s:47:"pexels-bijay-chaurasia-13061761-1-1-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:48682;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:47:"pexels-bijay-chaurasia-13061761-1-1-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:26973;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_covernews-pro]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1706098713]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_987369a2f3470dcc2a3785ae9004fce7]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<iframe title="Fire extinguishers and soap at Hong Kong protest - BBC News" width="640" height="360" src="https://www.youtube.com/embed/e3YQxqgzTKU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_time_987369a2f3470dcc2a3785ae9004fce7]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1567577647]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[752]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[covernews-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[covernews-meta-content-mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>2</wp:comment_id>
-			<wp:comment_author><![CDATA[wea]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[w@ee.pp]]></wp:comment_author_email>
-			<wp:comment_author_url>http://wearea</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[46.232.132.150]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2019-02-07 08:26:45]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2019-02-07 08:26:45]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[era]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
-					<item>
-		<title><![CDATA[हजारौं मानिसलाई एचआईभीबाट बचाउने व्यक्ति]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/nepali/2018/07/18/the-man-who-saved-thousands-of-people-from-hiv/</link>
-		<pubDate>Wed, 18 Jul 2018 11:24:54 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=18</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>२०७९ जेठदेखि २०८० असारसम्म त्रिविअन्तर्गतका विभिन्न संकायका विभिन्न तह उत्तीर्ण गरेका ७३ हजार ७ सय ४९ छात्रछात्रा सोमबार दीक्षित भएका हुन् । समारोहमा सहभागी हुन आवेदन दिएकामध्ये १२ हजार ४ सय १५ विद्यार्थी सहभागी भएको परीक्षा नियन्त्रक पुष्पराज जोशीले बताए । यो संख्या विश्वमै सबैभन्दा धेरै भएको त्रिविको दाबी छ ।</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>कीर्तिमान बनेको भन्दै समारोहका प्रमुख अतिथि राष्ट्रपति रामचन्द्र पौडेल, कुलपति तथा प्रधानमन्त्री पुष्पकमल दाहाल, उपकुलपतिको जिम्मेवारीमा रहेका शिवलाल भुसाल मात्र होइन त्रिविका प्राध्यापक, कर्मचारी पनि पुलकित देखिन्थे । विश्वमा नै सबैभन्दा धेरै विद्यार्थी दीक्षित गर्ने विश्वविद्यालयका रूपमा अफिसियल वर्ल्ड रेकर्ड नामक एक संस्थाले प्रमाणपत्र दिएको परीक्षा नियन्त्रक जोशीले बताएका थिए । ‘त्यही प्रमाणपत्रका आधारमा गिनिज बुक अफ वल्ड रेकर्डमा समेत रेकर्ड कायम गर्ने प्रक्रियामा छौं,’ उनले भने । जबकि यसअघि नाम र काम नै थाहा नभएको यो संस्थाको आधिकारितामाथि नै शंका छ ।</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>प्राज्ञिक अभ्यास र शैक्षिक गुणस्तरमा क्षमतावान हुनुपर्ने विश्वविद्यालय औचित्य र आधिकारिकता नभएको कीर्तिमानको पछि लागेको भन्दै धेरैले आलोचना गरेका छन् । ‘दीक्षान्त कार्यक्रम भनेको त एउटा उत्साह र औपचारिक कार्यक्रम मात्र हो,’ उनले भने, ‘त्यहाँ कति विद्यार्थी सहभागी भए/भएनन् त्यसको महत्त्व शैक्षिक गुणस्तरमा हुन्छ र ?,’ पूर्वउपकुलपति हीराबहादुर महर्जनले भने ।</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,  At vero eos et accusam et justo duo dolores et ea rebum.  Lorem ipsum dolor sit amet,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  Stet clita kasd gubergren,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  sed diam voluptua.  		]]></excerpt:encoded>
-		<wp:post_id>18</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-18 11:24:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-07-18 11:24:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-19 09:50:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-19 09:50:40]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[the-man-who-saved-thousands-of-people-from-hiv]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="science"><![CDATA[विज्ञान]]></category>
-		<category domain="post_tag" nicename="science"><![CDATA[विज्ञान]]></category>
-		<category domain="post_tag" nicename="health"><![CDATA[स्वास्थ्य]]></category>
-		<category domain="category" nicename="health"><![CDATA[स्वास्थ्य]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[estory-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_987369a2f3470dcc2a3785ae9004fce7]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<iframe title="Fire extinguishers and soap at Hong Kong protest - BBC News" width="640" height="360" src="https://www.youtube.com/embed/e3YQxqgzTKU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_time_987369a2f3470dcc2a3785ae9004fce7]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1567577636]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[751]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[covernews-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[covernews-meta-content-mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[covernews-pro]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[दोस्रो विश्वयुद्धका बिर्सिएका नायकहरूको खोजी गर्दै]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/nepali/2018/07/18/searching-for-the-forgotten-heroes-of-world-war-two/</link>
-		<pubDate>Wed, 18 Jul 2018 11:26:28 +0000</pubDate>
+		<title><![CDATA[Linkedin]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/nepali/2018/07/18/linkedin/</link>
+		<pubDate>Wed, 18 Jul 2018 12:08:58 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=21</guid>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=48</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>२०७९ जेठदेखि २०८० असारसम्म त्रिविअन्तर्गतका विभिन्न संकायका विभिन्न तह उत्तीर्ण गरेका ७३ हजार ७ सय ४९ छात्रछात्रा सोमबार दीक्षित भएका हुन् । समारोहमा सहभागी हुन आवेदन दिएकामध्ये १२ हजार ४ सय १५ विद्यार्थी सहभागी भएको परीक्षा नियन्त्रक पुष्पराज जोशीले बताए । यो संख्या विश्वमै सबैभन्दा धेरै भएको त्रिविको दाबी छ ।</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>कीर्तिमान बनेको भन्दै समारोहका प्रमुख अतिथि राष्ट्रपति रामचन्द्र पौडेल, कुलपति तथा प्रधानमन्त्री पुष्पकमल दाहाल, उपकुलपतिको जिम्मेवारीमा रहेका शिवलाल भुसाल मात्र होइन त्रिविका प्राध्यापक, कर्मचारी पनि पुलकित देखिन्थे । विश्वमा नै सबैभन्दा धेरै विद्यार्थी दीक्षित गर्ने विश्वविद्यालयका रूपमा अफिसियल वर्ल्ड रेकर्ड नामक एक संस्थाले प्रमाणपत्र दिएको परीक्षा नियन्त्रक जोशीले बताएका थिए । ‘त्यही प्रमाणपत्रका आधारमा गिनिज बुक अफ वल्ड रेकर्डमा समेत रेकर्ड कायम गर्ने प्रक्रियामा छौं,’ उनले भने । जबकि यसअघि नाम र काम नै थाहा नभएको यो संस्थाको आधिकारितामाथि नै शंका छ ।</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>प्राज्ञिक अभ्यास र शैक्षिक गुणस्तरमा क्षमतावान हुनुपर्ने विश्वविद्यालय औचित्य र आधिकारिकता नभएको कीर्तिमानको पछि लागेको भन्दै धेरैले आलोचना गरेका छन् । ‘दीक्षान्त कार्यक्रम भनेको त एउटा उत्साह र औपचारिक कार्यक्रम मात्र हो,’ उनले भने, ‘त्यहाँ कति विद्यार्थी सहभागी भए/भएनन् त्यसको महत्त्व शैक्षिक गुणस्तरमा हुन्छ र ?,’ पूर्वउपकुलपति हीराबहादुर महर्जनले भने ।</p>
-<!-- /wp:paragraph -->]]></content:encoded>
+		<content:encoded><![CDATA[
+						]]></content:encoded>
 		<excerpt:encoded><![CDATA[
-				Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,  At vero eos et accusam et justo duo dolores et ea rebum.  Lorem ipsum dolor sit amet,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  Stet clita kasd gubergren,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  sed diam voluptua.  		]]></excerpt:encoded>
-		<wp:post_id>21</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-18 11:26:28]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-07-18 11:26:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-19 09:13:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-19 09:13:28]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[searching-for-the-forgotten-heroes-of-world-war-two]]></wp:post_name>
+						]]></excerpt:encoded>
+		<wp:post_id>48</wp:post_id>
+		<wp:post_date><![CDATA[2018-07-18 12:08:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-07-18 12:08:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 12:08:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 12:08:58]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[linkedin]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_format" nicename="post-format-gallery"><![CDATA[Gallery]]></category>
-		<category domain="post_tag" nicename="newsbeat"><![CDATA[न्यूजबिट]]></category>
-		<category domain="category" nicename="newsbeat"><![CDATA[न्यूजबिट]]></category>
-		<category domain="category" nicename="world"><![CDATA[संसार]]></category>
-		<category domain="post_tag" nicename="world"><![CDATA[संसार]]></category>
+										<category domain="nav_menu" nicename="social-menu-items"><![CDATA[Social menu items]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[750]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[estory-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[48]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[195]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_987369a2f3470dcc2a3785ae9004fce7]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<iframe title="Fire extinguishers and soap at Hong Kong protest - BBC News" width="640" height="360" src="https://www.youtube.com/embed/e3YQxqgzTKU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_time_987369a2f3470dcc2a3785ae9004fce7]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1567577622]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_bj_lazy_load_skip_post]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[covernews-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[covernews-meta-content-mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://linkedin.com/afthemes]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[‘कसैले विद्यालय जलाउने धम्की’]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/nepali/2018/07/18/somebody-threatened-to-burn-the-school-down/</link>
-		<pubDate>Wed, 18 Jul 2018 11:38:06 +0000</pubDate>
+		<title><![CDATA[VK]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/nepali/2018/07/18/vk/</link>
+		<pubDate>Wed, 18 Jul 2018 12:10:43 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=24</guid>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=52</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>२०७९ जेठदेखि २०८० असारसम्म त्रिविअन्तर्गतका विभिन्न संकायका विभिन्न तह उत्तीर्ण गरेका ७३ हजार ७ सय ४९ छात्रछात्रा सोमबार दीक्षित भएका हुन् । समारोहमा सहभागी हुन आवेदन दिएकामध्ये १२ हजार ४ सय १५ विद्यार्थी सहभागी भएको परीक्षा नियन्त्रक पुष्पराज जोशीले बताए । यो संख्या विश्वमै सबैभन्दा धेरै भएको त्रिविको दाबी छ ।</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>कीर्तिमान बनेको भन्दै समारोहका प्रमुख अतिथि राष्ट्रपति रामचन्द्र पौडेल, कुलपति तथा प्रधानमन्त्री पुष्पकमल दाहाल, उपकुलपतिको जिम्मेवारीमा रहेका शिवलाल भुसाल मात्र होइन त्रिविका प्राध्यापक, कर्मचारी पनि पुलकित देखिन्थे । विश्वमा नै सबैभन्दा धेरै विद्यार्थी दीक्षित गर्ने विश्वविद्यालयका रूपमा अफिसियल वर्ल्ड रेकर्ड नामक एक संस्थाले प्रमाणपत्र दिएको परीक्षा नियन्त्रक जोशीले बताएका थिए । ‘त्यही प्रमाणपत्रका आधारमा गिनिज बुक अफ वल्ड रेकर्डमा समेत रेकर्ड कायम गर्ने प्रक्रियामा छौं,’ उनले भने । जबकि यसअघि नाम र काम नै थाहा नभएको यो संस्थाको आधिकारितामाथि नै शंका छ ।</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>प्राज्ञिक अभ्यास र शैक्षिक गुणस्तरमा क्षमतावान हुनुपर्ने विश्वविद्यालय औचित्य र आधिकारिकता नभएको कीर्तिमानको पछि लागेको भन्दै धेरैले आलोचना गरेका छन् । ‘दीक्षान्त कार्यक्रम भनेको त एउटा उत्साह र औपचारिक कार्यक्रम मात्र हो,’ उनले भने, ‘त्यहाँ कति विद्यार्थी सहभागी भए/भएनन् त्यसको महत्त्व शैक्षिक गुणस्तरमा हुन्छ र ?,’ पूर्वउपकुलपति हीराबहादुर महर्जनले भने ।</p>
-<!-- /wp:paragraph -->]]></content:encoded>
+		<content:encoded><![CDATA[
+						]]></content:encoded>
 		<excerpt:encoded><![CDATA[
-				Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,  At vero eos et accusam et justo duo dolores et ea rebum.  Lorem ipsum dolor sit amet,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  Stet clita kasd gubergren,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  sed diam voluptua.  		]]></excerpt:encoded>
-		<wp:post_id>24</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-18 11:38:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-07-18 11:38:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-19 08:25:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-19 08:25:51]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[somebody-threatened-to-burn-the-school-down]]></wp:post_name>
+						]]></excerpt:encoded>
+		<wp:post_id>52</wp:post_id>
+		<wp:post_date><![CDATA[2018-07-18 12:10:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-07-18 12:10:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 12:10:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 12:10:43]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[vk]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
-		<category domain="post_tag" nicename="newsbeat"><![CDATA[न्यूजबिट]]></category>
-		<category domain="category" nicename="newsbeat"><![CDATA[न्यूजबिट]]></category>
+										<category domain="nav_menu" nicename="social-menu-items"><![CDATA[Social menu items]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[749]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[estory-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[52]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[8]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_987369a2f3470dcc2a3785ae9004fce7]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<iframe title="Fire extinguishers and soap at Hong Kong protest - BBC News" width="640" height="360" src="https://www.youtube.com/embed/e3YQxqgzTKU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_time_987369a2f3470dcc2a3785ae9004fce7]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1567577615]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[covernews-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[covernews-meta-content-mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[ट्रम्प-पुटिन: बुझ्न सकिने कथा]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/nepali/2018/07/18/trump-putin-your-toolkit-to-help-understand-the-story/</link>
-		<pubDate>Wed, 18 Jul 2018 11:41:47 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=27</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>२०७९ जेठदेखि २०८० असारसम्म त्रिविअन्तर्गतका विभिन्न संकायका विभिन्न तह उत्तीर्ण गरेका ७३ हजार ७ सय ४९ छात्रछात्रा सोमबार दीक्षित भएका हुन् । समारोहमा सहभागी हुन आवेदन दिएकामध्ये १२ हजार ४ सय १५ विद्यार्थी सहभागी भएको परीक्षा नियन्त्रक पुष्पराज जोशीले बताए । यो संख्या विश्वमै सबैभन्दा धेरै भएको त्रिविको दाबी छ ।</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>कीर्तिमान बनेको भन्दै समारोहका प्रमुख अतिथि राष्ट्रपति रामचन्द्र पौडेल, कुलपति तथा प्रधानमन्त्री पुष्पकमल दाहाल, उपकुलपतिको जिम्मेवारीमा रहेका शिवलाल भुसाल मात्र होइन त्रिविका प्राध्यापक, कर्मचारी पनि पुलकित देखिन्थे । विश्वमा नै सबैभन्दा धेरै विद्यार्थी दीक्षित गर्ने विश्वविद्यालयका रूपमा अफिसियल वर्ल्ड रेकर्ड नामक एक संस्थाले प्रमाणपत्र दिएको परीक्षा नियन्त्रक जोशीले बताएका थिए । ‘त्यही प्रमाणपत्रका आधारमा गिनिज बुक अफ वल्ड रेकर्डमा समेत रेकर्ड कायम गर्ने प्रक्रियामा छौं,’ उनले भने । जबकि यसअघि नाम र काम नै थाहा नभएको यो संस्थाको आधिकारितामाथि नै शंका छ ।</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>प्राज्ञिक अभ्यास र शैक्षिक गुणस्तरमा क्षमतावान हुनुपर्ने विश्वविद्यालय औचित्य र आधिकारिकता नभएको कीर्तिमानको पछि लागेको भन्दै धेरैले आलोचना गरेका छन् । ‘दीक्षान्त कार्यक्रम भनेको त एउटा उत्साह र औपचारिक कार्यक्रम मात्र हो,’ उनले भने, ‘त्यहाँ कति विद्यार्थी सहभागी भए/भएनन् त्यसको महत्त्व शैक्षिक गुणस्तरमा हुन्छ र ?,’ पूर्वउपकुलपति हीराबहादुर महर्जनले भने ।</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,  At vero eos et accusam et justo duo dolores et ea rebum.  Lorem ipsum dolor sit amet,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  Stet clita kasd gubergren,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  sed diam voluptua.  		]]></excerpt:encoded>
-		<wp:post_id>27</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-18 11:41:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-07-18 11:41:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-19 08:25:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-19 08:25:21]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[trump-putin-your-toolkit-to-help-understand-the-story]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="newsbeat"><![CDATA[न्यूजबिट]]></category>
-		<category domain="post_tag" nicename="newsbeat"><![CDATA[न्यूजबिट]]></category>
-		<category domain="category" nicename="business"><![CDATA[व्यापार]]></category>
-		<category domain="post_tag" nicename="business"><![CDATA[व्यापार]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[748]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[estory-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[24]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_987369a2f3470dcc2a3785ae9004fce7]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<iframe title="Fire extinguishers and soap at Hong Kong protest - BBC News" width="640" height="360" src="https://www.youtube.com/embed/e3YQxqgzTKU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_time_987369a2f3470dcc2a3785ae9004fce7]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1567577605]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_bj_lazy_load_skip_post]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[covernews-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[covernews-meta-content-mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://vk.com/afthemes]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2171,13 +1763,12 @@
 <!-- wp:paragraph -->
 <p>प्राज्ञिक अभ्यास र शैक्षिक गुणस्तरमा क्षमतावान हुनुपर्ने विश्वविद्यालय औचित्य र आधिकारिकता नभएको कीर्तिमानको पछि लागेको भन्दै धेरैले आलोचना गरेका छन् । ‘दीक्षान्त कार्यक्रम भनेको त एउटा उत्साह र औपचारिक कार्यक्रम मात्र हो,’ उनले भने, ‘त्यहाँ कति विद्यार्थी सहभागी भए/भएनन् त्यसको महत्त्व शैक्षिक गुणस्तरमा हुन्छ र ?,’ पूर्वउपकुलपति हीराबहादुर महर्जनले भने ।</p>
 <!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
+		<excerpt:encoded><![CDATA[समारोहमा सहभागी हुन आवेदन दिएकामध्ये १२ हजार ४ सय १५ विद्यार्थी सहभागी भएको परीक्षा नियन्त्रक पुष्पराज जोशीले बताए । यो संख्या विश्वमै सबैभन्दा धेरै भएको त्रिविको दाबी छ ।]]></excerpt:encoded>
 		<wp:post_id>82</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-11 03:39:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-11 03:39:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-19 10:27:03]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-19 10:27:03]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-12-27 10:13:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-12-27 10:13:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[dodgers-will-host-2020-mlb-all-star-game-their-first-since-1980]]></wp:post_name>
@@ -2207,7 +1798,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[9]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_987369a2f3470dcc2a3785ae9004fce7]]></wp:meta_key>
@@ -2228,10 +1819,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[covernews-meta-content-mode]]></wp:meta_key>
 		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2367,13 +1954,12 @@
 <!-- wp:paragraph -->
 <p>प्राज्ञिक अभ्यास र शैक्षिक गुणस्तरमा क्षमतावान हुनुपर्ने विश्वविद्यालय औचित्य र आधिकारिकता नभएको कीर्तिमानको पछि लागेको भन्दै धेरैले आलोचना गरेका छन् । ‘दीक्षान्त कार्यक्रम भनेको त एउटा उत्साह र औपचारिक कार्यक्रम मात्र हो,’ उनले भने, ‘त्यहाँ कति विद्यार्थी सहभागी भए/भएनन् त्यसको महत्त्व शैक्षिक गुणस्तरमा हुन्छ र ?,’ पूर्वउपकुलपति हीराबहादुर महर्जनले भने ।</p>
 <!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
+		<excerpt:encoded><![CDATA[समारोहमा सहभागी हुन आवेदन दिएकामध्ये १२ हजार ४ सय १५ विद्यार्थी सहभागी भएको परीक्षा नियन्त्रक पुष्पराज जोशीले बताए । यो संख्या विश्वमै सबैभन्दा धेरै भएको त्रिविको दाबी छ ।]]></excerpt:encoded>
 		<wp:post_id>291</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-11 03:49:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-11 03:49:32]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-19 10:26:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-19 10:26:05]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-12-27 10:12:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-12-27 10:12:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[is-your-citys-population-keeping-pace-the-fastest-growing-city-in-each-state]]></wp:post_name>
@@ -2407,7 +1993,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[39]]></wp:meta_value>
+		<wp:meta_value><![CDATA[43]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
@@ -2526,6 +2112,234 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Facebook]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/nepali/2024/01/24/facebook-2/</link>
+		<pubDate>Wed, 24 Jan 2024 12:24:50 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/covernews-pro/nepali/2024/01/24/facebook-2/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>781</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-24 12:24:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-24 12:24:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-01-24 12:24:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-01-24 12:24:50]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[facebook-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="social-menu-items"><![CDATA[Social menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[781]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://www.facebook.com/afthemes]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Twitter]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/nepali/2024/01/24/twitter-2/</link>
+		<pubDate>Wed, 24 Jan 2024 12:24:50 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/covernews-pro/nepali/2024/01/24/twitter-2/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>782</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-24 12:24:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-24 12:24:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-01-24 12:24:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-01-24 12:24:50]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[twitter-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="social-menu-items"><![CDATA[Social menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[782]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://www.twitter.com/afthemes]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[YouTube]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/nepali/2024/01/24/youtube-2/</link>
+		<pubDate>Wed, 24 Jan 2024 12:24:50 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/covernews-pro/nepali/2024/01/24/youtube-2/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>783</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-24 12:24:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-24 12:24:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-01-24 12:24:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-01-24 12:24:50]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[youtube-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="social-menu-items"><![CDATA[Social menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[783]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://www.youtube.com/@wpafthemes]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Instagram]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/nepali/2024/01/24/instagram-2/</link>
+		<pubDate>Wed, 24 Jan 2024 12:24:51 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/covernews-pro/nepali/2024/01/24/instagram-2/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>784</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-24 12:24:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-24 12:24:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-01-24 12:24:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-01-24 12:24:51]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[instagram-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="social-menu-items"><![CDATA[Social menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[784]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://www.instagram.com/afthemes]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Navigation]]></title>
 		<link>https://demos.afthemes.com/covernews-pro/nepali/2023/12/19/navigation/</link>
 		<pubDate>Tue, 19 Dec 2023 06:07:33 +0000</pubDate>
@@ -2550,6 +2364,489 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
+		<title><![CDATA[वेस्टमिन्स्टर ब्रिजमा मलाई समात्ने 'परी' खोज्दै]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/nepali/2018/07/18/searching-for-the-angel-who-held-me-on-westminster-bridge/</link>
+		<pubDate>Wed, 18 Jul 2018 11:10:42 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=12</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>२०७९ जेठदेखि २०८० असारसम्म त्रिविअन्तर्गतका विभिन्न संकायका विभिन्न तह उत्तीर्ण गरेका ७३ हजार ७ सय ४९ छात्रछात्रा सोमबार दीक्षित भएका हुन् । समारोहमा सहभागी हुन आवेदन दिएकामध्ये १२ हजार ४ सय १५ विद्यार्थी सहभागी भएको परीक्षा नियन्त्रक पुष्पराज जोशीले बताए । यो संख्या विश्वमै सबैभन्दा धेरै भएको त्रिविको दाबी छ ।</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>कीर्तिमान बनेको भन्दै समारोहका प्रमुख अतिथि राष्ट्रपति रामचन्द्र पौडेल, कुलपति तथा प्रधानमन्त्री पुष्पकमल दाहाल, उपकुलपतिको जिम्मेवारीमा रहेका शिवलाल भुसाल मात्र होइन त्रिविका प्राध्यापक, कर्मचारी पनि पुलकित देखिन्थे । विश्वमा नै सबैभन्दा धेरै विद्यार्थी दीक्षित गर्ने विश्वविद्यालयका रूपमा अफिसियल वर्ल्ड रेकर्ड नामक एक संस्थाले प्रमाणपत्र दिएको परीक्षा नियन्त्रक जोशीले बताएका थिए । ‘त्यही प्रमाणपत्रका आधारमा गिनिज बुक अफ वल्ड रेकर्डमा समेत रेकर्ड कायम गर्ने प्रक्रियामा छौं,’ उनले भने । जबकि यसअघि नाम र काम नै थाहा नभएको यो संस्थाको आधिकारितामाथि नै शंका छ ।</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>प्राज्ञिक अभ्यास र शैक्षिक गुणस्तरमा क्षमतावान हुनुपर्ने विश्वविद्यालय औचित्य र आधिकारिकता नभएको कीर्तिमानको पछि लागेको भन्दै धेरैले आलोचना गरेका छन् । ‘दीक्षान्त कार्यक्रम भनेको त एउटा उत्साह र औपचारिक कार्यक्रम मात्र हो,’ उनले भने, ‘त्यहाँ कति विद्यार्थी सहभागी भए/भएनन् त्यसको महत्त्व शैक्षिक गुणस्तरमा हुन्छ र ?,’ पूर्वउपकुलपति हीराबहादुर महर्जनले भने ।</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[समारोहमा सहभागी हुन आवेदन दिएकामध्ये १२ हजार ४ सय १५ विद्यार्थी सहभागी भएको परीक्षा नियन्त्रक पुष्पराज जोशीले बताए । यो संख्या विश्वमै सबैभन्दा धेरै भएको त्रिविको दाबी छ ।]]></excerpt:encoded>
+		<wp:post_id>12</wp:post_id>
+		<wp:post_date><![CDATA[2018-07-18 11:10:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-07-18 11:10:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-01-24 12:10:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-01-24 12:10:32]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[searching-for-the-angel-who-held-me-on-westminster-bridge]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="international"><![CDATA[अन्तर्राष्ट्रिय]]></category>
+		<category domain="category" nicename="stories"><![CDATA[कथाहरू]]></category>
+		<category domain="post_tag" nicename="stories"><![CDATA[कथाहरू]]></category>
+		<category domain="post_tag" nicename="newsbeat"><![CDATA[न्यूजबिट]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[estory-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[7]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[searching-for-the-angel-who-held-me-on-westminster-bridge__trashed]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_987369a2f3470dcc2a3785ae9004fce7]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="Fire extinguishers and soap at Hong Kong protest - BBC News" width="640" height="360" src="https://www.youtube.com/embed/e3YQxqgzTKU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_987369a2f3470dcc2a3785ae9004fce7]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1567577654]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[753]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[covernews-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[covernews-meta-content-mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[तपाईंले पेनाल्टी शूटआउट बारे जान्न आवश्यक छ]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/nepali/2018/07/18/all-you-need-to-know-about-penalty-shootouts/</link>
+		<pubDate>Wed, 18 Jul 2018 11:16:45 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=15</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>२०७९ जेठदेखि २०८० असारसम्म त्रिविअन्तर्गतका विभिन्न संकायका विभिन्न तह उत्तीर्ण गरेका ७३ हजार ७ सय ४९ छात्रछात्रा सोमबार दीक्षित भएका हुन् । समारोहमा सहभागी हुन आवेदन दिएकामध्ये १२ हजार ४ सय १५ विद्यार्थी सहभागी भएको परीक्षा नियन्त्रक पुष्पराज जोशीले बताए । यो संख्या विश्वमै सबैभन्दा धेरै भएको त्रिविको दाबी छ ।</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>कीर्तिमान बनेको भन्दै समारोहका प्रमुख अतिथि राष्ट्रपति रामचन्द्र पौडेल, कुलपति तथा प्रधानमन्त्री पुष्पकमल दाहाल, उपकुलपतिको जिम्मेवारीमा रहेका शिवलाल भुसाल मात्र होइन त्रिविका प्राध्यापक, कर्मचारी पनि पुलकित देखिन्थे । विश्वमा नै सबैभन्दा धेरै विद्यार्थी दीक्षित गर्ने विश्वविद्यालयका रूपमा अफिसियल वर्ल्ड रेकर्ड नामक एक संस्थाले प्रमाणपत्र दिएको परीक्षा नियन्त्रक जोशीले बताएका थिए । ‘त्यही प्रमाणपत्रका आधारमा गिनिज बुक अफ वल्ड रेकर्डमा समेत रेकर्ड कायम गर्ने प्रक्रियामा छौं,’ उनले भने । जबकि यसअघि नाम र काम नै थाहा नभएको यो संस्थाको आधिकारितामाथि नै शंका छ ।</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>प्राज्ञिक अभ्यास र शैक्षिक गुणस्तरमा क्षमतावान हुनुपर्ने विश्वविद्यालय औचित्य र आधिकारिकता नभएको कीर्तिमानको पछि लागेको भन्दै धेरैले आलोचना गरेका छन् । ‘दीक्षान्त कार्यक्रम भनेको त एउटा उत्साह र औपचारिक कार्यक्रम मात्र हो,’ उनले भने, ‘त्यहाँ कति विद्यार्थी सहभागी भए/भएनन् त्यसको महत्त्व शैक्षिक गुणस्तरमा हुन्छ र ?,’ पूर्वउपकुलपति हीराबहादुर महर्जनले भने ।</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[समारोहमा सहभागी हुन आवेदन दिएकामध्ये १२ हजार ४ सय १५ विद्यार्थी सहभागी भएको परीक्षा नियन्त्रक पुष्पराज जोशीले बताए । यो संख्या विश्वमै सबैभन्दा धेरै भएको त्रिविको दाबी छ ।]]></excerpt:encoded>
+		<wp:post_id>15</wp:post_id>
+		<wp:post_date><![CDATA[2018-07-18 11:16:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-07-18 11:16:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-01-24 12:10:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-01-24 12:10:43]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[all-you-need-to-know-about-penalty-shootouts]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="international"><![CDATA[अन्तर्राष्ट्रिय]]></category>
+		<category domain="post_tag" nicename="sport"><![CDATA[खेलकुद]]></category>
+		<category domain="category" nicename="sports"><![CDATA[खेलकुद]]></category>
+		<category domain="post_tag" nicename="newsbeat"><![CDATA[न्यूजबिट]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[estory-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_987369a2f3470dcc2a3785ae9004fce7]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="Fire extinguishers and soap at Hong Kong protest - BBC News" width="640" height="360" src="https://www.youtube.com/embed/e3YQxqgzTKU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_987369a2f3470dcc2a3785ae9004fce7]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1567577647]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[752]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[covernews-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[covernews-meta-content-mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>2</wp:comment_id>
+			<wp:comment_author><![CDATA[wea]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[w@ee.pp]]></wp:comment_author_email>
+			<wp:comment_author_url>http://wearea</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[46.232.132.150]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2019-02-07 08:26:45]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2019-02-07 08:26:45]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[era]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
+					<item>
+		<title><![CDATA[हजारौं मानिसलाई एचआईभीबाट बचाउने व्यक्ति]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/nepali/2018/07/18/the-man-who-saved-thousands-of-people-from-hiv/</link>
+		<pubDate>Wed, 18 Jul 2018 11:24:54 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=18</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>२०७९ जेठदेखि २०८० असारसम्म त्रिविअन्तर्गतका विभिन्न संकायका विभिन्न तह उत्तीर्ण गरेका ७३ हजार ७ सय ४९ छात्रछात्रा सोमबार दीक्षित भएका हुन् । समारोहमा सहभागी हुन आवेदन दिएकामध्ये १२ हजार ४ सय १५ विद्यार्थी सहभागी भएको परीक्षा नियन्त्रक पुष्पराज जोशीले बताए । यो संख्या विश्वमै सबैभन्दा धेरै भएको त्रिविको दाबी छ ।</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>कीर्तिमान बनेको भन्दै समारोहका प्रमुख अतिथि राष्ट्रपति रामचन्द्र पौडेल, कुलपति तथा प्रधानमन्त्री पुष्पकमल दाहाल, उपकुलपतिको जिम्मेवारीमा रहेका शिवलाल भुसाल मात्र होइन त्रिविका प्राध्यापक, कर्मचारी पनि पुलकित देखिन्थे । विश्वमा नै सबैभन्दा धेरै विद्यार्थी दीक्षित गर्ने विश्वविद्यालयका रूपमा अफिसियल वर्ल्ड रेकर्ड नामक एक संस्थाले प्रमाणपत्र दिएको परीक्षा नियन्त्रक जोशीले बताएका थिए । ‘त्यही प्रमाणपत्रका आधारमा गिनिज बुक अफ वल्ड रेकर्डमा समेत रेकर्ड कायम गर्ने प्रक्रियामा छौं,’ उनले भने । जबकि यसअघि नाम र काम नै थाहा नभएको यो संस्थाको आधिकारितामाथि नै शंका छ ।</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>प्राज्ञिक अभ्यास र शैक्षिक गुणस्तरमा क्षमतावान हुनुपर्ने विश्वविद्यालय औचित्य र आधिकारिकता नभएको कीर्तिमानको पछि लागेको भन्दै धेरैले आलोचना गरेका छन् । ‘दीक्षान्त कार्यक्रम भनेको त एउटा उत्साह र औपचारिक कार्यक्रम मात्र हो,’ उनले भने, ‘त्यहाँ कति विद्यार्थी सहभागी भए/भएनन् त्यसको महत्त्व शैक्षिक गुणस्तरमा हुन्छ र ?,’ पूर्वउपकुलपति हीराबहादुर महर्जनले भने ।</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[समारोहमा सहभागी हुन आवेदन दिएकामध्ये १२ हजार ४ सय १५ विद्यार्थी सहभागी भएको परीक्षा नियन्त्रक पुष्पराज जोशीले बताए । यो संख्या विश्वमै सबैभन्दा धेरै भएको त्रिविको दाबी छ ।]]></excerpt:encoded>
+		<wp:post_id>18</wp:post_id>
+		<wp:post_date><![CDATA[2018-07-18 11:24:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-07-18 11:24:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-12-27 10:11:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-12-27 10:11:09]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[the-man-who-saved-thousands-of-people-from-hiv]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_tag" nicename="science"><![CDATA[विज्ञान]]></category>
+		<category domain="category" nicename="science"><![CDATA[विज्ञान]]></category>
+		<category domain="post_tag" nicename="health"><![CDATA[स्वास्थ्य]]></category>
+		<category domain="category" nicename="health"><![CDATA[स्वास्थ्य]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[estory-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_987369a2f3470dcc2a3785ae9004fce7]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="Fire extinguishers and soap at Hong Kong protest - BBC News" width="640" height="360" src="https://www.youtube.com/embed/e3YQxqgzTKU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_987369a2f3470dcc2a3785ae9004fce7]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1567577636]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[751]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[covernews-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[covernews-meta-content-mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[दोस्रो विश्वयुद्धका बिर्सिएका नायकहरूको खोजी गर्दै]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/nepali/2018/07/18/searching-for-the-forgotten-heroes-of-world-war-two/</link>
+		<pubDate>Wed, 18 Jul 2018 11:26:28 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=21</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>२०७९ जेठदेखि २०८० असारसम्म त्रिविअन्तर्गतका विभिन्न संकायका विभिन्न तह उत्तीर्ण गरेका ७३ हजार ७ सय ४९ छात्रछात्रा सोमबार दीक्षित भएका हुन् । समारोहमा सहभागी हुन आवेदन दिएकामध्ये १२ हजार ४ सय १५ विद्यार्थी सहभागी भएको परीक्षा नियन्त्रक पुष्पराज जोशीले बताए । यो संख्या विश्वमै सबैभन्दा धेरै भएको त्रिविको दाबी छ ।</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>कीर्तिमान बनेको भन्दै समारोहका प्रमुख अतिथि राष्ट्रपति रामचन्द्र पौडेल, कुलपति तथा प्रधानमन्त्री पुष्पकमल दाहाल, उपकुलपतिको जिम्मेवारीमा रहेका शिवलाल भुसाल मात्र होइन त्रिविका प्राध्यापक, कर्मचारी पनि पुलकित देखिन्थे । विश्वमा नै सबैभन्दा धेरै विद्यार्थी दीक्षित गर्ने विश्वविद्यालयका रूपमा अफिसियल वर्ल्ड रेकर्ड नामक एक संस्थाले प्रमाणपत्र दिएको परीक्षा नियन्त्रक जोशीले बताएका थिए । ‘त्यही प्रमाणपत्रका आधारमा गिनिज बुक अफ वल्ड रेकर्डमा समेत रेकर्ड कायम गर्ने प्रक्रियामा छौं,’ उनले भने । जबकि यसअघि नाम र काम नै थाहा नभएको यो संस्थाको आधिकारितामाथि नै शंका छ ।</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>प्राज्ञिक अभ्यास र शैक्षिक गुणस्तरमा क्षमतावान हुनुपर्ने विश्वविद्यालय औचित्य र आधिकारिकता नभएको कीर्तिमानको पछि लागेको भन्दै धेरैले आलोचना गरेका छन् । ‘दीक्षान्त कार्यक्रम भनेको त एउटा उत्साह र औपचारिक कार्यक्रम मात्र हो,’ उनले भने, ‘त्यहाँ कति विद्यार्थी सहभागी भए/भएनन् त्यसको महत्त्व शैक्षिक गुणस्तरमा हुन्छ र ?,’ पूर्वउपकुलपति हीराबहादुर महर्जनले भने ।</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[समारोहमा सहभागी हुन आवेदन दिएकामध्ये १२ हजार ४ सय १५ विद्यार्थी सहभागी भएको परीक्षा नियन्त्रक पुष्पराज जोशीले बताए । यो संख्या विश्वमै सबैभन्दा धेरै भएको त्रिविको दाबी छ ।]]></excerpt:encoded>
+		<wp:post_id>21</wp:post_id>
+		<wp:post_date><![CDATA[2018-07-18 11:26:28]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-07-18 11:26:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-12-27 10:09:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-12-27 10:09:09]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[searching-for-the-forgotten-heroes-of-world-war-two]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_format" nicename="post-format-gallery"><![CDATA[Gallery]]></category>
+		<category domain="category" nicename="newsbeat"><![CDATA[न्यूजबिट]]></category>
+		<category domain="post_tag" nicename="newsbeat"><![CDATA[न्यूजबिट]]></category>
+		<category domain="category" nicename="world"><![CDATA[संसार]]></category>
+		<category domain="post_tag" nicename="world"><![CDATA[संसार]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[750]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[estory-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[199]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_987369a2f3470dcc2a3785ae9004fce7]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="Fire extinguishers and soap at Hong Kong protest - BBC News" width="640" height="360" src="https://www.youtube.com/embed/e3YQxqgzTKU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_987369a2f3470dcc2a3785ae9004fce7]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1567577622]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_bj_lazy_load_skip_post]]></wp:meta_key>
+		<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[covernews-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[covernews-meta-content-mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[‘कसैले विद्यालय जलाउने धम्की’]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/nepali/2018/07/18/somebody-threatened-to-burn-the-school-down/</link>
+		<pubDate>Wed, 18 Jul 2018 11:38:06 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=24</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>२०७९ जेठदेखि २०८० असारसम्म त्रिविअन्तर्गतका विभिन्न संकायका विभिन्न तह उत्तीर्ण गरेका ७३ हजार ७ सय ४९ छात्रछात्रा सोमबार दीक्षित भएका हुन् । समारोहमा सहभागी हुन आवेदन दिएकामध्ये १२ हजार ४ सय १५ विद्यार्थी सहभागी भएको परीक्षा नियन्त्रक पुष्पराज जोशीले बताए । यो संख्या विश्वमै सबैभन्दा धेरै भएको त्रिविको दाबी छ ।</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>कीर्तिमान बनेको भन्दै समारोहका प्रमुख अतिथि राष्ट्रपति रामचन्द्र पौडेल, कुलपति तथा प्रधानमन्त्री पुष्पकमल दाहाल, उपकुलपतिको जिम्मेवारीमा रहेका शिवलाल भुसाल मात्र होइन त्रिविका प्राध्यापक, कर्मचारी पनि पुलकित देखिन्थे । विश्वमा नै सबैभन्दा धेरै विद्यार्थी दीक्षित गर्ने विश्वविद्यालयका रूपमा अफिसियल वर्ल्ड रेकर्ड नामक एक संस्थाले प्रमाणपत्र दिएको परीक्षा नियन्त्रक जोशीले बताएका थिए । ‘त्यही प्रमाणपत्रका आधारमा गिनिज बुक अफ वल्ड रेकर्डमा समेत रेकर्ड कायम गर्ने प्रक्रियामा छौं,’ उनले भने । जबकि यसअघि नाम र काम नै थाहा नभएको यो संस्थाको आधिकारितामाथि नै शंका छ ।</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>प्राज्ञिक अभ्यास र शैक्षिक गुणस्तरमा क्षमतावान हुनुपर्ने विश्वविद्यालय औचित्य र आधिकारिकता नभएको कीर्तिमानको पछि लागेको भन्दै धेरैले आलोचना गरेका छन् । ‘दीक्षान्त कार्यक्रम भनेको त एउटा उत्साह र औपचारिक कार्यक्रम मात्र हो,’ उनले भने, ‘त्यहाँ कति विद्यार्थी सहभागी भए/भएनन् त्यसको महत्त्व शैक्षिक गुणस्तरमा हुन्छ र ?,’ पूर्वउपकुलपति हीराबहादुर महर्जनले भने ।</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[समारोहमा सहभागी हुन आवेदन दिएकामध्ये १२ हजार ४ सय १५ विद्यार्थी सहभागी भएको परीक्षा नियन्त्रक पुष्पराज जोशीले बताए । यो संख्या विश्वमै सबैभन्दा धेरै भएको त्रिविको दाबी छ ।]]></excerpt:encoded>
+		<wp:post_id>24</wp:post_id>
+		<wp:post_date><![CDATA[2018-07-18 11:38:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-07-18 11:38:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-01-24 12:10:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-01-24 12:10:26]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[somebody-threatened-to-burn-the-school-down]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
+		<category domain="category" nicename="international"><![CDATA[अन्तर्राष्ट्रिय]]></category>
+		<category domain="category" nicename="newsbeat"><![CDATA[न्यूजबिट]]></category>
+		<category domain="post_tag" nicename="newsbeat"><![CDATA[न्यूजबिट]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[749]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[estory-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[15]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_987369a2f3470dcc2a3785ae9004fce7]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="Fire extinguishers and soap at Hong Kong protest - BBC News" width="640" height="360" src="https://www.youtube.com/embed/e3YQxqgzTKU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_987369a2f3470dcc2a3785ae9004fce7]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1567577615]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[covernews-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[covernews-meta-content-mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[ट्रम्प-पुटिन: बुझ्न सकिने कथा]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/nepali/2018/07/18/trump-putin-your-toolkit-to-help-understand-the-story/</link>
+		<pubDate>Wed, 18 Jul 2018 11:41:47 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=27</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>२०७९ जेठदेखि २०८० असारसम्म त्रिविअन्तर्गतका विभिन्न संकायका विभिन्न तह उत्तीर्ण गरेका ७३ हजार ७ सय ४९ छात्रछात्रा सोमबार दीक्षित भएका हुन् । समारोहमा सहभागी हुन आवेदन दिएकामध्ये १२ हजार ४ सय १५ विद्यार्थी सहभागी भएको परीक्षा नियन्त्रक पुष्पराज जोशीले बताए । यो संख्या विश्वमै सबैभन्दा धेरै भएको त्रिविको दाबी छ ।</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>कीर्तिमान बनेको भन्दै समारोहका प्रमुख अतिथि राष्ट्रपति रामचन्द्र पौडेल, कुलपति तथा प्रधानमन्त्री पुष्पकमल दाहाल, उपकुलपतिको जिम्मेवारीमा रहेका शिवलाल भुसाल मात्र होइन त्रिविका प्राध्यापक, कर्मचारी पनि पुलकित देखिन्थे । विश्वमा नै सबैभन्दा धेरै विद्यार्थी दीक्षित गर्ने विश्वविद्यालयका रूपमा अफिसियल वर्ल्ड रेकर्ड नामक एक संस्थाले प्रमाणपत्र दिएको परीक्षा नियन्त्रक जोशीले बताएका थिए । ‘त्यही प्रमाणपत्रका आधारमा गिनिज बुक अफ वल्ड रेकर्डमा समेत रेकर्ड कायम गर्ने प्रक्रियामा छौं,’ उनले भने । जबकि यसअघि नाम र काम नै थाहा नभएको यो संस्थाको आधिकारितामाथि नै शंका छ ।</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>प्राज्ञिक अभ्यास र शैक्षिक गुणस्तरमा क्षमतावान हुनुपर्ने विश्वविद्यालय औचित्य र आधिकारिकता नभएको कीर्तिमानको पछि लागेको भन्दै धेरैले आलोचना गरेका छन् । ‘दीक्षान्त कार्यक्रम भनेको त एउटा उत्साह र औपचारिक कार्यक्रम मात्र हो,’ उनले भने, ‘त्यहाँ कति विद्यार्थी सहभागी भए/भएनन् त्यसको महत्त्व शैक्षिक गुणस्तरमा हुन्छ र ?,’ पूर्वउपकुलपति हीराबहादुर महर्जनले भने ।</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[समारोहमा सहभागी हुन आवेदन दिएकामध्ये १२ हजार ४ सय १५ विद्यार्थी सहभागी भएको परीक्षा नियन्त्रक पुष्पराज जोशीले बताए । यो संख्या विश्वमै सबैभन्दा धेरै भएको त्रिविको दाबी छ ।]]></excerpt:encoded>
+		<wp:post_id>27</wp:post_id>
+		<wp:post_date><![CDATA[2018-07-18 11:41:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-07-18 11:41:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-12-27 10:08:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-12-27 10:08:20]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[trump-putin-your-toolkit-to-help-understand-the-story]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="newsbeat"><![CDATA[न्यूजबिट]]></category>
+		<category domain="post_tag" nicename="newsbeat"><![CDATA[न्यूजबिट]]></category>
+		<category domain="post_tag" nicename="business"><![CDATA[व्यापार]]></category>
+		<category domain="category" nicename="business"><![CDATA[व्यापार]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[748]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[estory-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_987369a2f3470dcc2a3785ae9004fce7]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="Fire extinguishers and soap at Hong Kong protest - BBC News" width="640" height="360" src="https://www.youtube.com/embed/e3YQxqgzTKU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_987369a2f3470dcc2a3785ae9004fce7]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1567577605]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_bj_lazy_load_skip_post]]></wp:meta_key>
+		<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[covernews-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[covernews-meta-content-mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[विशाल कार्गो विमानहरूको लागि व्यापार उछाल]]></title>
 		<link>https://demos.afthemes.com/covernews-pro/nepali/2018/07/18/business-booming-for-giant-cargo-planes/</link>
 		<pubDate>Wed, 18 Jul 2018 11:43:50 +0000</pubDate>
@@ -2567,13 +2864,12 @@
 <!-- wp:paragraph -->
 <p>प्राज्ञिक अभ्यास र शैक्षिक गुणस्तरमा क्षमतावान हुनुपर्ने विश्वविद्यालय औचित्य र आधिकारिकता नभएको कीर्तिमानको पछि लागेको भन्दै धेरैले आलोचना गरेका छन् । ‘दीक्षान्त कार्यक्रम भनेको त एउटा उत्साह र औपचारिक कार्यक्रम मात्र हो,’ उनले भने, ‘त्यहाँ कति विद्यार्थी सहभागी भए/भएनन् त्यसको महत्त्व शैक्षिक गुणस्तरमा हुन्छ र ?,’ पूर्वउपकुलपति हीराबहादुर महर्जनले भने ।</p>
 <!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,  At vero eos et accusam et justo duo dolores et ea rebum.  Lorem ipsum dolor sit amet,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  Stet clita kasd gubergren,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  sed diam voluptua.  		]]></excerpt:encoded>
+		<excerpt:encoded><![CDATA[समारोहमा सहभागी हुन आवेदन दिएकामध्ये १२ हजार ४ सय १५ विद्यार्थी सहभागी भएको परीक्षा नियन्त्रक पुष्पराज जोशीले बताए । यो संख्या विश्वमै सबैभन्दा धेरै भएको त्रिविको दाबी छ ।]]></excerpt:encoded>
 		<wp:post_id>30</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 11:43:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:43:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-19 08:24:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-19 08:24:45]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-12-27 10:07:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-12-27 10:07:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[business-booming-for-giant-cargo-planes]]></wp:post_name>
@@ -2601,7 +2897,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[15]]></wp:meta_value>
+		<wp:meta_value><![CDATA[19]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
@@ -2650,12 +2946,12 @@
 <!-- wp:paragraph -->
 <p>प्राज्ञिक अभ्यास र शैक्षिक गुणस्तरमा क्षमतावान हुनुपर्ने विश्वविद्यालय औचित्य र आधिकारिकता नभएको कीर्तिमानको पछि लागेको भन्दै धेरैले आलोचना गरेका छन् । ‘दीक्षान्त कार्यक्रम भनेको त एउटा उत्साह र औपचारिक कार्यक्रम मात्र हो,’ उनले भने, ‘त्यहाँ कति विद्यार्थी सहभागी भए/भएनन् त्यसको महत्त्व शैक्षिक गुणस्तरमा हुन्छ र ?,’ पूर्वउपकुलपति हीराबहादुर महर्जनले भने ।</p>
 <!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam		]]></excerpt:encoded>
+		<excerpt:encoded><![CDATA[समारोहमा सहभागी हुन आवेदन दिएकामध्ये १२ हजार ४ सय १५ विद्यार्थी सहभागी भएको परीक्षा नियन्त्रक पुष्पराज जोशीले बताए । यो संख्या विश्वमै सबैभन्दा धेरै भएको त्रिविको दाबी छ ।]]></excerpt:encoded>
 		<wp:post_id>33</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 11:50:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:50:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-19 08:24:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-19 08:24:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-12-27 10:07:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-12-27 10:07:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[google-hit-with-record-eu-fine-over-shopping-service]]></wp:post_name>
@@ -2666,8 +2962,8 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_format" nicename="post-format-image"><![CDATA[Image]]></category>
-		<category domain="category" nicename="newsbeat"><![CDATA[न्यूजबिट]]></category>
 		<category domain="post_tag" nicename="newsbeat"><![CDATA[न्यूजबिट]]></category>
+		<category domain="category" nicename="newsbeat"><![CDATA[न्यूजबिट]]></category>
 		<category domain="category" nicename="tech"><![CDATA[प्राविधिक]]></category>
 		<category domain="post_tag" nicename="science"><![CDATA[विज्ञान]]></category>
 						<wp:postmeta>
@@ -2684,7 +2980,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[77]]></wp:meta_value>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
