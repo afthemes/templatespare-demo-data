@@ -1017,7 +1017,8 @@
             "child": [
                 "chromeblog",
                 "chromegrid",
-                "chromemag"
+                "chromemag",
+                "newschrome"
             ],
             "demodata": [
                 {
@@ -1262,24 +1263,28 @@
             ]
         },
        
-        "chromeblog": {
+        "newschrome": {
             "free": "chromenews",
             "premium": "chromenews-pro",
             "demodata": [
                 {
-                    "slug": "chromeblog",
+                    "slug": "newschrome",
                     "title": "ChromeNews",
                     "category": "General",
-                    "subtitle": "ChromeBlog",
-                    "url": "https://demos.afthemes.com/chromenews/chromeblog/",
+                    "subtitle": "NewsChrome",
+                    "url": "https://demos.afthemes.com/chromenews/newschrome/",
                     "tags": [
                         "free",
                         "magazine",
-                        "child"
-                    ]
+                        "child",
+                        "gutenberg"
+                    ],
+                    "builder": "blockspare"
+                    
                 }
             ]
         },
+        
         "chromegrid": {
             "free": "chromenews",
             "premium": "chromenews-pro",
@@ -1298,6 +1303,7 @@
                 }
             ]
         },
+        
         "chromemag": {
             "free": "chromenews",
             "premium": "chromenews-pro",
