@@ -185,6 +185,20 @@
                         "crypto"
                     ]
                 },
+                "gym-blog": {
+                    "slug": "gym-blog",
+                    "theme": "CoverNews Pro",
+                    "category": "Elementor",
+                    "name": "Gym Blog",
+                    "preview": "https://demos.afthemes.com/covernews-pro/gym-blog/",
+                    "tags": [
+                        "pro",
+                        "magazine",
+                        "blog",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
                 "arabic-news": {
                     "slug": "arabic-news",
                     "theme": "CoverNews Pro",
@@ -338,6 +352,18 @@
                         "fashion"
                     ]
                 },
+                "gadgets": {
+                    "slug": "gadgets",
+                    "theme": "CoverNews",
+                    "category": "Gadgets",
+                    "name": "Gadgets",
+                    "preview": "https://demos.afthemes.com/covernews/gadgets/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "gadgets"
+                    ]
+                },
                 "arabic-news": {
                     "slug": "arabic-news",
                     "theme": "CoverNews",
@@ -433,6 +459,30 @@
                         "free",
                         "magazine",
                         "german"
+                    ]
+                },
+                "business": {
+                    "slug": "business",
+                    "theme": "CoverNews",
+                    "category": "Blog",
+                    "name": "Business",
+                    "preview": "https://demos.afthemes.com/covernews/business",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "business"
+                    ]
+                },
+                "wedding": {
+                    "slug": "wedding",
+                    "theme": "CoverNews",
+                    "category": "Blog",
+                    "name": "Wedding",
+                    "preview": "https://demos.afthemes.com/covernews/wedding",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "wedding"
                     ]
                 },
                 "general": {
@@ -566,6 +616,25 @@
                     "category": "General",
                     "name": "Newsment",
                     "preview": "https://demos.afthemes.com/covernews/newsment/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "child"
+                    ]
+                }
+            }
+        },
+        "newsback": {
+            "data": "newsback",
+            "free": "covernews",
+            "premium": "covernews-pro",
+            "demodata": {
+                "default": {
+                    "slug": "newsback",
+                    "theme": "CoverNews",
+                    "category": "General",
+                    "name": "Newsback",
+                    "preview": "https://demos.afthemes.com/covernews/newsback/",
                     "tags": [
                         "free",
                         "magazine",
@@ -768,6 +837,18 @@
                         "sport"
                     ]
                 },
+                "classic":{
+                    "slug": "classic",
+                    "theme": "ChromeNews Pro",
+                    "category": "Classic",
+                    "name": "Classic Pro",
+                    "preview": "https://demos.afthemes.com/chromenews-pro/classic/",
+                    "tags": [
+                        "pro",
+                        "magazine",
+                        "classic"
+                    ]
+                },
                 "china-news":{
                     "slug": "china-news",
                     "theme": "ChromeNews Pro",
@@ -797,7 +878,7 @@
                     "theme": "ChromeNews Pro",
                     "category": "Blog",
                     "name": "भारतीय",
-                    "preview": "https://demos.afthemes.com/chromenews-pro/indian-news/",
+                    "preview": "https://demos.afthemes.com/chromenews-pro/indian",
                     "tags": [
                         "pro",
                         "magazine",
@@ -864,11 +945,11 @@
                         "german"
                     ]
                 },
-                "restaurant":{
-                    "slug": "restaurant",
+                "recipe":{
+                    "slug": "recipe",
                     "theme": "ChromeNews Pro",
                     "category": "Blog",
-                    "name": "Restaurant Pro",
+                    "name": "Recipe Pro",
                     "preview": "https://demos.afthemes.com/chromenews-pro/recipe/",
                     "tags": [
                         "pro",
@@ -938,6 +1019,34 @@
                     ],
                     "plugins": "elementor,elespare"
                 },
+                "restaurant":{
+                    "slug": "restaurant",
+                    "theme": "ChromeNews Pro",
+                    "category": "Elementor",
+                    "name": "Restaurant Pro",
+                    "preview": "https://demos.afthemes.com/chromenews-pro/restaurant/",
+                    "tags": [
+                        "pro",
+                        "news",
+                        "restaurant",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "fitness":{
+                    "slug": "fitness",
+                    "theme": "ChromeNews Pro",
+                    "category": "Elementor",
+                    "name": "Fitness Pro",
+                    "preview": "https://demos.afthemes.com/chromenews-pro/fitness/",
+                    "tags": [
+                        "pro",
+                        "news",
+                        "fitness",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
                 "charity": {
                     "slug": "charity",
                     "theme": "ChromeNews Pro",
@@ -949,7 +1058,7 @@
                         "blog",
                         "gutenberg"
                     ],
-                    "plugins": "blockspare"
+                    "plugins":"blockspare,latest-posts-block-lite,magic-content-box-lite"
                 },
                 "travel":{
                     "slug": "travel",
@@ -1015,11 +1124,47 @@
                     "preview": "https://demos.afthemes.com/chromenews-pro/gadgets/",
                     "tags": [
                         "pro",
-                        "business",
+                        "gadgets",
                         "news",
                         "elementor"
                     ],
                     "plugins": "elementor,elespare"
+                },
+                "masonry":{
+                    "slug": "masonry",
+                    "theme": "ChromeNews Pro",
+                    "category": "Blog",
+                    "name": "Masonry Pro",
+                    "preview": "https://demos.afthemes.com/chromenews-pro/masonry/",
+                    "tags": [
+                        "pro",
+                        "masnory",
+                        "blog"
+                    ]
+                },
+                "feminine-blog":{
+                    "slug": "feminine-blog",
+                    "theme": "ChromeNews Pro",
+                    "category": "Blog",
+                    "name": "Feminine Pro",
+                    "preview": "https://demos.afthemes.com/chromenews-pro/feminine-blog/",
+                    "tags": [
+                        "pro",
+                        "feminine",
+                        "blog"
+                    ]
+                },
+                "minimal-blog":{
+                    "slug": "minimal-blog",
+                    "theme": "ChromeNews Pro",
+                    "category": "Blog",
+                    "name": "Feminine Pro",
+                    "preview": "https://demos.afthemes.com/chromenews-pro/minimal-blog/",
+                    "tags": [
+                        "pro",
+                        "minimal",
+                        "blog"
+                    ]
                 }
             }
         },
@@ -1217,6 +1362,79 @@
                         "construction",
                         "blog"
                     ]
+                },
+                "recipe": {
+                    "slug": "recipe",
+                    "theme": "ChromeNews",
+                    "category": "Blog",
+                    "name": "Recipe",
+                    "preview": "https://demos.afthemes.com/chromenews/recipe/",
+                    "tags": [
+                        "free",
+                        "recipe",
+                        "blog"
+                    ]
+                },
+                "travel": {
+                    "slug": "travel",
+                    "theme": "ChromeNews",
+                    "category": "Blog",
+                    "name": "Travel",
+                    "preview": "https://demos.afthemes.com/chromenews/travel/",
+                    "tags": [
+                        "free",
+                        "travel",
+                        "blog"
+                    ]
+                },
+                "online-news": {
+                    "slug": "online-news",
+                    "theme": "ChromeNews",
+                    "category": "Blog",
+                    "name": "Online News",
+                    "preview": "https://demos.afthemes.com/chromenews/online-news/",
+                    "tags": [
+                        "free",
+                        "news",
+                        "magazine"
+                    ]
+                },
+                "feminine-blog": {
+                    "slug": "feminine-blog",
+                    "theme": "ChromeNews",
+                    "category": "Blog",
+                    "name": "Feminine Blog",
+                    "preview": "https://demos.afthemes.com/chromenews/feminine-blog/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "feminine"
+                    ]
+                },
+                "minimal-blog": {
+                    "slug": "minimal-blog",
+                    "theme": "ChromeNews",
+                    "category": "Blog",
+                    "name": "Minimal Blog",
+                    "preview": "https://demos.afthemes.com/chromenews/minimal-blog/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "minimal"
+                    ]
+                },
+                "charity": {
+                    "slug": "charity",
+                    "theme": "ChromeNews",
+                    "category": "Gutenberg",
+                    "name": "Charity",
+                    "preview": "https://demos.afthemes.com/chromenews/charity/",
+                    "tags": [
+                        "free",
+                        "gutenberg",
+                        "charity"
+                    ],
+                    "plugins":"blockspare,latest-posts-block-lite,magic-content-box-lite"
                 },
                 "covid-19": {
                     "slug": "covid-19",
@@ -2459,7 +2677,7 @@
                     "theme": "Elegant Magazine Pro",
                     "category": "General",
                     "name": "Elegant Magazine Pro",
-                    "preview": "https://demos.afthemes.com/elegant-magazine-pro",
+                    "preview": "https://demos.afthemes.com/elegant-magazine-pro/",
                     "tags": [
                         "pro",
                         "magazine",
@@ -2556,7 +2774,7 @@
                     "theme": "Elegant Magazine",
                     "category": "Fashion",
                     "name": "Elegant Magazine",
-                    "preview": "https://demos.afthemes.com/elegant-magazine",
+                    "preview": "https://demos.afthemes.com/elegant-magazine/",
                     "tags": [
                         "free",
                         "magazine",
@@ -2784,6 +3002,42 @@
                         "pro",
                         "magazine",
                         "business"
+                    ]
+                },
+                "top-news": {
+                    "slug": "top-news",
+                    "theme": "EnterNews Pro",
+                    "category": "General",
+                    "name": "Top News Pro",
+                    "preview": "https://demos.afthemes.com/enternews-pro/top-news/",
+                    "tags": [
+                        "pro",
+                        "magazine",
+                        "news"
+                    ]
+                },
+                "online-news": {
+                    "slug": "online-news",
+                    "theme": "EnterNews Pro",
+                    "category": "General",
+                    "name": "Online News Pro",
+                    "preview": "https://demos.afthemes.com/enternews-pro/online-news/",
+                    "tags": [
+                        "pro",
+                        "magazine",
+                        "news"
+                    ]
+                },
+                "general-news": {
+                    "slug": "general-news",
+                    "theme": "EnterNews Pro",
+                    "category": "General",
+                    "name": "General News Pro",
+                    "preview": "https://demos.afthemes.com/enternews-pro/general-news/",
+                    "tags": [
+                        "pro",
+                        "magazine",
+                        "news"
                     ]
                 },
                 "crypto-currency": {
@@ -4490,6 +4744,42 @@
                         "magazine",
                         "chinese"
                     ]
+                },
+                "general": {
+                    "slug": "general",
+                    "theme": "BroadNews",
+                    "category": "General",
+                    "name": "General",
+                    "preview": "https://demos.afthemes.com/broadnews/general/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "general"
+                    ]
+                },
+                "spotlight": {
+                    "slug": "spotlight",
+                    "theme": "BroadNews",
+                    "category": "Sport",
+                    "name": "Spotlight",
+                    "preview": "https://demos.afthemes.com/broadnews/spotlight/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "sport"
+                    ]
+                },
+                "large": {
+                    "slug": "large",
+                    "theme": "BroadNews",
+                    "category": "Fashion",
+                    "name": "Large",
+                    "preview": "https://demos.afthemes.com/broadnews/large/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "large"
+                    ]
                 }
             }
         },
@@ -4570,6 +4860,42 @@
                         "pro",
                         "magazine",
                         "chinese"
+                    ]
+                },
+                "general": {
+                    "slug": "general",
+                    "theme": "BroadNews Pro",
+                    "category": "General",
+                    "name": "General",
+                    "preview": "https://demos.afthemes.com/broadnews-pro/general/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "general"
+                    ]
+                },
+                "spotlight": {
+                    "slug": "spotlight",
+                    "theme": "BroadNews Pro",
+                    "category": "Sport",
+                    "name": "Spotlight",
+                    "preview": "https://demos.afthemes.com/broadnews-pro/spotlight/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "sport"
+                    ]
+                },
+                "large": {
+                    "slug": "large",
+                    "theme": "BroadNews Pro",
+                    "category": "Fashion",
+                    "name": "Large",
+                    "preview": "https://demos.afthemes.com/broadnews-pro/large/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "large"
                     ]
                 }
             }
