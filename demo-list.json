@@ -1713,7 +1713,7 @@
             "free": "",
             "premium": "morenews-pro",
             "child": [
-                "generalnews"
+                "general-news"
             ],
             "demodata": {
                 "default": {
@@ -1919,13 +1919,13 @@
             }
         },
 
-        "generalnews": {
-            "data": "generalnews",
+        "general-news": {
+            "data": "general-news",
             "free": "morenews",
             "premium": "morenews-pro",
             "demodata": {
                 "default": {
-                    "slug": "generalnews",
+                    "slug": "general-news",
                     "theme": "MoreNews",
                     "catgory": "General",
                     "name": "GeneralNews",
