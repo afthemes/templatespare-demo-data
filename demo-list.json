@@ -1713,7 +1713,8 @@
             "free": "",
             "premium": "morenews-pro",
             "child": [
-                "general-news"
+                "general-news",
+                "moremag"
             ],
             "demodata": {
                 "default": {
@@ -1930,6 +1931,26 @@
                     "catgory": "General",
                     "name": "GeneralNews",
                     "preview": "https://demos.afthemes.com/morenews/generalnews/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "child"
+                    ]
+                }
+            }
+        },
+
+        "moremag": {
+            "data": "moremag",
+            "free": "morenews",
+            "premium": "morenews-pro",
+            "demodata": {
+                "default": {
+                    "slug": "moremag",
+                    "theme": "MoreNews",
+                    "catgory": "General",
+                    "name": "MoreMag",
+                    "preview": "https://demos.afthemes.com/morenews/moremag/",
                     "tags": [
                         "free",
                         "magazine",
