@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.4.3" created="2024-03-05 10:05" -->
+	<!-- generator="WordPress/6.5.3" created="2024-05-20 07:00" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>DAS AUTOMOBIL</title>
 	<link>https://demos.afthemes.com/covernews/german</link>
 	<description></description>
-	<pubDate>Tue, 05 Mar 2024 10:05:23 +0000</pubDate>
+	<pubDate>Mon, 20 May 2024 07:00:38 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.afthemes.com/covernews/</wp:base_site_url>
@@ -449,7 +449,7 @@
 	<wp:term><wp:term_id>33</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Top menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 		<item>
 		<title><![CDATA[cropped-banner-promo-1120-wu.png]]></title>
@@ -1083,7 +1083,7 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-justin-choi-6453068]]></title>
-		<link>https://demos.afthemes.com/covernews/german/2018/07/18/trump-putin-your-toolkit-to-help-understand-the-story/pexels-justin-choi-6453068/</link>
+		<link>https://demos.afthemes.com/covernews/german/2024/05/16/trump-putin-your-toolkit-to-help-understand-the-story/pexels-justin-choi-6453068/</link>
 		<pubDate>Tue, 21 Nov 2023 06:35:39 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/reviewnews-pro/automobile/wp-content/uploads/sites/11/2018/07/pexels-justin-choi-6453068.jpg</guid>
@@ -1116,7 +1116,7 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-maria-geller-2127017]]></title>
-		<link>https://demos.afthemes.com/covernews/german/2018/07/18/somebody-threatened-to-burn-the-school-down/pexels-maria-geller-2127017/</link>
+		<link>https://demos.afthemes.com/covernews/german/2024/05/16/somebody-threatened-to-burn-the-school-down/pexels-maria-geller-2127017/</link>
 		<pubDate>Tue, 21 Nov 2023 06:41:11 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/reviewnews-pro/automobile/wp-content/uploads/sites/11/2018/07/pexels-maria-geller-2127017.jpg</guid>
@@ -1643,96 +1643,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[cropped-pexels-min-an-1006098.jpg]]></title>
-		<link>https://demos.afthemes.com/covernews/german/cropped-pexels-min-an-1006098-jpg/</link>
-		<pubDate>Tue, 28 Nov 2023 06:28:08 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demos.afthemes.com/reviewnews-pro/automobile/wp-content/uploads/sites/11/2023/11/cropped-pexels-min-an-1006098.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>394</wp:post_id>
-		<wp:post_date><![CDATA[2023-11-28 06:28:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-11-28 06:28:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-11-28 06:28:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-11-28 06:28:08]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-pexels-min-an-1006098-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews/german/wp-content/uploads/sites/35/2023/11/cropped-pexels-min-an-1006098.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023/11/cropped-pexels-min-an-1006098.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:387;s:4:"file";s:41:"2023/11/cropped-pexels-min-an-1006098.jpg";s:8:"filesize";i:11912;s:5:"sizes";a:9:{s:6:"medium";a:5:{s:4:"file";s:40:"cropped-pexels-min-an-1006098-300x77.jpg";s:5:"width";i:300;s:6:"height";i:77;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:1304;}s:5:"large";a:5:{s:4:"file";s:42:"cropped-pexels-min-an-1006098-1024x264.jpg";s:5:"width";i:1024;s:6:"height";i:264;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6123;}s:9:"thumbnail";a:5:{s:4:"file";s:41:"cropped-pexels-min-an-1006098-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:1256;}s:12:"medium_large";a:5:{s:4:"file";s:41:"cropped-pexels-min-an-1006098-768x198.jpg";s:5:"width";i:768;s:6:"height";i:198;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3891;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:42:"cropped-pexels-min-an-1006098-1115x387.jpg";s:5:"width";i:1115;s:6:"height";i:387;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9083;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:41:"cropped-pexels-min-an-1006098-800x387.jpg";s:5:"width";i:800;s:6:"height";i:387;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6802;}s:18:"covernews-featured";a:5:{s:4:"file";s:42:"cropped-pexels-min-an-1006098-1024x264.jpg";s:5:"width";i:1024;s:6:"height";i:264;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6123;}s:16:"covernews-medium";a:5:{s:4:"file";s:41:"cropped-pexels-min-an-1006098-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4385;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:41:"cropped-pexels-min-an-1006098-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2752;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_covernews-pro]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1702892455]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[covernews-pro]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[cropped-pexels-min-an-1006098-1.jpg]]></title>
-		<link>https://demos.afthemes.com/covernews/german/cropped-pexels-min-an-1006098-1-jpg/</link>
-		<pubDate>Tue, 28 Nov 2023 06:28:40 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demos.afthemes.com/reviewnews-pro/automobile/wp-content/uploads/sites/11/2023/11/cropped-pexels-min-an-1006098-1.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>395</wp:post_id>
-		<wp:post_date><![CDATA[2023-11-28 06:28:40]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-11-28 06:28:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-11-28 06:28:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-11-28 06:28:40]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-pexels-min-an-1006098-1-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews/german/wp-content/uploads/sites/35/2023/11/cropped-pexels-min-an-1006098-1.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023/11/cropped-pexels-min-an-1006098-1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:373;s:4:"file";s:43:"2023/11/cropped-pexels-min-an-1006098-1.jpg";s:8:"filesize";i:11355;s:5:"sizes";a:9:{s:6:"medium";a:5:{s:4:"file";s:42:"cropped-pexels-min-an-1006098-1-300x75.jpg";s:5:"width";i:300;s:6:"height";i:75;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:1284;}s:5:"large";a:5:{s:4:"file";s:44:"cropped-pexels-min-an-1006098-1-1024x255.jpg";s:5:"width";i:1024;s:6:"height";i:255;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5786;}s:9:"thumbnail";a:5:{s:4:"file";s:43:"cropped-pexels-min-an-1006098-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:1258;}s:12:"medium_large";a:5:{s:4:"file";s:43:"cropped-pexels-min-an-1006098-1-768x191.jpg";s:5:"width";i:768;s:6:"height";i:191;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3704;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:44:"cropped-pexels-min-an-1006098-1-1115x373.jpg";s:5:"width";i:1115;s:6:"height";i:373;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8663;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:43:"cropped-pexels-min-an-1006098-1-800x373.jpg";s:5:"width";i:800;s:6:"height";i:373;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6501;}s:18:"covernews-featured";a:5:{s:4:"file";s:44:"cropped-pexels-min-an-1006098-1-1024x255.jpg";s:5:"width";i:1024;s:6:"height";i:255;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5786;}s:16:"covernews-medium";a:5:{s:4:"file";s:43:"cropped-pexels-min-an-1006098-1-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4355;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:43:"cropped-pexels-min-an-1006098-1-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2757;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_reviewnews-pro]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1701152937]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[reviewnews-pro]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[]]></title>
 		<link>https://demos.afthemes.com/covernews/german/2023/11/28/396/</link>
 		<pubDate>Tue, 28 Nov 2023 06:40:39 +0000</pubDate>
@@ -1857,6 +1767,100 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://demos.afthemes.com/covernews/german/2023/12/13/399/</link>
+		<pubDate>Tue, 28 Nov 2023 06:40:39 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/reviewnews-pro/automobile/?p=399</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>399</wp:post_id>
+		<wp:post_date><![CDATA[2023-12-13 11:33:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-28 06:40:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-12-13 11:33:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-11-28 06:40:39]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[399]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[398]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-11-28]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://demos.afthemes.com/covernews/german/2023/12/13/400/</link>
+		<pubDate>Tue, 28 Nov 2023 06:40:39 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/reviewnews-pro/automobile/?p=400</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>400</wp:post_id>
+		<wp:post_date><![CDATA[2023-12-13 11:33:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-28 06:40:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-12-13 11:33:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-11-28 06:40:39]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[400]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>6</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-11-28]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2022,44 +2026,98 @@
 							</item>
 					<item>
 		<title><![CDATA[Alte Oldtimer sind sehr gefragt]]></title>
-		<link>https://demos.afthemes.com/covernews/german/2018/07/18/somebody-threatened-to-burn-the-school-down/</link>
+		<link>https://demos.afthemes.com/covernews/german/2024/05/16/somebody-threatened-to-burn-the-school-down/</link>
 		<pubDate>Wed, 18 Jul 2018 11:38:06 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=24</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading -->
-<h2 class="wp-block-heading" id="wichtiges-kriterium-für-e-autos:-eine-große-reichweite">Wichtiges Kriterium für E-Autos: eine große Reichweite</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Seit der Renaissance der&nbsp;Elektromobilität&nbsp;spielt die Frage nach der Alltagstauglichkeit von E-Autos eine große Rolle. Dabei ist die Reichweite ein zentrales Thema. Tatsächlich ist die sogenannte „Reichweitenangst“ weit verbreitet, obwohl Studien sie im Alltag mit durchschnittlich kurzen Fahrstrecken als unbegründet bewerten.</p>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>In de dynamische wereld van WordPress ontpopten wij ons als een baken van innovatie en uitmuntendheid. Onze populaire producten, zoals <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a> en <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, naast krachtige plug-ins zoals <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a> en <a href="https://elespare.com/">Elespare</a>, dienen als de bouwstenen van uw digitale reis.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Kaum verwunderlich, dass E-Autos mit großer Reichweite besonders beliebt sind. Und die Auswahl ist heutzutage vielfältiger als noch vor wenigen Jahren: Vom Mittelklasse-Modell bis zur Luxuslimousine&nbsp;<strong>erreichen die reichweitenstärksten E-Autos mittlerweile mehr als 500 Kilometer mit nur einer Akkuladung</strong>.</p>
+<p>Wij hebben een passie voor kwaliteitscode en elegant ontwerp, zodat we ervoor kunnen zorgen dat het maken van uw website een moeiteloze mix is ​​van verfijning en eenvoud. Met de niet-aflatende steun van ons toegewijde team bent u nooit alleen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading" id="wie-teuer-sind-e-autos-mit-großer-reichweite?">Wie teuer sind E-Autos mit großer Reichweite?</h2>
+<h2 class="wp-block-heading"><br><a href="https://templatespare.com/"><strong>Templatespare</strong></a><strong>: Creëer uw droomwebsite met eenvoudige startersites!</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote {"align":"center"} -->
+<blockquote class="wp-block-quote has-text-align-center"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Een prachtige verzameling Startersites die klaar zijn om te importeren met slechts één klik. Krijg binnen enkele minuten moderne en creatieve websites!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Klaar voor kranten, tijdschriften, blogs en e-commerce</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><strong><strong><strong><strong><strong><strong>Vergeet het opnieuw beginnen</strong></strong></strong></strong></strong></strong></strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Mehr Effizienz, größere Akkukapazitäten und mehr Reichweite: Die Technik von Elektroautos entwickelt sich stetig weiter. Selbst Limousinen auf Verbrenner-Plattform wie der BMW i4 kommen bereits auf 590 Kilometer; die elektrische S-Klasse Mercedes EQS 450+ schafft über 780 Kilometer. Solche Reserven helfen dabei, die „Reichweitenangst“ zu nehmen.</p>
+<p>Ontdek een wereld vol creativiteit met meer dan 365 kant-en-klare websitesjablonen! Van chique blogs tot dynamische nieuwsplatforms, boeiende tijdschriften en websites van professionele bureaus: vind uw perfecte online ruimte!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size"><strong><strong><strong><strong><strong><strong>Importeren met één klik: geen codeergedoe! Drie eenvoudige stappen</strong></strong></strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Begin aan uw websitereis met eenvoud en stijl. Volg deze 3 eenvoudige stappen om moeiteloos uw online meesterwerk te creëren</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Meer ontdekken</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Kies een site<br></strong>Ontdek een rijke selectie van meer dan 350 vooraf gebouwde websites. Met een enkele klik importeert u de site die aansluit bij uw visie.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Aanpassen en personaliseren<br></strong>Laat je creativiteit de vrije loop! Pas de door u gekozen site aan met volledige ontwerpvrijheid. Pas elk element aan om uw website precies zo te bouwen en te personaliseren zoals u het voor ogen heeft.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Publiceer en ga live!</strong><br>Nu het bewerken en aanpassen is voltooid, is het tijd om live te gaan! Binnen enkele minuten is uw website klaar om met de wereld te delen.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Sluit u aan bij de <a href="https://afthemes.com/">AF Themes</a>-familie, waar uitmuntendheid en gemak samenkomen. Ontdek de eindeloze mogelijkheden en begin vandaag nog aan uw webreis met ons!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Große Reichweiten erhalten Autos allerdings nicht allein durch große Akkus</strong>. Eine effiziente Energieverwaltung, Wärmepumpen, rollwiderstandsoptimierte Reifen und vor allem eine ausgefeilte Aerodynamik tragen ebenfalls dazu bei, den&nbsp;Verbrauch von Elektroautos&nbsp;zu reduzieren. Große Akkus sind aber die einfachste Art der Reichweitensteigerung. Nachteil: Die Batterien sind mit Abstand der teuerste Part eines Elektroautos.</p>
+<p>Samen geven we vorm aan de toekomst van het internet.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Da sich staatliche Förderungen für E-Autos wie der Umweltbonus des BAFA nach dem Basispreis eines Modells richten, werden Modelle mit sehr großen, teuren Batterien oft weniger gefördert. Anders sieht die Lage auf dem Gebrauchtwagenmarkt aus: Hier liegen die Chancen höher, für ein E-Auto mit großem Akku noch die&nbsp;E-Auto-Förderung&nbsp;zu erhalten.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Seit der Renaissance der Elektromobilität spielt die Frage nach der Alltagstauglichkeit von E-Autos eine große Rolle. Dabei ist die Reichweite ein zentrales Thema. Tatsächlich ist die sogenannte „Reichweitenangst“ weit verbreitet, obwohl Studien sie im Alltag mit durchschnittlich kurzen Fahrstrecken als unbegründet bewerten.]]></excerpt:encoded>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Bouw uw website in enkele minuten met importeren met één klik – geen codeergedoe!
+]]></excerpt:encoded>
 		<wp:post_id>24</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-18 11:38:06]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-16 09:22:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:38:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-07-18 11:38:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-07-18 11:38:06]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-16 09:22:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-16 09:22:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[somebody-threatened-to-burn-the-school-down]]></wp:post_name>
@@ -2120,27 +2178,117 @@
 		<wp:meta_key><![CDATA[wpma_author]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1715824172]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Mercedes-Restaurierung: Halten Sie das Auto in einwandfreiem Zustand]]></title>
-		<link>https://demos.afthemes.com/covernews/german/2018/07/18/trump-putin-your-toolkit-to-help-understand-the-story/</link>
+		<link>https://demos.afthemes.com/covernews/german/2024/05/16/trump-putin-your-toolkit-to-help-understand-the-story/</link>
 		<pubDate>Wed, 18 Jul 2018 11:41:47 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=27</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua. Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua. &nbsp;Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.</p>
+<p>In de dynamische wereld van WordPress ontpopten wij ons als een baken van innovatie en uitmuntendheid. Onze populaire producten, zoals <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a> en <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, naast krachtige plug-ins zoals <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a> en <a href="https://elespare.com/">Elespare</a>, dienen als de bouwstenen van uw digitale reis.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Seit der Renaissance der Elektromobilität spielt die Frage nach der Alltagstauglichkeit von E-Autos eine große Rolle. Dabei ist die Reichweite ein zentrales Thema. Tatsächlich ist die sogenannte „Reichweitenangst“ weit verbreitet, obwohl Studien sie im Alltag mit durchschnittlich kurzen Fahrstrecken als unbegründet bewerten.]]></excerpt:encoded>
+<p>Wij hebben een passie voor kwaliteitscode en elegant ontwerp, zodat we ervoor kunnen zorgen dat het maken van uw website een moeiteloze mix is ​​van verfijning en eenvoud. Met de niet-aflatende steun van ons toegewijde team bent u nooit alleen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><br><a href="https://templatespare.com/"><strong>Templatespare</strong></a><strong>: Creëer uw droomwebsite met eenvoudige startersites!</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote {"align":"center"} -->
+<blockquote class="wp-block-quote has-text-align-center"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Een prachtige verzameling Startersites die klaar zijn om te importeren met slechts één klik. Krijg binnen enkele minuten moderne en creatieve websites!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Klaar voor kranten, tijdschriften, blogs en e-commerce</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><strong><strong><strong><strong><strong><strong>Vergeet het opnieuw beginnen</strong></strong></strong></strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Ontdek een wereld vol creativiteit met meer dan 365 kant-en-klare websitesjablonen! Van chique blogs tot dynamische nieuwsplatforms, boeiende tijdschriften en websites van professionele bureaus: vind uw perfecte online ruimte!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size"><strong><strong><strong><strong><strong><strong>Importeren met één klik: geen codeergedoe! Drie eenvoudige stappen</strong></strong></strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Begin aan uw websitereis met eenvoud en stijl. Volg deze 3 eenvoudige stappen om moeiteloos uw online meesterwerk te creëren</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Meer ontdekken</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Kies een site<br></strong>Ontdek een rijke selectie van meer dan 350 vooraf gebouwde websites. Met een enkele klik importeert u de site die aansluit bij uw visie.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Aanpassen en personaliseren<br></strong>Laat je creativiteit de vrije loop! Pas de door u gekozen site aan met volledige ontwerpvrijheid. Pas elk element aan om uw website precies zo te bouwen en te personaliseren zoals u het voor ogen heeft.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Publiceer en ga live!</strong><br>Nu het bewerken en aanpassen is voltooid, is het tijd om live te gaan! Binnen enkele minuten is uw website klaar om met de wereld te delen.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Sluit u aan bij de <a href="https://afthemes.com/">AF Themes</a>-familie, waar uitmuntendheid en gemak samenkomen. Ontdek de eindeloze mogelijkheden en begin vandaag nog aan uw webreis met ons!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Samen geven we vorm aan de toekomst van het internet.</p>
+<!-- /wp:paragraph -->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Bouw uw website in enkele minuten met importeren met één klik – geen codeergedoe!
+]]></excerpt:encoded>
 		<wp:post_id>27</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-18 11:41:47]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-16 09:22:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:41:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-07-18 11:41:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-07-18 11:41:47]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-16 09:22:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-16 09:22:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[trump-putin-your-toolkit-to-help-understand-the-story]]></wp:post_name>
@@ -2204,47 +2352,117 @@
 		<wp:meta_key><![CDATA[wpma_author]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1715824084]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Die geschichte des rolls-royce ghost]]></title>
-		<link>https://demos.afthemes.com/covernews/german/2018/07/18/business-booming-for-giant-cargo-planes/</link>
+		<link>https://demos.afthemes.com/covernews/german/2024/05/16/business-booming-for-giant-cargo-planes/</link>
 		<pubDate>Wed, 18 Jul 2018 11:43:50 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=30</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading -->
-<h2 class="wp-block-heading" id="wichtiges-kriterium-für-e-autos:-eine-große-reichweite">Wichtiges Kriterium für E-Autos: eine große Reichweite</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Seit der Renaissance der&nbsp;Elektromobilität&nbsp;spielt die Frage nach der Alltagstauglichkeit von E-Autos eine große Rolle. Dabei ist die Reichweite ein zentrales Thema. Tatsächlich ist die sogenannte „Reichweitenangst“ weit verbreitet, obwohl Studien sie im Alltag mit durchschnittlich kurzen Fahrstrecken als unbegründet bewerten.</p>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>In de dynamische wereld van WordPress ontpopten wij ons als een baken van innovatie en uitmuntendheid. Onze populaire producten, zoals <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a> en <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, naast krachtige plug-ins zoals <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a> en <a href="https://elespare.com/">Elespare</a>, dienen als de bouwstenen van uw digitale reis.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Kaum verwunderlich, dass E-Autos mit großer Reichweite besonders beliebt sind. Und die Auswahl ist heutzutage vielfältiger als noch vor wenigen Jahren: Vom Mittelklasse-Modell bis zur Luxuslimousine&nbsp;<strong>erreichen die reichweitenstärksten E-Autos mittlerweile mehr als 500 Kilometer mit nur einer Akkuladung</strong>.</p>
+<p>Wij hebben een passie voor kwaliteitscode en elegant ontwerp, zodat we ervoor kunnen zorgen dat het maken van uw website een moeiteloze mix is ​​van verfijning en eenvoud. Met de niet-aflatende steun van ons toegewijde team bent u nooit alleen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading" id="wie-teuer-sind-e-autos-mit-großer-reichweite?">Wie teuer sind E-Autos mit großer Reichweite?</h2>
+<h2 class="wp-block-heading"><br><a href="https://templatespare.com/"><strong>Templatespare</strong></a><strong>: Creëer uw droomwebsite met eenvoudige startersites!</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote {"align":"center"} -->
+<blockquote class="wp-block-quote has-text-align-center"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Een prachtige verzameling Startersites die klaar zijn om te importeren met slechts één klik. Krijg binnen enkele minuten moderne en creatieve websites!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Klaar voor kranten, tijdschriften, blogs en e-commerce</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><strong><strong><strong><strong><strong><strong>Vergeet het opnieuw beginnen</strong></strong></strong></strong></strong></strong></strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Mehr Effizienz, größere Akkukapazitäten und mehr Reichweite: Die Technik von Elektroautos entwickelt sich stetig weiter. Selbst Limousinen auf Verbrenner-Plattform wie der BMW i4 kommen bereits auf 590 Kilometer; die elektrische S-Klasse Mercedes EQS 450+ schafft über 780 Kilometer. Solche Reserven helfen dabei, die „Reichweitenangst“ zu nehmen.</p>
+<p>Ontdek een wereld vol creativiteit met meer dan 365 kant-en-klare websitesjablonen! Van chique blogs tot dynamische nieuwsplatforms, boeiende tijdschriften en websites van professionele bureaus: vind uw perfecte online ruimte!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size"><strong><strong><strong><strong><strong><strong>Importeren met één klik: geen codeergedoe! Drie eenvoudige stappen</strong></strong></strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Begin aan uw websitereis met eenvoud en stijl. Volg deze 3 eenvoudige stappen om moeiteloos uw online meesterwerk te creëren</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Meer ontdekken</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Kies een site<br></strong>Ontdek een rijke selectie van meer dan 350 vooraf gebouwde websites. Met een enkele klik importeert u de site die aansluit bij uw visie.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Aanpassen en personaliseren<br></strong>Laat je creativiteit de vrije loop! Pas de door u gekozen site aan met volledige ontwerpvrijheid. Pas elk element aan om uw website precies zo te bouwen en te personaliseren zoals u het voor ogen heeft.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Publiceer en ga live!</strong><br>Nu het bewerken en aanpassen is voltooid, is het tijd om live te gaan! Binnen enkele minuten is uw website klaar om met de wereld te delen.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Sluit u aan bij de <a href="https://afthemes.com/">AF Themes</a>-familie, waar uitmuntendheid en gemak samenkomen. Ontdek de eindeloze mogelijkheden en begin vandaag nog aan uw webreis met ons!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Große Reichweiten erhalten Autos allerdings nicht allein durch große Akkus</strong>. Eine effiziente Energieverwaltung, Wärmepumpen, rollwiderstandsoptimierte Reifen und vor allem eine ausgefeilte Aerodynamik tragen ebenfalls dazu bei, den&nbsp;Verbrauch von Elektroautos&nbsp;zu reduzieren. Große Akkus sind aber die einfachste Art der Reichweitensteigerung. Nachteil: Die Batterien sind mit Abstand der teuerste Part eines Elektroautos.</p>
+<p>Samen geven we vorm aan de toekomst van het internet.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Da sich staatliche Förderungen für E-Autos wie der Umweltbonus des BAFA nach dem Basispreis eines Modells richten, werden Modelle mit sehr großen, teuren Batterien oft weniger gefördert. Anders sieht die Lage auf dem Gebrauchtwagenmarkt aus: Hier liegen die Chancen höher, für ein E-Auto mit großem Akku noch die&nbsp;E-Auto-Förderung&nbsp;zu erhalten.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Seit der Renaissance der Elektromobilität spielt die Frage nach der Alltagstauglichkeit von E-Autos eine große Rolle. Dabei ist die Reichweite ein zentrales Thema. Tatsächlich ist die sogenannte „Reichweitenangst“ weit verbreitet, obwohl Studien sie im Alltag mit durchschnittlich kurzen Fahrstrecken als unbegründet bewerten.]]></excerpt:encoded>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Bouw uw website in enkele minuten met importeren met één klik – geen codeergedoe!
+]]></excerpt:encoded>
 		<wp:post_id>30</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-18 11:43:50]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-16 09:22:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:43:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-07-18 11:43:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-07-18 11:43:50]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-16 09:22:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-16 09:22:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[business-booming-for-giant-cargo-planes]]></wp:post_name>
@@ -2309,47 +2527,117 @@
 		<wp:meta_key><![CDATA[wpma_author]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1715824273]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Volkswagen will die Fahrzeugflotte des Papstes elektrifizieren]]></title>
-		<link>https://demos.afthemes.com/covernews/german/2018/07/18/google-hit-with-record-eu-fine-over-shopping-service/</link>
+		<link>https://demos.afthemes.com/covernews/german/2024/05/16/google-hit-with-record-eu-fine-over-shopping-service/</link>
 		<pubDate>Wed, 18 Jul 2018 11:50:24 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=33</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading -->
-<h2 class="wp-block-heading" id="wichtiges-kriterium-für-e-autos:-eine-große-reichweite">Wichtiges Kriterium für E-Autos: eine große Reichweite</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Seit der Renaissance der Elektromobilität spielt die Frage nach der Alltagstauglichkeit von E-Autos eine große Rolle. Dabei ist die Reichweite ein zentrales Thema. Tatsächlich ist die sogenannte „Reichweitenangst“ weit verbreitet, obwohl Studien sie im Alltag mit durchschnittlich kurzen Fahrstrecken als unbegründet bewerten.</p>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>In de dynamische wereld van WordPress ontpopten wij ons als een baken van innovatie en uitmuntendheid. Onze populaire producten, zoals <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a> en <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, naast krachtige plug-ins zoals <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a> en <a href="https://elespare.com/">Elespare</a>, dienen als de bouwstenen van uw digitale reis.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Kaum verwunderlich, dass E-Autos mit großer Reichweite besonders beliebt sind. Und die Auswahl ist heutzutage vielfältiger als noch vor wenigen Jahren: Vom Mittelklasse-Modell bis zur Luxuslimousine&nbsp;<strong>erreichen die reichweitenstärksten E-Autos mittlerweile mehr als 500 Kilometer mit nur einer Akkuladung</strong>.</p>
+<p>Wij hebben een passie voor kwaliteitscode en elegant ontwerp, zodat we ervoor kunnen zorgen dat het maken van uw website een moeiteloze mix is ​​van verfijning en eenvoud. Met de niet-aflatende steun van ons toegewijde team bent u nooit alleen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading" id="wie-teuer-sind-e-autos-mit-großer-reichweite?">Wie teuer sind E-Autos mit großer Reichweite?</h2>
+<h2 class="wp-block-heading"><br><a href="https://templatespare.com/"><strong>Templatespare</strong></a><strong>: Creëer uw droomwebsite met eenvoudige startersites!</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote {"align":"center"} -->
+<blockquote class="wp-block-quote has-text-align-center"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Een prachtige verzameling Startersites die klaar zijn om te importeren met slechts één klik. Krijg binnen enkele minuten moderne en creatieve websites!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Klaar voor kranten, tijdschriften, blogs en e-commerce</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><strong><strong><strong><strong><strong><strong>Vergeet het opnieuw beginnen</strong></strong></strong></strong></strong></strong></strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Mehr Effizienz, größere Akkukapazitäten und mehr Reichweite: Die Technik von Elektroautos entwickelt sich stetig weiter. Selbst Limousinen auf Verbrenner-Plattform wie der BMW i4 kommen bereits auf 590 Kilometer; die elektrische S-Klasse Mercedes EQS 450+ schafft über 780 Kilometer. Solche Reserven helfen dabei, die „Reichweitenangst“ zu nehmen.</p>
+<p>Ontdek een wereld vol creativiteit met meer dan 365 kant-en-klare websitesjablonen! Van chique blogs tot dynamische nieuwsplatforms, boeiende tijdschriften en websites van professionele bureaus: vind uw perfecte online ruimte!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size"><strong><strong><strong><strong><strong><strong>Importeren met één klik: geen codeergedoe! Drie eenvoudige stappen</strong></strong></strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Begin aan uw websitereis met eenvoud en stijl. Volg deze 3 eenvoudige stappen om moeiteloos uw online meesterwerk te creëren</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Meer ontdekken</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Kies een site<br></strong>Ontdek een rijke selectie van meer dan 350 vooraf gebouwde websites. Met een enkele klik importeert u de site die aansluit bij uw visie.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Aanpassen en personaliseren<br></strong>Laat je creativiteit de vrije loop! Pas de door u gekozen site aan met volledige ontwerpvrijheid. Pas elk element aan om uw website precies zo te bouwen en te personaliseren zoals u het voor ogen heeft.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Publiceer en ga live!</strong><br>Nu het bewerken en aanpassen is voltooid, is het tijd om live te gaan! Binnen enkele minuten is uw website klaar om met de wereld te delen.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Sluit u aan bij de <a href="https://afthemes.com/">AF Themes</a>-familie, waar uitmuntendheid en gemak samenkomen. Ontdek de eindeloze mogelijkheden en begin vandaag nog aan uw webreis met ons!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Große Reichweiten erhalten Autos allerdings nicht allein durch große Akkus</strong>. Eine effiziente Energieverwaltung, Wärmepumpen, rollwiderstandsoptimierte Reifen und vor allem eine ausgefeilte Aerodynamik tragen ebenfalls dazu bei, den Verbrauch von Elektroautos zu reduzieren. Große Akkus sind aber die einfachste Art der Reichweitensteigerung. Nachteil: Die Batterien sind mit Abstand der teuerste Part eines Elektroautos.</p>
+<p>Samen geven we vorm aan de toekomst van het internet.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Da sich staatliche Förderungen für E-Autos wie der Umweltbonus des BAFA nach dem Basispreis eines Modells richten, werden Modelle mit sehr großen, teuren Batterien oft weniger gefördert. Anders sieht die Lage auf dem Gebrauchtwagenmarkt aus: Hier liegen die Chancen höher, für ein E-Auto mit großem Akku noch die E-Auto-Förderung zu erhalten.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Seit der Renaissance der Elektromobilität spielt die Frage nach der Alltagstauglichkeit von E-Autos eine große Rolle. Dabei ist die Reichweite ein zentrales Thema. Tatsächlich ist die sogenannte „Reichweitenangst“ weit verbreitet, obwohl Studien sie im Alltag mit durchschnittlich kurzen Fahrstrecken als unbegründet bewerten.]]></excerpt:encoded>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Bouw uw website in enkele minuten met importeren met één klik – geen codeergedoe!
+]]></excerpt:encoded>
 		<wp:post_id>33</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-18 11:50:24]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-16 09:22:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:50:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-07-18 11:50:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-07-18 11:50:24]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-16 09:22:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-16 09:22:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[google-hit-with-record-eu-fine-over-shopping-service]]></wp:post_name>
@@ -2410,47 +2698,117 @@
 		<wp:meta_key><![CDATA[wpma_author]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1715824250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Hyundai Ioniq 6: Im Windkanal geschliffen]]></title>
-		<link>https://demos.afthemes.com/covernews/german/2018/07/18/the-full-story-of-thailands-extraordinary-cave-rescue/</link>
+		<link>https://demos.afthemes.com/covernews/german/2024/05/16/the-full-story-of-thailands-extraordinary-cave-rescue/</link>
 		<pubDate>Wed, 18 Jul 2018 11:03:32 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=6</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading -->
-<h2 class="wp-block-heading" id="wichtiges-kriterium-für-e-autos:-eine-große-reichweite">Wichtiges Kriterium für E-Autos: eine große Reichweite</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Seit der Renaissance der&nbsp;Elektromobilität&nbsp;spielt die Frage nach der Alltagstauglichkeit von E-Autos eine große Rolle. Dabei ist die Reichweite ein zentrales Thema. Tatsächlich ist die sogenannte „Reichweitenangst“ weit verbreitet, obwohl Studien sie im Alltag mit durchschnittlich kurzen Fahrstrecken als unbegründet bewerten.</p>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>In de dynamische wereld van WordPress ontpopten wij ons als een baken van innovatie en uitmuntendheid. Onze populaire producten, zoals <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a> en <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, naast krachtige plug-ins zoals <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a> en <a href="https://elespare.com/">Elespare</a>, dienen als de bouwstenen van uw digitale reis.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Kaum verwunderlich, dass E-Autos mit großer Reichweite besonders beliebt sind. Und die Auswahl ist heutzutage vielfältiger als noch vor wenigen Jahren: Vom Mittelklasse-Modell bis zur Luxuslimousine&nbsp;<strong>erreichen die reichweitenstärksten E-Autos mittlerweile mehr als 500 Kilometer mit nur einer Akkuladung</strong>.</p>
+<p>Wij hebben een passie voor kwaliteitscode en elegant ontwerp, zodat we ervoor kunnen zorgen dat het maken van uw website een moeiteloze mix is ​​van verfijning en eenvoud. Met de niet-aflatende steun van ons toegewijde team bent u nooit alleen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading" id="wie-teuer-sind-e-autos-mit-großer-reichweite?">Wie teuer sind E-Autos mit großer Reichweite?</h2>
+<h2 class="wp-block-heading"><br><a href="https://templatespare.com/"><strong>Templatespare</strong></a><strong>: Creëer uw droomwebsite met eenvoudige startersites!</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote {"align":"center"} -->
+<blockquote class="wp-block-quote has-text-align-center"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Een prachtige verzameling Startersites die klaar zijn om te importeren met slechts één klik. Krijg binnen enkele minuten moderne en creatieve websites!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Klaar voor kranten, tijdschriften, blogs en e-commerce</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><strong><strong><strong><strong><strong><strong>Vergeet het opnieuw beginnen</strong></strong></strong></strong></strong></strong></strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Mehr Effizienz, größere Akkukapazitäten und mehr Reichweite: Die Technik von Elektroautos entwickelt sich stetig weiter. Selbst Limousinen auf Verbrenner-Plattform wie der BMW i4 kommen bereits auf 590 Kilometer; die elektrische S-Klasse Mercedes EQS 450+ schafft über 780 Kilometer. Solche Reserven helfen dabei, die „Reichweitenangst“ zu nehmen.</p>
+<p>Ontdek een wereld vol creativiteit met meer dan 365 kant-en-klare websitesjablonen! Van chique blogs tot dynamische nieuwsplatforms, boeiende tijdschriften en websites van professionele bureaus: vind uw perfecte online ruimte!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size"><strong><strong><strong><strong><strong><strong>Importeren met één klik: geen codeergedoe! Drie eenvoudige stappen</strong></strong></strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Begin aan uw websitereis met eenvoud en stijl. Volg deze 3 eenvoudige stappen om moeiteloos uw online meesterwerk te creëren</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Meer ontdekken</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Kies een site<br></strong>Ontdek een rijke selectie van meer dan 350 vooraf gebouwde websites. Met een enkele klik importeert u de site die aansluit bij uw visie.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Aanpassen en personaliseren<br></strong>Laat je creativiteit de vrije loop! Pas de door u gekozen site aan met volledige ontwerpvrijheid. Pas elk element aan om uw website precies zo te bouwen en te personaliseren zoals u het voor ogen heeft.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Publiceer en ga live!</strong><br>Nu het bewerken en aanpassen is voltooid, is het tijd om live te gaan! Binnen enkele minuten is uw website klaar om met de wereld te delen.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Sluit u aan bij de <a href="https://afthemes.com/">AF Themes</a>-familie, waar uitmuntendheid en gemak samenkomen. Ontdek de eindeloze mogelijkheden en begin vandaag nog aan uw webreis met ons!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Große Reichweiten erhalten Autos allerdings nicht allein durch große Akkus</strong>. Eine effiziente Energieverwaltung, Wärmepumpen, rollwiderstandsoptimierte Reifen und vor allem eine ausgefeilte Aerodynamik tragen ebenfalls dazu bei, den&nbsp;Verbrauch von Elektroautos&nbsp;zu reduzieren. Große Akkus sind aber die einfachste Art der Reichweitensteigerung. Nachteil: Die Batterien sind mit Abstand der teuerste Part eines Elektroautos.</p>
+<p>Samen geven we vorm aan de toekomst van het internet.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Da sich staatliche Förderungen für E-Autos wie der Umweltbonus des BAFA nach dem Basispreis eines Modells richten, werden Modelle mit sehr großen, teuren Batterien oft weniger gefördert. Anders sieht die Lage auf dem Gebrauchtwagenmarkt aus: Hier liegen die Chancen höher, für ein E-Auto mit großem Akku noch die&nbsp;E-Auto-Förderung&nbsp;zu erhalten.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Seit der Renaissance der Elektromobilität spielt die Frage nach der Alltagstauglichkeit von E-Autos eine große Rolle. Dabei ist die Reichweite ein zentrales Thema. Tatsächlich ist die sogenannte „Reichweitenangst“ weit verbreitet, obwohl Studien sie im Alltag mit durchschnittlich kurzen Fahrstrecken als unbegründet bewerten.]]></excerpt:encoded>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Bouw uw website in enkele minuten met importeren met één klik – geen codeergedoe!
+]]></excerpt:encoded>
 		<wp:post_id>98</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-18 11:03:32]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-16 09:22:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:03:32]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-07-18 11:03:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-07-18 11:03:32]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-16 09:22:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-16 09:22:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-full-story-of-thailands-extraordinary-cave-rescue]]></wp:post_name>
@@ -2499,47 +2857,117 @@
 		<wp:meta_key><![CDATA[wpma_author]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1715824147]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Tesla Model 3 Long Range: So weit es nur geht]]></title>
-		<link>https://demos.afthemes.com/covernews/german/2018/07/18/why-local-us-newspapers-are-sounding-the-alarm/</link>
+		<link>https://demos.afthemes.com/covernews/german/2024/05/16/why-local-us-newspapers-are-sounding-the-alarm/</link>
 		<pubDate>Wed, 18 Jul 2018 11:07:30 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=9</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading -->
-<h2 class="wp-block-heading" id="wichtiges-kriterium-für-e-autos:-eine-große-reichweite">Wichtiges Kriterium für E-Autos: eine große Reichweite</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Seit der Renaissance der&nbsp;Elektromobilität&nbsp;spielt die Frage nach der Alltagstauglichkeit von E-Autos eine große Rolle. Dabei ist die Reichweite ein zentrales Thema. Tatsächlich ist die sogenannte „Reichweitenangst“ weit verbreitet, obwohl Studien sie im Alltag mit durchschnittlich kurzen Fahrstrecken als unbegründet bewerten.</p>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>In de dynamische wereld van WordPress ontpopten wij ons als een baken van innovatie en uitmuntendheid. Onze populaire producten, zoals <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a> en <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, naast krachtige plug-ins zoals <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a> en <a href="https://elespare.com/">Elespare</a>, dienen als de bouwstenen van uw digitale reis.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Kaum verwunderlich, dass E-Autos mit großer Reichweite besonders beliebt sind. Und die Auswahl ist heutzutage vielfältiger als noch vor wenigen Jahren: Vom Mittelklasse-Modell bis zur Luxuslimousine&nbsp;<strong>erreichen die reichweitenstärksten E-Autos mittlerweile mehr als 500 Kilometer mit nur einer Akkuladung</strong>.</p>
+<p>Wij hebben een passie voor kwaliteitscode en elegant ontwerp, zodat we ervoor kunnen zorgen dat het maken van uw website een moeiteloze mix is ​​van verfijning en eenvoud. Met de niet-aflatende steun van ons toegewijde team bent u nooit alleen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading" id="wie-teuer-sind-e-autos-mit-großer-reichweite?">Wie teuer sind E-Autos mit großer Reichweite?</h2>
+<h2 class="wp-block-heading"><br><a href="https://templatespare.com/"><strong>Templatespare</strong></a><strong>: Creëer uw droomwebsite met eenvoudige startersites!</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote {"align":"center"} -->
+<blockquote class="wp-block-quote has-text-align-center"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Een prachtige verzameling Startersites die klaar zijn om te importeren met slechts één klik. Krijg binnen enkele minuten moderne en creatieve websites!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Klaar voor kranten, tijdschriften, blogs en e-commerce</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><strong><strong><strong><strong><strong><strong>Vergeet het opnieuw beginnen</strong></strong></strong></strong></strong></strong></strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Mehr Effizienz, größere Akkukapazitäten und mehr Reichweite: Die Technik von Elektroautos entwickelt sich stetig weiter. Selbst Limousinen auf Verbrenner-Plattform wie der BMW i4 kommen bereits auf 590 Kilometer; die elektrische S-Klasse Mercedes EQS 450+ schafft über 780 Kilometer. Solche Reserven helfen dabei, die „Reichweitenangst“ zu nehmen.</p>
+<p>Ontdek een wereld vol creativiteit met meer dan 365 kant-en-klare websitesjablonen! Van chique blogs tot dynamische nieuwsplatforms, boeiende tijdschriften en websites van professionele bureaus: vind uw perfecte online ruimte!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size"><strong><strong><strong><strong><strong><strong>Importeren met één klik: geen codeergedoe! Drie eenvoudige stappen</strong></strong></strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Begin aan uw websitereis met eenvoud en stijl. Volg deze 3 eenvoudige stappen om moeiteloos uw online meesterwerk te creëren</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Meer ontdekken</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Kies een site<br></strong>Ontdek een rijke selectie van meer dan 350 vooraf gebouwde websites. Met een enkele klik importeert u de site die aansluit bij uw visie.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Aanpassen en personaliseren<br></strong>Laat je creativiteit de vrije loop! Pas de door u gekozen site aan met volledige ontwerpvrijheid. Pas elk element aan om uw website precies zo te bouwen en te personaliseren zoals u het voor ogen heeft.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Publiceer en ga live!</strong><br>Nu het bewerken en aanpassen is voltooid, is het tijd om live te gaan! Binnen enkele minuten is uw website klaar om met de wereld te delen.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Sluit u aan bij de <a href="https://afthemes.com/">AF Themes</a>-familie, waar uitmuntendheid en gemak samenkomen. Ontdek de eindeloze mogelijkheden en begin vandaag nog aan uw webreis met ons!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Große Reichweiten erhalten Autos allerdings nicht allein durch große Akkus</strong>. Eine effiziente Energieverwaltung, Wärmepumpen, rollwiderstandsoptimierte Reifen und vor allem eine ausgefeilte Aerodynamik tragen ebenfalls dazu bei, den&nbsp;Verbrauch von Elektroautos&nbsp;zu reduzieren. Große Akkus sind aber die einfachste Art der Reichweitensteigerung. Nachteil: Die Batterien sind mit Abstand der teuerste Part eines Elektroautos.</p>
+<p>Samen geven we vorm aan de toekomst van het internet.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Da sich staatliche Förderungen für E-Autos wie der Umweltbonus des BAFA nach dem Basispreis eines Modells richten, werden Modelle mit sehr großen, teuren Batterien oft weniger gefördert. Anders sieht die Lage auf dem Gebrauchtwagenmarkt aus: Hier liegen die Chancen höher, für ein E-Auto mit großem Akku noch die&nbsp;E-Auto-Förderung&nbsp;zu erhalten.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Seit der Renaissance der Elektromobilität spielt die Frage nach der Alltagstauglichkeit von E-Autos eine große Rolle. Dabei ist die Reichweite ein zentrales Thema. Tatsächlich ist die sogenannte „Reichweitenangst“ weit verbreitet, obwohl Studien sie im Alltag mit durchschnittlich kurzen Fahrstrecken als unbegründet bewerten.]]></excerpt:encoded>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Bouw uw website in enkele minuten met importeren met één klik – geen codeergedoe!
+]]></excerpt:encoded>
 		<wp:post_id>155</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-18 11:07:30]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-16 09:22:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:07:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-07-18 11:07:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-07-18 11:07:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-16 09:22:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-16 09:22:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[why-local-us-newspapers-are-sounding-the-alarm]]></wp:post_name>
@@ -2587,47 +3015,117 @@
 		<wp:meta_key><![CDATA[wpma_author]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1715824046]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Kia EV6 Long Range: Extravaganter Stromer]]></title>
-		<link>https://demos.afthemes.com/covernews/german/2018/07/18/searching-for-the-angel-who-held-me-on-westminster-bridge/</link>
+		<link>https://demos.afthemes.com/covernews/german/2024/05/16/searching-for-the-angel-who-held-me-on-westminster-bridge/</link>
 		<pubDate>Wed, 18 Jul 2018 11:10:42 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=12</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading -->
-<h2 class="wp-block-heading" id="wichtiges-kriterium-für-e-autos:-eine-große-reichweite">Wichtiges Kriterium für E-Autos: eine große Reichweite</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Seit der Renaissance der&nbsp;Elektromobilität&nbsp;spielt die Frage nach der Alltagstauglichkeit von E-Autos eine große Rolle. Dabei ist die Reichweite ein zentrales Thema. Tatsächlich ist die sogenannte „Reichweitenangst“ weit verbreitet, obwohl Studien sie im Alltag mit durchschnittlich kurzen Fahrstrecken als unbegründet bewerten.</p>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>In de dynamische wereld van WordPress ontpopten wij ons als een baken van innovatie en uitmuntendheid. Onze populaire producten, zoals <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a> en <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, naast krachtige plug-ins zoals <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a> en <a href="https://elespare.com/">Elespare</a>, dienen als de bouwstenen van uw digitale reis.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Kaum verwunderlich, dass E-Autos mit großer Reichweite besonders beliebt sind. Und die Auswahl ist heutzutage vielfältiger als noch vor wenigen Jahren: Vom Mittelklasse-Modell bis zur Luxuslimousine&nbsp;<strong>erreichen die reichweitenstärksten E-Autos mittlerweile mehr als 500 Kilometer mit nur einer Akkuladung</strong>.</p>
+<p>Wij hebben een passie voor kwaliteitscode en elegant ontwerp, zodat we ervoor kunnen zorgen dat het maken van uw website een moeiteloze mix is ​​van verfijning en eenvoud. Met de niet-aflatende steun van ons toegewijde team bent u nooit alleen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading" id="wie-teuer-sind-e-autos-mit-großer-reichweite?">Wie teuer sind E-Autos mit großer Reichweite?</h2>
+<h2 class="wp-block-heading"><br><a href="https://templatespare.com/"><strong>Templatespare</strong></a><strong>: Creëer uw droomwebsite met eenvoudige startersites!</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote {"align":"center"} -->
+<blockquote class="wp-block-quote has-text-align-center"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Een prachtige verzameling Startersites die klaar zijn om te importeren met slechts één klik. Krijg binnen enkele minuten moderne en creatieve websites!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Klaar voor kranten, tijdschriften, blogs en e-commerce</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><strong><strong><strong><strong><strong><strong>Vergeet het opnieuw beginnen</strong></strong></strong></strong></strong></strong></strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Mehr Effizienz, größere Akkukapazitäten und mehr Reichweite: Die Technik von Elektroautos entwickelt sich stetig weiter. Selbst Limousinen auf Verbrenner-Plattform wie der BMW i4 kommen bereits auf 590 Kilometer; die elektrische S-Klasse Mercedes EQS 450+ schafft über 780 Kilometer. Solche Reserven helfen dabei, die „Reichweitenangst“ zu nehmen.</p>
+<p>Ontdek een wereld vol creativiteit met meer dan 365 kant-en-klare websitesjablonen! Van chique blogs tot dynamische nieuwsplatforms, boeiende tijdschriften en websites van professionele bureaus: vind uw perfecte online ruimte!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size"><strong><strong><strong><strong><strong><strong>Importeren met één klik: geen codeergedoe! Drie eenvoudige stappen</strong></strong></strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Begin aan uw websitereis met eenvoud en stijl. Volg deze 3 eenvoudige stappen om moeiteloos uw online meesterwerk te creëren</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Meer ontdekken</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Kies een site<br></strong>Ontdek een rijke selectie van meer dan 350 vooraf gebouwde websites. Met een enkele klik importeert u de site die aansluit bij uw visie.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Aanpassen en personaliseren<br></strong>Laat je creativiteit de vrije loop! Pas de door u gekozen site aan met volledige ontwerpvrijheid. Pas elk element aan om uw website precies zo te bouwen en te personaliseren zoals u het voor ogen heeft.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Publiceer en ga live!</strong><br>Nu het bewerken en aanpassen is voltooid, is het tijd om live te gaan! Binnen enkele minuten is uw website klaar om met de wereld te delen.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Sluit u aan bij de <a href="https://afthemes.com/">AF Themes</a>-familie, waar uitmuntendheid en gemak samenkomen. Ontdek de eindeloze mogelijkheden en begin vandaag nog aan uw webreis met ons!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Große Reichweiten erhalten Autos allerdings nicht allein durch große Akkus</strong>. Eine effiziente Energieverwaltung, Wärmepumpen, rollwiderstandsoptimierte Reifen und vor allem eine ausgefeilte Aerodynamik tragen ebenfalls dazu bei, den&nbsp;Verbrauch von Elektroautos&nbsp;zu reduzieren. Große Akkus sind aber die einfachste Art der Reichweitensteigerung. Nachteil: Die Batterien sind mit Abstand der teuerste Part eines Elektroautos.</p>
+<p>Samen geven we vorm aan de toekomst van het internet.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Da sich staatliche Förderungen für E-Autos wie der Umweltbonus des BAFA nach dem Basispreis eines Modells richten, werden Modelle mit sehr großen, teuren Batterien oft weniger gefördert. Anders sieht die Lage auf dem Gebrauchtwagenmarkt aus: Hier liegen die Chancen höher, für ein E-Auto mit großem Akku noch die&nbsp;E-Auto-Förderung&nbsp;zu erhalten.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Seit der Renaissance der Elektromobilität spielt die Frage nach der Alltagstauglichkeit von E-Autos eine große Rolle. Dabei ist die Reichweite ein zentrales Thema. Tatsächlich ist die sogenannte „Reichweitenangst“ weit verbreitet, obwohl Studien sie im Alltag mit durchschnittlich kurzen Fahrstrecken als unbegründet bewerten.]]></excerpt:encoded>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Bouw uw website in enkele minuten met importeren met één klik – geen codeergedoe!
+]]></excerpt:encoded>
 		<wp:post_id>156</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-18 11:10:42]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-16 09:22:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:10:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-07-18 11:10:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-07-18 11:10:42]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-16 09:22:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-16 09:22:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[searching-for-the-angel-who-held-me-on-westminster-bridge]]></wp:post_name>
@@ -2675,47 +3173,117 @@
 		<wp:meta_key><![CDATA[wpma_author]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1715824221]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Ford Mustang Mach-E Extended Range: E-SUV statt Coupé]]></title>
-		<link>https://demos.afthemes.com/covernews/german/2018/07/18/all-you-need-to-know-about-penalty-shootouts/</link>
+		<link>https://demos.afthemes.com/covernews/german/2024/05/16/all-you-need-to-know-about-penalty-shootouts/</link>
 		<pubDate>Wed, 18 Jul 2018 11:16:45 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=15</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading -->
-<h2 class="wp-block-heading" id="wichtiges-kriterium-für-e-autos:-eine-große-reichweite">Wichtiges Kriterium für E-Autos: eine große Reichweite</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Seit der Renaissance der&nbsp;Elektromobilität&nbsp;spielt die Frage nach der Alltagstauglichkeit von E-Autos eine große Rolle. Dabei ist die Reichweite ein zentrales Thema. Tatsächlich ist die sogenannte „Reichweitenangst“ weit verbreitet, obwohl Studien sie im Alltag mit durchschnittlich kurzen Fahrstrecken als unbegründet bewerten.</p>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>In de dynamische wereld van WordPress ontpopten wij ons als een baken van innovatie en uitmuntendheid. Onze populaire producten, zoals <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a> en <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, naast krachtige plug-ins zoals <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a> en <a href="https://elespare.com/">Elespare</a>, dienen als de bouwstenen van uw digitale reis.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Kaum verwunderlich, dass E-Autos mit großer Reichweite besonders beliebt sind. Und die Auswahl ist heutzutage vielfältiger als noch vor wenigen Jahren: Vom Mittelklasse-Modell bis zur Luxuslimousine&nbsp;<strong>erreichen die reichweitenstärksten E-Autos mittlerweile mehr als 500 Kilometer mit nur einer Akkuladung</strong>.</p>
+<p>Wij hebben een passie voor kwaliteitscode en elegant ontwerp, zodat we ervoor kunnen zorgen dat het maken van uw website een moeiteloze mix is ​​van verfijning en eenvoud. Met de niet-aflatende steun van ons toegewijde team bent u nooit alleen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading" id="wie-teuer-sind-e-autos-mit-großer-reichweite?">Wie teuer sind E-Autos mit großer Reichweite?</h2>
+<h2 class="wp-block-heading"><br><a href="https://templatespare.com/"><strong>Templatespare</strong></a><strong>: Creëer uw droomwebsite met eenvoudige startersites!</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote {"align":"center"} -->
+<blockquote class="wp-block-quote has-text-align-center"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Een prachtige verzameling Startersites die klaar zijn om te importeren met slechts één klik. Krijg binnen enkele minuten moderne en creatieve websites!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Klaar voor kranten, tijdschriften, blogs en e-commerce</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><strong><strong><strong><strong><strong><strong>Vergeet het opnieuw beginnen</strong></strong></strong></strong></strong></strong></strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Mehr Effizienz, größere Akkukapazitäten und mehr Reichweite: Die Technik von Elektroautos entwickelt sich stetig weiter. Selbst Limousinen auf Verbrenner-Plattform wie der BMW i4 kommen bereits auf 590 Kilometer; die elektrische S-Klasse Mercedes EQS 450+ schafft über 780 Kilometer. Solche Reserven helfen dabei, die „Reichweitenangst“ zu nehmen.</p>
+<p>Ontdek een wereld vol creativiteit met meer dan 365 kant-en-klare websitesjablonen! Van chique blogs tot dynamische nieuwsplatforms, boeiende tijdschriften en websites van professionele bureaus: vind uw perfecte online ruimte!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size"><strong><strong><strong><strong><strong><strong>Importeren met één klik: geen codeergedoe! Drie eenvoudige stappen</strong></strong></strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Begin aan uw websitereis met eenvoud en stijl. Volg deze 3 eenvoudige stappen om moeiteloos uw online meesterwerk te creëren</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Meer ontdekken</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Kies een site<br></strong>Ontdek een rijke selectie van meer dan 350 vooraf gebouwde websites. Met een enkele klik importeert u de site die aansluit bij uw visie.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Aanpassen en personaliseren<br></strong>Laat je creativiteit de vrije loop! Pas de door u gekozen site aan met volledige ontwerpvrijheid. Pas elk element aan om uw website precies zo te bouwen en te personaliseren zoals u het voor ogen heeft.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Publiceer en ga live!</strong><br>Nu het bewerken en aanpassen is voltooid, is het tijd om live te gaan! Binnen enkele minuten is uw website klaar om met de wereld te delen.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Sluit u aan bij de <a href="https://afthemes.com/">AF Themes</a>-familie, waar uitmuntendheid en gemak samenkomen. Ontdek de eindeloze mogelijkheden en begin vandaag nog aan uw webreis met ons!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Große Reichweiten erhalten Autos allerdings nicht allein durch große Akkus</strong>. Eine effiziente Energieverwaltung, Wärmepumpen, rollwiderstandsoptimierte Reifen und vor allem eine ausgefeilte Aerodynamik tragen ebenfalls dazu bei, den&nbsp;Verbrauch von Elektroautos&nbsp;zu reduzieren. Große Akkus sind aber die einfachste Art der Reichweitensteigerung. Nachteil: Die Batterien sind mit Abstand der teuerste Part eines Elektroautos.</p>
+<p>Samen geven we vorm aan de toekomst van het internet.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Da sich staatliche Förderungen für E-Autos wie der Umweltbonus des BAFA nach dem Basispreis eines Modells richten, werden Modelle mit sehr großen, teuren Batterien oft weniger gefördert. Anders sieht die Lage auf dem Gebrauchtwagenmarkt aus: Hier liegen die Chancen höher, für ein E-Auto mit großem Akku noch die&nbsp;E-Auto-Förderung&nbsp;zu erhalten.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Seit der Renaissance der Elektromobilität spielt die Frage nach der Alltagstauglichkeit von E-Autos eine große Rolle. Dabei ist die Reichweite ein zentrales Thema. Tatsächlich ist die sogenannte „Reichweitenangst“ weit verbreitet, obwohl Studien sie im Alltag mit durchschnittlich kurzen Fahrstrecken als unbegründet bewerten.]]></excerpt:encoded>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Bouw uw website in enkele minuten met importeren met één klik – geen codeergedoe!
+]]></excerpt:encoded>
 		<wp:post_id>157</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-18 11:16:45]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-16 09:22:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:16:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-07-18 11:16:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-07-18 11:16:45]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-16 09:22:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-16 09:22:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[all-you-need-to-know-about-penalty-shootouts]]></wp:post_name>
@@ -2764,47 +3332,117 @@
 		<wp:meta_key><![CDATA[wpma_author]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1715824298]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Wichtiges Kriterium für E-Autos: eine große Reichweite]]></title>
-		<link>https://demos.afthemes.com/covernews/german/2018/07/18/the-man-who-saved-thousands-of-people-from-hiv/</link>
+		<link>https://demos.afthemes.com/covernews/german/2024/05/16/the-man-who-saved-thousands-of-people-from-hiv/</link>
 		<pubDate>Wed, 18 Jul 2018 11:24:54 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=18</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading -->
-<h2 class="wp-block-heading" id="wichtiges-kriterium-für-e-autos:-eine-große-reichweite">Wichtiges Kriterium für E-Autos: eine große Reichweite</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Seit der Renaissance der&nbsp;Elektromobilität&nbsp;spielt die Frage nach der Alltagstauglichkeit von E-Autos eine große Rolle. Dabei ist die Reichweite ein zentrales Thema. Tatsächlich ist die sogenannte „Reichweitenangst“ weit verbreitet, obwohl Studien sie im Alltag mit durchschnittlich kurzen Fahrstrecken als unbegründet bewerten.</p>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>In de dynamische wereld van WordPress ontpopten wij ons als een baken van innovatie en uitmuntendheid. Onze populaire producten, zoals <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a> en <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, naast krachtige plug-ins zoals <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a> en <a href="https://elespare.com/">Elespare</a>, dienen als de bouwstenen van uw digitale reis.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Kaum verwunderlich, dass E-Autos mit großer Reichweite besonders beliebt sind. Und die Auswahl ist heutzutage vielfältiger als noch vor wenigen Jahren: Vom Mittelklasse-Modell bis zur Luxuslimousine&nbsp;<strong>erreichen die reichweitenstärksten E-Autos mittlerweile mehr als 500 Kilometer mit nur einer Akkuladung</strong>.</p>
+<p>Wij hebben een passie voor kwaliteitscode en elegant ontwerp, zodat we ervoor kunnen zorgen dat het maken van uw website een moeiteloze mix is ​​van verfijning en eenvoud. Met de niet-aflatende steun van ons toegewijde team bent u nooit alleen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading" id="wie-teuer-sind-e-autos-mit-großer-reichweite?">Wie teuer sind E-Autos mit großer Reichweite?</h2>
+<h2 class="wp-block-heading"><br><a href="https://templatespare.com/"><strong>Templatespare</strong></a><strong>: Creëer uw droomwebsite met eenvoudige startersites!</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote {"align":"center"} -->
+<blockquote class="wp-block-quote has-text-align-center"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Een prachtige verzameling Startersites die klaar zijn om te importeren met slechts één klik. Krijg binnen enkele minuten moderne en creatieve websites!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Klaar voor kranten, tijdschriften, blogs en e-commerce</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><strong><strong><strong><strong><strong><strong>Vergeet het opnieuw beginnen</strong></strong></strong></strong></strong></strong></strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Mehr Effizienz, größere Akkukapazitäten und mehr Reichweite: Die Technik von Elektroautos entwickelt sich stetig weiter. Selbst Limousinen auf Verbrenner-Plattform wie der BMW i4 kommen bereits auf 590 Kilometer; die elektrische S-Klasse Mercedes EQS 450+ schafft über 780 Kilometer. Solche Reserven helfen dabei, die „Reichweitenangst“ zu nehmen.</p>
+<p>Ontdek een wereld vol creativiteit met meer dan 365 kant-en-klare websitesjablonen! Van chique blogs tot dynamische nieuwsplatforms, boeiende tijdschriften en websites van professionele bureaus: vind uw perfecte online ruimte!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size"><strong><strong><strong><strong><strong><strong>Importeren met één klik: geen codeergedoe! Drie eenvoudige stappen</strong></strong></strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Begin aan uw websitereis met eenvoud en stijl. Volg deze 3 eenvoudige stappen om moeiteloos uw online meesterwerk te creëren</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Meer ontdekken</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Kies een site<br></strong>Ontdek een rijke selectie van meer dan 350 vooraf gebouwde websites. Met een enkele klik importeert u de site die aansluit bij uw visie.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Aanpassen en personaliseren<br></strong>Laat je creativiteit de vrije loop! Pas de door u gekozen site aan met volledige ontwerpvrijheid. Pas elk element aan om uw website precies zo te bouwen en te personaliseren zoals u het voor ogen heeft.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Publiceer en ga live!</strong><br>Nu het bewerken en aanpassen is voltooid, is het tijd om live te gaan! Binnen enkele minuten is uw website klaar om met de wereld te delen.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Sluit u aan bij de <a href="https://afthemes.com/">AF Themes</a>-familie, waar uitmuntendheid en gemak samenkomen. Ontdek de eindeloze mogelijkheden en begin vandaag nog aan uw webreis met ons!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Große Reichweiten erhalten Autos allerdings nicht allein durch große Akkus</strong>. Eine effiziente Energieverwaltung, Wärmepumpen, rollwiderstandsoptimierte Reifen und vor allem eine ausgefeilte Aerodynamik tragen ebenfalls dazu bei, den&nbsp;Verbrauch von Elektroautos&nbsp;zu reduzieren. Große Akkus sind aber die einfachste Art der Reichweitensteigerung. Nachteil: Die Batterien sind mit Abstand der teuerste Part eines Elektroautos.</p>
+<p>Samen geven we vorm aan de toekomst van het internet.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Da sich staatliche Förderungen für E-Autos wie der Umweltbonus des BAFA nach dem Basispreis eines Modells richten, werden Modelle mit sehr großen, teuren Batterien oft weniger gefördert. Anders sieht die Lage auf dem Gebrauchtwagenmarkt aus: Hier liegen die Chancen höher, für ein E-Auto mit großem Akku noch die&nbsp;E-Auto-Förderung&nbsp;zu erhalten.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Seit der Renaissance der Elektromobilität spielt die Frage nach der Alltagstauglichkeit von E-Autos eine große Rolle. Dabei ist die Reichweite ein zentrales Thema. Tatsächlich ist die sogenannte „Reichweitenangst“ weit verbreitet, obwohl Studien sie im Alltag mit durchschnittlich kurzen Fahrstrecken als unbegründet bewerten.]]></excerpt:encoded>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Bouw uw website in enkele minuten met importeren met één klik – geen codeergedoe!
+]]></excerpt:encoded>
 		<wp:post_id>158</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-18 11:24:54]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-16 09:22:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:24:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-07-18 11:24:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-07-18 11:24:54]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-16 09:22:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-16 09:22:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-man-who-saved-thousands-of-people-from-hiv]]></wp:post_name>
@@ -2852,47 +3490,117 @@
 		<wp:meta_key><![CDATA[wpma_author]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1715824110]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Von diesen Autos verabschieden wir uns]]></title>
-		<link>https://demos.afthemes.com/covernews/german/2018/07/18/searching-for-the-forgotten-heroes-of-world-war-two/</link>
+		<link>https://demos.afthemes.com/covernews/german/2024/05/16/searching-for-the-forgotten-heroes-of-world-war-two/</link>
 		<pubDate>Wed, 18 Jul 2018 11:26:28 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=21</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading -->
-<h2 class="wp-block-heading" id="wichtiges-kriterium-für-e-autos:-eine-große-reichweite">Wichtiges Kriterium für E-Autos: eine große Reichweite</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Seit der Renaissance der&nbsp;Elektromobilität&nbsp;spielt die Frage nach der Alltagstauglichkeit von E-Autos eine große Rolle. Dabei ist die Reichweite ein zentrales Thema. Tatsächlich ist die sogenannte „Reichweitenangst“ weit verbreitet, obwohl Studien sie im Alltag mit durchschnittlich kurzen Fahrstrecken als unbegründet bewerten.</p>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>In de dynamische wereld van WordPress ontpopten wij ons als een baken van innovatie en uitmuntendheid. Onze populaire producten, zoals <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a> en <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, naast krachtige plug-ins zoals <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a> en <a href="https://elespare.com/">Elespare</a>, dienen als de bouwstenen van uw digitale reis.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Kaum verwunderlich, dass E-Autos mit großer Reichweite besonders beliebt sind. Und die Auswahl ist heutzutage vielfältiger als noch vor wenigen Jahren: Vom Mittelklasse-Modell bis zur Luxuslimousine&nbsp;<strong>erreichen die reichweitenstärksten E-Autos mittlerweile mehr als 500 Kilometer mit nur einer Akkuladung</strong>.</p>
+<p>Wij hebben een passie voor kwaliteitscode en elegant ontwerp, zodat we ervoor kunnen zorgen dat het maken van uw website een moeiteloze mix is ​​van verfijning en eenvoud. Met de niet-aflatende steun van ons toegewijde team bent u nooit alleen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading" id="wie-teuer-sind-e-autos-mit-großer-reichweite?">Wie teuer sind E-Autos mit großer Reichweite?</h2>
+<h2 class="wp-block-heading"><br><a href="https://templatespare.com/"><strong>Templatespare</strong></a><strong>: Creëer uw droomwebsite met eenvoudige startersites!</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote {"align":"center"} -->
+<blockquote class="wp-block-quote has-text-align-center"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Een prachtige verzameling Startersites die klaar zijn om te importeren met slechts één klik. Krijg binnen enkele minuten moderne en creatieve websites!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Klaar voor kranten, tijdschriften, blogs en e-commerce</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><strong><strong><strong><strong><strong><strong>Vergeet het opnieuw beginnen</strong></strong></strong></strong></strong></strong></strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Mehr Effizienz, größere Akkukapazitäten und mehr Reichweite: Die Technik von Elektroautos entwickelt sich stetig weiter. Selbst Limousinen auf Verbrenner-Plattform wie der BMW i4 kommen bereits auf 590 Kilometer; die elektrische S-Klasse Mercedes EQS 450+ schafft über 780 Kilometer. Solche Reserven helfen dabei, die „Reichweitenangst“ zu nehmen.</p>
+<p>Ontdek een wereld vol creativiteit met meer dan 365 kant-en-klare websitesjablonen! Van chique blogs tot dynamische nieuwsplatforms, boeiende tijdschriften en websites van professionele bureaus: vind uw perfecte online ruimte!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size"><strong><strong><strong><strong><strong><strong>Importeren met één klik: geen codeergedoe! Drie eenvoudige stappen</strong></strong></strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Begin aan uw websitereis met eenvoud en stijl. Volg deze 3 eenvoudige stappen om moeiteloos uw online meesterwerk te creëren</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Meer ontdekken</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Kies een site<br></strong>Ontdek een rijke selectie van meer dan 350 vooraf gebouwde websites. Met een enkele klik importeert u de site die aansluit bij uw visie.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Aanpassen en personaliseren<br></strong>Laat je creativiteit de vrije loop! Pas de door u gekozen site aan met volledige ontwerpvrijheid. Pas elk element aan om uw website precies zo te bouwen en te personaliseren zoals u het voor ogen heeft.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Publiceer en ga live!</strong><br>Nu het bewerken en aanpassen is voltooid, is het tijd om live te gaan! Binnen enkele minuten is uw website klaar om met de wereld te delen.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Sluit u aan bij de <a href="https://afthemes.com/">AF Themes</a>-familie, waar uitmuntendheid en gemak samenkomen. Ontdek de eindeloze mogelijkheden en begin vandaag nog aan uw webreis met ons!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Große Reichweiten erhalten Autos allerdings nicht allein durch große Akkus</strong>. Eine effiziente Energieverwaltung, Wärmepumpen, rollwiderstandsoptimierte Reifen und vor allem eine ausgefeilte Aerodynamik tragen ebenfalls dazu bei, den&nbsp;Verbrauch von Elektroautos&nbsp;zu reduzieren. Große Akkus sind aber die einfachste Art der Reichweitensteigerung. Nachteil: Die Batterien sind mit Abstand der teuerste Part eines Elektroautos.</p>
+<p>Samen geven we vorm aan de toekomst van het internet.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Da sich staatliche Förderungen für E-Autos wie der Umweltbonus des BAFA nach dem Basispreis eines Modells richten, werden Modelle mit sehr großen, teuren Batterien oft weniger gefördert. Anders sieht die Lage auf dem Gebrauchtwagenmarkt aus: Hier liegen die Chancen höher, für ein E-Auto mit großem Akku noch die&nbsp;E-Auto-Förderung&nbsp;zu erhalten.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Seit der Renaissance der Elektromobilität spielt die Frage nach der Alltagstauglichkeit von E-Autos eine große Rolle. Dabei ist die Reichweite ein zentrales Thema. Tatsächlich ist die sogenannte „Reichweitenangst“ weit verbreitet, obwohl Studien sie im Alltag mit durchschnittlich kurzen Fahrstrecken als unbegründet bewerten.]]></excerpt:encoded>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Bouw uw website in enkele minuten met importeren met één klik – geen codeergedoe!
+]]></excerpt:encoded>
 		<wp:post_id>159</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-18 11:26:28]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-16 09:22:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:26:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-07-18 11:26:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-07-18 11:26:28]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-16 09:22:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-16 09:22:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[searching-for-the-forgotten-heroes-of-world-war-two]]></wp:post_name>
@@ -2957,6 +3665,22 @@
 		<wp:meta_key><![CDATA[wpma_author]]></wp:meta_key>
 		<wp:meta_value><![CDATA[guest-1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1715824197]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
@@ -2983,100 +3707,6 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="wp_theme" nicename="twentytwentythree"><![CDATA[twentytwentythree]]></category>
 						</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews/german/2023/12/13/399/</link>
-		<pubDate>Tue, 28 Nov 2023 06:40:39 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demos.afthemes.com/reviewnews-pro/automobile/?p=399</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>399</wp:post_id>
-		<wp:post_date><![CDATA[2023-12-13 11:33:18]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-11-28 06:40:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-13 11:33:18]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-11-28 06:40:39]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[399]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[398]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023-11-28]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews/german/2023/12/13/400/</link>
-		<pubDate>Tue, 28 Nov 2023 06:40:39 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demos.afthemes.com/reviewnews-pro/automobile/?p=400</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>400</wp:post_id>
-		<wp:post_date><![CDATA[2023-12-13 11:33:18]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-11-28 06:40:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-13 11:33:18]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-11-28 06:40:39]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[400]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023-11-28]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
 					<item>
 		<title><![CDATA[Navigation]]></title>
 		<link>https://demos.afthemes.com/covernews/german/2023/12/13/navigation-2/</link>

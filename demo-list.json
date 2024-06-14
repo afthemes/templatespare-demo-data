@@ -313,7 +313,8 @@
                 "newswords",
                 "daily-newscast",
                 "newsport",
-                "covermag"
+                "covermag",
+                "elenews"
             ],
             "demodata": {
                 "default": {
@@ -580,10 +581,129 @@
                         "dark",
                         "gutenberg"
                     ]
+                },
+                "cover-chrome": {
+                    "slug": "cover-chrome",
+                    "theme": "CoverNews",
+                    "catgory": "Gutenberg",
+                    "name": "CoverChrome",
+                    "preview": "https://demos.afthemes.com/covernews/cover-chrome/",
+                    "plugins": "blockspare",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "dark",
+                        "gutenberg"
+                    ]
+                },
+                "cover-chrome-dark": {
+                    "slug": "cover-chrome-dark",
+                    "theme": "CoverNews",
+                    "catgory": "Gutenberg",
+                    "name": "CoverChrome Dark",
+                    "preview": "https://demos.afthemes.com/covernews/cover-chrome-dark/",
+                    "plugins": "blockspare",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "dark",
+                        "gutenberg"
+                    ]
+                },
+                "coverdark-block": {
+                    "slug": "coverdark-block",
+                    "theme": "CoverNews",
+                    "catgory": "Gutenberg",
+                    "name": "CoverDark Block",
+                    "preview": "https://demos.afthemes.com/covernews/coverdark-block/",
+                    "plugins": "blockspare",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "dark",
+                        "gutenberg"
+                    ]
+                },
+                "coverenter-block": {
+                    "slug": "coverenter-block",
+                    "theme": "CoverNews",
+                    "catgory": "Gutenberg",
+                    "name": "CoverEnter Block",
+                    "preview": "https://demos.afthemes.com/covernews/coverenter-block/",
+                    "plugins": "blockspare",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "dark",
+                        "gutenberg"
+                    ]
+                },
+                "coverever-block": {
+                    "slug": "coverever-block",
+                    "theme": "CoverNews",
+                    "catgory": "Gutenberg",
+                    "name": "CoverEver Block",
+                    "preview": "https://demos.afthemes.com/covernews/coverever-block/",
+                    "plugins": "blockspare",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "dark",
+                        "gutenberg"
+                    ]
+                },
+                "more-block": {
+                    "slug": "more-block",
+                    "theme": "CoverNews",
+                    "catgory": "Gutenberg",
+                    "name": "More Block",
+                    "preview": "https://demos.afthemes.com/covernews/more-block/",
+                    "plugins": "blockspare",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "dark",
+                        "gutenberg"
+                    ]
+                },
+                "news-block": {
+                    "slug": "news-block",
+                    "theme": "CoverNews",
+                    "catgory": "Gutenberg",
+                    "name": "News Block",
+                    "preview": "https://demos.afthemes.com/covernews/news-block/",
+                    "plugins": "blockspare",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "dark",
+                        "gutenberg"
+                    ]
                 }
             }
         },
         
+        "elenews": {
+            "data": "elenews",
+            "free": "covernews",
+            "premium": "covernews-pro",
+            "demodata": {
+                "default": {
+                    "slug": "elenews",
+                    "theme": "CoverNews",
+                    "catgory": "Elementor",
+                    "name": "EleNews",
+                    "preview": "https://demos.afthemes.com/covernews/elenews/",
+                    "plugins": "elementor,elespare",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "child",
+                        "elementor"
+                    ]
+                }
+            }
+        },
         "hybridnews": {
             "data": "hybridnews",
             "free": "covernews",
@@ -1491,6 +1611,149 @@
                         "elementor"
                     ],
                     "plugins": "elementor,elespare"
+                },
+                "blockmag": {
+                    "slug": "blockmag",
+                    "theme": "ChromeNews",
+                    "catgory": "Gutenberg",
+                    "name": "BlockMag",
+                    "preview": "https://demos.afthemes.com/chromenews/blockmag/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "essenital-news": {
+                    "slug": "essenital-news",
+                    "theme": "ChromeNews",
+                    "catgory": "Gutenberg",
+                    "name": "Essenital News",
+                    "preview": "https://demos.afthemes.com/chromenews/essenital-news/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "flash-network": {
+                    "slug": "flash-network",
+                    "theme": "ChromeNews",
+                    "catgory": "Gutenberg",
+                    "name": "Flash Network",
+                    "preview": "https://demos.afthemes.com/chromenews/flash-network/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "horizon-headlines": {
+                    "slug": "horizon-headlines",
+                    "theme": "ChromeNews",
+                    "catgory": "Gutenberg",
+                    "name": "Horizon Headlines",
+                    "preview": "https://demos.afthemes.com/chromenews/horizon-headlines/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "insightful-news": {
+                    "slug": "insightful-news",
+                    "theme": "ChromeNews",
+                    "catgory": "Gutenberg",
+                    "name": "Insightful News",
+                    "preview": "https://demos.afthemes.com/chromenews/insightful-news/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "news-nexus": {
+                    "slug": "news-nexus",
+                    "theme": "ChromeNews",
+                    "catgory": "Gutenberg",
+                    "name": "News Nexus",
+                    "preview": "https://demos.afthemes.com/chromenews/news-nexus/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "newsblock": {
+                    "slug": "newsblock",
+                    "theme": "ChromeNews",
+                    "catgory": "Gutenberg",
+                    "name": "Newsblock",
+                    "preview": "https://demos.afthemes.com/chromenews/newsblock/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "newsbox": {
+                    "slug": "newsbox",
+                    "theme": "ChromeNews",
+                    "catgory": "Gutenberg",
+                    "name": "Newsbox",
+                    "preview": "https://demos.afthemes.com/chromenews/newsbox/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "prime-press": {
+                    "slug": "prime-press",
+                    "theme": "ChromeNews",
+                    "catgory": "Gutenberg",
+                    "name": "Prime Press",
+                    "preview": "https://demos.afthemes.com/chromenews/prime-press/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "rapid-report": {
+                    "slug": "rapid-report",
+                    "theme": "ChromeNews",
+                    "catgory": "Gutenberg",
+                    "name": "Rapid Report",
+                    "preview": "https://demos.afthemes.com/chromenews/rapid-report/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "world-watch": {
+                    "slug": "world-watch",
+                    "theme": "ChromeNews",
+                    "catgory": "Gutenberg",
+                    "name": "World Watch",
+                    "preview": "https://demos.afthemes.com/chromenews/world-watch/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
                 }
             }
         },
@@ -1878,6 +2141,18 @@
                         "travel"
                     ]
                 },
+                "indian": {
+                    "slug": "indian",
+                    "theme": "morenews",
+                    "catgory": "Blog",
+                    "name": "Indian News",
+                    "preview": "https://demos.afthemes.com/morenews/indian/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "indian"
+                    ]
+                },
                 "real-estate": {
                     "slug": "real-estate",
                     "theme": "morenews",
@@ -1916,6 +2191,156 @@
                         "elementor"
                     ],
                     "plugins": "elementor,elespare"
+                },
+                "breaking-point": {
+                    "slug": "breaking-point",
+                    "theme": "morenews",
+                    "catgory": "Gutenberg",
+                    "name": "Breaking Point",
+                    "preview": "https://demos.afthemes.com/morenews/breaking-point/",
+                    "tags": [
+                        "free",
+                        "news",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "daily-chronicle": {
+                    "slug": "daily-chronicle",
+                    "theme": "morenews",
+                    "catgory": "Gutenberg",
+                    "name": "Daily Chronicle",
+                    "preview": "https://demos.afthemes.com/morenews/daily-chronicle/",
+                    "tags": [
+                        "free",
+                        "news",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "dynamic-news": {
+                    "slug": "dynamic-news",
+                    "theme": "morenews",
+                    "catgory": "Gutenberg",
+                    "name": "Dynamic News",
+                    "preview": "https://demos.afthemes.com/morenews/dynamic-news/",
+                    "tags": [
+                        "free",
+                        "news",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "horizon-times": {
+                    "slug": "horizon-times",
+                    "theme": "morenews",
+                    "catgory": "Gutenberg",
+                    "name": "Horizon Times",
+                    "preview": "https://demos.afthemes.com/morenews/horizon-times/",
+                    "tags": [
+                        "free",
+                        "news",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "hot-topic": {
+                    "slug": "hot-topic",
+                    "theme": "morenews",
+                    "catgory": "Gutenberg",
+                    "name": "Hot Topic",
+                    "preview": "https://demos.afthemes.com/morenews/hot-topic/",
+                    "tags": [
+                        "free",
+                        "news",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "info-update": {
+                    "slug": "info-update",
+                    "theme": "morenews",
+                    "catgory": "Gutenberg",
+                    "name": "Info Update",
+                    "preview": "https://demos.afthemes.com/morenews/info-update/",
+                    "tags": [
+                        "free",
+                        "news",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "news-compass": {
+                    "slug": "news-compass",
+                    "theme": "morenews",
+                    "catgory": "Gutenberg",
+                    "name": "News Compass",
+                    "preview": "https://demos.afthemes.com/morenews/news-compass/",
+                    "tags": [
+                        "free",
+                        "news",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "prime-headlines": {
+                    "slug": "prime-headlines",
+                    "theme": "morenews",
+                    "catgory": "Gutenberg",
+                    "name": "Prime Headlines",
+                    "preview": "https://demos.afthemes.com/morenews/prime-headlines/",
+                    "tags": [
+                        "free",
+                        "news",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "rapid-update": {
+                    "slug": "rapid-update",
+                    "theme": "morenews",
+                    "catgory": "Gutenberg",
+                    "name": "Rapid Update",
+                    "preview": "https://demos.afthemes.com/morenews/rapid-update/",
+                    "tags": [
+                        "free",
+                        "news",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "trusted-times": {
+                    "slug": "trusted-times",
+                    "theme": "morenews",
+                    "catgory": "Gutenberg",
+                    "name": "Trusted Times",
+                    "preview": "https://demos.afthemes.com/morenews/trusted-times/",
+                    "tags": [
+                        "free",
+                        "news",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                }
+            }
+        },
+
+        "moremag": {
+            "data": "moremag",
+            "free": "morenews",
+            "premium": "morenews-pro",
+            "demodata": {
+                "default": {
+                    "slug": "moremag",
+                    "theme": "MoreNews",
+                    "catgory": "General", 
+                    "name": "MoreMag",
+                    "preview": "https://demos.afthemes.com/morenews/moremag/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "child"
+                    ]
                 }
             }
         },
@@ -2639,6 +3064,18 @@
                         "chinese"
                     ]
                 },
+                "indian": {
+                    "slug": "indian",
+                    "theme": "DarkNews",
+                    "catgory": "General",
+                    "name": "India News",
+                    "preview": "https://demos.afthemes.com/darknews/indian/",
+                    "tags": [
+                        "free",
+                        "news",
+                        "indian"
+                    ]
+                },
                 "blocknews": {
                     "slug": "blocknews",
                     "theme": "DarkNews",
@@ -2662,6 +3099,163 @@
                         "free",
                         "news",
                         "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "constant-feed": {
+                    "slug": "constant-feed",
+                    "theme": "DarkNews",
+                    "catgory": "Gutenberg",
+                    "name": "Constant Feed",
+                    "preview": "https://demos.afthemes.com/darknews/constant-feed/",
+                    "tags": [
+                        "free",
+                        "news",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "fast-facts": {
+                    "slug": "fast-facts",
+                    "theme": "DarkNews",
+                    "catgory": "Gutenberg",
+                    "name": "Fast Facts",
+                    "preview": "https://demos.afthemes.com/darknews/fast-facts/",
+                    "tags": [
+                        "free",
+                        "news",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "immediate-update": {
+                    "slug": "immediate-update",
+                    "theme": "DarkNews",
+                    "catgory": "Gutenberg",
+                    "name": "Immediate Update",
+                    "preview": "https://demos.afthemes.com/darknews/immediate-update/",
+                    "tags": [
+                        "free",
+                        "news",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "informed-update": {
+                    "slug": "informed-update",
+                    "theme": "DarkNews",
+                    "catgory": "Gutenberg",
+                    "name": "Informed Update",
+                    "preview": "https://demos.afthemes.com/darknews/informed-update/",
+                    "tags": [
+                        "free",
+                        "news",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "news-eye": {
+                    "slug": "news-eye",
+                    "theme": "DarkNews",
+                    "catgory": "Gutenberg",
+                    "name": "News Eye",
+                    "preview": "https://demos.afthemes.com/darknews/news-eye/",
+                    "tags": [
+                        "free",
+                        "news",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "news-journal": {
+                    "slug": "news-journal",
+                    "theme": "DarkNews",
+                    "catgory": "Gutenberg",
+                    "name": "News Journal",
+                    "preview": "https://demos.afthemes.com/darknews/news-journal/",
+                    "tags": [
+                        "free",
+                        "news",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "news-radar": {
+                    "slug": "news-radar",
+                    "theme": "DarkNews",
+                    "catgory": "Gutenberg",
+                    "name": "News Radar",
+                    "preview": "https://demos.afthemes.com/darknews/news-radar/",
+                    "tags": [
+                        "free",
+                        "news",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "news-sources": {
+                    "slug": "news-sources",
+                    "theme": "DarkNews",
+                    "catgory": "Gutenberg",
+                    "name": "News Sources",
+                    "preview": "https://demos.afthemes.com/darknews/news-sources/",
+                    "tags": [
+                        "free",
+                        "news",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "reliable-report": {
+                    "slug": "reliable-report",
+                    "theme": "DarkNews",
+                    "catgory": "Gutenberg",
+                    "name": "Reliable Report",
+                    "preview": "https://demos.afthemes.com/darknews/reliable-report/",
+                    "tags": [
+                        "free",
+                        "news",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "report-hub": {
+                    "slug": "report-hub",
+                    "theme": "DarkNews",
+                    "catgory": "Gutenberg",
+                    "name": "Report Hub",
+                    "preview": "https://demos.afthemes.com/darknews/report-hub/",
+                    "tags": [
+                        "free",
+                        "news",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "update-express": {
+                    "slug": "update-express",
+                    "theme": "DarkNews",
+                    "catgory": "Gutenberg",
+                    "name": "Update Express",
+                    "preview": "https://demos.afthemes.com/darknews/update-express/",
+                    "tags": [
+                        "free",
+                        "news",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "recipe": {
+                    "slug": "recipe",
+                    "theme": "DarkNews",
+                    "catgory": "Gutenberg",
+                    "name": "Recipe",
+                    "preview": "https://demos.afthemes.com/darknews/recipe/",
+                    "tags": [
+                        "free",
+                        "news",
+                        "gutenberg",
+                        "food"
                     ],
                     "plugins": "blockspare"
                 }
@@ -3271,12 +3865,24 @@
                         "general"
                     ]
                 },
-                "blocknews": {
-                    "slug": "blocknews",
+                "hindi-news": {
+                    "slug": "hindi-news",
+                    "theme": "EnterNews",
+                    "catgory": "General",
+                    "name": "Hindi News",
+                    "preview": "https://demos.afthemes.com/enternews/hindi-news/",
+                    "tags": [
+                        "free",
+                        "chinese",
+                        "general"
+                    ]
+                },
+                "bulletin-board": {
+                    "slug": "bulletin-board",
                     "theme": "EnterNews",
                     "catgory": "Gutenberg",
-                    "name": "Blocknews",
-                    "preview": "https://demos.afthemes.com/enternews/blocknews/",
+                    "name": "Bulletin Board",
+                    "preview": "https://demos.afthemes.com/enternews/bulletin-board/",
                     "tags": [
                         "free",
                         "news",
@@ -3284,12 +3890,103 @@
                     ],
                     "plugins": "blockspare"
                 },
-                "blocknews-dark ": {
-                    "slug": "blocknews-dark",
+                "daily-buzz": {
+                    "slug": "daily-buzz",
                     "theme": "EnterNews",
                     "catgory": "Gutenberg",
-                    "name": "Blocknews Dark",
-                    "preview": "https://demos.afthemes.com/enternews/blocknews-dark/",
+                    "name": "Daily Buzz",
+                    "preview": "https://demos.afthemes.com/enternews/daily-buzz/",
+                    "tags": [
+                        "free",
+                        "news",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "live-bulletin": {
+                    "slug": "live-bulletin",
+                    "theme": "EnterNews",
+                    "catgory": "Gutenberg",
+                    "name": "Live Bulletin",
+                    "preview": "https://demos.afthemes.com/enternews/live-bulletin/",
+                    "tags": [
+                        "free",
+                        "news",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "news-panorama": {
+                    "slug": "news-panorama",
+                    "theme": "EnterNews",
+                    "catgory": "Gutenberg",
+                    "name": "News Panorama",
+                    "preview": "https://demos.afthemes.com/enternews/news-panorama/",
+                    "tags": [
+                        "free",
+                        "news",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "the-breaking-record": {
+                    "slug": "the-breaking-record",
+                    "theme": "EnterNews",
+                    "catgory": "Gutenberg",
+                    "name": "The Breaking Record",
+                    "preview": "https://demos.afthemes.com/enternews/the-breaking-record/",
+                    "tags": [
+                        "free",
+                        "news",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "the-daily-scoop": {
+                    "slug": "the-daily-scoop",
+                    "theme": "EnterNews",
+                    "catgory": "Gutenberg",
+                    "name": "The Daily Scoop",
+                    "preview": "https://demos.afthemes.com/enternews/the-daily-scoop/",
+                    "tags": [
+                        "free",
+                        "news",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "the-interior-hunter": {
+                    "slug": "the-interior-hunter",
+                    "theme": "EnterNews",
+                    "catgory": "Gutenberg",
+                    "name": "The Interior Hunter",
+                    "preview": "https://demos.afthemes.com/enternews/the-interior-hunter/",
+                    "tags": [
+                        "free",
+                        "news",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "the-monitor": {
+                    "slug": "the-monitor",
+                    "theme": "EnterNews",
+                    "catgory": "Gutenberg",
+                    "name": "The Monitor",
+                    "preview": "https://demos.afthemes.com/enternews/the-monitor/",
+                    "tags": [
+                        "free",
+                        "news",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "the-news-hub": {
+                    "slug": "the-news-hub",
+                    "theme": "EnterNews",
+                    "catgory": "Gutenberg",
+                    "name": "The News Hub",
+                    "preview": "https://demos.afthemes.com/enternews/the-news-hub/",
                     "tags": [
                         "free",
                         "news",
@@ -4265,7 +4962,7 @@
                         "fashion"
                     ]
                 },
-                "newsportal": {
+                 "newsportal": {
                     "slug": "newsportal",
                     "theme": "Magnitude",
                     "catgory": "General",
@@ -4890,7 +5587,7 @@
                     "name": "General",
                     "preview": "https://demos.afthemes.com/broadnews-pro/general/",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "general"
                     ]
@@ -4902,7 +5599,7 @@
                     "name": "Spotlight",
                     "preview": "https://demos.afthemes.com/broadnews-pro/spotlight/",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "sport"
                     ]
@@ -4914,7 +5611,7 @@
                     "name": "Large",
                     "preview": "https://demos.afthemes.com/broadnews-pro/large/",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "large"
                     ]

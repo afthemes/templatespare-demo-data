@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.4.3" created="2024-03-07 09:53" -->
+	<!-- generator="WordPress/6.5.3" created="2024-05-16 08:08" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>CoverNews</title>
 	<link>https://demos.afthemes.com/covernews</link>
 	<description>Best Free Newspaper Theme for WordPress</description>
-	<pubDate>Thu, 07 Mar 2024 09:53:03 +0000</pubDate>
+	<pubDate>Thu, 16 May 2024 08:08:56 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.afthemes.com/covernews/</wp:base_site_url>
@@ -220,7 +220,7 @@
 	<wp:term><wp:term_id>16</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Top menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
 	<url>https://demos.afthemes.com/covernews/wp-content/uploads/2018/08/af-themes-main-dark-1-150x150.png</url>
@@ -6572,22 +6572,97 @@
 							</item>
 					<item>
 		<title><![CDATA[Why local US newspapers are sounding the alarm]]></title>
-		<link>https://demos.afthemes.com/covernews/blog/2018/07/18/why-local-us-newspapers-are-sounding-the-alarm/</link>
+		<link>https://demos.afthemes.com/covernews/blog/2024/05/14/why-local-us-newspapers-are-sounding-the-alarm/</link>
 		<pubDate>Wed, 18 Jul 2018 11:07:30 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=9</guid>
 		<description></description>
-		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua. Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>In the dynamic world of WordPress, we emerge as a beacon of innovation and excellence. Our popular products, like <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>, and <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, alongside powerful plugins such as <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a>, and <a href="https://elespare.com/">Elespare</a>, serve as the building blocks of your digital journey.</p>
+<!-- /wp:paragraph -->
 
-Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
+<!-- wp:paragraph -->
+<p>We’re passionate about quality code and elegant design, ensuring your website creation is an effortless blend of sophistication and simplicity. With unwavering support from our dedicated team, you’re never alone.</p>
+<!-- /wp:paragraph -->
 
-&nbsp;]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,  At vero eos et accusam et justo duo dolores et ea rebum.  Lorem ipsum dolor sit amet,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  Stet clita kasd gubergren,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  sed diam voluptua.  ]]></excerpt:encoded>
+<!-- wp:heading {"textAlign":"left"} -->
+<h2 class="wp-block-heading has-text-align-left" id="phasellus-autem-placeat-laboris-sem-cupiditate-assumenda"><a href="https://templatespare.com/">Templatespare</a>: Create Your Dream Website with Easy Starter Sites!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>A beautiful collection of Ready to Import Starter Sites with just one click. Get modern &amp; creative websites in minutes!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Newspaper, Magazine,&nbsp;Blog,&nbsp;and eCommerce Ready</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong>Forget About Starting From Scratch</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Explore a world of creativity with 365+ ready-to-use website templates! From chic blogs to dynamic news platforms, engaging magazines, and professional agency websites - find your perfect online space! </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size">One Click Import: No Coding Hassle! Three Simple Steps</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}}},"textColor":"black"} -->
+<p class="has-black-color has-text-color has-link-color">Embark on your website journey with simplicity and style. Follow these 3 easy steps to create your online masterpiece effortlessly</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Explore More</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><!-- wp:list-item -->
+<li><strong>Choose a Site</strong><br>Explore a rich selection of over 350 pre-built websites. With a single click, import the site that resonates with your vision.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Customize &amp; Personalize</strong><br>Unleash your creativity! Customize your chosen site with complete design freedom. Tailor every element to build and personalize your website exactly the way you envision it.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Publish &amp; Go Live!</strong><br>With the editing and customization complete, it’s time to go live! In just minutes, your website will be ready to share with the world.</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Join the <a href="https://afthemes.com/">AF themes</a> family, where excellence meets ease. Explore the endless possibilities and embark on your web journey with us today!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Together, we’re shaping the future of the web.</p>
+<!-- /wp:paragraph -->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Build Your Website in Minutes with One-Click Import – No Coding Hassle!]]></excerpt:encoded>
 		<wp:post_id>9</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-18 11:07:30]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-14 05:32:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:07:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-03-07 08:36:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-03-07 08:36:07]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:32:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:32:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[why-local-us-newspapers-are-sounding-the-alarm]]></wp:post_name>
@@ -6615,25 +6690,112 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:meta_key><![CDATA[covernews-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1714750481]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Searching for the 'angel' who held me on Westminster Bridge]]></title>
-		<link>https://demos.afthemes.com/covernews/blog/2018/07/18/searching-for-the-angel-who-held-me-on-westminster-bridge/</link>
+		<link>https://demos.afthemes.com/covernews/blog/2024/05/14/searching-for-the-angel-who-held-me-on-westminster-bridge/</link>
 		<pubDate>Wed, 18 Jul 2018 11:10:42 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=12</guid>
 		<description></description>
-		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>In the dynamic world of WordPress, we emerge as a beacon of innovation and excellence. Our popular products, like <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>, and <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, alongside powerful plugins such as <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a>, and <a href="https://elespare.com/">Elespare</a>, serve as the building blocks of your digital journey.</p>
+<!-- /wp:paragraph -->
 
-Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
+<!-- wp:paragraph -->
+<p>We’re passionate about quality code and elegant design, ensuring your website creation is an effortless blend of sophistication and simplicity. With unwavering support from our dedicated team, you’re never alone.</p>
+<!-- /wp:paragraph -->
 
-Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,  At vero eos et accusam et justo duo dolores et ea rebum.  Lorem ipsum dolor sit amet,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  Stet clita kasd gubergren,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  sed diam voluptua.  ]]></excerpt:encoded>
+<!-- wp:heading {"textAlign":"left"} -->
+<h2 class="wp-block-heading has-text-align-left" id="phasellus-autem-placeat-laboris-sem-cupiditate-assumenda"><a href="https://templatespare.com/">Templatespare</a>: Create Your Dream Website with Easy Starter Sites!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>A beautiful collection of Ready to Import Starter Sites with just one click. Get modern &amp; creative websites in minutes!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Newspaper, Magazine,&nbsp;Blog,&nbsp;and eCommerce Ready</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong>Forget About Starting From Scratch</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Explore a world of creativity with 365+ ready-to-use website templates! From chic blogs to dynamic news platforms, engaging magazines, and professional agency websites - find your perfect online space! </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size">One Click Import: No Coding Hassle! Three Simple Steps</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}}},"textColor":"black"} -->
+<p class="has-black-color has-text-color has-link-color">Embark on your website journey with simplicity and style. Follow these 3 easy steps to create your online masterpiece effortlessly</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Explore More</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><!-- wp:list-item -->
+<li><strong>Choose a Site</strong><br>Explore a rich selection of over 350 pre-built websites. With a single click, import the site that resonates with your vision.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Customize &amp; Personalize</strong><br>Unleash your creativity! Customize your chosen site with complete design freedom. Tailor every element to build and personalize your website exactly the way you envision it.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Publish &amp; Go Live!</strong><br>With the editing and customization complete, it’s time to go live! In just minutes, your website will be ready to share with the world.</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Join the <a href="https://afthemes.com/">AF themes</a> family, where excellence meets ease. Explore the endless possibilities and embark on your web journey with us today!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Together, we’re shaping the future of the web.</p>
+<!-- /wp:paragraph -->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Build Your Website in Minutes with One-Click Import – No Coding Hassle!]]></excerpt:encoded>
 		<wp:post_id>12</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-18 11:10:42]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-14 05:32:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:10:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-03-07 08:35:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-03-07 08:35:45]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:32:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:32:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[searching-for-the-angel-who-held-me-on-westminster-bridge]]></wp:post_name>
@@ -6666,25 +6828,112 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:meta_key><![CDATA[covernews-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1714750478]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[All you need to know about penalty shootouts]]></title>
-		<link>https://demos.afthemes.com/covernews/blog/2018/07/18/all-you-need-to-know-about-penalty-shootouts/</link>
+		<link>https://demos.afthemes.com/covernews/blog/2024/05/14/all-you-need-to-know-about-penalty-shootouts/</link>
 		<pubDate>Wed, 18 Jul 2018 11:16:45 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=15</guid>
 		<description></description>
-		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>In the dynamic world of WordPress, we emerge as a beacon of innovation and excellence. Our popular products, like <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>, and <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, alongside powerful plugins such as <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a>, and <a href="https://elespare.com/">Elespare</a>, serve as the building blocks of your digital journey.</p>
+<!-- /wp:paragraph -->
 
-Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua. Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua. &nbsp;Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
+<!-- wp:paragraph -->
+<p>We’re passionate about quality code and elegant design, ensuring your website creation is an effortless blend of sophistication and simplicity. With unwavering support from our dedicated team, you’re never alone.</p>
+<!-- /wp:paragraph -->
 
-Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,  At vero eos et accusam et justo duo dolores et ea rebum.  Lorem ipsum dolor sit amet,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  Stet clita kasd gubergren,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  sed diam voluptua.  ]]></excerpt:encoded>
+<!-- wp:heading {"textAlign":"left"} -->
+<h2 class="wp-block-heading has-text-align-left" id="phasellus-autem-placeat-laboris-sem-cupiditate-assumenda"><a href="https://templatespare.com/">Templatespare</a>: Create Your Dream Website with Easy Starter Sites!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>A beautiful collection of Ready to Import Starter Sites with just one click. Get modern &amp; creative websites in minutes!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Newspaper, Magazine,&nbsp;Blog,&nbsp;and eCommerce Ready</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong>Forget About Starting From Scratch</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Explore a world of creativity with 365+ ready-to-use website templates! From chic blogs to dynamic news platforms, engaging magazines, and professional agency websites - find your perfect online space! </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size">One Click Import: No Coding Hassle! Three Simple Steps</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}}},"textColor":"black"} -->
+<p class="has-black-color has-text-color has-link-color">Embark on your website journey with simplicity and style. Follow these 3 easy steps to create your online masterpiece effortlessly</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Explore More</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><!-- wp:list-item -->
+<li><strong>Choose a Site</strong><br>Explore a rich selection of over 350 pre-built websites. With a single click, import the site that resonates with your vision.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Customize &amp; Personalize</strong><br>Unleash your creativity! Customize your chosen site with complete design freedom. Tailor every element to build and personalize your website exactly the way you envision it.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Publish &amp; Go Live!</strong><br>With the editing and customization complete, it’s time to go live! In just minutes, your website will be ready to share with the world.</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Join the <a href="https://afthemes.com/">AF themes</a> family, where excellence meets ease. Explore the endless possibilities and embark on your web journey with us today!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Together, we’re shaping the future of the web.</p>
+<!-- /wp:paragraph -->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Build Your Website in Minutes with One-Click Import – No Coding Hassle!]]></excerpt:encoded>
 		<wp:post_id>15</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-18 11:16:45]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-14 05:32:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:16:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-04-21 15:14:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-04-21 15:14:39]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:32:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:32:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[all-you-need-to-know-about-penalty-shootouts]]></wp:post_name>
@@ -6712,23 +6961,116 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:meta_key><![CDATA[covernews-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[full-width-content]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1714751275]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[952]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[The man who saved thousands of people from HIV]]></title>
-		<link>https://demos.afthemes.com/covernews/blog/2018/07/18/the-man-who-saved-thousands-of-people-from-hiv/</link>
+		<link>https://demos.afthemes.com/covernews/blog/2024/05/14/the-man-who-saved-thousands-of-people-from-hiv/</link>
 		<pubDate>Wed, 18 Jul 2018 11:24:54 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=18</guid>
 		<description></description>
-		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua. Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>In the dynamic world of WordPress, we emerge as a beacon of innovation and excellence. Our popular products, like <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>, and <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, alongside powerful plugins such as <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a>, and <a href="https://elespare.com/">Elespare</a>, serve as the building blocks of your digital journey.</p>
+<!-- /wp:paragraph -->
 
-Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,  At vero eos et accusam et justo duo dolores et ea rebum.  Lorem ipsum dolor sit amet,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  Stet clita kasd gubergren,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  sed diam voluptua.  ]]></excerpt:encoded>
+<!-- wp:paragraph -->
+<p>We’re passionate about quality code and elegant design, ensuring your website creation is an effortless blend of sophistication and simplicity. With unwavering support from our dedicated team, you’re never alone.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"left"} -->
+<h2 class="wp-block-heading has-text-align-left" id="phasellus-autem-placeat-laboris-sem-cupiditate-assumenda"><a href="https://templatespare.com/">Templatespare</a>: Create Your Dream Website with Easy Starter Sites!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>A beautiful collection of Ready to Import Starter Sites with just one click. Get modern &amp; creative websites in minutes!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Newspaper, Magazine,&nbsp;Blog,&nbsp;and eCommerce Ready</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong>Forget About Starting From Scratch</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Explore a world of creativity with 365+ ready-to-use website templates! From chic blogs to dynamic news platforms, engaging magazines, and professional agency websites - find your perfect online space! </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size">One Click Import: No Coding Hassle! Three Simple Steps</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}}},"textColor":"black"} -->
+<p class="has-black-color has-text-color has-link-color">Embark on your website journey with simplicity and style. Follow these 3 easy steps to create your online masterpiece effortlessly</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Explore More</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><!-- wp:list-item -->
+<li><strong>Choose a Site</strong><br>Explore a rich selection of over 350 pre-built websites. With a single click, import the site that resonates with your vision.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Customize &amp; Personalize</strong><br>Unleash your creativity! Customize your chosen site with complete design freedom. Tailor every element to build and personalize your website exactly the way you envision it.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Publish &amp; Go Live!</strong><br>With the editing and customization complete, it’s time to go live! In just minutes, your website will be ready to share with the world.</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Join the <a href="https://afthemes.com/">AF themes</a> family, where excellence meets ease. Explore the endless possibilities and embark on your web journey with us today!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Together, we’re shaping the future of the web.</p>
+<!-- /wp:paragraph -->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Build Your Website in Minutes with One-Click Import – No Coding Hassle!]]></excerpt:encoded>
 		<wp:post_id>18</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-18 11:24:54]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-14 05:32:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:24:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-03-07 08:35:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-03-07 08:35:06]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:32:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:32:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-man-who-saved-thousands-of-people-from-hiv]]></wp:post_name>
@@ -6761,25 +7103,112 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:meta_key><![CDATA[covernews-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1714750467]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Searching for the forgotten heroes of World War Two]]></title>
-		<link>https://demos.afthemes.com/covernews/blog/2018/07/18/searching-for-the-forgotten-heroes-of-world-war-two/</link>
+		<link>https://demos.afthemes.com/covernews/blog/2024/05/14/searching-for-the-forgotten-heroes-of-world-war-two/</link>
 		<pubDate>Wed, 18 Jul 2018 11:26:28 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=21</guid>
 		<description></description>
-		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>In the dynamic world of WordPress, we emerge as a beacon of innovation and excellence. Our popular products, like <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>, and <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, alongside powerful plugins such as <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a>, and <a href="https://elespare.com/">Elespare</a>, serve as the building blocks of your digital journey.</p>
+<!-- /wp:paragraph -->
 
-Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
+<!-- wp:paragraph -->
+<p>We’re passionate about quality code and elegant design, ensuring your website creation is an effortless blend of sophistication and simplicity. With unwavering support from our dedicated team, you’re never alone.</p>
+<!-- /wp:paragraph -->
 
-Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,  At vero eos et accusam et justo duo dolores et ea rebum.  Lorem ipsum dolor sit amet,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  Stet clita kasd gubergren,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  sed diam voluptua.  ]]></excerpt:encoded>
+<!-- wp:heading {"textAlign":"left"} -->
+<h2 class="wp-block-heading has-text-align-left" id="phasellus-autem-placeat-laboris-sem-cupiditate-assumenda"><a href="https://templatespare.com/">Templatespare</a>: Create Your Dream Website with Easy Starter Sites!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>A beautiful collection of Ready to Import Starter Sites with just one click. Get modern &amp; creative websites in minutes!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Newspaper, Magazine,&nbsp;Blog,&nbsp;and eCommerce Ready</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong>Forget About Starting From Scratch</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Explore a world of creativity with 365+ ready-to-use website templates! From chic blogs to dynamic news platforms, engaging magazines, and professional agency websites - find your perfect online space! </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size">One Click Import: No Coding Hassle! Three Simple Steps</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}}},"textColor":"black"} -->
+<p class="has-black-color has-text-color has-link-color">Embark on your website journey with simplicity and style. Follow these 3 easy steps to create your online masterpiece effortlessly</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Explore More</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><!-- wp:list-item -->
+<li><strong>Choose a Site</strong><br>Explore a rich selection of over 350 pre-built websites. With a single click, import the site that resonates with your vision.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Customize &amp; Personalize</strong><br>Unleash your creativity! Customize your chosen site with complete design freedom. Tailor every element to build and personalize your website exactly the way you envision it.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Publish &amp; Go Live!</strong><br>With the editing and customization complete, it’s time to go live! In just minutes, your website will be ready to share with the world.</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Join the <a href="https://afthemes.com/">AF themes</a> family, where excellence meets ease. Explore the endless possibilities and embark on your web journey with us today!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Together, we’re shaping the future of the web.</p>
+<!-- /wp:paragraph -->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Build Your Website in Minutes with One-Click Import – No Coding Hassle!]]></excerpt:encoded>
 		<wp:post_id>21</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-18 11:26:28]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-14 05:32:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:26:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-03-07 08:49:44]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-03-07 08:49:44]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:32:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:32:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[searching-for-the-forgotten-heroes-of-world-war-two]]></wp:post_name>
@@ -6812,25 +7241,112 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:meta_key><![CDATA[covernews-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1714750462]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA['Somebody threatened to burn the school down']]></title>
-		<link>https://demos.afthemes.com/covernews/blog/2018/07/18/somebody-threatened-to-burn-the-school-down/</link>
+		<link>https://demos.afthemes.com/covernews/blog/2024/05/14/somebody-threatened-to-burn-the-school-down/</link>
 		<pubDate>Wed, 18 Jul 2018 11:38:06 +0000</pubDate>
 		<dc:creator><![CDATA[shivashankerbhatta]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=24</guid>
 		<description></description>
-		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>In the dynamic world of WordPress, we emerge as a beacon of innovation and excellence. Our popular products, like <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>, and <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, alongside powerful plugins such as <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a>, and <a href="https://elespare.com/">Elespare</a>, serve as the building blocks of your digital journey.</p>
+<!-- /wp:paragraph -->
 
-Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
+<!-- wp:paragraph -->
+<p>We’re passionate about quality code and elegant design, ensuring your website creation is an effortless blend of sophistication and simplicity. With unwavering support from our dedicated team, you’re never alone.</p>
+<!-- /wp:paragraph -->
 
-Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,  At vero eos et accusam et justo duo dolores et ea rebum.  Lorem ipsum dolor sit amet,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  Stet clita kasd gubergren,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  sed diam voluptua.  ]]></excerpt:encoded>
+<!-- wp:heading {"textAlign":"left"} -->
+<h2 class="wp-block-heading has-text-align-left" id="phasellus-autem-placeat-laboris-sem-cupiditate-assumenda"><a href="https://templatespare.com/">Templatespare</a>: Create Your Dream Website with Easy Starter Sites!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>A beautiful collection of Ready to Import Starter Sites with just one click. Get modern &amp; creative websites in minutes!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Newspaper, Magazine,&nbsp;Blog,&nbsp;and eCommerce Ready</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong>Forget About Starting From Scratch</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Explore a world of creativity with 365+ ready-to-use website templates! From chic blogs to dynamic news platforms, engaging magazines, and professional agency websites - find your perfect online space! </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size">One Click Import: No Coding Hassle! Three Simple Steps</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}}},"textColor":"black"} -->
+<p class="has-black-color has-text-color has-link-color">Embark on your website journey with simplicity and style. Follow these 3 easy steps to create your online masterpiece effortlessly</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Explore More</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><!-- wp:list-item -->
+<li><strong>Choose a Site</strong><br>Explore a rich selection of over 350 pre-built websites. With a single click, import the site that resonates with your vision.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Customize &amp; Personalize</strong><br>Unleash your creativity! Customize your chosen site with complete design freedom. Tailor every element to build and personalize your website exactly the way you envision it.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Publish &amp; Go Live!</strong><br>With the editing and customization complete, it’s time to go live! In just minutes, your website will be ready to share with the world.</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Join the <a href="https://afthemes.com/">AF themes</a> family, where excellence meets ease. Explore the endless possibilities and embark on your web journey with us today!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Together, we’re shaping the future of the web.</p>
+<!-- /wp:paragraph -->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Build Your Website in Minutes with One-Click Import – No Coding Hassle!]]></excerpt:encoded>
 		<wp:post_id>24</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-18 11:38:06]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-14 05:32:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:38:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-03-07 08:49:12]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-03-07 08:49:12]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:32:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:32:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[somebody-threatened-to-burn-the-school-down]]></wp:post_name>
@@ -6871,23 +7387,112 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:meta_key><![CDATA[wpma_author]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1714750458]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Trump-Putin: Your toolkit to help understand the story]]></title>
-		<link>https://demos.afthemes.com/covernews/blog/2018/07/18/trump-putin-your-toolkit-to-help-understand-the-story/</link>
+		<link>https://demos.afthemes.com/covernews/blog/2024/05/14/trump-putin-your-toolkit-to-help-understand-the-story/</link>
 		<pubDate>Wed, 18 Jul 2018 11:41:47 +0000</pubDate>
 		<dc:creator><![CDATA[shivashankerbhatta]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=27</guid>
 		<description></description>
-		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua. Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua. &nbsp;Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>In the dynamic world of WordPress, we emerge as a beacon of innovation and excellence. Our popular products, like <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>, and <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, alongside powerful plugins such as <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a>, and <a href="https://elespare.com/">Elespare</a>, serve as the building blocks of your digital journey.</p>
+<!-- /wp:paragraph -->
 
-Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,  At vero eos et accusam et justo duo dolores et ea rebum.  Lorem ipsum dolor sit amet,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  Stet clita kasd gubergren,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  sed diam voluptua.  ]]></excerpt:encoded>
+<!-- wp:paragraph -->
+<p>We’re passionate about quality code and elegant design, ensuring your website creation is an effortless blend of sophistication and simplicity. With unwavering support from our dedicated team, you’re never alone.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"left"} -->
+<h2 class="wp-block-heading has-text-align-left" id="phasellus-autem-placeat-laboris-sem-cupiditate-assumenda"><a href="https://templatespare.com/">Templatespare</a>: Create Your Dream Website with Easy Starter Sites!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>A beautiful collection of Ready to Import Starter Sites with just one click. Get modern &amp; creative websites in minutes!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Newspaper, Magazine,&nbsp;Blog,&nbsp;and eCommerce Ready</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong>Forget About Starting From Scratch</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Explore a world of creativity with 365+ ready-to-use website templates! From chic blogs to dynamic news platforms, engaging magazines, and professional agency websites - find your perfect online space! </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size">One Click Import: No Coding Hassle! Three Simple Steps</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}}},"textColor":"black"} -->
+<p class="has-black-color has-text-color has-link-color">Embark on your website journey with simplicity and style. Follow these 3 easy steps to create your online masterpiece effortlessly</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Explore More</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><!-- wp:list-item -->
+<li><strong>Choose a Site</strong><br>Explore a rich selection of over 350 pre-built websites. With a single click, import the site that resonates with your vision.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Customize &amp; Personalize</strong><br>Unleash your creativity! Customize your chosen site with complete design freedom. Tailor every element to build and personalize your website exactly the way you envision it.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Publish &amp; Go Live!</strong><br>With the editing and customization complete, it’s time to go live! In just minutes, your website will be ready to share with the world.</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Join the <a href="https://afthemes.com/">AF themes</a> family, where excellence meets ease. Explore the endless possibilities and embark on your web journey with us today!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Together, we’re shaping the future of the web.</p>
+<!-- /wp:paragraph -->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Build Your Website in Minutes with One-Click Import – No Coding Hassle!]]></excerpt:encoded>
 		<wp:post_id>27</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-18 11:41:47]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-14 05:32:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:41:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-03-07 08:48:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-03-07 08:48:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:32:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:32:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[trump-putin-your-toolkit-to-help-understand-the-story]]></wp:post_name>
@@ -6951,23 +7556,112 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:meta_key><![CDATA[awpa_pro_post_5_star_rating_reviewed_user]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1714750452]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Business booming for giant cargo planes]]></title>
-		<link>https://demos.afthemes.com/covernews/blog/2018/07/18/business-booming-for-giant-cargo-planes/</link>
+		<link>https://demos.afthemes.com/covernews/blog/2024/05/14/business-booming-for-giant-cargo-planes/</link>
 		<pubDate>Wed, 18 Jul 2018 11:43:50 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=30</guid>
 		<description></description>
-		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua. Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>In the dynamic world of WordPress, we emerge as a beacon of innovation and excellence. Our popular products, like <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>, and <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, alongside powerful plugins such as <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a>, and <a href="https://elespare.com/">Elespare</a>, serve as the building blocks of your digital journey.</p>
+<!-- /wp:paragraph -->
 
-Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,  At vero eos et accusam et justo duo dolores et ea rebum.  Lorem ipsum dolor sit amet,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  Stet clita kasd gubergren,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  sed diam voluptua.  ]]></excerpt:encoded>
+<!-- wp:paragraph -->
+<p>We’re passionate about quality code and elegant design, ensuring your website creation is an effortless blend of sophistication and simplicity. With unwavering support from our dedicated team, you’re never alone.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"left"} -->
+<h2 class="wp-block-heading has-text-align-left" id="phasellus-autem-placeat-laboris-sem-cupiditate-assumenda"><a href="https://templatespare.com/">Templatespare</a>: Create Your Dream Website with Easy Starter Sites!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>A beautiful collection of Ready to Import Starter Sites with just one click. Get modern &amp; creative websites in minutes!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Newspaper, Magazine,&nbsp;Blog,&nbsp;and eCommerce Ready</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong>Forget About Starting From Scratch</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Explore a world of creativity with 365+ ready-to-use website templates! From chic blogs to dynamic news platforms, engaging magazines, and professional agency websites - find your perfect online space! </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size">One Click Import: No Coding Hassle! Three Simple Steps</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}}},"textColor":"black"} -->
+<p class="has-black-color has-text-color has-link-color">Embark on your website journey with simplicity and style. Follow these 3 easy steps to create your online masterpiece effortlessly</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Explore More</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><!-- wp:list-item -->
+<li><strong>Choose a Site</strong><br>Explore a rich selection of over 350 pre-built websites. With a single click, import the site that resonates with your vision.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Customize &amp; Personalize</strong><br>Unleash your creativity! Customize your chosen site with complete design freedom. Tailor every element to build and personalize your website exactly the way you envision it.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Publish &amp; Go Live!</strong><br>With the editing and customization complete, it’s time to go live! In just minutes, your website will be ready to share with the world.</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Join the <a href="https://afthemes.com/">AF themes</a> family, where excellence meets ease. Explore the endless possibilities and embark on your web journey with us today!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Together, we’re shaping the future of the web.</p>
+<!-- /wp:paragraph -->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Build Your Website in Minutes with One-Click Import – No Coding Hassle!]]></excerpt:encoded>
 		<wp:post_id>30</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-18 11:43:50]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-14 05:32:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:43:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-03-07 08:47:31]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-03-07 08:47:31]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:32:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:32:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[business-booming-for-giant-cargo-planes]]></wp:post_name>
@@ -7031,35 +7725,126 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:meta_key><![CDATA[awpa_pro_post_5_star_rating_reviewed_user]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1714750696]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>1</wp:comment_id>
+			<wp:comment_author><![CDATA[Utkarsh]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[utkarshsharma985@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://afthemes.com/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[49.47.69.12]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2024-03-29 07:41:43]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2024-03-29 07:41:43]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Yes 279]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
 					<item>
 		<title><![CDATA[Google hit with record EU fine over Shopping service]]></title>
-		<link>https://demos.afthemes.com/covernews/blog/2018/07/18/google-hit-with-record-eu-fine-over-shopping-service/</link>
+		<link>https://demos.afthemes.com/covernews/blog/2024/05/14/google-hit-with-record-eu-fine-over-shopping-service/</link>
 		<pubDate>Wed, 18 Jul 2018 11:50:24 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=33</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est. <a href="http://afthemes.com">Sed diam voluptua</a>. Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.</p>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>In the dynamic world of WordPress, we emerge as a beacon of innovation and excellence. Our popular products, like <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>, and <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, alongside powerful plugins such as <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a>, and <a href="https://elespare.com/">Elespare</a>, serve as the building blocks of your digital journey.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Aenean? Morbi purus incidunt quam dolorum eiusmod facilisis, molestias corrupti. Sociis debitis, autem ex primis praesent!</h2>
+<!-- wp:paragraph -->
+<p>We’re passionate about quality code and elegant design, ensuring your website creation is an effortless blend of sophistication and simplicity. With unwavering support from our dedicated team, you’re never alone.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"left"} -->
+<h2 class="wp-block-heading has-text-align-left" id="phasellus-autem-placeat-laboris-sem-cupiditate-assumenda"><a href="https://templatespare.com/">Templatespare</a>: Create Your Dream Website with Easy Starter Sites!</h2>
 <!-- /wp:heading -->
 
-<p>Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua. Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.</p>
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
 
 <!-- wp:quote -->
 <blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>Sint repudiandae voluptatem fugiat porttitor, sodales reiciendis dignissim, magnis veniam vehicula netus! Ab! Dis magnam impedit officia libero? Molestias nascetur. Exercitationem laborum? </p>
-<!-- /wp:paragraph --></blockquote>
-<!-- /wp:quote -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,  At vero eos et accusam et justo duo dolores et ea rebum.  Lorem ipsum dolor sit amet,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  Stet clita kasd gubergren,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  sed diam voluptua.  ]]></excerpt:encoded>
+<p>A beautiful collection of Ready to Import Starter Sites with just one click. Get modern &amp; creative websites in minutes!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Newspaper, Magazine,&nbsp;Blog,&nbsp;and eCommerce Ready</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong>Forget About Starting From Scratch</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Explore a world of creativity with 365+ ready-to-use website templates! From chic blogs to dynamic news platforms, engaging magazines, and professional agency websites - find your perfect online space! </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size">One Click Import: No Coding Hassle! Three Simple Steps</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}}},"textColor":"black"} -->
+<p class="has-black-color has-text-color has-link-color">Embark on your website journey with simplicity and style. Follow these 3 easy steps to create your online masterpiece effortlessly</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Explore More</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><!-- wp:list-item -->
+<li><strong>Choose a Site</strong><br>Explore a rich selection of over 350 pre-built websites. With a single click, import the site that resonates with your vision.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Customize &amp; Personalize</strong><br>Unleash your creativity! Customize your chosen site with complete design freedom. Tailor every element to build and personalize your website exactly the way you envision it.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Publish &amp; Go Live!</strong><br>With the editing and customization complete, it’s time to go live! In just minutes, your website will be ready to share with the world.</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Join the <a href="https://afthemes.com/">AF themes</a> family, where excellence meets ease. Explore the endless possibilities and embark on your web journey with us today!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Together, we’re shaping the future of the web.</p>
+<!-- /wp:paragraph -->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Build Your Website in Minutes with One-Click Import – No Coding Hassle!]]></excerpt:encoded>
 		<wp:post_id>33</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-18 11:50:24]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-14 05:32:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:50:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-03-07 08:54:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-03-07 08:54:24]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:32:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:32:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[google-hit-with-record-eu-fine-over-shopping-service]]></wp:post_name>
@@ -7133,12 +7918,16 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:meta_value><![CDATA[932]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1714750375]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7267,22 +8056,97 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[The full story of Thailand’s extraordinary cave rescue]]></title>
-		<link>https://demos.afthemes.com/covernews/blog/2018/07/18/the-full-story-of-thailands-extraordinary-cave-rescue/</link>
+		<link>https://demos.afthemes.com/covernews/blog/2024/05/14/the-full-story-of-thailands-extraordinary-cave-rescue/</link>
 		<pubDate>Wed, 18 Jul 2018 11:03:32 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=6</guid>
 		<description></description>
-		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>In the dynamic world of WordPress, we emerge as a beacon of innovation and excellence. Our popular products, like <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>, and <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, alongside powerful plugins such as <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a>, and <a href="https://elespare.com/">Elespare</a>, serve as the building blocks of your digital journey.</p>
+<!-- /wp:paragraph -->
 
-Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua. Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
+<!-- wp:paragraph -->
+<p>We’re passionate about quality code and elegant design, ensuring your website creation is an effortless blend of sophistication and simplicity. With unwavering support from our dedicated team, you’re never alone.</p>
+<!-- /wp:paragraph -->
 
-Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,  At vero eos et accusam et justo duo dolores et ea rebum.  Lorem ipsum dolor sit amet,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  Stet clita kasd gubergren,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  sed diam voluptua.  ]]></excerpt:encoded>
+<!-- wp:heading {"textAlign":"left"} -->
+<h2 class="wp-block-heading has-text-align-left" id="phasellus-autem-placeat-laboris-sem-cupiditate-assumenda"><a href="https://templatespare.com/">Templatespare</a>: Create Your Dream Website with Easy Starter Sites!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>A beautiful collection of Ready to Import Starter Sites with just one click. Get modern &amp; creative websites in minutes!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Newspaper, Magazine,&nbsp;Blog,&nbsp;and eCommerce Ready</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong>Forget About Starting From Scratch</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Explore a world of creativity with 365+ ready-to-use website templates! From chic blogs to dynamic news platforms, engaging magazines, and professional agency websites - find your perfect online space! </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size">One Click Import: No Coding Hassle! Three Simple Steps</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}}},"textColor":"black"} -->
+<p class="has-black-color has-text-color has-link-color">Embark on your website journey with simplicity and style. Follow these 3 easy steps to create your online masterpiece effortlessly</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Explore More</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><!-- wp:list-item -->
+<li><strong>Choose a Site</strong><br>Explore a rich selection of over 350 pre-built websites. With a single click, import the site that resonates with your vision.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Customize &amp; Personalize</strong><br>Unleash your creativity! Customize your chosen site with complete design freedom. Tailor every element to build and personalize your website exactly the way you envision it.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Publish &amp; Go Live!</strong><br>With the editing and customization complete, it’s time to go live! In just minutes, your website will be ready to share with the world.</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Join the <a href="https://afthemes.com/">AF themes</a> family, where excellence meets ease. Explore the endless possibilities and embark on your web journey with us today!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Together, we’re shaping the future of the web.</p>
+<!-- /wp:paragraph -->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Build Your Website in Minutes with One-Click Import – No Coding Hassle!]]></excerpt:encoded>
 		<wp:post_id>267</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-18 11:03:32]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-14 05:32:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:03:32]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-03-07 08:37:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-03-07 08:37:09]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:32:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:32:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-full-story-of-thailands-extraordinary-cave-rescue]]></wp:post_name>
@@ -7314,6 +8178,18 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[covernews-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1714750487]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>

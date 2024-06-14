@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.4.3" created="2024-03-05 08:43" -->
+	<!-- generator="WordPress/6.4.2" created="2024-01-03 06:37" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Новости моды</title>
 	<link>https://demos.afthemes.com/covernews-pro/russian</link>
 	<description></description>
-	<pubDate>Tue, 05 Mar 2024 08:43:24 +0000</pubDate>
+	<pubDate>Wed, 03 Jan 2024 06:37:53 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.afthemes.com/covernews-pro/</wp:base_site_url>
@@ -38,10 +38,71 @@
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wpafthemes@gmail.com]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AF themes]]></wp:author_display_name><wp:author_first_name><![CDATA[AF]]></wp:author_first_name><wp:author_last_name><![CDATA[themes]]></wp:author_last_name></wp:author>
 
 		<wp:category>
+		<wp:term_id>2</wp:term_id>
+		<wp:category_nicename><![CDATA[artist]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Artist]]></wp:cat_name>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>3</wp:term_id>
+		<wp:category_nicename><![CDATA[beauty]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Beauty]]></wp:cat_name>
+<wp:category_description><![CDATA[Iaculis occaecat eos est ea eveniet. Consectetur animi phasellus atque aliquam. Curabitur quis quaerat assumenda. Sapiente sit, cursus nibh facilisis provident! Ornare aliquip, cursus quia sodales exercitationem beatae malesuada fuga eu recusandae est ullamco parturient nobis tellus aliquid nemo?]]></wp:category_description>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>4</wp:term_id>
+		<wp:category_nicename><![CDATA[life-style]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Life style]]></wp:cat_name>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>5</wp:term_id>
+		<wp:category_nicename><![CDATA[model]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Model]]></wp:cat_name>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>6</wp:term_id>
+		<wp:category_nicename><![CDATA[music]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Music]]></wp:cat_name>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>7</wp:term_id>
+		<wp:category_nicename><![CDATA[photography]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Photography]]></wp:cat_name>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>8</wp:term_id>
+		<wp:category_nicename><![CDATA[ramp]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Ramp]]></wp:cat_name>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>9</wp:term_id>
+		<wp:category_nicename><![CDATA[tips-tricks]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Tips &amp; Tricks]]></wp:cat_name>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>10</wp:term_id>
+		<wp:category_nicename><![CDATA[trends]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Trends]]></wp:cat_name>
+	</wp:category>
+		<wp:category>
 		<wp:term_id>1</wp:term_id>
 		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>11</wp:term_id>
+		<wp:category_nicename><![CDATA[%d0%ba%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[красота]]></wp:cat_name>
 	</wp:category>
 		<wp:category>
 		<wp:term_id>12</wp:term_id>
@@ -143,11 +204,26 @@
 		<wp:tag_name><![CDATA[Trends]]></wp:tag_name>
 	</wp:tag>
 			<wp:term>
+		<wp:term_id>2</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[artist]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Artist]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>21</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[artist]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Artist]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>3</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[beauty]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Beauty]]></wp:term_name>
+		<wp:term_description><![CDATA[Iaculis occaecat eos est ea eveniet. Consectetur animi phasellus atque aliquam. Curabitur quis quaerat assumenda. Sapiente sit, cursus nibh facilisis provident! Ornare aliquip, cursus quia sodales exercitationem beatae malesuada fuga eu recusandae est ullamco parturient nobis tellus aliquid nemo?]]></wp:term_description>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>22</wp:term_id>
@@ -192,6 +268,13 @@
 		<wp:term_name><![CDATA[Iskra Lawrence]]></wp:term_name>
 	</wp:term>
 		<wp:term>
+		<wp:term_id>4</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[life-style]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Life style]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>25</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[life-style]]></wp:term_slug>
@@ -206,11 +289,25 @@
 		<wp:term_name><![CDATA[Main Menu]]></wp:term_name>
 	</wp:term>
 		<wp:term>
+		<wp:term_id>5</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[model]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Model]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>26</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[model]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Model]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>6</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[music]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Music]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>27</wp:term_id>
@@ -220,6 +317,20 @@
 		<wp:term_name><![CDATA[Music]]></wp:term_name>
 	</wp:term>
 		<wp:term>
+		<wp:term_id>7</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[photography]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Photography]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>8</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[ramp]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Ramp]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>34</wp:term_id>
 		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug>
@@ -227,11 +338,25 @@
 		<wp:term_name><![CDATA[Social menu items]]></wp:term_name>
 	</wp:term>
 		<wp:term>
+		<wp:term_id>9</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[tips-tricks]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Tips &amp; Tricks]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>28</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[tips-tricks]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Tips &amp; Tricks]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>10</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[trends]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Trends]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>29</wp:term_id>
@@ -253,6 +378,13 @@
 		<wp:term_slug><![CDATA[post-format-video]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Video]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>11</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[%d0%ba%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[красота]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>12</wp:term_id>
@@ -324,7 +456,7 @@
 	<wp:term><wp:term_id>34</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Social menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 		<item>
 		<title><![CDATA[StockSnap_MMG80ENFN7]]></title>
@@ -1516,6 +1648,47 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/russian/2023/11/28/1041/</link>
+		<pubDate>Tue, 28 Nov 2023 08:52:02 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/reviewnews-pro/fashion/?p=1041</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1041</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-28 08:52:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-28 08:52:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-11-28 08:52:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-11-28 08:52:02]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[1041]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[11]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
 		<link>https://demos.afthemes.com/covernews-pro/russian/2023/11/28/1042/</link>
 		<pubDate>Tue, 28 Nov 2023 08:52:02 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -1888,51 +2061,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[cropped-pexels-ali-pazani-9216742-1.jpg]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/russian/cropped-pexels-ali-pazani-9216742-jpg/</link>
-		<pubDate>Wed, 24 Jan 2024 10:18:49 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demos.afthemes.com/covernews-pro/russian/wp-content/uploads/sites/27/2018/03/cropped-pexels-ali-pazani-9216742.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1084</wp:post_id>
-		<wp:post_date><![CDATA[2024-01-24 10:18:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-01-24 10:18:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-01-24 10:18:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-01-24 10:18:49]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-pexels-ali-pazani-9216742-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews-pro/russian/wp-content/uploads/sites/27/2018/03/cropped-pexels-ali-pazani-9216742-1.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/03/cropped-pexels-ali-pazani-9216742-1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:5:"width";i:1900;s:6:"height";i:600;s:4:"file";s:47:"2018/03/cropped-pexels-ali-pazani-9216742-1.jpg";s:8:"filesize";i:137152;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:46:"cropped-pexels-ali-pazani-9216742-1-300x95.jpg";s:5:"width";i:300;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9818;}s:5:"large";a:5:{s:4:"file";s:48:"cropped-pexels-ali-pazani-9216742-1-1024x323.jpg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:54470;}s:9:"thumbnail";a:5:{s:4:"file";s:47:"cropped-pexels-ali-pazani-9216742-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6631;}s:12:"medium_large";a:5:{s:4:"file";s:47:"cropped-pexels-ali-pazani-9216742-1-768x243.jpg";s:5:"width";i:768;s:6:"height";i:243;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:36585;}s:9:"1536x1536";a:5:{s:4:"file";s:48:"cropped-pexels-ali-pazani-9216742-1-1536x485.jpg";s:5:"width";i:1536;s:6:"height";i:485;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:95831;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:48:"cropped-pexels-ali-pazani-9216742-1-1115x600.jpg";s:5:"width";i:1115;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:86891;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:47:"cropped-pexels-ali-pazani-9216742-1-800x500.jpg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55074;}s:18:"covernews-featured";a:5:{s:4:"file";s:48:"cropped-pexels-ali-pazani-9216742-1-1024x323.jpg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:54470;}s:16:"covernews-medium";a:5:{s:4:"file";s:47:"cropped-pexels-ali-pazani-9216742-1-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:32227;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:47:"cropped-pexels-ali-pazani-9216742-1-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20904;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:17:"attachment_parent";i:1070;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_covernews-pro]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1706091541]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[covernews-pro]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Navigation]]></title>
 		<link>https://demos.afthemes.com/covernews-pro/russian/2023/12/15/navigation/</link>
 		<pubDate>Fri, 15 Dec 2023 05:48:14 +0000</pubDate>
@@ -2029,7 +2157,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[266]]></wp:meta_value>
+		<wp:meta_value><![CDATA[259]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -2133,7 +2261,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[303]]></wp:meta_value>
+		<wp:meta_value><![CDATA[295]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -2233,7 +2361,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[280]]></wp:meta_value>
+		<wp:meta_value><![CDATA[271]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
@@ -2335,7 +2463,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[312]]></wp:meta_value>
+		<wp:meta_value><![CDATA[304]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -2417,6 +2545,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="beauty"><![CDATA[Beauty]]></category>
 		<category domain="post_tag" nicename="trends"><![CDATA[Trends]]></category>
+		<category domain="category" nicename="%d0%ba%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0"><![CDATA[красота]]></category>
 		<category domain="category" nicename="%d1%82%d0%b5%d0%bd%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d0%b8"><![CDATA[тенденции]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
@@ -2436,7 +2565,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[314]]></wp:meta_value>
+		<wp:meta_value><![CDATA[306]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -2518,6 +2647,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="artist"><![CDATA[Artist]]></category>
 		<category domain="post_tag" nicename="beauty"><![CDATA[Beauty]]></category>
+		<category domain="category" nicename="%d0%ba%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0"><![CDATA[красота]]></category>
 		<category domain="category" nicename="%d1%82%d0%b5%d0%bd%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d0%b8"><![CDATA[тенденции]]></category>
 		<category domain="category" nicename="%d1%85%d1%83%d0%b4%d0%be%d0%b6%d0%bd%d0%b8%d0%ba"><![CDATA[художник]]></category>
 						<wp:postmeta>
@@ -2542,7 +2672,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[373]]></wp:meta_value>
+		<wp:meta_value><![CDATA[364]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
@@ -2625,6 +2755,7 @@
 										<category domain="post_tag" nicename="beauty"><![CDATA[Beauty]]></category>
 		<category domain="post_format" nicename="post-format-gallery"><![CDATA[Gallery]]></category>
 		<category domain="post_tag" nicename="trends"><![CDATA[Trends]]></category>
+		<category domain="category" nicename="%d0%ba%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0"><![CDATA[красота]]></category>
 		<category domain="category" nicename="%d0%bc%d0%be%d0%b4%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9"><![CDATA[модальный]]></category>
 		<category domain="category" nicename="%d0%bc%d0%be%d0%b4%d0%b5%d0%bb%d1%8c"><![CDATA[модель]]></category>
 						<wp:postmeta>
@@ -2645,7 +2776,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[355]]></wp:meta_value>
+		<wp:meta_value><![CDATA[350]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -2748,7 +2879,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[327]]></wp:meta_value>
+		<wp:meta_value><![CDATA[318]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
@@ -2846,6 +2977,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="beauty"><![CDATA[Beauty]]></category>
 		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
+		<category domain="category" nicename="%d0%ba%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0"><![CDATA[красота]]></category>
 		<category domain="category" nicename="%d1%81%d1%82%d0%b8%d0%bb%d1%8c-%d0%b6%d0%b8%d0%b7%d0%bd%d0%b8"><![CDATA[Стиль жизни]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
@@ -2865,7 +2997,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[358]]></wp:meta_value>
+		<wp:meta_value><![CDATA[349]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
@@ -2956,6 +3088,7 @@
 										<category domain="post_tag" nicename="collection"><![CDATA[Collection]]></category>
 		<category domain="post_format" nicename="post-format-gallery"><![CDATA[Gallery]]></category>
 		<category domain="post_tag" nicename="iskra-lawrence"><![CDATA[Iskra Lawrence]]></category>
+		<category domain="category" nicename="%d0%ba%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0"><![CDATA[красота]]></category>
 		<category domain="category" nicename="%d1%84%d0%be%d1%82%d0%be%d0%b3%d1%80%d0%b0%d1%84%d0%b8%d1%8f"><![CDATA[фотография]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
@@ -2975,7 +3108,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[435]]></wp:meta_value>
+		<wp:meta_value><![CDATA[427]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
