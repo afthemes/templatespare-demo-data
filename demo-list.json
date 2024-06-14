@@ -313,8 +313,7 @@
                 "newswords",
                 "daily-newscast",
                 "newsport",
-                "covermag",
-                "elenews"
+                "covermag"
             ],
             "demodata": {
                 "default": {
@@ -596,12 +595,12 @@
                         "gutenberg"
                     ]
                 },
-                "cover-chrome-dark": {
-                    "slug": "cover-chrome-dark",
+                "newschrome-dark": {
+                    "slug": "newschrome-dark",
                     "theme": "CoverNews",
                     "catgory": "Gutenberg",
                     "name": "CoverChrome Dark",
-                    "preview": "https://demos.afthemes.com/covernews/cover-chrome-dark/",
+                    "preview": "https://demos.afthemes.com/covernews/newschrome-dark/",
                     "plugins": "blockspare",
                     "tags": [
                         "free",
@@ -682,28 +681,7 @@
                 }
             }
         },
-        
-        "elenews": {
-            "data": "elenews",
-            "free": "covernews",
-            "premium": "covernews-pro",
-            "demodata": {
-                "default": {
-                    "slug": "elenews",
-                    "theme": "CoverNews",
-                    "catgory": "Elementor",
-                    "name": "EleNews",
-                    "preview": "https://demos.afthemes.com/covernews/elenews/",
-                    "plugins": "elementor,elespare",
-                    "tags": [
-                        "free",
-                        "magazine",
-                        "child",
-                        "elementor"
-                    ]
-                }
-            }
-        },
+
         "hybridnews": {
             "data": "hybridnews",
             "free": "covernews",
@@ -1433,20 +1411,6 @@
                         "german"
                     ]
                 },
-                "blocknews-dark": {
-                    "slug": "blocknews-dark",
-                    "theme": "ChromeNews",
-                    "catgory": "Gutenberg",
-                    "name": "Blocknews Dark",
-                    "preview": "https://demos.afthemes.com/chromenews/blocknews-dark/",
-                    "plugins": "blockspare",
-                    "tags": [
-                        "free",
-                        "magazine",
-                        "dark",
-                        "gutenberg"
-                    ]
-                },
                 "gaming": {
                     "slug": "gaming",
                     "theme": "ChromeNews",
@@ -1625,12 +1589,12 @@
                     ],
                     "plugins": "blockspare"
                 },
-                "essenital-news": {
-                    "slug": "essenital-news",
+                "essential-news": {
+                    "slug": "essential-news",
                     "theme": "ChromeNews",
                     "catgory": "Gutenberg",
-                    "name": "Essenital News",
-                    "preview": "https://demos.afthemes.com/chromenews/essenital-news/",
+                    "name": "Essential News",
+                    "preview": "https://demos.afthemes.com/chromenews/essential-news/",
                     "tags": [
                         "free",
                         "magazine",
@@ -2321,26 +2285,6 @@
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
-                }
-            }
-        },
-
-        "moremag": {
-            "data": "moremag",
-            "free": "morenews",
-            "premium": "morenews-pro",
-            "demodata": {
-                "default": {
-                    "slug": "moremag",
-                    "theme": "MoreNews",
-                    "catgory": "General", 
-                    "name": "MoreMag",
-                    "preview": "https://demos.afthemes.com/morenews/moremag/",
-                    "tags": [
-                        "free",
-                        "magazine",
-                        "child"
-                    ]
                 }
             }
         },
@@ -3141,12 +3085,12 @@
                     ],
                     "plugins": "blockspare"
                 },
-                "informed-update": {
-                    "slug": "informed-update",
+                "informed-daily": {
+                    "slug": "informed-daily",
                     "theme": "DarkNews",
                     "catgory": "Gutenberg",
                     "name": "Informed Update",
-                    "preview": "https://demos.afthemes.com/darknews/informed-update/",
+                    "preview": "https://demos.afthemes.com/darknews/informed-daily/",
                     "tags": [
                         "free",
                         "news",
@@ -3193,12 +3137,12 @@
                     ],
                     "plugins": "blockspare"
                 },
-                "news-sources": {
-                    "slug": "news-sources",
+                "news-source": {
+                    "slug": "news-source",
                     "theme": "DarkNews",
                     "catgory": "Gutenberg",
                     "name": "News Sources",
-                    "preview": "https://demos.afthemes.com/darknews/news-sources/",
+                    "preview": "https://demos.afthemes.com/darknews/news-source/",
                     "tags": [
                         "free",
                         "news",
@@ -3873,7 +3817,7 @@
                     "preview": "https://demos.afthemes.com/enternews/hindi-news/",
                     "tags": [
                         "free",
-                        "chinese",
+                        "hindi",
                         "general"
                     ]
                 },
