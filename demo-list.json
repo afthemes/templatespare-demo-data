@@ -614,7 +614,7 @@
                     "theme": "CoverNews",
                     "catgory": "Gutenberg",
                     "name": "CoverDark Block",
-                    "preview": "https://demos.afthemes.com/covernews/coverdark-block/",
+                    "preview": "https://demos.afthemes.com/covernews/darkblock/",
                     "plugins": "blockspare",
                     "tags": [
                         "free",
@@ -628,7 +628,7 @@
                     "theme": "CoverNews",
                     "catgory": "Gutenberg",
                     "name": "CoverEnter Block",
-                    "preview": "https://demos.afthemes.com/covernews/coverenter-block/",
+                    "preview": "https://demos.afthemes.com/covernews/enterblock/",
                     "plugins": "blockspare",
                     "tags": [
                         "free",
@@ -642,7 +642,7 @@
                     "theme": "CoverNews",
                     "catgory": "Gutenberg",
                     "name": "CoverEver Block",
-                    "preview": "https://demos.afthemes.com/covernews/coverever-block/",
+                    "preview": "https://demos.afthemes.com/covernews/everblock/",
                     "plugins": "blockspare",
                     "tags": [
                         "free",
@@ -656,7 +656,7 @@
                     "theme": "CoverNews",
                     "catgory": "Gutenberg",
                     "name": "More Block",
-                    "preview": "https://demos.afthemes.com/covernews/more-block/",
+                    "preview": "https://demos.afthemes.com/covernews/cover-more/",
                     "plugins": "blockspare",
                     "tags": [
                         "free",
@@ -670,7 +670,7 @@
                     "theme": "CoverNews",
                     "catgory": "Gutenberg",
                     "name": "News Block",
-                    "preview": "https://demos.afthemes.com/covernews/news-block/",
+                    "preview": "https://demos.afthemes.com/covernews/cover-sphere/",
                     "plugins": "blockspare",
                     "tags": [
                         "free",
