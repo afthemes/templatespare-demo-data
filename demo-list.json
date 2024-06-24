@@ -313,7 +313,8 @@
                 "newswords",
                 "daily-newscast",
                 "newsport",
-                "covermag"
+                "covermag",
+                "elenews"
             ],
             "demodata": {
                 "default": {
@@ -682,6 +683,28 @@
             }
         },
 
+        "elenews": {
+            "data": "elenews",
+            "free": "covernews",
+            "premium": "covernews-pro",
+            "demodata": {
+                "default": {
+                    "slug": "elenews",
+                    "theme": "EleNews",
+                    "catgory": "Elementor",
+                    "name": "EleNews",
+                    "preview": "https://demos.afthemes.com/covernews/elenews/",
+                    "plugins": "elementor,elespare",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "child",
+                        "elementor"
+                    ]
+                }
+            }
+        },
+        
         "hybridnews": {
             "data": "hybridnews",
             "free": "covernews",
@@ -4738,6 +4761,18 @@
                         "free",
                         "magazine",
                         "food"
+                    ]
+                },
+                "clean-blog": {
+                    "slug": "clean-blog",
+                    "theme": "Magazine 7",
+                    "catgory": "Blog",
+                    "name": "Clean Blog",
+                    "preview": "https://demos.afthemes.com/magazine-7/clean-blog",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "general"
                     ]
                 }
             }
