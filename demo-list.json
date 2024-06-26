@@ -5779,6 +5779,49 @@
                     ]
                 }
             }
-        }
+        },
+        "reviewnews-pro": {
+            "data": "reviewnews-pro",
+            "free": "reviewnews",
+            "premium": "",
+            "demodata": {
+                "default": {
+                    "slug": "reviewnews",
+                    "theme": "ReviewNews Pro",
+                    "catgory": "General",
+                    "name": "ReviewNews Pro",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/",
+                    "tags": [
+                        "pro",
+                        "magazine",
+                        "general"
+                    ]
+                },
+                "sport": {
+                    "slug": "sport",
+                    "theme": "ReviewNews Pro",
+                    "catgory": "Sport",
+                    "name": "Sport Pro",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/sport/",
+                    "tags": [
+                        "pro",
+                        "magazine",
+                        "sport"
+                    ]
+                },
+                "recipe": {
+                    "slug": "recipe",
+                    "theme": "ReviewNews Pro",
+                    "catgory": "Recipe",
+                    "name": "Recipe Pro",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/recipe/",
+                    "tags": [
+                        "pro",
+                        "magazine",
+                        "recipe"
+                    ]
+                }
+            }
+        }        
     }
 }
