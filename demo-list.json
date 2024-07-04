@@ -679,6 +679,90 @@
                         "dark",
                         "gutenberg"
                     ]
+                },
+                "decoration-blog": {
+                    "slug": "decoration-blog",
+                    "theme": "CoverNews",
+                    "catgory": "Elementor",
+                    "name": "Decoration Blog",
+                    "preview": "https://demos.afthemes.com/covernews/decoration-blog/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "decoration",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "health-tips": {
+                    "slug": "health-tips",
+                    "theme": "CoverNews",
+                    "catgory": "Elementor",
+                    "name": "Health tips",
+                    "preview": "https://demos.afthemes.com/covernews/health-tips/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "health",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "photography-blog": {
+                    "slug": "photography-blog",
+                    "theme": "CoverNews",
+                    "catgory": "Elementor",
+                    "name": "Photography Blog",
+                    "preview": "https://demos.afthemes.com/covernews/photography-blog/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "photography",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "tasty-blog": {
+                    "slug": "tasty-blog",
+                    "theme": "CoverNews",
+                    "catgory": "Elementor",
+                    "name": "Tasty Blog",
+                    "preview": "https://demos.afthemes.com/covernews/tasty-blog/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "food",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "trekking-school": {
+                    "slug": "trekking-school",
+                    "theme": "CoverNews",
+                    "catgory": "Elementor",
+                    "name": "Trekking School",
+                    "preview": "https://demos.afthemes.com/covernews/trekking-school/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "travel",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "newshub": {
+                    "slug": "newshub",
+                    "theme": "CoverNews",
+                    "catgory": "Elementor",
+                    "name": "NewsHub",
+                    "preview": "https://demos.afthemes.com/covernews/newshub/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "travel",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
                 }
             }
         },
