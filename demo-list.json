@@ -4361,7 +4361,7 @@
         "newsever-pro": {
             "data": "newsever-pro",
             "free": "newsever",
-            "premium": " ",
+            "premium": "",
             "demodata": {
                 "default": {
                     "slug": "newsever",
