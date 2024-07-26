@@ -3106,7 +3106,8 @@
             "free": "",
             "premium": "darknews-pro",
             "child": [
-                "splashnews"
+                "splashnews",
+                "newsnal"
             ],
             "demodata": {
                 "default": {
@@ -3493,6 +3494,26 @@
                     "catgory": "Fashion",
                     "name": "SplashNews",
                     "preview": "https://demos.afthemes.com/darknews/splashnews/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "child"
+                    ]
+                }
+            }
+        },
+
+        "newsnal": {
+            "data": "newsnal",
+            "free": "darknews",
+            "premium": "darknews-pro",
+            "demodata": {
+                "default": {
+                    "slug": "newsnal",
+                    "theme": "DarkNews",
+                    "catgory": "General",
+                    "name": "Newsnal",
+                    "preview": "https://demos.afthemes.com/darknews/newsnal/",
                     "tags": [
                         "free",
                         "magazine",
