@@ -666,6 +666,110 @@
                         "gutenberg"
                     ]
                 },
+                "academic-study": {
+                    "slug": "academic-study",
+                    "theme": "CoverNews",
+                    "catgory": "Gutenberg",
+                    "name": "Academic Study",
+                    "preview": "https://demos.afthemes.com/covernews/academic-study/",
+                    "plugins": "blockspare",
+                    "tags": [
+                        "free",
+                        "education",
+                        "gutenberg"
+                    ]
+                },
+                "agency": {
+                    "slug": "agency",
+                    "theme": "CoverNews",
+                    "catgory": "Gutenberg",
+                    "name": "Agency",
+                    "preview": "https://demos.afthemes.com/covernews/agency/",
+                    "plugins": "blockspare",
+                    "tags": [
+                        "free",
+                        "agency",
+                        "gutenberg"
+                    ]
+                },
+                "apps": {
+                    "slug": "apps",
+                    "theme": "CoverNews",
+                    "catgory": "Gutenberg",
+                    "name": "Apps",
+                    "preview": "https://demos.afthemes.com/covernews/apps/",
+                    "plugins": "blockspare",
+                    "tags": [
+                        "free",
+                        "apps",
+                        "gutenberg"
+                    ]
+                },
+                "auto-deal": {
+                    "slug": "auto-deal",
+                    "theme": "CoverNews",
+                    "catgory": "Gutenberg",
+                    "name": "Auto Deal",
+                    "preview": "https://demos.afthemes.com/covernews/auto-deal/",
+                    "plugins": "blockspare",
+                    "tags": [
+                        "free",
+                        "automobile",
+                        "gutenberg"
+                    ]
+                },
+                "fitness": {
+                    "slug": "fitness",
+                    "theme": "CoverNews",
+                    "catgory": "Gutenberg",
+                    "name": "Fitness",
+                    "preview": "https://demos.afthemes.com/covernews/fitness/",
+                    "plugins": "blockspare",
+                    "tags": [
+                        "free",
+                        "gym",
+                        "gutenberg"
+                    ]
+                },
+                "green-house": {
+                    "slug": "green-house",
+                    "theme": "CoverNews",
+                    "catgory": "Gutenberg",
+                    "name": "Green House",
+                    "preview": "https://demos.afthemes.com/covernews/green-house/",
+                    "plugins": "blockspare",
+                    "tags": [
+                        "free",
+                        "plant",
+                        "gutenberg"
+                    ]
+                },
+                "real-estate": {
+                    "slug": "real-estate",
+                    "theme": "CoverNews",
+                    "catgory": "Gutenberg",
+                    "name": "Real Estate",
+                    "preview": "https://demos.afthemes.com/covernews/real-estate/",
+                    "plugins": "blockspare",
+                    "tags": [
+                        "free",
+                        "real estate",
+                        "gutenberg"
+                    ]
+                },
+                "my-portfolio": {
+                    "slug": "my-portfolio",
+                    "theme": "CoverNews",
+                    "catgory": "Gutenberg",
+                    "name": "My Portfolio",
+                    "preview": "https://demos.afthemes.com/covernews/my-portfolio/",
+                    "plugins": "blockspare",
+                    "tags": [
+                        "free",
+                        "portfolio",
+                        "gutenberg"
+                    ]
+                },
                 "news-block": {
                     "slug": "news-block",
                     "theme": "CoverNews",
@@ -2661,6 +2765,71 @@
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
+                },
+                "asian-blog": {
+                    "slug": "asian-blog",
+                    "theme": "Newsphere",
+                    "catgory": "Elementor",
+                    "name": "Asian Blog",
+                    "preview": "https://demos.afthemes.com/newsphere/asian-blog/",
+                    "tags": [
+                        "free",
+                        "general",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "diner-blog": {
+                    "slug": "diner-blog",
+                    "theme": "Newsphere",
+                    "catgory": "Elementor",
+                    "name": "Asian Blog",
+                    "preview": "https://demos.afthemes.com/newsphere/diner-blog/",
+                    "tags": [
+                        "free",
+                        "food",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "european-news": {
+                    "slug": "european-news",
+                    "theme": "Newsphere",
+                    "catgory": "Elementor",
+                    "name": "European News",
+                    "preview": "https://demos.afthemes.com/newsphere/european-news/",
+                    "tags": [
+                        "free",
+                        "food",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "trending-blog": {
+                    "slug": "trending-blog",
+                    "theme": "Newsphere",
+                    "catgory": "Elementor",
+                    "name": "Trending Blog",
+                    "preview": "https://demos.afthemes.com/newsphere/trending-blog/",
+                    "tags": [
+                        "free",
+                        "food",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "weather-news": {
+                    "slug": "weather-news",
+                    "theme": "Newsphere",
+                    "catgory": "Elementor",
+                    "name": "Weather News",
+                    "preview": "https://demos.afthemes.com/newsphere/weather-news/",
+                    "tags": [
+                        "free",
+                        "food",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
                 }
             }
         },
@@ -3494,6 +3663,244 @@
                         "travel",
                         "blog"
                     ]
+                },
+                "attire-blog": {
+                    "slug": "attire-blog",
+                    "theme": "Elegant Magazine",
+                    "catgory": "Elementor",
+                    "name": "Attire Blog",
+                    "preview": "https://demos.afthemes.com/elegant-magazine/attire-blog",
+                    "tags": [
+                        "free",
+                        "shop",
+                        "blog",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "cardio-blog": {
+                    "slug": "cardio-blog",
+                    "theme": "Elegant Magazine",
+                    "catgory": "Elementor",
+                    "name": "Attire Blog",
+                    "preview": "https://demos.afthemes.com/elegant-magazine/cardio-blog",
+                    "tags": [
+                        "free",
+                        "gym",
+                        "blog",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "entrepreneur-blog": {
+                    "slug": "entrepreneur-blog",
+                    "theme": "Elegant Magazine",
+                    "catgory": "Elementor",
+                    "name": "Entrepreneur Blog",
+                    "preview": "https://demos.afthemes.com/elegant-magazine/entrepreneur-blog",
+                    "tags": [
+                        "free",
+                        "business",
+                        "blog",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "today-news": {
+                    "slug": "today-news",
+                    "theme": "Elegant Magazine",
+                    "catgory": "Elementor",
+                    "name": "Today News",
+                    "preview": "https://demos.afthemes.com/elegant-magazine/today-news",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "news",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "weekly-news": {
+                    "slug": "weekly-news",
+                    "theme": "Elegant Magazine",
+                    "catgory": "Elementor",
+                    "name": "Weekly News",
+                    "preview": "https://demos.afthemes.com/elegant-magazine/weekly-news",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "news",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "beach-restro": {
+                    "slug": "beach-restro",
+                    "theme": "Elegant Magazine",
+                    "catgory": "Food and Beverage",
+                    "name": "বিচ রেস্ট্রো",
+                    "preview": "https://demos.afthemes.com/elegant-magazine/beach-restro",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "bangladesh"
+                    ]
+                },
+                "brazilian-music": {
+                    "slug": "brazilian-music",
+                    "theme": "Elegant Magazine",
+                    "catgory": "Music",
+                    "name": "MÚSICA BRASILEIRA",
+                    "preview": "https://demos.afthemes.com/elegant-magazine/brazilian-music",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "brazil"
+                    ]
+                },
+                "chinese-cuisine": {
+                    "slug": "chinese-cuisine",
+                    "theme": "Elegant Magazine",
+                    "catgory": "Recipe",
+                    "name": "中国菜",
+                    "preview": "https://demos.afthemes.com/elegant-magazine/chinese-cuisine",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "chinese"
+                    ]
+                },
+                "education-blog": {
+                    "slug": "education-blog",
+                    "theme": "Elegant Magazine",
+                    "catgory": "Education",
+                    "name": "ONDERWYSBLOG",
+                    "preview": "https://demos.afthemes.com/elegant-magazine/education-blog",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "africa"
+                    ]
+                },
+                "french-movie": {
+                    "slug": "french-movie",
+                    "theme": "Elegant Magazine",
+                    "catgory": "Movie",
+                    "name": "FILMS FRANÇAIS",
+                    "preview": "https://demos.afthemes.com/elegant-magazine/french-movie",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "africa"
+                    ]
+                },
+                "germanic-tales": {
+                    "slug": "germanic-tales",
+                    "theme": "Elegant Magazine",
+                    "catgory": "Historic",
+                    "name": "GERMANISCHE GESCHICHTEN",
+                    "preview": "https://demos.afthemes.com/elegant-magazine/germanic-tales",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "german"
+                    ]
+                },
+                "indian-circket": {
+                    "slug": "indian-circket",
+                    "theme": "Elegant Magazine",
+                    "catgory": "Sport",
+                    "name": "भारतीय क्रिकेट",
+                    "preview": "https://demos.afthemes.com/elegant-magazine/indian-circket",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "indian"
+                    ]
+                },
+                "japanese-culture": {
+                    "slug": "japanese-culture",
+                    "theme": "Elegant Magazine",
+                    "catgory": "Lifestyle",
+                    "name": "日本文化",
+                    "preview": "https://demos.afthemes.com/elegant-magazine/japanese-culture",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "japanese"
+                    ]
+                },
+                "korean-drama": {
+                    "slug": "korean-drama",
+                    "theme": "Elegant Magazine",
+                    "catgory": "Entertainment",
+                    "name": "한국 드라마",
+                    "preview": "https://demos.afthemes.com/elegant-magazine/korean-drama",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "korean"
+                    ]
+                },
+                "myanmar-news": {
+                    "slug": "myanmar-news",
+                    "theme": "Elegant Magazine",
+                    "catgory": "News",
+                    "name": "မြန်မာသတင်း",
+                    "preview": "https://demos.afthemes.com/elegant-magazine/myanmar-news",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "myanmar"
+                    ]
+                },
+                "nepal-journey": {
+                    "slug": "nepal-journey",
+                    "theme": "Elegant Magazine",
+                    "catgory": "Travel",
+                    "name": "नेपाल यात्रा",
+                    "preview": "https://demos.afthemes.com/elegant-magazine/nepal-journey",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "nepali"
+                    ]
+                },
+                "romania-news": {
+                    "slug": "romania-news",
+                    "theme": "Elegant Magazine",
+                    "catgory": "News",
+                    "name": "ȘTIRI DIN ROMÂNIA",
+                    "preview": "https://demos.afthemes.com/elegant-magazine/romania-news",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "romanian"
+                    ]
+                },
+                "russian-drinks": {
+                    "slug": "russian-drinks",
+                    "theme": "Elegant Magazine",
+                    "catgory": "Food and Beverage",
+                    "name": "РУССКИЕ НАПИТКИ",
+                    "preview": "https://demos.afthemes.com/elegant-magazine/russian-drinks",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "russian"
+                    ]
+                },
+                "tech-hub": {
+                    "slug": "tech-hub",
+                    "theme": "Elegant Magazine",
+                    "catgory": "Tech",
+                    "name": "CENTRO TECNOLÓGICO",
+                    "preview": "https://demos.afthemes.com/elegant-magazine/tech-hub",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "spanish"
+                    ]
                 }
             }
         },
@@ -4215,6 +4622,71 @@
                         "fashion"
                     ]
                 },
+                "decor-blog": {
+                    "slug": "decor-blog",
+                    "theme": "Newsium",
+                    "catgory": "Elementor",
+                    "name": "Decor Blog",
+                    "preview": "https://demos.afthemes.com/newsium/decor-blog/",
+                    "tags": [
+                        "free",
+                        "elementor",
+                        "decoration"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "financing-blog": {
+                    "slug": "financing-blog",
+                    "theme": "Newsium",
+                    "catgory": "Elementor",
+                    "name": "Financing Blog",
+                    "preview": "https://demos.afthemes.com/newsium/financing-blog/",
+                    "tags": [
+                        "free",
+                        "elementor",
+                        "finance"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "football-blog": {
+                    "slug": "football-blog",
+                    "theme": "Newsium",
+                    "catgory": "Elementor",
+                    "name": "Football Blog",
+                    "preview": "https://demos.afthemes.com/newsium/football-blog/",
+                    "tags": [
+                        "free",
+                        "elementor",
+                        "sport"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "historic-blog": {
+                    "slug": "historic-blog",
+                    "theme": "Newsium",
+                    "catgory": "Elementor",
+                    "name": "Historic Blog",
+                    "preview": "https://demos.afthemes.com/newsium/historic-blog/",
+                    "tags": [
+                        "free",
+                        "elementor",
+                        "travel"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "safari-blog": {
+                    "slug": "safari-blog",
+                    "theme": "Newsium",
+                    "catgory": "Elementor",
+                    "name": "Safari Blog",
+                    "preview": "https://demos.afthemes.com/newsium/safari-blog/",
+                    "tags": [
+                        "free",
+                        "elementor",
+                        "travel"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
                 "classic": {
                     "slug": "classic",
                     "theme": "Newsium",
@@ -4361,7 +4833,7 @@
         "newsever-pro": {
             "data": "newsever-pro",
             "free": "newsever",
-            "premium": " ",
+            "premium": "",
             "demodata": {
                 "default": {
                     "slug": "newsever",
@@ -4858,6 +5330,71 @@
                         "magazine",
                         "general"
                     ]
+                },
+                "cookery-blog": {
+                    "slug": "cookery-blog",
+                    "theme": "Magazine 7",
+                    "catgory": "Elementor",
+                    "name": "Cookery Blog",
+                    "preview": "https://demos.afthemes.com/magazine-7/cookery-blog",
+                    "tags": [
+                        "free",
+                        "elementor",
+                        "food"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "donation-blog": {
+                    "slug": "donation-blog",
+                    "theme": "Magazine 7",
+                    "catgory": "Elementor",
+                    "name": "Donation Blog",
+                    "preview": "https://demos.afthemes.com/magazine-7/donation-blog",
+                    "tags": [
+                        "free",
+                        "elementor",
+                        "charity"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "games-blog": {
+                    "slug": "games-blog",
+                    "theme": "Magazine 7",
+                    "catgory": "Elementor",
+                    "name": "Games Blog",
+                    "preview": "https://demos.afthemes.com/magazine-7/games-blog",
+                    "tags": [
+                        "free",
+                        "elementor",
+                        "game"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "hiking-blog": {
+                    "slug": "hiking-blog",
+                    "theme": "Magazine 7",
+                    "catgory": "Elementor",
+                    "name": "Hiking Blog",
+                    "preview": "https://demos.afthemes.com/magazine-7/hiking-blog",
+                    "tags": [
+                        "free",
+                        "elementor",
+                        "travel"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "workouts-blog": {
+                    "slug": "workouts-blog",
+                    "theme": "Magazine 7",
+                    "catgory": "Elementor",
+                    "name": "Workouts Blog",
+                    "preview": "https://demos.afthemes.com/magazine-7/workouts-blog",
+                    "tags": [
+                        "free",
+                        "elementor",
+                        "fitness"
+                    ],
+                    "plugins": "elementor,elespare"
                 }
             }
         },
@@ -5048,6 +5585,76 @@
                         "news",
                         "sport"
                     ]
+                },
+                "daily-life": {
+                    "slug": "daily-life",
+                    "theme": "Magnitude",
+                    "catgory": "Elementor",
+                    "name": "Daily Life",
+                    "preview": "https://demos.afthemes.com/magnitude/daily-life/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "lifestyle",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "journal-blog": {
+                    "slug": "journal-blog",
+                    "theme": "Magnitude",
+                    "catgory": "Elementor",
+                    "name": "Journal Blog",
+                    "preview": "https://demos.afthemes.com/magnitude/journal-blog/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "general",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "property-blog": {
+                    "slug": "property-blog",
+                    "theme": "Magnitude",
+                    "catgory": "Elementor",
+                    "name": "Property Blog",
+                    "preview": "https://demos.afthemes.com/magnitude/property-blog/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "general",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "shop-blog": {
+                    "slug": "shop-blog",
+                    "theme": "Magnitude",
+                    "catgory": "Elementor",
+                    "name": "Shop Blog",
+                    "preview": "https://demos.afthemes.com/magnitude/shop-blog/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "general",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "vintage-blog": {
+                    "slug": "vintage-blog",
+                    "theme": "Magnitude",
+                    "catgory": "Elementor",
+                    "name": "Vintage Blog",
+                    "preview": "https://demos.afthemes.com/magnitude/vintage-blog/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "general",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
                 }
             }
         },
