@@ -13,7 +13,7 @@
                     "preview": "https://demos.afthemes.com/covernews-pro/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "general"
                     ]
                 },
@@ -25,7 +25,7 @@
                     "preview": "https://demos.afthemes.com/covernews-pro/sport/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "sport"
                     ]
                 },
@@ -37,7 +37,7 @@
                     "preview": "https://demos.afthemes.com/covernews-pro/fashion/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "fashion"
                     ]
                 },
@@ -49,7 +49,7 @@
                     "preview": "https://demos.afthemes.com/covernews-pro/classic/",
                     "tags": [
                         "pro",
-                        "news & magazine"
+                        "magazine"
                     ]
                 },
                 "travel": {
@@ -60,7 +60,7 @@
                     "preview": "https://demos.afthemes.com/covernews-pro/travel/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "travel"
                     ]
                 },
@@ -72,7 +72,7 @@
                     "preview": "https://demos.afthemes.com/covernews-pro/wedding/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "blog"
                     ]
                 },
@@ -84,7 +84,7 @@
                     "preview": "https://demos.afthemes.com/covernews-pro/minimal/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "minimal"
                     ]
                 },
@@ -107,7 +107,7 @@
                     "preview": "https://demos.afthemes.com/covernews-pro/business/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "business"
                     ]
                 },
@@ -119,7 +119,7 @@
                     "preview": "https://demos.afthemes.com/covernews-pro/top-news/",
                     "tags": [
                         "pro",
-                        "news & magazine"
+                        "magazine"
                     ]
                 },
                 "online-news": {
@@ -130,7 +130,7 @@
                     "preview": "https://demos.afthemes.com/covernews-pro/online-news/",
                     "tags": [
                         "pro",
-                        "news & magazine"
+                        "magazine"
                     ]
                 },
                 "general-news": {
@@ -141,7 +141,7 @@
                     "preview": "https://demos.afthemes.com/covernews-pro/general-news/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "general"
                     ]
                 },
@@ -153,7 +153,7 @@
                     "preview": "https://demos.afthemes.com/covernews-pro/beauty-mag/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "fashion"
                     ]
                 },
@@ -165,7 +165,7 @@
                     "preview": "https://demos.afthemes.com/covernews-pro/athletics-mag/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "sport"
                     ]
                 },
@@ -177,7 +177,7 @@
                     "preview": "https://demos.afthemes.com/covernews-pro/crypto-news/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "crypto"
                     ]
                 },
@@ -189,7 +189,7 @@
                     "preview": "https://demos.afthemes.com/covernews-pro/gym-blog/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "blog",
                         "elementor"
                     ],
@@ -203,7 +203,7 @@
                     "preview": "https://demos.afthemes.com/covernews-pro/arabic-news/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "general",
                         "rtl"
                     ]
@@ -216,7 +216,7 @@
                     "preview": "https://demos.afthemes.com/covernews-pro/indian-news",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "indian"
                     ]
                 },
@@ -228,7 +228,7 @@
                     "preview": "https://demos.afthemes.com/covernews-pro/spanish/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "spanish"
                     ]
                 },
@@ -240,7 +240,7 @@
                     "preview": "https://demos.afthemes.com/covernews-pro/russian/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "russian"
                     ]
                 },
@@ -252,7 +252,7 @@
                     "preview": "https://demos.afthemes.com/covernews-pro/japanese/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "japanese"
                     ]
                 },
@@ -264,7 +264,7 @@
                     "preview": "https://demos.afthemes.com/covernews-pro/nepali/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "nepali"
                     ]
                 },
@@ -276,7 +276,7 @@
                     "preview": "https://demos.afthemes.com/covernews-pro/german/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "german"
                     ]
                 },
@@ -288,7 +288,7 @@
                     "preview": "https://demos.afthemes.com/covernews-pro/china-news/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "chinese"
                     ]
                 }
@@ -321,7 +321,7 @@
                     "preview": "https://demos.afthemes.com/covernews/",
                     "tags": [
                         "free",
-                        "news & magazine"
+                        "magazine"
                     ]
                 },
                 "sport": {
@@ -332,7 +332,7 @@
                     "preview": "https://demos.afthemes.com/covernews/sport/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "sport"
                     ]
                 },
@@ -344,7 +344,7 @@
                     "preview": "https://demos.afthemes.com/covernews/fashion/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "fashion"
                     ]
                 },
@@ -356,7 +356,7 @@
                     "preview": "https://demos.afthemes.com/covernews/gadgets/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gadgets"
                     ]
                 },
@@ -368,7 +368,7 @@
                     "preview": "https://demos.afthemes.com/covernews/arabic-news/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "general",
                         "rtl"
                     ]
@@ -381,7 +381,7 @@
                     "preview": "https://demos.afthemes.com/covernews/china-news/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "chinese"
                     ]
                 },
@@ -393,7 +393,7 @@
                     "preview": "https://demos.afthemes.com/covernews/hindi-news",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "indian"
                     ]
                 },
@@ -405,7 +405,7 @@
                     "preview": "https://demos.afthemes.com/covernews/spanish",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "spanish"
                     ]
                 },
@@ -417,7 +417,7 @@
                     "preview": "https://demos.afthemes.com/covernews/russian",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "russian"
                     ]
                 },
@@ -429,7 +429,7 @@
                     "preview": "https://demos.afthemes.com/covernews/japanese",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "japanese"
                     ]
                 },
@@ -441,7 +441,7 @@
                     "preview": "https://demos.afthemes.com/covernews/nepali",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "nepali"
                     ]
                 },
@@ -453,7 +453,7 @@
                     "preview": "https://demos.afthemes.com/covernews/german",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "german"
                     ]
                 },
@@ -465,7 +465,7 @@
                     "preview": "https://demos.afthemes.com/covernews/business",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "business"
                     ]
                 },
@@ -477,7 +477,7 @@
                     "preview": "https://demos.afthemes.com/covernews/wedding",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "wedding"
                     ]
                 },
@@ -489,7 +489,7 @@
                     "preview": "https://demos.afthemes.com/covernews/general/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "general",
                         "elementor"
                     ],
@@ -503,7 +503,7 @@
                     "preview": "https://demos.afthemes.com/covernews/music/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "blog",
                         "elementor"
                     ],
@@ -517,7 +517,7 @@
                     "preview": "https://demos.afthemes.com/covernews/vegetables/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "blog",
                         "elementor"
                     ],
@@ -531,7 +531,7 @@
                     "preview": "https://demos.afthemes.com/covernews/ornament/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "blog",
                         "elementor"
                     ],
@@ -545,7 +545,7 @@
                     "preview": "https://demos.afthemes.com/covernews/covid/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "covid",
                         "elementor"
                     ],
@@ -559,7 +559,7 @@
                     "preview": "https://demos.afthemes.com/covernews/crypto-news/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "crypto"
                     ]
                 },
@@ -572,7 +572,7 @@
                     "plugins": "blockspare",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "dark",
                         "gutenberg"
                     ]
@@ -586,7 +586,7 @@
                     "plugins": "blockspare",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "dark",
                         "gutenberg"
                     ]
@@ -600,7 +600,7 @@
                     "plugins": "blockspare",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ]
                 },
@@ -613,7 +613,7 @@
                     "plugins": "blockspare",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "dark",
                         "gutenberg"
                     ]
@@ -627,7 +627,7 @@
                     "plugins": "blockspare",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ]
                 },
@@ -640,7 +640,7 @@
                     "plugins": "blockspare",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "dark",
                         "gutenberg"
                     ]
@@ -654,7 +654,7 @@
                     "plugins": "blockspare",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ]
                 },
@@ -771,7 +771,7 @@
                     "plugins": "blockspare",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ]
                 },
@@ -853,7 +853,7 @@
                     "preview": "https://demos.afthemes.com/covernews/newshub/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "general",
                         "elementor"
                     ],
@@ -876,7 +876,7 @@
                     "plugins": "elementor,elespare",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "child",
                         "elementor"
                     ]
@@ -898,7 +898,7 @@
                     "plugins": "blockspare",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "child",
                         "gutenberg"
                     ]
@@ -918,7 +918,7 @@
                     "preview": "https://demos.afthemes.com/covernews/newsment/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "child"
                     ]
                 }
@@ -937,7 +937,7 @@
                     "preview": "https://demos.afthemes.com/covernews/newsback/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "child"
                     ]
                 }
@@ -956,7 +956,7 @@
                     "preview": "https://demos.afthemes.com/covernews/newscover/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "child"
                     ]
                 }
@@ -975,7 +975,7 @@
                     "preview": "https://demos.afthemes.com/covernews/coverstory/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "child"
                     ]
                 }
@@ -994,7 +994,7 @@
                     "preview": "https://demos.afthemes.com/covernews/hardnews/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "child"
                     ]
                 }
@@ -1013,7 +1013,7 @@
                     "preview": "https://demos.afthemes.com/covernews/newsquare/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "child"
                     ]
                 }
@@ -1032,7 +1032,7 @@
                     "preview": "https://demos.afthemes.com/covernews/newswords/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "child"
                     ]
                 }
@@ -1051,7 +1051,7 @@
                     "preview": "https://demos.afthemes.com/covernews/daily-newscast/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "child"
                     ]
                 }
@@ -1070,7 +1070,7 @@
                     "preview": "https://demos.afthemes.com/covernews/newsport/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "child"
                     ]
                 }
@@ -1089,7 +1089,7 @@
                     "preview": "https://demos.afthemes.com/covernews/covermag/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "child"
                     ]
                 }
@@ -1109,7 +1109,7 @@
                     "preview": "https://demos.afthemes.com/chromenews-pro/",
                     "tags": [
                         "pro",
-                        "news & magazine"
+                        "magazine"
                     ]
                 },
                 "fashion": {
@@ -1120,7 +1120,7 @@
                     "preview": "https://demos.afthemes.com/chromenews-pro/fashion/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "fashion"
                     ]
                 },
@@ -1132,7 +1132,7 @@
                     "preview": "https://demos.afthemes.com/chromenews-pro/sport/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "sport"
                     ]
                 },
@@ -1144,7 +1144,7 @@
                     "preview": "https://demos.afthemes.com/chromenews-pro/classic/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "classic"
                     ]
                 },
@@ -1156,7 +1156,7 @@
                     "preview": "https://demos.afthemes.com/chromenews-pro/china-news/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "chinese"
                     ]
                 },
@@ -1168,7 +1168,7 @@
                     "preview": "https://demos.afthemes.com/chromenews-pro/arabic-news/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "rtl"
                     ]
                 },
@@ -1180,7 +1180,7 @@
                     "preview": "https://demos.afthemes.com/chromenews-pro/indian",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "indian"
                     ]
                 },
@@ -1192,7 +1192,7 @@
                     "preview": "https://demos.afthemes.com/chromenews-pro/spanish/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "spanish"
                     ]
                 },
@@ -1204,7 +1204,7 @@
                     "preview": "https://demos.afthemes.com/chromenews-pro/russian/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "russian"
                     ]
                 },
@@ -1216,7 +1216,7 @@
                     "preview": "https://demos.afthemes.com/chromenews-pro/japanese/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "japanese"
                     ]
                 },
@@ -1228,7 +1228,7 @@
                     "preview": "https://demos.afthemes.com/chromenews-pro/nepali/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "nepali"
                     ]
                 },
@@ -1240,7 +1240,7 @@
                     "preview": "https://demos.afthemes.com/chromenews-pro/german/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "german"
                     ]
                 },
@@ -1252,7 +1252,7 @@
                     "preview": "https://demos.afthemes.com/chromenews-pro/recipe/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "food & restro"
                     ]
                 },
@@ -1288,7 +1288,7 @@
                     "preview": "https://demos.afthemes.com/chromenews-pro/online-news/",
                     "tags": [
                         "pro",
-                        "news & magazine"
+                        "magazine"
                     ]
                 },
                 "construction-blog":{
@@ -1299,7 +1299,7 @@
                     "preview": "https://demos.afthemes.com/chromenews-pro/construction-blog/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "construction & decoration"
                     ]
                 },
@@ -1311,7 +1311,7 @@
                     "preview": "https://demos.afthemes.com/chromenews-pro/business/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "business",
                         "elementor"
                     ],
@@ -1325,7 +1325,7 @@
                     "preview": "https://demos.afthemes.com/chromenews-pro/restaurant/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "food & restro",
                         "elementor"
                     ],
@@ -1339,7 +1339,7 @@
                     "preview": "https://demos.afthemes.com/chromenews-pro/fitness/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "gym & fitness",
                         "elementor"
                     ],
@@ -1367,7 +1367,7 @@
                     "preview": "https://demos.afthemes.com/chromenews-pro/travel/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "travel",
                         "elementor"
                     ],
@@ -1381,7 +1381,7 @@
                     "preview": "https://demos.afthemes.com/chromenews-pro/crypto-news/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "business",
                         "elementor"
                     ],
@@ -1395,7 +1395,7 @@
                     "preview": "https://demos.afthemes.com/chromenews-pro/beauty/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "fashion",
                         "elementor"
                     ],
@@ -1409,7 +1409,7 @@
                     "preview": "https://demos.afthemes.com/chromenews-pro/covid-19/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "covid",
                         "elementor"
                     ],
@@ -1424,7 +1424,7 @@
                     "tags": [
                         "pro",
                         "gadgets",
-                        "news & magazine",
+                        "magazine",
                         "elementor"
                     ],
                     "plugins": "elementor,elespare"
@@ -1487,7 +1487,7 @@
                     "preview": "https://demos.afthemes.com/chromenews/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "general"
                     ]
                 },
@@ -1499,7 +1499,7 @@
                     "preview": "https://demos.afthemes.com/chromenews/fashion/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "fashion"
                     ]
                 },
@@ -1523,7 +1523,7 @@
                     "preview": "https://demos.afthemes.com/chromenews/arabic-news/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "rtl"
                     ]
                 },
@@ -1535,7 +1535,7 @@
                     "preview": "https://demos.afthemes.com/chromenews/china-news/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "chinese"
                     ]
                 },
@@ -1547,7 +1547,7 @@
                     "preview": "https://demos.afthemes.com/chromenews/indian-news/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "indian"
                     ]
                 },
@@ -1559,7 +1559,7 @@
                     "preview": "https://demos.afthemes.com/chromenews/spanish/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "spanish"
                     ]
                 },
@@ -1571,7 +1571,7 @@
                     "preview": "https://demos.afthemes.com/chromenews/russian/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "russian"
                     ]
                 },
@@ -1583,7 +1583,7 @@
                     "preview": "https://demos.afthemes.com/chromenews/japanese/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "japanese"
                     ]
                 },
@@ -1595,7 +1595,7 @@
                     "preview": "https://demos.afthemes.com/chromenews/nepali/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "nepali"
                     ]
                 },
@@ -1607,7 +1607,7 @@
                     "preview": "https://demos.afthemes.com/chromenews/german/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "german"
                     ]
                 },
@@ -1679,7 +1679,7 @@
                     "preview": "https://demos.afthemes.com/chromenews/online-news/",
                     "tags": [
                         "free",
-                        "news & magazine"
+                        "magazine"
                     ]
                 },
                 "feminine-blog": {
@@ -1727,7 +1727,7 @@
                     "preview": "https://demos.afthemes.com/chromenews/covid-19/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "health & education",
                         "elementor"
                     ],
@@ -1741,7 +1741,7 @@
                     "preview": "https://demos.afthemes.com/chromenews/business/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "business",
                         "elementor"
                     ],
@@ -1755,7 +1755,7 @@
                     "preview": "https://demos.afthemes.com/chromenews/beauty/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "fashion",
                         "elementor"
                     ],
@@ -1769,7 +1769,7 @@
                     "preview": "https://demos.afthemes.com/chromenews/restaurant/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "food & restro",
                         "elementor"
                     ],
@@ -1783,7 +1783,7 @@
                     "preview": "https://demos.afthemes.com/chromenews/blockmag/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -1796,7 +1796,7 @@
                     "preview": "https://demos.afthemes.com/chromenews/essential-news/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -1809,7 +1809,7 @@
                     "preview": "https://demos.afthemes.com/chromenews/flash-network/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -1822,7 +1822,7 @@
                     "preview": "https://demos.afthemes.com/chromenews/horizon-headlines/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -1835,7 +1835,7 @@
                     "preview": "https://demos.afthemes.com/chromenews/insightful-news/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -1848,7 +1848,7 @@
                     "preview": "https://demos.afthemes.com/chromenews/news-nexus/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -1861,7 +1861,7 @@
                     "preview": "https://demos.afthemes.com/chromenews/newsblock/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -1874,7 +1874,7 @@
                     "preview": "https://demos.afthemes.com/chromenews/newsbox/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -1887,7 +1887,7 @@
                     "preview": "https://demos.afthemes.com/chromenews/prime-press/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -1900,7 +1900,7 @@
                     "preview": "https://demos.afthemes.com/chromenews/rapid-report/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -1913,7 +1913,7 @@
                     "preview": "https://demos.afthemes.com/chromenews/world-watch/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -1934,7 +1934,7 @@
                     "preview": "https://demos.afthemes.com/chromenews/newschrome/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "child",
                         "gutenberg"
                     ],
@@ -1957,7 +1957,7 @@
                     "preview": "https://demos.afthemes.com/chromenews/chromeblog/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "child"
                     ]
                     
@@ -1978,7 +1978,7 @@
                     "preview": "https://demos.afthemes.com/chromenews/chromegrid/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "child"
                     ]
                 }
@@ -1998,7 +1998,7 @@
                     "preview": "https://demos.afthemes.com/chromenews/chromemag/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "child"
                     ]
                 }
@@ -2018,7 +2018,7 @@
                     "preview": "https://demos.afthemes.com/morenews-pro/",
                     "tags": [
                         "pro",
-                        "news & magazine"
+                        "magazine"
                     ]
                 },
                 "sport": {
@@ -2041,7 +2041,7 @@
                     "preview": "https://demos.afthemes.com/morenews-pro/food-recipe/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "food & restro"
                     ]
                 },
@@ -2053,7 +2053,7 @@
                     "preview": "https://demos.afthemes.com/morenews-pro/classic/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "classic"
                     ]
                 },
@@ -2065,7 +2065,7 @@
                     "preview": "https://demos.afthemes.com/morenews-pro/fashion/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "fashion"
                     ]
                 },
@@ -2077,7 +2077,7 @@
                     "preview": "https://demos.afthemes.com/morenews-pro/fitness-magazine/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "sport"
                     ]
                 },
@@ -2113,7 +2113,7 @@
                     "preview": "https://demos.afthemes.com/morenews-pro/arabic-news/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "general",
                         "rtl"
                     ]
@@ -2126,7 +2126,7 @@
                     "preview": "https://demos.afthemes.com/morenews-pro/china-today/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "general"
                     ]
                 }
@@ -2150,7 +2150,7 @@
                     "preview": "https://demos.afthemes.com/morenews/",
                     "tags": [
                         "free",
-                        "news & magazine"
+                        "magazine"
                     ]
                 },
                 "sport": {
@@ -2161,7 +2161,7 @@
                     "preview": "https://demos.afthemes.com/morenews/sport/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "sport"
                     ]
                 },
@@ -2173,7 +2173,7 @@
                     "preview": "https://demos.afthemes.com/morenews/classic/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "classic"
                     ]
                 },
@@ -2185,7 +2185,7 @@
                     "preview": "https://demos.afthemes.com/morenews/food-recipe/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "food & restro"
                     ]
                 },
@@ -2197,7 +2197,7 @@
                     "preview": "https://demos.afthemes.com/morenews/crypto-news/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "crypto"
                     ]
                 },
@@ -2222,7 +2222,7 @@
                     "preview": "https://demos.afthemes.com/morenews/arabic-news/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "general",
                         "rtl"
                     ]
@@ -2248,7 +2248,7 @@
                     "preview": "https://demos.afthemes.com/morenews/china-today/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "general"
                     ]
                 },
@@ -2260,7 +2260,7 @@
                     "preview": "https://demos.afthemes.com/morenews/moreblock/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -2273,7 +2273,7 @@
                     "preview": "https://demos.afthemes.com/morenews/moreblock-dark/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -2286,7 +2286,7 @@
                     "preview": "https://demos.afthemes.com/morenews/fashion/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "fashion"
                     ]
                 },
@@ -2361,7 +2361,7 @@
                     "preview": "https://demos.afthemes.com/morenews/breaking-point/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -2374,7 +2374,7 @@
                     "preview": "https://demos.afthemes.com/morenews/daily-chronicle/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -2387,7 +2387,7 @@
                     "preview": "https://demos.afthemes.com/morenews/dynamic-news/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -2400,7 +2400,7 @@
                     "preview": "https://demos.afthemes.com/morenews/horizon-times/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -2413,7 +2413,7 @@
                     "preview": "https://demos.afthemes.com/morenews/hot-topic/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -2426,7 +2426,7 @@
                     "preview": "https://demos.afthemes.com/morenews/info-update/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -2439,7 +2439,7 @@
                     "preview": "https://demos.afthemes.com/morenews/news-compass/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -2452,7 +2452,7 @@
                     "preview": "https://demos.afthemes.com/morenews/prime-headlines/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -2465,7 +2465,7 @@
                     "preview": "https://demos.afthemes.com/morenews/rapid-update/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -2478,7 +2478,7 @@
                     "preview": "https://demos.afthemes.com/morenews/trusted-times/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -2499,7 +2499,7 @@
                     "preview": "https://demos.afthemes.com/morenews/generalnews/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "child"
                     ]
                 }
@@ -2519,7 +2519,7 @@
                     "preview": "https://demos.afthemes.com/morenews/moremag/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "child"
                     ]
                 }
@@ -2539,7 +2539,7 @@
                     "preview": "https://demos.afthemes.com/newsphere-pro/",
                     "tags": [
                         "pro",
-                        "news & magazine"
+                        "magazine"
                     ]
                 },
                 "dark": {
@@ -2550,7 +2550,7 @@
                     "preview": "https://demos.afthemes.com/newsphere-pro/dark/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "dark"
                     ]
                 },
@@ -2562,7 +2562,7 @@
                     "preview": "https://demos.afthemes.com/newsphere-pro/light/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "light"
                     ]
                 },
@@ -2574,7 +2574,7 @@
                     "preview": "https://demos.afthemes.com/newsphere-pro/sport/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "sport"
                     ]
                 },
@@ -2586,7 +2586,7 @@
                     "preview": "https://demos.afthemes.com/newsphere-pro/fashion/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "fashion"
                     ]
                 },
@@ -2610,7 +2610,7 @@
                     "preview": "https://demos.afthemes.com/newsphere-pro/recipe/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "food & restro"
                     ]
                 },
@@ -2660,7 +2660,7 @@
                     "preview": "https://demos.afthemes.com/newsphere/",
                     "tags": [
                         "free",
-                        "news & magazine"
+                        "magazine"
                     ]
                 },
                 "sport": {
@@ -2671,7 +2671,7 @@
                     "preview": "https://demos.afthemes.com/newsphere/sport/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "sport"
                     ]
                 },
@@ -2683,7 +2683,7 @@
                     "preview": "https://demos.afthemes.com/newsphere/fashion/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "fashion"
                     ]
                 },
@@ -2695,7 +2695,7 @@
                     "preview": "https://demos.afthemes.com/newsphere/crypto-news/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "crypto"
                     ]
                 },
@@ -2707,7 +2707,7 @@
                     "preview": "https://demos.afthemes.com/newsphere/arabic-news/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "general",
                         "rtl"
                     ]
@@ -2810,7 +2810,7 @@
                     "preview": "https://demos.afthemes.com/newsphere/weather-news/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "elementor"
                     ],
                     "plugins": "elementor,elespare"
@@ -2831,7 +2831,7 @@
                     "preview": "https://demos.afthemes.com/newsphere/headnews/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "child"
                     ]
                 }
@@ -2850,7 +2850,7 @@
                     "preview": "https://demos.afthemes.com/newsphere/newspin/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "child"
                     ]
                 }
@@ -2869,7 +2869,7 @@
                     "preview": "https://demos.afthemes.com/newsphere/sportion/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "child"
                     ]
                 }
@@ -2888,7 +2888,7 @@
                     "preview": "https://demos.afthemes.com/newsphere/magcess/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "child"
                     ]
                 }
@@ -2908,7 +2908,7 @@
                     "preview": "https://demos.afthemes.com/darknews-pro/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "news"
                     ]
                 },
@@ -2920,7 +2920,7 @@
                     "preview": "https://demos.afthemes.com/darknews-pro/light/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "light"
                     ]
                 },
@@ -2932,7 +2932,7 @@
                     "preview": "https://demos.afthemes.com/darknews-pro/fashion/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "fashion"
                     ]
                 },
@@ -2945,7 +2945,7 @@
                     "tags": [
                         "pro",
                         "classic",
-                        "news & magazine"
+                        "magazine"
                     ]
                 },
                 "fitness": {
@@ -2968,7 +2968,7 @@
                     "preview": "https://demos.afthemes.com/darknews-pro/sport/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "sport"
                     ]
                 },
@@ -3052,7 +3052,7 @@
                     "preview": "https://demos.afthemes.com/darknews-pro/crypto-news/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "crypto"
                     ]
                 },
@@ -3064,7 +3064,7 @@
                     "preview": "https://demos.afthemes.com/darknews-pro/arabic-news/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "general",
                         "rtl"
                     ]
@@ -3101,7 +3101,7 @@
                     "preview": "https://demos.afthemes.com/darknews/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "dark"
                     ]
                 },
@@ -3113,7 +3113,7 @@
                     "preview": "https://demos.afthemes.com/darknews/light/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "light"
                     ]
                 },
@@ -3125,7 +3125,7 @@
                     "preview": "https://demos.afthemes.com/darknews/sport/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "sport"
                     ]
                 },
@@ -3137,7 +3137,7 @@
                     "preview": "https://demos.afthemes.com/darknews/fashion/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "fashion"
                     ]
                 },
@@ -3253,7 +3253,7 @@
                     "preview": "https://demos.afthemes.com/darknews/arabic-news/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "general",
                         "rtl"
                     ]
@@ -3266,7 +3266,7 @@
                     "preview": "https://demos.afthemes.com/darknews/china-news/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "chinese"
                     ]
                 },
@@ -3278,7 +3278,7 @@
                     "preview": "https://demos.afthemes.com/darknews/indian/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "indian"
                     ]
                 },
@@ -3290,7 +3290,7 @@
                     "preview": "https://demos.afthemes.com/darknews/blocknews/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -3303,7 +3303,7 @@
                     "preview": "https://demos.afthemes.com/darknews/blocknews-light/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -3316,7 +3316,7 @@
                     "preview": "https://demos.afthemes.com/darknews/constant-feed/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -3329,7 +3329,7 @@
                     "preview": "https://demos.afthemes.com/darknews/fast-facts/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -3342,7 +3342,7 @@
                     "preview": "https://demos.afthemes.com/darknews/immediate-update/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -3355,7 +3355,7 @@
                     "preview": "https://demos.afthemes.com/darknews/informed-daily/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -3368,7 +3368,7 @@
                     "preview": "https://demos.afthemes.com/darknews/news-eye/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -3381,7 +3381,7 @@
                     "preview": "https://demos.afthemes.com/darknews/news-journal/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -3394,7 +3394,7 @@
                     "preview": "https://demos.afthemes.com/darknews/news-radar/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -3407,7 +3407,7 @@
                     "preview": "https://demos.afthemes.com/darknews/news-source/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -3420,7 +3420,7 @@
                     "preview": "https://demos.afthemes.com/darknews/reliable-report/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -3433,7 +3433,7 @@
                     "preview": "https://demos.afthemes.com/darknews/report-hub/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -3446,7 +3446,7 @@
                     "preview": "https://demos.afthemes.com/darknews/update-express/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -3459,7 +3459,7 @@
                     "preview": "https://demos.afthemes.com/darknews/recipe/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg",
                         "food & restro"
                     ],
@@ -3481,7 +3481,7 @@
                     "preview": "https://demos.afthemes.com/darknews/splashnews/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "child"
                     ]
                 }
@@ -3501,7 +3501,7 @@
                     "preview": "https://demos.afthemes.com/darknews/newsnal/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "child"
                     ]
                 }
@@ -3521,7 +3521,7 @@
                     "preview": "https://demos.afthemes.com/elegant-magazine-pro/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "fashion"
                     ]
                 },
@@ -3534,7 +3534,7 @@
                     "tags": [
                         "pro",
                         "general",
-                        "news & magazine"
+                        "magazine"
                     ]
                 },
                 "daily-magazine": {
@@ -3545,7 +3545,7 @@
                     "preview": "https://demos.afthemes.com/elegant-magazine-pro/daily-magazine",
                     "tags": [
                         "pro",
-                        "news & magazine"
+                        "magazine"
                     ]
                 },
                 "minimal": {
@@ -3617,7 +3617,7 @@
                     "preview": "https://demos.afthemes.com/elegant-magazine/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "fashion"
                     ]
                 },
@@ -3629,7 +3629,7 @@
                     "preview": "https://demos.afthemes.com/elegant-magazine/newsportal",
                     "tags": [
                         "free",
-                        "news & magazine"
+                        "magazine"
                     ]
                 },
                 "minimal": {
@@ -3718,7 +3718,7 @@
                     "preview": "https://demos.afthemes.com/elegant-magazine/today-news",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "elementor"
                     ],
                     "plugins": "elementor,elespare"
@@ -3731,7 +3731,7 @@
                     "preview": "https://demos.afthemes.com/elegant-magazine/weekly-news",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "elementor"
                     ],
                     "plugins": "elementor,elespare"
@@ -3745,7 +3745,7 @@
                     "tags": [
                         "free",
                         "food & restro",
-                        "news & magazine",
+                        "magazine",
                         "bangladesh"
                     ]
                 },
@@ -3758,7 +3758,7 @@
                     "tags": [
                         "free",
                         "entertainment",
-                        "news & magazine",
+                        "magazine",
                         "brazil"
                     ]
                 },
@@ -3771,7 +3771,7 @@
                     "tags": [
                         "free",
                         "food & restro",
-                        "news & magazine",
+                        "magazine",
                         "chinese"
                     ]
                 },
@@ -3795,7 +3795,7 @@
                     "preview": "https://demos.afthemes.com/elegant-magazine/french-movies",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "africa",
                         "entertainment"
                     ]
@@ -3808,7 +3808,7 @@
                     "preview": "https://demos.afthemes.com/elegant-magazine/germanic-tales",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "german"
                     ]
                 },
@@ -3820,7 +3820,7 @@
                     "preview": "https://demos.afthemes.com/elegant-magazine/indian-cricket",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "indian",
                         "sport"
                     ]
@@ -3833,7 +3833,7 @@
                     "preview": "https://demos.afthemes.com/elegant-magazine/japanese-culture",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "japanese"
                     ]
                 },
@@ -3845,7 +3845,7 @@
                     "preview": "https://demos.afthemes.com/elegant-magazine/korean-drama",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "korean",
                         "entertainment"
                     ]
@@ -3860,7 +3860,7 @@
                         "free",
                         "magazine",
                         "myanmar",
-                        "news & magazine"
+                        "magazine"
                     ]
                 },
                 "nepal-journey": {
@@ -3871,7 +3871,7 @@
                     "preview": "https://demos.afthemes.com/elegant-magazine/nepal-journey",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "nepali"
                     ]
                 },
@@ -3883,7 +3883,7 @@
                     "preview": "https://demos.afthemes.com/elegant-magazine/romania-news",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "romanian"
                     ]
                 },
@@ -3895,7 +3895,7 @@
                     "preview": "https://demos.afthemes.com/elegant-magazine/russian-drinks",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "russian"
                     ]
                 },
@@ -3907,7 +3907,7 @@
                     "preview": "https://demos.afthemes.com/elegant-magazine/tech-hub",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "spanish"
                     ]
                 }
@@ -3927,7 +3927,7 @@
                     "preview": "https://demos.afthemes.com/elegant-magazine/daily-magazine",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "child"
                     ]
                 }
@@ -3946,7 +3946,7 @@
                     "preview": "https://demos.afthemes.com/elegant-magazine/magnificent-blog",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "child"
                     ]
                 }
@@ -3965,7 +3965,7 @@
                     "preview": "https://demos.afthemes.com/elegant-magazine/vivacious-magazine",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "child"
                     ]
                 }
@@ -3985,7 +3985,7 @@
                     "preview": "https://demos.afthemes.com/enternews-pro/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "news"
                     ]
                 },
@@ -3997,7 +3997,7 @@
                     "preview": "https://demos.afthemes.com/enternews-pro/sport/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "sport"
                     ]
                 },
@@ -4009,7 +4009,7 @@
                     "preview": "https://demos.afthemes.com/enternews-pro/classic/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "classic"
                     ]
                 },
@@ -4021,7 +4021,7 @@
                     "preview": "https://demos.afthemes.com/enternews-pro/dark/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "dark"
                     ]
                 },
@@ -4033,7 +4033,7 @@
                     "preview": "https://demos.afthemes.com/enternews-pro/light/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "light"
                     ]
                 },
@@ -4045,7 +4045,7 @@
                     "preview": "https://demos.afthemes.com/enternews-pro/fashion/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "fashion"
                     ]
                 },
@@ -4070,7 +4070,7 @@
                     "tags": [
                         "pro",
                         "blog",
-                        "news & magazine",
+                        "magazine",
                         "travel"
                     ]
                 },
@@ -4082,7 +4082,7 @@
                     "preview": "https://demos.afthemes.com/enternews-pro/business/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "business"
                     ]
                 },
@@ -4094,7 +4094,7 @@
                     "preview": "https://demos.afthemes.com/enternews-pro/top-news/",
                     "tags": [
                         "pro",
-                        "news & magazine"
+                        "magazine"
                     ]
                 },
                 "online-news": {
@@ -4105,7 +4105,7 @@
                     "preview": "https://demos.afthemes.com/enternews-pro/online-news/",
                     "tags": [
                         "pro",
-                        "news & magazine"
+                        "magazine"
                     ]
                 },
                 "general-news": {
@@ -4116,7 +4116,7 @@
                     "preview": "https://demos.afthemes.com/enternews-pro/general-news/",
                     "tags": [
                         "pro",
-                        "news & magazine"
+                        "magazine"
                     ]
                 },
                 "crypto-currency": {
@@ -4128,7 +4128,7 @@
                     "tags": [
                         "pro",
                         "crypto",
-                        "news & magazine"
+                        "magazine"
                     ]
                 },
                 "arabic-news": {
@@ -4139,7 +4139,7 @@
                     "preview": "https://demos.afthemes.com/enternews-pro/arabic-news/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "general",
                         "rtl"
                     ]
@@ -4152,7 +4152,7 @@
                     "preview": "https://demos.afthemes.com/enternews-pro/china-news/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "chinese"
                     ]
                 }
@@ -4175,7 +4175,7 @@
                     "preview": "https://demos.afthemes.com/enternews/",
                     "tags": [
                         "free",
-                        "news & magazine"
+                        "magazine"
                     ]
                 },
                 "sport": {
@@ -4186,7 +4186,7 @@
                     "preview": "https://demos.afthemes.com/enternews/sport/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "sport"
                     ]
                 },
@@ -4222,7 +4222,7 @@
                     "preview": "https://demos.afthemes.com/enternews/fashion/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "fashion"
                     ]
                 },
@@ -4235,7 +4235,7 @@
                     "tags": [
                         "free",
                         "classic",
-                        "news & magazine"
+                        "magazine"
                     ]
                 },
                 "beauty": {
@@ -4300,7 +4300,7 @@
                     "tags": [
                         "free",
                         "crypto",
-                        "news & magazine"
+                        "magazine"
                     ]
                 },
                 "arabic-news": {
@@ -4311,7 +4311,7 @@
                     "preview": "https://demos.afthemes.com/enternews/arabic-news/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "general",
                         "rtl"
                     ]
@@ -4348,7 +4348,7 @@
                     "preview": "https://demos.afthemes.com/enternews/bulletin-board/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -4361,7 +4361,7 @@
                     "preview": "https://demos.afthemes.com/enternews/daily-buzz/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -4374,7 +4374,7 @@
                     "preview": "https://demos.afthemes.com/enternews/live-bulletin/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -4387,7 +4387,7 @@
                     "preview": "https://demos.afthemes.com/enternews/news-panorama/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -4400,7 +4400,7 @@
                     "preview": "https://demos.afthemes.com/enternews/the-breaking-report/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -4413,7 +4413,7 @@
                     "preview": "https://demos.afthemes.com/enternews/the-daily-scoop/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -4426,7 +4426,7 @@
                     "preview": "https://demos.afthemes.com/enternews/the-interior-hunter/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -4439,7 +4439,7 @@
                     "preview": "https://demos.afthemes.com/enternews/the-monitor/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -4452,7 +4452,7 @@
                     "preview": "https://demos.afthemes.com/enternews/the-news-hub/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -4473,7 +4473,7 @@
                     "preview": "https://demos.afthemes.com/enternews/entermag/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "child"
                     ]
                 }
@@ -4493,7 +4493,7 @@
                     "preview": "https://demos.afthemes.com/newsium-pro/",
                     "tags": [
                         "pro",
-                        "news & magazine"
+                        "magazine"
                     ]
                 },
                 "dark": {
@@ -4504,7 +4504,7 @@
                     "preview": "https://demos.afthemes.com/newsium-pro/dark/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "dark"
                     ]
                 },
@@ -4516,7 +4516,7 @@
                     "preview": "https://demos.afthemes.com/newsium-pro/light/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "light"
                     ]
                 },
@@ -4528,7 +4528,7 @@
                     "preview": "https://demos.afthemes.com/newsium-pro/sport/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "sport"
                     ]
                 },
@@ -4540,7 +4540,7 @@
                     "preview": "https://demos.afthemes.com/newsium-pro/fashion/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "fashion"
                     ]
                 },
@@ -4552,7 +4552,7 @@
                     "preview": "https://demos.afthemes.com/newsium-pro/classic/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "classic"
                     ]
                 },
@@ -4564,7 +4564,7 @@
                     "preview": "https://demos.afthemes.com/newsium-pro/gadgets/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "tech & gadgets"
                     ]
                 },
@@ -4597,7 +4597,7 @@
                     "preview": "https://demos.afthemes.com/newsium/",
                     "tags": [
                         "free",
-                        "news & magazine"
+                        "magazine"
                     ]
                 },
                 "sports": {
@@ -4608,7 +4608,7 @@
                     "preview": "https://demos.afthemes.com/newsium/sport/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "sport"
                     ]
                 },
@@ -4620,7 +4620,7 @@
                     "preview": "https://demos.afthemes.com/newsium/fashion/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "fashion"
                     ]
                 },
@@ -4697,7 +4697,7 @@
                     "preview": "https://demos.afthemes.com/newsium/classic/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "classic"
                     ]
                 },
@@ -4709,7 +4709,7 @@
                     "preview": "https://demos.afthemes.com/newsium/gadgets/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "tech & gadgets"
                     ]
                 },
@@ -4800,7 +4800,7 @@
                     "preview": "https://demos.afthemes.com/newsium/crypto-news/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "crypto"
                     ]
                 },
@@ -4812,7 +4812,7 @@
                     "preview": "https://demos.afthemes.com/newsium/arabic-news/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "general",
                         "rtl"
                     ]
@@ -4825,7 +4825,7 @@
                     "preview": "https://demos.afthemes.com/newsium/china-news/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "chinese"
                     ]
                 }
@@ -4845,7 +4845,7 @@
                     "preview": "https://demos.afthemes.com/newsever-pro/",
                     "tags": [
                         "pro",
-                        "news & magazine"
+                        "magazine"
                     ]
                 },
                 "light": {
@@ -4856,7 +4856,7 @@
                     "preview": "https://demos.afthemes.com/newsever-pro/light/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "light"
                     ]
                 },
@@ -4868,7 +4868,7 @@
                     "preview": "https://demos.afthemes.com/newsever-pro/dark/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "dark"
                     ]
                 },
@@ -4880,7 +4880,7 @@
                     "preview": "https://demos.afthemes.com/newsever-pro/classic/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "classic"
                     ]
                 },
@@ -4892,7 +4892,7 @@
                     "preview": "https://demos.afthemes.com/newsever-pro/fashion/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "fashion"
                     ]
                 },
@@ -4904,7 +4904,7 @@
                     "preview": "https://demos.afthemes.com/newsever-pro/sport/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "sport"
                     ]
                 },
@@ -4916,7 +4916,7 @@
                     "preview": "https://demos.afthemes.com/newsever-pro/gadgets/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "tech & gadgets"
                     ]
                 },
@@ -4928,7 +4928,7 @@
                     "preview": "https://demos.afthemes.com/newsever-pro/business/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "business"
                     ]
                 },
@@ -4964,7 +4964,7 @@
                     "preview": "https://demos.afthemes.com/newsever-pro/lifestyle/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "lifestyle",
                         "gym & fitness"
                     ]
@@ -4977,7 +4977,7 @@
                     "preview": "https://demos.afthemes.com/newsever-pro/travel/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "travel"
                     ]
                 }
@@ -5000,7 +5000,7 @@
                     "preview": "https://demos.afthemes.com/newsever/",
                     "tags": [
                         "free",
-                        "news & magazine"
+                        "magazine"
                     ]
                 },
                 "light": {
@@ -5011,7 +5011,7 @@
                     "preview": "https://demos.afthemes.com/newsever/light/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "light"
                     ]
                 },
@@ -5023,7 +5023,7 @@
                     "preview": "https://demos.afthemes.com/newsever/dark/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "dark"
                     ]
                 },
@@ -5035,7 +5035,7 @@
                     "preview": "https://demos.afthemes.com/newsever/fashion/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "fashion"
                     ]
                 },
@@ -5047,7 +5047,7 @@
                     "preview": "https://demos.afthemes.com/newsever/sport/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "sport"
                     ]
                 },
@@ -5059,7 +5059,7 @@
                     "preview": "https://demos.afthemes.com/newsever/classic/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "classic"
                     ]
                 },
@@ -5137,7 +5137,7 @@
                     "tags": [
                         "free",
                         "crypto",
-                        "news & magazine"
+                        "magazine"
                     ]
                 },
                 "arabic-news": {
@@ -5148,7 +5148,7 @@
                     "preview": "https://demos.afthemes.com/newsever/arabic-news/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "general",
                         "rtl"
                     ]
@@ -5161,7 +5161,7 @@
                     "preview": "https://demos.afthemes.com/newsever/china-news/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "chinese"
                     ]
                 },
@@ -5173,7 +5173,7 @@
                     "preview": "https://demos.afthemes.com/newsever/blocknews/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -5186,7 +5186,7 @@
                     "preview": "https://demos.afthemes.com/newsever/blocknews-light/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
@@ -5207,7 +5207,7 @@
                     "preview": "https://demos.afthemes.com/newsever/magever/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "child"
                     ]
                 }
@@ -5227,7 +5227,7 @@
                     "preview": "https://demos.afthemes.com/magazine-7-plus",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "fashion"
                     ]
                 },
@@ -5239,7 +5239,7 @@
                     "preview": "https://demos.afthemes.com/magazine-7-plus/restro",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "food"
                     ]
                 },
@@ -5263,7 +5263,7 @@
                     "preview": "https://demos.afthemes.com/magazine-7-plus/minimal-mag",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "minimal"
                     ]
                 },
@@ -5301,7 +5301,7 @@
                     "preview": "https://demos.afthemes.com/magazine-7",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "fashion"
                     ]
                 },
@@ -5313,7 +5313,7 @@
                     "preview": "https://demos.afthemes.com/magazine-7/restro",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "food & restro"
                     ]
                 },
@@ -5325,7 +5325,7 @@
                     "preview": "https://demos.afthemes.com/magazine-7/clean-blog",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "general"
                     ]
                 },
@@ -5410,7 +5410,7 @@
                     "preview": "https://demos.afthemes.com/magazine-7/beautiful-blog",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "child"
                     ]
                 }
@@ -5429,7 +5429,7 @@
                     "preview": "https://demos.afthemes.com/magazine-7/newstorial",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "child"
                     ]
                 }
@@ -5448,7 +5448,7 @@
                     "preview": "https://demos.afthemes.com/magazine-7/featured-news",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "child"
                     ]
                 }
@@ -5467,7 +5467,7 @@
                     "preview": "https://demos.afthemes.com/magazine-7/magaziness",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "child"
                     ]
                 }
@@ -5487,7 +5487,7 @@
                     "preview": "https://demos.afthemes.com/magnitude-pro/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "fashion"
                     ]
                 },
@@ -5499,7 +5499,7 @@
                     "preview": "https://demos.afthemes.com/magnitude-pro/newsportal/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "general"
                     ]
                 },
@@ -5511,7 +5511,7 @@
                     "preview": "https://demos.afthemes.com/magnitude-pro/sport/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "sport"
                     ]
                 },
@@ -5523,7 +5523,7 @@
                     "preview": "https://demos.afthemes.com/magnitude-pro/dark/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "dark"
                     ]
                 },
@@ -5535,7 +5535,7 @@
                     "preview": "https://demos.afthemes.com/magnitude-pro/dark/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "tech & gadgets"
                     ]
                 }
@@ -5555,7 +5555,7 @@
                     "preview": "https://demos.afthemes.com/magnitude/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "fashion"
                     ]
                 },
@@ -5567,7 +5567,7 @@
                     "preview": "https://demos.afthemes.com/magnitude/newsportal/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "general"
                     ]
                 },
@@ -5579,7 +5579,7 @@
                     "preview": "https://demos.afthemes.com/magnitude/sport/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "sport"
                     ]
                 },
@@ -6061,7 +6061,7 @@
                     "preview": "https://demos.afthemes.com/broadnews/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "general"
                     ]
                 },
@@ -6085,7 +6085,7 @@
                     "preview": "https://demos.afthemes.com/broadnews/fashion/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "fashion"
                     ]
                 },
@@ -6097,7 +6097,7 @@
                     "preview": "https://demos.afthemes.com/broadnews/arabic-news/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "rtl"
                     ]
                 },
@@ -6109,7 +6109,7 @@
                     "preview": "https://demos.afthemes.com/broadnews/classic/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "blog",
                         "classic"
                     ]
@@ -6122,7 +6122,7 @@
                     "preview": "https://demos.afthemes.com/broadnews/chinese-news/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "chinese"
                     ]
                 },
@@ -6134,7 +6134,7 @@
                     "preview": "https://demos.afthemes.com/broadnews/general/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "general"
                     ]
                 },
@@ -6146,7 +6146,7 @@
                     "preview": "https://demos.afthemes.com/broadnews/spotlight/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "sport"
                     ]
                 },
@@ -6158,7 +6158,7 @@
                     "preview": "https://demos.afthemes.com/broadnews/large/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "large"
                     ]
                 }
@@ -6177,7 +6177,7 @@
                     "preview": "https://demos.afthemes.com/broadnews-pro/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "general"
                     ]
                 },
@@ -6201,7 +6201,7 @@
                     "preview": "https://demos.afthemes.com/broadnews-pro/fashion/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "fashion"
                     ]
                 },
@@ -6213,7 +6213,7 @@
                     "preview": "https://demos.afthemes.com/broadnews-pro/arabic-news/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "rtl"
                     ]
                 },
@@ -6225,7 +6225,7 @@
                     "preview": "https://demos.afthemes.com/broadnews-pro/classic/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "blog",
                         "classic"
                     ]
@@ -6238,7 +6238,7 @@
                     "preview": "https://demos.afthemes.com/broadnews-pro/chinese-news/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "chinese"
                     ]
                 },
@@ -6250,7 +6250,7 @@
                     "preview": "https://demos.afthemes.com/broadnews-pro/general/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "general"
                     ]
                 },
@@ -6262,7 +6262,7 @@
                     "preview": "https://demos.afthemes.com/broadnews-pro/spotlight/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "sport"
                     ]
                 },
@@ -6274,7 +6274,7 @@
                     "preview": "https://demos.afthemes.com/broadnews-pro/large/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "large"
                     ]
                 }
@@ -6293,7 +6293,7 @@
                     "preview": "https://demos.afthemes.com/kreeti/",
                     "tags": [
                         "pro",
-                        "news & magazine"
+                        "magazine"
                     ]
                 },
                 "dark": {
@@ -6304,7 +6304,7 @@
                     "preview": "https://demos.afthemes.com/kreeti/dark/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "dark"
                     ]
                 },
@@ -6316,7 +6316,7 @@
                     "preview": "https://demos.afthemes.com/kreeti/fashion/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "fashion"
                     ]
                 },
@@ -6328,7 +6328,7 @@
                     "preview": "https://demos.afthemes.com/kreeti/sport/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "sport"
                     ]
                 },
@@ -6364,7 +6364,7 @@
                     "preview": "https://demos.afthemes.com/kreeti/business-news",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "business"
                     ]
                 },
@@ -6376,7 +6376,7 @@
                     "preview": "https://demos.afthemes.com/kreeti/lifestyle/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "general"
                     ]
                 },
@@ -6407,7 +6407,7 @@
                     "preview": "https://demos.afthemes.com/kreeti-lite/",
                     "tags": [
                         "free",
-                        "news & magazine"
+                        "magazine"
                     ]
                 },
                 "sport": {
@@ -6418,7 +6418,7 @@
                     "preview": "https://demos.afthemes.com/kreeti-lite/sport/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "sport"
                     ]
                 },
@@ -6430,7 +6430,7 @@
                     "preview": "https://demos.afthemes.com/kreeti-lite/fashion/",
                     "tags": [
                         "free",
-                        "news & magazine",
+                        "magazine",
                         "fashion"
                     ]
                 },
@@ -6473,7 +6473,7 @@
                     "preview": "https://demos.afthemes.com/reviewnews-pro/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "general"
                     ]
                 },
@@ -6485,7 +6485,7 @@
                     "preview": "https://demos.afthemes.com/reviewnews-pro/sport/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "sport"
                     ]
                 },
@@ -6497,7 +6497,7 @@
                     "preview": "https://demos.afthemes.com/reviewnews-pro/recipe/",
                     "tags": [
                         "pro",
-                        "news & magazine",
+                        "magazine",
                         "tech & gadgets"
                     ]
                 }
