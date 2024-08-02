@@ -96,7 +96,7 @@
                     "preview": "https://demos.afthemes.com/covernews-pro/gadgets/",
                     "tags": [
                         "pro",
-                        "tech & gadgets"
+                        "gadgets"
                     ]
                 },
                 "business": {
@@ -693,7 +693,7 @@
                     "plugins": "blockspare",
                     "tags": [
                         "free",
-                        "tech & gadgets",
+                        "gadgets",
                         "gutenberg"
                     ]
                 },
@@ -719,7 +719,7 @@
                     "plugins": "blockspare",
                     "tags": [
                         "free",
-                        "gym & fitness",
+                        "fitness",
                         "gutenberg"
                     ]
                 },
@@ -784,7 +784,7 @@
                     "tags": [
                         "free",
                         "blog",
-                        "construction & decoration",
+                        "construction",
                         "elementor"
                     ],
                     "plugins": "elementor,elespare"
@@ -798,7 +798,7 @@
                     "tags": [
                         "free",
                         "blog",
-                        "health & education",
+                        "education",
                         "elementor"
                     ],
                     "plugins": "elementor,elespare"
@@ -826,7 +826,7 @@
                     "tags": [
                         "free",
                         "blog",
-                        "food & restro",
+                        "food",
                         "elementor"
                     ],
                     "plugins": "elementor,elespare"
@@ -1253,7 +1253,7 @@
                     "tags": [
                         "pro",
                         "magazine",
-                        "food & restro"
+                        "food"
                     ]
                 },
                 "gaming":{
@@ -1300,7 +1300,7 @@
                     "tags": [
                         "pro",
                         "magazine",
-                        "construction & decoration"
+                        "construction"
                     ]
                 },
                 "business":{
@@ -1326,7 +1326,7 @@
                     "tags": [
                         "pro",
                         "magazine",
-                        "food & restro",
+                        "food",
                         "elementor"
                     ],
                     "plugins": "elementor,elespare"
@@ -1340,7 +1340,7 @@
                     "tags": [
                         "pro",
                         "magazine",
-                        "gym & fitness",
+                        "fitness",
                         "elementor"
                     ],
                     "plugins": "elementor,elespare"
@@ -1655,7 +1655,7 @@
                     "preview": "https://demos.afthemes.com/chromenews/recipe/",
                     "tags": [
                         "free",
-                        "food & restro",
+                        "food",
                         "blog"
                     ]
                 },
@@ -1728,7 +1728,7 @@
                     "tags": [
                         "free",
                         "magazine",
-                        "health & education",
+                        "education",
                         "elementor"
                     ],
                     "plugins": "elementor,elespare"
@@ -1770,7 +1770,7 @@
                     "tags": [
                         "free",
                         "magazine",
-                        "food & restro",
+                        "food",
                         "elementor"
                     ],
                     "plugins": "elementor,elespare"
@@ -2042,7 +2042,7 @@
                     "tags": [
                         "pro",
                         "magazine",
-                        "food & restro"
+                        "food"
                     ]
                 },
                 "classic": {
@@ -2186,7 +2186,7 @@
                     "tags": [
                         "free",
                         "magazine",
-                        "food & restro"
+                        "food"
                     ]
                 },
                 "crypto-news": {
@@ -2611,7 +2611,7 @@
                     "tags": [
                         "pro",
                         "magazine",
-                        "food & restro"
+                        "food"
                     ]
                 },
                 "travel": {
@@ -2771,7 +2771,7 @@
                     "preview": "https://demos.afthemes.com/newsphere/diner-blog/",
                     "tags": [
                         "free",
-                        "food & restro",
+                        "food",
                         "elementor"
                     ],
                     "plugins": "elementor,elespare"
@@ -3004,7 +3004,7 @@
                     "preview": "https://demos.afthemes.com/darknews-pro/recipe/",
                     "tags": [
                         "pro",
-                        "food & restro",
+                        "food",
                         "blog"
                     ]
                 },
@@ -3016,7 +3016,7 @@
                     "preview": "https://demos.afthemes.com/darknews-pro/gadgets/",
                     "tags": [
                         "pro",
-                        "tech & gadgets",
+                        "gadgets",
                         "business"
                     ]
                 },
@@ -3150,7 +3150,7 @@
                     "tags": [
                         "free",
                         "game",
-                        "tech & gadgets"
+                        "gadgets"
                     ]
                 },
                 "classic": {
@@ -3175,7 +3175,7 @@
                         "free",
                         "elementor",
                         "blog",
-                        "gym & fitness"
+                        "fitness"
                     ],
                     "plugins": "elementor,elespare"
                 },
@@ -3213,7 +3213,7 @@
                     "preview": "https://demos.afthemes.com/darknews/tech-blog/",
                     "tags": [
                         "free",
-                        "tech & gadgets",
+                        "gadgets",
                         "elementor",
                         "blog"
                     ],
@@ -3229,7 +3229,7 @@
                         "free",
                         "elementor",
                         "blog",
-                        "food & restro"
+                        "food"
                     ],
                     "plugins": "elementor,elespare"
                 },
@@ -3461,7 +3461,7 @@
                         "free",
                         "magazine",
                         "gutenberg",
-                        "food & restro"
+                        "food"
                     ],
                     "plugins": "blockspare"
                 }
@@ -3652,7 +3652,7 @@
                     "preview": "https://demos.afthemes.com/elegant-magazine/architecture-and-interior",
                     "tags": [
                         "free",
-                        "construction & decoration",
+                        "construction",
                         "business"
                     ]
                 },
@@ -3690,7 +3690,7 @@
                     "preview": "https://demos.afthemes.com/elegant-magazine/cardio-blog",
                     "tags": [
                         "free",
-                        "gym & fitness",
+                        "fitness",
                         "blog",
                         "elementor"
                     ],
@@ -3744,7 +3744,7 @@
                     "preview": "https://demos.afthemes.com/elegant-magazine/beach-restro",
                     "tags": [
                         "free",
-                        "food & restro",
+                        "food",
                         "magazine",
                         "bangladesh"
                     ]
@@ -3770,7 +3770,7 @@
                     "preview": "https://demos.afthemes.com/elegant-magazine/chinese-cuisine",
                     "tags": [
                         "free",
-                        "food & restro",
+                        "food",
                         "magazine",
                         "chinese"
                     ]
@@ -4057,7 +4057,7 @@
                     "preview": "https://demos.afthemes.com/enternews-pro/recipe/",
                     "tags": [
                         "pro",
-                        "food & restro",
+                        "food",
                         "blog"
                     ]
                 },
@@ -4210,7 +4210,7 @@
                     "preview": "https://demos.afthemes.com/enternews/recipe/",
                     "tags": [
                         "free",
-                        "food & restro",
+                        "food",
                         "blog"
                     ]
                 },
@@ -4565,7 +4565,7 @@
                     "tags": [
                         "pro",
                         "magazine",
-                        "tech & gadgets"
+                        "gadgets"
                     ]
                 },
                 "lifestyle": {
@@ -4578,7 +4578,7 @@
                         "pro",
                         "blog",
                         "lifestyle",
-                        "gym & fitness"
+                        "fitness"
                     ]
                 }
             }
@@ -4633,7 +4633,7 @@
                     "tags": [
                         "free",
                         "elementor",
-                        "construction & decoration"
+                        "construction"
                     ],
                     "plugins": "elementor,elespare"
                 },
@@ -4710,7 +4710,7 @@
                     "tags": [
                         "free",
                         "magazine",
-                        "tech & gadgets"
+                        "gadgets"
                     ]
                 },
                 "lifestyle": {
@@ -4723,7 +4723,7 @@
                         "free",
                         "blog",
                         "lifestyle",
-                        "gym & fitness"
+                        "fitness"
                     ]
                 },
                 "travel-blog": {
@@ -4748,7 +4748,7 @@
                     "tags": [
                         "free",
                         "elementor",
-                        "gym & fitness"
+                        "fitness"
                     ],
                     "plugins": "elementor,elespare"
                 },
@@ -4761,7 +4761,7 @@
                     "tags": [
                         "free",
                         "elementor",
-                        "food & restro"
+                        "food"
                     ],
                     "plugins": "elementor,elespare"
                 },
@@ -4917,7 +4917,7 @@
                     "tags": [
                         "pro",
                         "magazine",
-                        "tech & gadgets"
+                        "gadgets"
                     ]
                 },
                 "business": {
@@ -4952,7 +4952,7 @@
                     "preview": "https://demos.afthemes.com/newsever-pro/recipe/",
                     "tags": [
                         "pro",
-                        "food & restro",
+                        "food",
                         "blog"
                     ]
                 },
@@ -4966,7 +4966,7 @@
                         "pro",
                         "magazine",
                         "lifestyle",
-                        "gym & fitness"
+                        "fitness"
                     ]
                 },
                 "travel": {
@@ -5072,7 +5072,7 @@
                     "tags": [
                         "free",
                         "elementor",
-                        "gym & fitness"
+                        "fitness"
                     ],
                     "plugins": "elementor,elespare"
                 },
@@ -5098,7 +5098,7 @@
                     "tags": [
                         "free",
                         "elementor",
-                        "food & restro"
+                        "food"
                     ],
                     "plugins": "elementor,elespare"
                 },
@@ -5111,7 +5111,7 @@
                     "tags": [
                         "free",
                         "elementor",
-                        "tech & gadgets"
+                        "gadgets"
                     ],
                     "plugins": "elementor,elespare"
                 },
@@ -5314,7 +5314,7 @@
                     "tags": [
                         "free",
                         "magazine",
-                        "food & restro"
+                        "food"
                     ]
                 },
                 "clean-blog": {
@@ -5338,7 +5338,7 @@
                     "tags": [
                         "free",
                         "elementor",
-                        "food & restro"
+                        "food"
                     ],
                     "plugins": "elementor,elespare"
                 },
@@ -5390,7 +5390,7 @@
                     "tags": [
                         "free",
                         "elementor",
-                        "gym & fitness"
+                        "fitness"
                     ],
                     "plugins": "elementor,elespare"
                 }
@@ -5536,7 +5536,7 @@
                     "tags": [
                         "pro",
                         "magazine",
-                        "tech & gadgets"
+                        "gadgets"
                     ]
                 }
             }
@@ -5683,7 +5683,7 @@
                     "tags": [
                         "pro",
                         "ecommerce",
-                        "tech & gadgets"
+                        "gadgets"
                     ],
                     "plugins": "woocommerce"
                 }
@@ -5774,7 +5774,7 @@
                     "tags": [
                         "pro",
                         "ecommerce",
-                        "tech & gadgets"
+                        "gadgets"
                     ],
                     "plugins": "woocommerce"
                 },
@@ -5813,7 +5813,7 @@
                     "tags": [
                         "pro",
                         "ecommerce",
-                        "food & restro"
+                        "food"
                     ],
                     "plugins": "woocommerce"
                 }
@@ -5850,7 +5850,7 @@
                     "tags": [
                         "free",
                         "ecommerce",
-                        "tech & gadgets"
+                        "gadgets"
                     ],
                     "plugins": "woocommerce"
                 },
@@ -5905,7 +5905,7 @@
                     "tags": [
                         "pro",
                         "ecommerce",
-                        "tech & gadgets"
+                        "gadgets"
                     ],
                     "plugins": "woocommerce"
                 },
@@ -5931,7 +5931,7 @@
                     "tags": [
                         "pro",
                         "ecommerce",
-                        "construction & decoration"
+                        "construction"
                     ],
                     "plugins": "woocommerce"
                 },
@@ -5944,7 +5944,7 @@
                     "tags": [
                         "pro",
                         "ecommerce",
-                        "food & restro"
+                        "food"
                     ],
                     "plugins": "woocommerce"
                 },
@@ -5957,7 +5957,7 @@
                     "tags": [
                         "pro",
                         "ecommerce",
-                        "food & restro"
+                        "food"
                     ],
                     "plugins": "woocommerce"
                 },
@@ -5994,7 +5994,7 @@
                     "tags": [
                         "free",
                         "ecommerce",
-                        "food & restro"
+                        "food"
                     ],
                     "plugins": "woocommerce"
                 },
@@ -6388,7 +6388,7 @@
                     "preview": "https://demos.afthemes.com/kreeti/recipe/",
                     "tags": [
                         "pro",
-                        "food & restro",
+                        "food",
                         "general"
                     ]
                 }
@@ -6442,7 +6442,7 @@
                     "preview": "https://demos.afthemes.com/kreeti-lite/gadgets",
                     "tags": [
                         "free",
-                        "tech & gadgets",
+                        "gadgets",
                         "business"
                     ]
                 },
@@ -6498,7 +6498,7 @@
                     "tags": [
                         "pro",
                         "magazine",
-                        "tech & gadgets"
+                        "gadgets"
                     ]
                 }
             }
