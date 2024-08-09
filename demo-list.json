@@ -3141,6 +3141,58 @@
                         "fashion"
                     ]
                 },
+                "center-news": {
+                    "slug": "center-news",
+                    "theme": "DarkNews",
+                    "catgory": "Elementor",
+                    "name": "Center News",
+                    "preview": "https://demos.afthemes.com/darknews/center-news/",
+                    "tags": [
+                        "free",
+                        "elementor",
+                        "news"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "daily-news": {
+                    "slug": "daily-news",
+                    "theme": "DarkNews",
+                    "catgory": "Elementor",
+                    "name": "Daily News",
+                    "preview": "https://demos.afthemes.com/darknews/daily-news/",
+                    "tags": [
+                        "free",
+                        "elementor",
+                        "news"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "modern-news": {
+                    "slug": "modern-news",
+                    "theme": "DarkNews",
+                    "catgory": "Elementor",
+                    "name": "Modern News",
+                    "preview": "https://demos.afthemes.com/darknews/modern-news/",
+                    "tags": [
+                        "free",
+                        "elementor",
+                        "news"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "simple-blog": {
+                    "slug": "simple-blog",
+                    "theme": "DarkNews",
+                    "catgory": "Elementor",
+                    "name": "Simple Blog",
+                    "preview": "https://demos.afthemes.com/darknews/simple-blog/",
+                    "tags": [
+                        "free",
+                        "elementor",
+                        "blog"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
                 "gaming": {
                     "slug": "gaming",
                     "theme": "DarkNews",
@@ -3151,6 +3203,90 @@
                         "free",
                         "game",
                         "gadgets"
+                    ]
+                },
+                "explore-spain": {
+                    "slug": "explore-spain",
+                    "theme": "DarkNews",
+                    "catgory": "Blog",
+                    "name": "Explora España",
+                    "preview": "https://demos.afthemes.com/darknews/explore-spain/",
+                    "tags": [
+                        "free",
+                        "spanish",
+                        "travel"
+                    ]
+                },
+                "german-wheels": {
+                    "slug": "german-wheels",
+                    "theme": "DarkNews",
+                    "catgory": "Blog",
+                    "name": "Deutsche Räder",
+                    "preview": "https://demos.afthemes.com/darknews/german-wheels/",
+                    "tags": [
+                        "free",
+                        "german",
+                        "automobile"
+                    ]
+                },
+                "islamic-architecture": {
+                    "slug": "islamic-architecture",
+                    "theme": "DarkNews",
+                    "catgory": "Blog",
+                    "name": "العمارة الإسلامية",
+                    "preview": "https://demos.afthemes.com/darknews/islamic-architecture/",
+                    "tags": [
+                        "free",
+                        "arabic",
+                        "decoration"
+                    ]
+                },
+                "japan-explore": {
+                    "slug": "japan-explore",
+                    "theme": "DarkNews",
+                    "catgory": "Blog",
+                    "name": "日本 探検する",
+                    "preview": "https://demos.afthemes.com/darknews/japan-explore/",
+                    "tags": [
+                        "free",
+                        "japanese",
+                        "travel"
+                    ]
+                },
+                "martial-art": {
+                    "slug": "martial-art",
+                    "theme": "DarkNews",
+                    "catgory": "Blog",
+                    "name": "武术",
+                    "preview": "https://demos.afthemes.com/darknews/martial-art/",
+                    "tags": [
+                        "free",
+                        "chinese",
+                        "sport"
+                    ]
+                },
+                "nepali-news": {
+                    "slug": "nepali-news",
+                    "theme": "DarkNews",
+                    "catgory": "News",
+                    "name": "नेपाली समाचार",
+                    "preview": "https://demos.afthemes.com/darknews/nepali-news/",
+                    "tags": [
+                        "free",
+                        "nepali",
+                        "news"
+                    ]
+                },
+                "russia-today": {
+                    "slug": "russia-today",
+                    "theme": "DarkNews",
+                    "catgory": "News",
+                    "name": "Россия сегодня",
+                    "preview": "https://demos.afthemes.com/darknews/russia-today/",
+                    "tags": [
+                        "free",
+                        "russian",
+                        "news"
                     ]
                 },
                 "classic": {
