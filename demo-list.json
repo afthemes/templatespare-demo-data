@@ -6411,7 +6411,7 @@
                     "theme": "Magnitude",
                     "main_category": "Regional & Language Specific",
                     "catgory": "Bangladesh",
-                    "name": "Vintage Blog",
+                    "name": "বাংলাদেশের খবর",
                     "preview": "https://demos.afthemes.com/magnitude/bangladesh-news/",
                     "tags": [
                         "free",
@@ -6424,7 +6424,7 @@
                     "theme": "Magnitude",
                     "main_category": "Regional & Language Specific",
                     "catgory": "Brazil",
-                    "name": "Vintage Blog",
+                    "name": "Finanças Brasileiras",
                     "preview": "https://demos.afthemes.com/magnitude/brazilian-finance/",
                     "tags": [
                         "free",
@@ -6437,7 +6437,7 @@
                     "theme": "Magnitude",
                     "main_category": "Regional & Language Specific",
                     "catgory": "Chinese",
-                    "name": "Vintage Blog",
+                    "name": "中国书法",
                     "preview": "https://demos.afthemes.com/magnitude/chinese-calligraphy/",
                     "tags": [
                         "free",
@@ -6450,7 +6450,7 @@
                     "theme": "Magnitude",
                     "main_category": "Regional & Language Specific",
                     "catgory": "Africa",
-                    "name": "Vintage Blog",
+                    "name": "Donasie blog",
                     "preview": "https://demos.afthemes.com/magnitude/donation-blog/",
                     "tags": [
                         "free",
@@ -6463,7 +6463,7 @@
                     "theme": "Magnitude",
                     "main_category": "Regional & Language Specific",
                     "catgory": "Nepali",
-                    "name": "Vintage Blog",
+                    "name": "शिक्षा परामर्श",
                     "preview": "https://demos.afthemes.com/magnitude/education-consultancy/",
                     "tags": [
                         "free",
@@ -6476,7 +6476,7 @@
                     "theme": "Magnitude",
                     "main_category": "Regional & Language Specific",
                     "catgory": "French",
-                    "name": "Vintage Blog",
+                    "name": "Divertissement français",
                     "preview": "https://demos.afthemes.com/magnitude/french-entertainment/",
                     "tags": [
                         "free",
@@ -6489,7 +6489,7 @@
                     "theme": "Magnitude",
                     "main_category": "Regional & Language Specific",
                     "catgory": "German",
-                    "name": "Vintage Blog",
+                    "name": "Deutsches Brot",
                     "preview": "https://demos.afthemes.com/magnitude/german-bread/",
                     "tags": [
                         "free",
@@ -6502,7 +6502,7 @@
                     "theme": "Magnitude",
                     "main_category": "Regional & Language Specific",
                     "catgory": "Indian",
-                    "name": "Vintage Blog",
+                    "name": "भारतीय भोजन",
                     "preview": "https://demos.afthemes.com/magnitude/indian-food/",
                     "tags": [
                         "free",
@@ -6515,7 +6515,7 @@
                     "theme": "Magnitude",
                     "main_category": "Regional & Language Specific",
                     "catgory": "Japanese",
-                    "name": "Vintage Blog",
+                    "name": "日本のアニメ",
                     "preview": "https://demos.afthemes.com/magnitude/japanese-anime/",
                     "tags": [
                         "free",
@@ -6523,26 +6523,26 @@
                         "japanese"
                     ]
                 },
-                "korean-song": {
-                    "slug": "korean-song",
+                "korean-songs": {
+                    "slug": "korean-songs",
                     "theme": "Magnitude",
                     "main_category": "Regional & Language Specific",
                     "catgory": "Korean",
-                    "name": "Vintage Blog",
-                    "preview": "https://demos.afthemes.com/magnitude/korean-song/",
+                    "name": "한국 노래",
+                    "preview": "https://demos.afthemes.com/magnitude/korean-songs/",
                     "tags": [
                         "free",
                         "blog",
                         "korean"
                     ]
                 },
-                "myanamar-temples": {
-                    "slug": "myanamar-temples",
+                "myanmar-temples": {
+                    "slug": "myanmar-temples",
                     "theme": "Magnitude",
                     "main_category": "Regional & Language Specific",
                     "catgory": "myanamar",
-                    "name": "Vintage Blog",
-                    "preview": "https://demos.afthemes.com/magnitude/myanamar-temples/",
+                    "name": "မြန်မာဘုန်းတော်ကြီးကျောင်းများ",
+                    "preview": "https://demos.afthemes.com/magnitude/myanmar-temples/",
                     "tags": [
                         "free",
                         "blog",
@@ -6554,7 +6554,7 @@
                     "theme": "Magnitude",
                     "main_category": "Regional & Language Specific",
                     "catgory": "Romanian",
-                    "name": "Vintage Blog",
+                    "name": "Divertismentul românesc",
                     "preview": "https://demos.afthemes.com/magnitude/romanian-entertainment/",
                     "tags": [
                         "free",
@@ -6567,7 +6567,7 @@
                     "theme": "Magnitude",
                     "main_category": "Regional & Language Specific",
                     "catgory": "Russian",
-                    "name": "Vintage Blog",
+                    "name": "Русская Музыка",
                     "preview": "https://demos.afthemes.com/magnitude/russian-music/",
                     "tags": [
                         "free",
@@ -6580,7 +6580,7 @@
                     "theme": "Magnitude",
                     "main_category": "Regional & Language Specific",
                     "catgory": "Spanish",
-                    "name": "Vintage Blog",
+                    "name": "deporte español",
                     "preview": "https://demos.afthemes.com/magnitude/spanish-sport/",
                     "tags": [
                         "free",
