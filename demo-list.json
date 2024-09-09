@@ -6623,6 +6623,62 @@
                         "gadgets"
                     ],
                     "plugins": "woocommerce"
+                },
+                "automobile": {
+                    "slug": "automobile",
+                    "theme": "Shopical Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "Automobile",
+                    "name": "Automobile Pro",
+                    "preview": "https://demos.afthemes.com/shopical-pro/automobile/",
+                    "tags": [
+                        "pro",
+                        "ecommerce",
+                        "automobile"
+                    ],
+                    "plugins": "woocommerce"
+                },
+                "interior": {
+                    "slug": "interior",
+                    "theme": "Shopical Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "Interior",
+                    "name": "Interior Pro",
+                    "preview": "https://demos.afthemes.com/shopical-pro/interior/",
+                    "tags": [
+                        "pro",
+                        "ecommerce",
+                        "interior"
+                    ],
+                    "plugins": "woocommerce"
+                },
+                "restaurant": {
+                    "slug": "restaurant",
+                    "theme": "Shopical Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "Restaurant",
+                    "name": "Restaurant Pro",
+                    "preview": "https://demos.afthemes.com/shopical-pro/restaurant/",
+                    "tags": [
+                        "pro",
+                        "ecommerce",
+                        "restaurant"
+                    ],
+                    "plugins": "woocommerce"
+                },
+                "minimal": {
+                    "slug": "minimal",
+                    "theme": "Shopical Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "Minimal",
+                    "name": "Minimal Pro",
+                    "preview": "https://demos.afthemes.com/shopical-pro/minimal/",
+                    "tags": [
+                        "pro",
+                        "ecommerce",
+                        "minimal"
+                    ],
+                    "plugins": "woocommerce"
                 }
             }
         },
@@ -6660,6 +6716,34 @@
                         "free",
                         "ecommerce",
                         "automobile"
+                    ],
+                    "plugins": "woocommerce"
+                },
+                "minimal": {
+                    "slug": "minimal",
+                    "theme": "Shopical",
+                    "main_category": "Business & Professional",
+                    "catgory": "Minimal",
+                    "name": "Minimal",
+                    "preview": "https://demos.afthemes.com/shopical/minimal/",
+                    "tags": [
+                        "free",
+                        "ecommerce",
+                        "minimal"
+                    ],
+                    "plugins": "woocommerce"
+                },
+                "gadgtes": {
+                    "slug": "gadgtes",
+                    "theme": "Shopical",
+                    "main_category": "Business & Professional",
+                    "catgory": "Gadgets",
+                    "name": "Gadgets",
+                    "preview": "https://demos.afthemes.com/shopical/gadgtes/",
+                    "tags": [
+                        "free",
+                        "ecommerce",
+                        "gadgtes"
                     ],
                     "plugins": "woocommerce"
                 }
