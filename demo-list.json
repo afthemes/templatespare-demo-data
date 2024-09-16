@@ -2666,6 +2666,271 @@
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
+                },
+                "ace-news": {
+                    "slug": "ace-news",
+                    "theme": "morenews",
+                    "main_category": "News & Media",
+                    "catgory": "Elementor",
+                    "name": "Ace News",
+                    "preview": "https://demos.afthemes.com/morenews/ace-news/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "auto-blog": {
+                    "slug": "auto-blog",
+                    "theme": "morenews",
+                    "main_category": "Specialty & Niche",
+                    "catgory": "Elementor",
+                    "name": "Auto Blog",
+                    "preview": "https://demos.afthemes.com/morenews/auto-blog/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "live-news": {
+                    "slug": "live-news",
+                    "theme": "morenews",
+                    "main_category": "News & Media",
+                    "catgory": "Elementor",
+                    "name": "Live News",
+                    "preview": "https://demos.afthemes.com/morenews/live-news/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "news-town": {
+                    "slug": "news-town",
+                    "theme": "morenews",
+                    "main_category": "News & Media",
+                    "catgory": "Elementor",
+                    "name": "News Town",
+                    "preview": "https://demos.afthemes.com/morenews/news-town/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "news-up": {
+                    "slug": "news-up",
+                    "theme": "morenews",
+                    "main_category": "News & Media",
+                    "catgory": "Elementor",
+                    "name": "News Up",
+                    "preview": "https://demos.afthemes.com/morenews/news-up/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "nepali-handicrafts": {
+                    "slug": "nepali-handicrafts",
+                    "theme": "morenews",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Nepali",
+                    "name": "Nepali Handicrafts",
+                    "preview": "https://demos.afthemes.com/morenews/nepali-handicrafts/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "nepali"
+                    ]
+                },
+                "arabic-calligraphy": {
+                    "slug": "arabic-calligraphy",
+                    "theme": "morenews",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Arabic",
+                    "name": "Arabic Calligraphy",
+                    "preview": "https://demos.afthemes.com/morenews/arabic-calligraphy/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "arabic"
+                    ]
+                },
+                "chinese-festivals": {
+                    "slug": "chinese-festivals",
+                    "theme": "morenews",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Chinese",
+                    "name": "Chinese Festivals",
+                    "preview": "https://demos.afthemes.com/morenews/chinese-festivals/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "chinese"
+                    ]
+                },
+                "spanish-news": {
+                    "slug": "spanish-news",
+                    "theme": "morenews",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Spanish",
+                    "name": "Spanish News",
+                    "preview": "https://demos.afthemes.com/morenews/spanish-news/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "spanish"
+                    ]
+                },
+                "play-sports": {
+                    "slug": "play-sports",
+                    "theme": "morenews",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "German",
+                    "name": "Play Sports",
+                    "preview": "https://demos.afthemes.com/morenews/play-sports/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "german"
+                    ]
+                },
+                "russian-cuisine": {
+                    "slug": "russian-cuisine",
+                    "theme": "morenews",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Russian",
+                    "name": "Russian Cuisine",
+                    "preview": "https://demos.afthemes.com/morenews/russian-cuisine/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "russian"
+                    ]
+                },
+                "news-japan": {
+                    "slug": "news-japan",
+                    "theme": "morenews",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Japanese",
+                    "name": "News Japan",
+                    "preview": "https://demos.afthemes.com/morenews/news-japan/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "japanese"
+                    ]
+                },
+                "discover-wildlife": {
+                    "slug": "discover-wildlife",
+                    "theme": "morenews",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Hindi",
+                    "name": "Discover Wildlife",
+                    "preview": "https://demos.afthemes.com/morenews/discover-wildlife/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "hindi"
+                    ]
+                },
+                "visit-bangladesh": {
+                    "slug": "visit-bangladesh",
+                    "theme": "morenews",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Bangladesh",
+                    "name": "Visit Bangladesh",
+                    "preview": "https://demos.afthemes.com/morenews/visit-bangladesh/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "bangladesh"
+                    ]
+                },
+                "korean-bbq": {
+                    "slug": "korean-bbq",
+                    "theme": "morenews",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Korean",
+                    "name": "Korean Bbq",
+                    "preview": "https://demos.afthemes.com/morenews/korean-bbq/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "korean"
+                    ]
+                },
+                "france-news": {
+                    "slug": "france-news",
+                    "theme": "morenews",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "French",
+                    "name": "France News",
+                    "preview": "https://demos.afthemes.com/morenews/france-news/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "french"
+                    ]
+                },
+                "music-dance": {
+                    "slug": "music-dance",
+                    "theme": "morenews",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Africa",
+                    "name": "Music Dance",
+                    "preview": "https://demos.afthemes.com/morenews/music-dance/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "africa"
+                    ]
+                },
+                "romanian-festivals": {
+                    "slug": "romanian-festivals",
+                    "theme": "morenews",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Romanian",
+                    "name": "Romanian Festivals",
+                    "preview": "https://demos.afthemes.com/morenews/romanian-festivals/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "romanian"
+                    ]
+                },
+                "innovation-brazil": {
+                    "slug": "innovation-brazil",
+                    "theme": "morenews",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Brazil",
+                    "name": "Innovation Brazil",
+                    "preview": "https://demos.afthemes.com/morenews/innovation-brazil/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "brazil"
+                    ]
+                },
+                "sport-myanmar": {
+                    "slug": "sport-myanmar",
+                    "theme": "morenews",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Myanamar",
+                    "name": "Sport Myanmar",
+                    "preview": "https://demos.afthemes.com/morenews/sport-myanmar/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "myanmar"
+                    ]
                 }
             }
         },
