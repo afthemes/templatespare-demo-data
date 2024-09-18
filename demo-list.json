@@ -2285,6 +2285,76 @@
                         "magazine",
                         "general"
                     ]
+                },
+                "application": {
+                    "slug": "application",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Technology & Innovation",
+                    "catgory": "Gutenberg",
+                    "name": "Application Pro",
+                    "preview": "https://demos.afthemes.com/morenews-pro/application/",
+                    "tags": [
+                        "pro",
+                        "business",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "engineering": {
+                    "slug": "engineering",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "Gutenberg",
+                    "name": "Engineering Pro",
+                    "preview": "https://demos.afthemes.com/morenews-pro/engineering/",
+                    "tags": [
+                        "pro",
+                        "business",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "enterprise": {
+                    "slug": "enterprise",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "Gutenberg",
+                    "name": "Enterprise Pro",
+                    "preview": "https://demos.afthemes.com/morenews-pro/enterprise/",
+                    "tags": [
+                        "pro",
+                        "business",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "flourish-fields": {
+                    "slug": "flourish-fields",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "Gutenberg",
+                    "name": "Flourish Fields Pro",
+                    "preview": "https://demos.afthemes.com/morenews-pro/flourish-fields/",
+                    "tags": [
+                        "pro",
+                        "business",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "vehicle-trade": {
+                    "slug": "vehicle-trade",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Technology & Innovation",
+                    "catgory": "Gutenberg",
+                    "name": "Vehicle Trade Pro",
+                    "preview": "https://demos.afthemes.com/morenews-pro/vehicle-trade/",
+                    "tags": [
+                        "pro",
+                        "business",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
                 }
             }
         },
