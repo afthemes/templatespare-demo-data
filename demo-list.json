@@ -2355,6 +2355,48 @@
                         "gutenberg"
                     ],
                     "plugins": "blockspare"
+                },
+                "oral-hygiene": {
+                    "slug": "oral-hygiene",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "Ecommerce",
+                    "name": "Oral Hygiene",
+                    "preview": "https://demos.afthemes.com/morenews-pro/oral-hygiene/",
+                    "tags": [
+                        "pro",
+                        "business",
+                        "ecommerce"
+                    ],
+                    "plugins": "woocommerce,blockspare"
+                },
+                "bloomery": {
+                    "slug": "bloomery",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "Ecommerce",
+                    "name": "Bloomery",
+                    "preview": "https://demos.afthemes.com/morenews-pro/bloomery/",
+                    "tags": [
+                        "pro",
+                        "business",
+                        "ecommerce"
+                    ],
+                    "plugins": "woocommerce,blockspare"
+                },
+                "delicious-destinations": {
+                    "slug": "delicious-destinations",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "Ecommerce",
+                    "name": "Delicious Destinations",
+                    "preview": "https://demos.afthemes.com/morenews-pro/delicious-destinations/",
+                    "tags": [
+                        "pro",
+                        "business",
+                        "ecommerce"
+                    ],
+                    "plugins": "woocommerce,blockspare"
                 }
             }
         },
@@ -2366,7 +2408,8 @@
             "child": [
                 "general-news",
                 "moremag",
-                "centralnews"
+                "centralnews",
+                "newsmore"
             ],
             "demodata": {
                 "default": {
@@ -3005,6 +3048,26 @@
             }
         },
 
+        "newsmore": {
+            "data": "newsmore",
+            "free": "morenews",
+            "premium": "morenews-pro",
+            "demodata": {
+                "default": {
+                    "slug": "newsmore",
+                    "theme": "MoreNews",
+                    "main_category": "News & Media",
+                    "catgory": "General",
+                    "name": "NewsMore",
+                    "preview": "https://demos.afthemes.com/morenews/newsmore/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "child"
+                    ]
+                }
+            }
+        },
         "centralnews": {
             "data": "centralnews",
             "free": "morenews",
