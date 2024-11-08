@@ -2490,6 +2490,20 @@
                     ],
                     "plugins": "elementor,elespare"
                 },
+                "trending-now": {
+                    "slug": "trending-now",
+                    "theme": "morenews",
+                    "main_category": "Lifestyle & Personal",
+                    "catgory": "Elementor",
+                    "name": "Trending Now",
+                    "preview": "https://demos.afthemes.com/morenews/trending-now/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
                 "arabic-news": {
                     "slug": "arabic-news",
                     "theme": "morenews",
@@ -2552,6 +2566,34 @@
                     "catgory": "Gutenberg",
                     "name": "Moreblock Dark",
                     "preview": "https://demos.afthemes.com/morenews/moreblock-dark/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "child-centered-education": {
+                    "slug": "child-centered-education",
+                    "theme": "morenews",
+                    "main_category": "Education & Non-Profit",
+                    "catgory": "Gutenberg",
+                    "name": "Child Centered Education",
+                    "preview": "https://demos.afthemes.com/morenews/child-centered-education/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "space-aesthetics": {
+                    "slug": "space-aesthetics",
+                    "theme": "morenews",
+                    "main_category": "Design & Creative",
+                    "catgory": "Gutenberg",
+                    "name": "Space Aesthetics",
+                    "preview": "https://demos.afthemes.com/morenews/space-aesthetics/",
                     "tags": [
                         "free",
                         "magazine",
@@ -7131,17 +7173,17 @@
                     ],
                     "plugins": "woocommerce"
                 },
-                "gadgtes": {
-                    "slug": "gadgtes",
+                "gadgets": {
+                    "slug": "gadgets",
                     "theme": "Shopical",
                     "main_category": "Business & Professional",
                     "catgory": "Gadgets",
                     "name": "Gadgets",
-                    "preview": "https://demos.afthemes.com/shopical/gadgtes/",
+                    "preview": "https://demos.afthemes.com/shopical/gadgets/",
                     "tags": [
                         "free",
                         "ecommerce",
-                        "gadgtes"
+                        "gadgets"
                     ],
                     "plugins": "woocommerce"
                 }
