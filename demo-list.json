@@ -2409,7 +2409,8 @@
                 "general-news",
                 "moremag",
                 "centralnews",
-                "newsmore"
+                "newsmore",
+                "globalnews"
             ],
             "demodata": {
                 "default": {
@@ -3090,6 +3091,26 @@
             }
         },
 
+        "globalnews": {
+            "data": "globalnews",
+            "free": "morenews",
+            "premium": "morenews-pro",
+            "demodata": {
+                "default": {
+                    "slug": "globalnews",
+                    "theme": "MoreNews",
+                    "main_category": "News & Media",
+                    "catgory": "General",
+                    "name": "GlobalNews",
+                    "preview": "https://demos.afthemes.com/morenews/globalnews/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "child"
+                    ]
+                }
+            }
+        },
         "newsmore": {
             "data": "newsmore",
             "free": "morenews",
