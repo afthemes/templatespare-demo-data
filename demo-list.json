@@ -3193,6 +3193,22 @@
                         "ecommerce"
                     ],
                     "plugins": "woocommerce, elementor, elespare, essential-addons-for-elementor-lite "
+                },
+                "gadgetsnews": {
+                    "slug": "gadgetsnews",
+                    "theme": "morenews",
+                    "main_category": "Business & Professional",
+                    "catgory": "Ecommerce",
+                    "name": "Gadgets News",
+                    "preview": "https://demos.afthemes.com/morenews/gadgetsnews/",
+                    "tags": [
+                        "free",
+                        "shop",
+                        "gadgets",
+                        "ecommerce",
+                        "child"
+                    ],
+                    "plugins": "woocommerce, popup-maker"
                 }
             }
         },
@@ -3254,22 +3270,6 @@
                         "magazine",
                         "child"
                     ]
-                },
-                "gadgetsnews": {
-                    "slug": "gadgetsnews",
-                    "theme": "morenews",
-                    "main_category": "Business & Professional",
-                    "catgory": "Ecommerce",
-                    "name": "Gadgets News",
-                    "preview": "https://demos.afthemes.com/morenews/gadgetsnews/",
-                    "tags": [
-                        "free",
-                        "shop",
-                        "gadgets",
-                        "ecommerce",
-                        "child"
-                    ],
-                    "plugins": "woocommerce, popup-maker"
                 }
             }
         },

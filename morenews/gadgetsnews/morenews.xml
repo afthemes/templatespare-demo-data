@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.7.1" created="2024-12-20 10:59" -->
+	<!-- generator="WordPress/6.7.1" created="2024-12-20 12:18" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>GadgetsNews</title>
 	<link>https://demos.afthemes.com/morenews/gadgetsnews</link>
 	<description></description>
-	<pubDate>Fri, 20 Dec 2024 10:59:16 +0000</pubDate>
+	<pubDate>Fri, 20 Dec 2024 12:18:40 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.afthemes.com/morenews/</wp:base_site_url>
@@ -885,7 +885,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[newsmore]]></wp:meta_value>
+		<wp:meta_value><![CDATA[morenews]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_morenews]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1734696949]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1836,7 +1840,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[newsmore]]></wp:meta_value>
+		<wp:meta_value><![CDATA[morenews]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_morenews]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1734696860]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3141,7 +3149,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[popup_open_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[25]]></wp:meta_value>
+		<wp:meta_value><![CDATA[28]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[popup_conversion_count]]></wp:meta_key>
@@ -3165,11 +3173,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[popup_open_count_total]]></wp:meta_key>
-		<wp:meta_value><![CDATA[25]]></wp:meta_value>
+		<wp:meta_value><![CDATA[28]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[popup_last_opened]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1734685603]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1734696587]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
