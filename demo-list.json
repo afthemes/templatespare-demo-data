@@ -3205,8 +3205,7 @@
                         "free",
                         "shop",
                         "gadgets",
-                        "ecommerce",
-                        "child"
+                        "ecommerce"
                     ],
                     "plugins": "woocommerce,popup-maker"
                 }
