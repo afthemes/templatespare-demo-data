@@ -3109,6 +3109,111 @@
                         "magazine",
                         "child"
                     ]
+                },
+                "blooming-bounty": {
+                    "slug": "blooming-bounty",
+                    "theme": "morenews",
+                    "main_category": "Business & Professional",
+                    "catgory": "Ecommerce",
+                    "name": "Blooming Bounty",
+                    "preview": "https://demos.afthemes.com/morenews/blooming-bounty/",
+                    "tags": [
+                        "free",
+                        "shop",
+                        "plant",
+                        "ecommerce"
+                    ],
+                    "plugins": "woocommerce,blockspare"
+                },
+                "food-hub": {
+                    "slug": "food-hub",
+                    "theme": "morenews",
+                    "main_category": "Business & Professional",
+                    "catgory": "Ecommerce",
+                    "name": "Food Hub",
+                    "preview": "https://demos.afthemes.com/morenews/food-hub/",
+                    "tags": [
+                        "free",
+                        "shop",
+                        "food",
+                        "ecommerce"
+                    ],
+                    "plugins": "woocommerce,blockspare"
+                },
+                "gravity-fitness": {
+                    "slug": "gravity-fitness",
+                    "theme": "morenews",
+                    "main_category": "Business & Professional",
+                    "catgory": "Ecommerce",
+                    "name": "Gravity Fitness",
+                    "preview": "https://demos.afthemes.com/morenews/gravity-fitness/",
+                    "tags": [
+                        "free",
+                        "shop",
+                        "fitness",
+                        "ecommerce"
+                    ],
+                    "plugins": "woocommerce,blockspare"
+                },
+                "fashion-store": {
+                    "slug": "fashion-store",
+                    "theme": "morenews",
+                    "main_category": "Business & Professional",
+                    "catgory": "Ecommerce",
+                    "name": "Fashion Store",
+                    "preview": "https://demos.afthemes.com/morenews/fashion-store/",
+                    "tags": [
+                        "free",
+                        "shop",
+                        "fashion",
+                        "ecommerce"
+                    ],
+                    "plugins": "woocommerce,blockspare"
+                },
+                "mobile-hub": {
+                    "slug": "mobile-hub",
+                    "theme": "morenews",
+                    "main_category": "Business & Professional",
+                    "catgory": "Ecommerce",
+                    "name": "Mobile Hub",
+                    "preview": "https://demos.afthemes.com/morenews/mobile-hub/",
+                    "tags": [
+                        "free",
+                        "shop",
+                        "gadgets",
+                        "ecommerce"
+                    ],
+                    "plugins": "woocommerce, woo-variation-swatches, yith-woocommerce-product-bundles,elementor, elespare,essential-addons-for-elementor-lite "
+                },
+                "beauty-product": {
+                    "slug": "beauty-product",
+                    "theme": "morenews",
+                    "main_category": "Business & Professional",
+                    "catgory": "Ecommerce",
+                    "name": "Beauty Product",
+                    "preview": "https://demos.afthemes.com/morenews/beauty-product/",
+                    "tags": [
+                        "free",
+                        "shop",
+                        "beauty",
+                        "ecommerce"
+                    ],
+                    "plugins": "woocommerce, elementor, elespare, essential-addons-for-elementor-lite "
+                },
+                "book-store": {
+                    "slug": "book-store",
+                    "theme": "morenews",
+                    "main_category": "Business & Professional",
+                    "catgory": "Ecommerce",
+                    "name": "Book Store",
+                    "preview": "https://demos.afthemes.com/morenews/book-store/",
+                    "tags": [
+                        "free",
+                        "shop",
+                        "education",
+                        "ecommerce"
+                    ],
+                    "plugins": "woocommerce, elementor, elespare, essential-addons-for-elementor-lite "
                 }
             }
         },
@@ -3149,6 +3254,22 @@
                         "magazine",
                         "child"
                     ]
+                },
+                "gadgetsnews": {
+                    "slug": "gadgetsnews",
+                    "theme": "morenews",
+                    "main_category": "Business & Professional",
+                    "catgory": "Ecommerce",
+                    "name": "Gadgets News",
+                    "preview": "https://demos.afthemes.com/morenews/gadgetsnews/",
+                    "tags": [
+                        "free",
+                        "shop",
+                        "gadgets",
+                        "ecommerce",
+                        "child"
+                    ],
+                    "plugins": "woocommerce, popup-maker"
                 }
             }
         },
