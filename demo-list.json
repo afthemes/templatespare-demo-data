@@ -2411,7 +2411,8 @@
                 "centralnews",
                 "newsmore",
                 "globalnews",
-                "newsical"
+                "newsical",
+                "blacknews"
             ],
             "demodata": {
                 "default": {
@@ -3106,7 +3107,7 @@
                 },
                 "food-hub": {
                     "slug": "food-hub",
-                    "theme": "MoreNews",
+                    "theme": "morenews",
                     "main_category": "Business & Professional",
                     "catgory": "Ecommerce",
                     "name": "Food Hub",
@@ -3121,7 +3122,7 @@
                 },
                 "gravity-fitness": {
                     "slug": "gravity-fitness",
-                    "theme": "MoreNews",
+                    "theme": "morenews",
                     "main_category": "Business & Professional",
                     "catgory": "Ecommerce",
                     "name": "Gravity Fitness",
@@ -3136,7 +3137,7 @@
                 },
                 "fashion-store": {
                     "slug": "fashion-store",
-                    "theme": "MoreNews",
+                    "theme": "morenews",
                     "main_category": "Business & Professional",
                     "catgory": "Ecommerce",
                     "name": "Fashion Store",
@@ -3151,7 +3152,7 @@
                 },
                 "mobile-hub": {
                     "slug": "mobile-hub",
-                    "theme": "MoreNews",
+                    "theme": "morenews",
                     "main_category": "Business & Professional",
                     "catgory": "Ecommerce",
                     "name": "Mobile Hub",
@@ -3162,7 +3163,7 @@
                         "gadgets",
                         "ecommerce"
                     ],
-                    "plugins": "woocommerce,woo-variation-swatches,yith-woocommerce-product-bundles,elementor,elespare,essential-addons-for-elementor-lite"
+                    "plugins": "woocommerce, woo-variation-swatches, yith-woocommerce-product-bundles,elementor, elespare,essential-addons-for-elementor-lite "
                 },
                 "beauty-product": {
                     "slug": "beauty-product",
@@ -3177,7 +3178,7 @@
                         "beauty",
                         "ecommerce"
                     ],
-                    "plugins": "woocommerce, elementor, elespare,essential-addons-for-elementor-lite"
+                    "plugins": "woocommerce, elementor, elespare, essential-addons-for-elementor-lite "
                 },
                 "book-store": {
                     "slug": "book-store",
@@ -3192,7 +3193,7 @@
                         "education",
                         "ecommerce"
                     ],
-                    "plugins": "woocommerce,elementor,elespare,essential-addons-for-elementor-lite"
+                    "plugins": "woocommerce, elementor, elespare, essential-addons-for-elementor-lite "
                 },
                 "gadgetsnews": {
                     "slug": "gadgetsnews",
@@ -3205,13 +3206,34 @@
                         "free",
                         "shop",
                         "gadgets",
-                        "ecommerce"
+                        "ecommerce",
+                        "child"
                     ],
-                    "plugins": "woocommerce,popup-maker"
+                    "plugins": "woocommerce, popup-maker"
                 }
             }
         },
 
+        "blacknews": {
+            "data": "blacknews",
+            "free": "morenews",
+            "premium": "morenews-pro",
+            "demodata": {
+                "default": {
+                    "slug": "blacknews",
+                    "theme": "MoreNews",
+                    "main_category": "News & Media",
+                    "catgory": "General",
+                    "name": "BlackNews",
+                    "preview": "https://demos.afthemes.com/morenews/blacknews/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "child"
+                    ]
+                }
+            }
+        },
         "newsical": {
             "data": "newsical",
             "free": "morenews",
