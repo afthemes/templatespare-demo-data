@@ -2412,7 +2412,8 @@
                 "newsmore",
                 "globalnews",
                 "newsical",
-                "blacknews"
+                "blacknews",
+                "newsplace"
             ],
             "demodata": {
                 "default": {
@@ -3206,10 +3207,30 @@
                         "free",
                         "shop",
                         "gadgets",
-                        "ecommerce",
-                        "child"
+                        "ecommerce"
                     ],
                     "plugins": "woocommerce, popup-maker"
+                }
+            }
+        },
+
+        "newsplace": {
+            "data": "newsplace",
+            "free": "morenews",
+            "premium": "morenews-pro",
+            "demodata": {
+                "default": {
+                    "slug": "newsplace",
+                    "theme": "MoreNews",
+                    "main_category": "News & Media",
+                    "catgory": "General",
+                    "name": "NewsPlace",
+                    "preview": "https://demos.afthemes.com/morenews/newsplace/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "child"
+                    ]
                 }
             }
         },
