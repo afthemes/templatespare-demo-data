@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.4.2" created="2024-01-03 06:37" -->
+	<!-- generator="WordPress/6.7.1" created="2025-02-03 10:46" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Новости моды</title>
 	<link>https://demos.afthemes.com/covernews-pro/russian</link>
 	<description></description>
-	<pubDate>Wed, 03 Jan 2024 06:37:53 +0000</pubDate>
+	<pubDate>Mon, 03 Feb 2025 10:46:00 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.afthemes.com/covernews-pro/</wp:base_site_url>
@@ -38,71 +38,10 @@
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wpafthemes@gmail.com]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AF themes]]></wp:author_display_name><wp:author_first_name><![CDATA[AF]]></wp:author_first_name><wp:author_last_name><![CDATA[themes]]></wp:author_last_name></wp:author>
 
 		<wp:category>
-		<wp:term_id>2</wp:term_id>
-		<wp:category_nicename><![CDATA[artist]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[]]></wp:category_parent>
-		<wp:cat_name><![CDATA[Artist]]></wp:cat_name>
-	</wp:category>
-		<wp:category>
-		<wp:term_id>3</wp:term_id>
-		<wp:category_nicename><![CDATA[beauty]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[]]></wp:category_parent>
-		<wp:cat_name><![CDATA[Beauty]]></wp:cat_name>
-<wp:category_description><![CDATA[Iaculis occaecat eos est ea eveniet. Consectetur animi phasellus atque aliquam. Curabitur quis quaerat assumenda. Sapiente sit, cursus nibh facilisis provident! Ornare aliquip, cursus quia sodales exercitationem beatae malesuada fuga eu recusandae est ullamco parturient nobis tellus aliquid nemo?]]></wp:category_description>
-	</wp:category>
-		<wp:category>
-		<wp:term_id>4</wp:term_id>
-		<wp:category_nicename><![CDATA[life-style]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[]]></wp:category_parent>
-		<wp:cat_name><![CDATA[Life style]]></wp:cat_name>
-	</wp:category>
-		<wp:category>
-		<wp:term_id>5</wp:term_id>
-		<wp:category_nicename><![CDATA[model]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[]]></wp:category_parent>
-		<wp:cat_name><![CDATA[Model]]></wp:cat_name>
-	</wp:category>
-		<wp:category>
-		<wp:term_id>6</wp:term_id>
-		<wp:category_nicename><![CDATA[music]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[]]></wp:category_parent>
-		<wp:cat_name><![CDATA[Music]]></wp:cat_name>
-	</wp:category>
-		<wp:category>
-		<wp:term_id>7</wp:term_id>
-		<wp:category_nicename><![CDATA[photography]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[]]></wp:category_parent>
-		<wp:cat_name><![CDATA[Photography]]></wp:cat_name>
-	</wp:category>
-		<wp:category>
-		<wp:term_id>8</wp:term_id>
-		<wp:category_nicename><![CDATA[ramp]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[]]></wp:category_parent>
-		<wp:cat_name><![CDATA[Ramp]]></wp:cat_name>
-	</wp:category>
-		<wp:category>
-		<wp:term_id>9</wp:term_id>
-		<wp:category_nicename><![CDATA[tips-tricks]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[]]></wp:category_parent>
-		<wp:cat_name><![CDATA[Tips &amp; Tricks]]></wp:cat_name>
-	</wp:category>
-		<wp:category>
-		<wp:term_id>10</wp:term_id>
-		<wp:category_nicename><![CDATA[trends]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[]]></wp:category_parent>
-		<wp:cat_name><![CDATA[Trends]]></wp:cat_name>
-	</wp:category>
-		<wp:category>
 		<wp:term_id>1</wp:term_id>
 		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
-	</wp:category>
-		<wp:category>
-		<wp:term_id>11</wp:term_id>
-		<wp:category_nicename><![CDATA[%d0%ba%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[]]></wp:category_parent>
-		<wp:cat_name><![CDATA[красота]]></wp:cat_name>
 	</wp:category>
 		<wp:category>
 		<wp:term_id>12</wp:term_id>
@@ -204,26 +143,11 @@
 		<wp:tag_name><![CDATA[Trends]]></wp:tag_name>
 	</wp:tag>
 			<wp:term>
-		<wp:term_id>2</wp:term_id>
-		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[artist]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Artist]]></wp:term_name>
-	</wp:term>
-		<wp:term>
 		<wp:term_id>21</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[artist]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Artist]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>3</wp:term_id>
-		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[beauty]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Beauty]]></wp:term_name>
-		<wp:term_description><![CDATA[Iaculis occaecat eos est ea eveniet. Consectetur animi phasellus atque aliquam. Curabitur quis quaerat assumenda. Sapiente sit, cursus nibh facilisis provident! Ornare aliquip, cursus quia sodales exercitationem beatae malesuada fuga eu recusandae est ullamco parturient nobis tellus aliquid nemo?]]></wp:term_description>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>22</wp:term_id>
@@ -247,6 +171,13 @@
 		<wp:term_name><![CDATA[Collection]]></wp:term_name>
 	</wp:term>
 		<wp:term>
+		<wp:term_id>36</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[covernews-pro]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[covernews-pro]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>31</wp:term_id>
 		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[footer-menu-items]]></wp:term_slug>
@@ -268,13 +199,6 @@
 		<wp:term_name><![CDATA[Iskra Lawrence]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>4</wp:term_id>
-		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[life-style]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Life style]]></wp:term_name>
-	</wp:term>
-		<wp:term>
 		<wp:term_id>25</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[life-style]]></wp:term_slug>
@@ -289,25 +213,11 @@
 		<wp:term_name><![CDATA[Main Menu]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>5</wp:term_id>
-		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[model]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Model]]></wp:term_name>
-	</wp:term>
-		<wp:term>
 		<wp:term_id>26</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[model]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Model]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>6</wp:term_id>
-		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[music]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Music]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>27</wp:term_id>
@@ -317,20 +227,6 @@
 		<wp:term_name><![CDATA[Music]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>7</wp:term_id>
-		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[photography]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Photography]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>8</wp:term_id>
-		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[ramp]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Ramp]]></wp:term_name>
-	</wp:term>
-		<wp:term>
 		<wp:term_id>34</wp:term_id>
 		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug>
@@ -338,25 +234,11 @@
 		<wp:term_name><![CDATA[Social menu items]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>9</wp:term_id>
-		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[tips-tricks]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Tips &amp; Tricks]]></wp:term_name>
-	</wp:term>
-		<wp:term>
 		<wp:term_id>28</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[tips-tricks]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Tips &amp; Tricks]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>10</wp:term_id>
-		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[trends]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Trends]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>29</wp:term_id>
@@ -378,13 +260,6 @@
 		<wp:term_slug><![CDATA[post-format-video]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Video]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>11</wp:term_id>
-		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[%d0%ba%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[красота]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>12</wp:term_id>
@@ -456,11 +331,11 @@
 	<wp:term><wp:term_id>34</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Social menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 
 		<item>
 		<title><![CDATA[StockSnap_MMG80ENFN7]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/russian/2018/03/12/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/stocksnap_mmg80enfn7/</link>
+		<link>https://demos.afthemes.com/covernews-pro/russian/2024/05/14/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/stocksnap_mmg80enfn7/</link>
 		<pubDate>Sat, 27 Apr 2019 04:12:52 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/newsphere/fashion/wp-content/uploads/sites/2/2018/03/StockSnap_MMG80ENFN7.jpg</guid>
@@ -505,7 +380,7 @@
 							</item>
 					<item>
 		<title><![CDATA[StockSnap_RFUZFO3FGB]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/russian/2018/03/12/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/stocksnap_rfuzfo3fgb/</link>
+		<link>https://demos.afthemes.com/covernews-pro/russian/2024/05/14/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/stocksnap_rfuzfo3fgb/</link>
 		<pubDate>Sat, 27 Apr 2019 04:12:58 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/newsphere/fashion/wp-content/uploads/sites/2/2018/03/StockSnap_RFUZFO3FGB.jpg</guid>
@@ -599,7 +474,7 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-ольга-вельская-1914858]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/russian/2018/03/12/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/pexels-%d0%be%d0%bb%d1%8c%d0%b3%d0%b0-%d0%b2%d0%b5%d0%bb%d1%8c%d1%81%d0%ba%d0%b0%d1%8f-1914858/</link>
+		<link>https://demos.afthemes.com/covernews-pro/russian/2024/05/14/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/pexels-%d0%be%d0%bb%d1%8c%d0%b3%d0%b0-%d0%b2%d0%b5%d0%bb%d1%8c%d1%81%d0%ba%d0%b0%d1%8f-1914858/</link>
 		<pubDate>Thu, 03 Aug 2023 08:53:49 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/reviewnews-pro/fashion/wp-content/uploads/sites/8/2018/03/pexels-ольга-вельская-1914858.jpg</guid>
@@ -632,7 +507,7 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-rajesh-kumar-verma-7816838]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/russian/2018/03/12/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/pexels-rajesh-kumar-verma-7816838/</link>
+		<link>https://demos.afthemes.com/covernews-pro/russian/2024/05/14/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/pexels-rajesh-kumar-verma-7816838/</link>
 		<pubDate>Thu, 03 Aug 2023 08:54:16 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/reviewnews-pro/fashion/wp-content/uploads/sites/8/2018/03/pexels-rajesh-kumar-verma-7816838.jpg</guid>
@@ -665,7 +540,7 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-sachith-ravishka-kodikara-7304474]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/russian/2018/03/12/dont-call-demi-lovato-a-bad-girl-shes-just-speaking-out/pexels-sachith-ravishka-kodikara-7304474/</link>
+		<link>https://demos.afthemes.com/covernews-pro/russian/2024/05/14/dont-call-demi-lovato-a-bad-girl-shes-just-speaking-out/pexels-sachith-ravishka-kodikara-7304474/</link>
 		<pubDate>Thu, 03 Aug 2023 08:55:30 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/reviewnews-pro/fashion/wp-content/uploads/sites/8/2018/03/pexels-sachith-ravishka-kodikara-7304474.jpg</guid>
@@ -698,7 +573,7 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-gustavo-fring-6050442]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/russian/2018/03/12/perms-are-coming-back-but-theyre-getting-a-modern-makeover/pexels-gustavo-fring-6050442/</link>
+		<link>https://demos.afthemes.com/covernews-pro/russian/2024/05/14/perms-are-coming-back-but-theyre-getting-a-modern-makeover/pexels-gustavo-fring-6050442/</link>
 		<pubDate>Thu, 03 Aug 2023 08:56:02 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/reviewnews-pro/fashion/wp-content/uploads/sites/8/2018/03/pexels-gustavo-fring-6050442.jpg</guid>
@@ -731,7 +606,7 @@
 							</item>
 					<item>
 		<title><![CDATA[cleo-vermij-wSct4rrBPWc-unsplash]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/russian/2018/03/12/gisele-bundchen-cant-stop-wearing-these-retro-jeans-to-the-airport/cleo-vermij-wsct4rrbpwc-unsplash/</link>
+		<link>https://demos.afthemes.com/covernews-pro/russian/2024/05/14/gisele-bundchen-cant-stop-wearing-these-retro-jeans-to-the-airport/cleo-vermij-wsct4rrbpwc-unsplash/</link>
 		<pubDate>Thu, 03 Aug 2023 08:56:35 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/reviewnews-pro/fashion/wp-content/uploads/sites/8/2018/03/cleo-vermij-wSct4rrBPWc-unsplash.jpg</guid>
@@ -764,7 +639,7 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-rachel-claire-5863630]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/russian/2018/03/12/the-beauty-products-chrissy-teigen-cant-travel-without/pexels-rachel-claire-5863630/</link>
+		<link>https://demos.afthemes.com/covernews-pro/russian/2024/05/14/the-beauty-products-chrissy-teigen-cant-travel-without/pexels-rachel-claire-5863630/</link>
 		<pubDate>Thu, 03 Aug 2023 08:57:10 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/reviewnews-pro/fashion/wp-content/uploads/sites/8/2018/03/pexels-rachel-claire-5863630.jpg</guid>
@@ -797,7 +672,7 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-pixabay-413850]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/russian/2018/03/12/if-you-have-5-zendaya-found-the-spring-collection-your-wardrobe-needs/pexels-pixabay-413850/</link>
+		<link>https://demos.afthemes.com/covernews-pro/russian/2024/05/14/if-you-have-5-zendaya-found-the-spring-collection-your-wardrobe-needs/pexels-pixabay-413850/</link>
 		<pubDate>Thu, 03 Aug 2023 08:58:23 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/reviewnews-pro/fashion/wp-content/uploads/sites/8/2018/03/pexels-pixabay-413850.jpg</guid>
@@ -830,7 +705,7 @@
 							</item>
 					<item>
 		<title><![CDATA[john-cameron-iEpq0F1KEeU-unsplash]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/russian/2018/03/12/how-to-create-adjustment-layers-based-on-color-in-capture-one-9/john-cameron-iepq0f1keeu-unsplash/</link>
+		<link>https://demos.afthemes.com/covernews-pro/russian/2024/05/14/how-to-create-adjustment-layers-based-on-color-in-capture-one-9/john-cameron-iepq0f1keeu-unsplash/</link>
 		<pubDate>Thu, 03 Aug 2023 08:58:54 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/reviewnews-pro/fashion/wp-content/uploads/sites/8/2018/03/john-cameron-iEpq0F1KEeU-unsplash.jpg</guid>
@@ -863,7 +738,7 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-godisable-jacob-914662]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/russian/2018/03/06/meet-jo-jo-body-positive-model-and-cousin-of-gigi-and-bella/pexels-godisable-jacob-914662/</link>
+		<link>https://demos.afthemes.com/covernews-pro/russian/2024/05/14/meet-jo-jo-body-positive-model-and-cousin-of-gigi-and-bella/pexels-godisable-jacob-914662/</link>
 		<pubDate>Thu, 03 Aug 2023 09:00:14 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/reviewnews-pro/fashion/wp-content/uploads/sites/8/2018/03/pexels-godisable-jacob-914662.jpg</guid>
@@ -896,7 +771,7 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-pixabay-433338]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/russian/2018/03/06/valentino-goes-deliberately-feminine-for-fall-2018/pexels-pixabay-433338/</link>
+		<link>https://demos.afthemes.com/covernews-pro/russian/2024/05/14/valentino-goes-deliberately-feminine-for-fall-2018/pexels-pixabay-433338/</link>
 		<pubDate>Thu, 03 Aug 2023 09:00:49 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/reviewnews-pro/fashion/wp-content/uploads/sites/8/2018/03/pexels-pixabay-433338.jpg</guid>
@@ -1073,7 +948,7 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-pixabay-458694]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/russian/2018/03/12/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/pexels-pixabay-458694/</link>
+		<link>https://demos.afthemes.com/covernews-pro/russian/2024/05/14/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/pexels-pixabay-458694/</link>
 		<pubDate>Fri, 15 Dec 2023 06:23:38 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/covernews-pro/russian/wp-content/uploads/sites/27/2018/03/pexels-pixabay-458694.jpg</guid>
@@ -1106,7 +981,7 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-ali-pazani-9216742]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/russian/2018/03/12/perms-are-coming-back-but-theyre-getting-a-modern-makeover/pexels-ali-pazani-9216742/</link>
+		<link>https://demos.afthemes.com/covernews-pro/russian/2024/05/14/perms-are-coming-back-but-theyre-getting-a-modern-makeover/pexels-ali-pazani-9216742/</link>
 		<pubDate>Fri, 15 Dec 2023 06:24:43 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/covernews-pro/russian/wp-content/uploads/sites/27/2018/03/pexels-ali-pazani-9216742.jpg</guid>
@@ -1648,47 +1523,6 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/russian/2023/11/28/1041/</link>
-		<pubDate>Tue, 28 Nov 2023 08:52:02 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demos.afthemes.com/reviewnews-pro/fashion/?p=1041</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1041</wp:post_id>
-		<wp:post_date><![CDATA[2023-11-28 08:52:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-11-28 08:52:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-11-28 08:52:02]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-11-28 08:52:02]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[1041]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[11]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
 		<link>https://demos.afthemes.com/covernews-pro/russian/2023/11/28/1042/</link>
 		<pubDate>Tue, 28 Nov 2023 08:52:02 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -2061,6 +1895,51 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[cropped-pexels-ali-pazani-9216742-1.jpg]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/russian/cropped-pexels-ali-pazani-9216742-jpg/</link>
+		<pubDate>Wed, 24 Jan 2024 10:18:49 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/covernews-pro/russian/wp-content/uploads/sites/27/2018/03/cropped-pexels-ali-pazani-9216742.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1084</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-24 10:18:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-24 10:18:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-01-24 10:18:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-01-24 10:18:49]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cropped-pexels-ali-pazani-9216742-jpg]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews-pro/russian/wp-content/uploads/sites/27/2018/03/cropped-pexels-ali-pazani-9216742-1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/03/cropped-pexels-ali-pazani-9216742-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:7:{s:5:"width";i:1900;s:6:"height";i:600;s:4:"file";s:47:"2018/03/cropped-pexels-ali-pazani-9216742-1.jpg";s:8:"filesize";i:137152;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:46:"cropped-pexels-ali-pazani-9216742-1-300x95.jpg";s:5:"width";i:300;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9818;}s:5:"large";a:5:{s:4:"file";s:48:"cropped-pexels-ali-pazani-9216742-1-1024x323.jpg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:54470;}s:9:"thumbnail";a:5:{s:4:"file";s:47:"cropped-pexels-ali-pazani-9216742-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6631;}s:12:"medium_large";a:5:{s:4:"file";s:47:"cropped-pexels-ali-pazani-9216742-1-768x243.jpg";s:5:"width";i:768;s:6:"height";i:243;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:36585;}s:9:"1536x1536";a:5:{s:4:"file";s:48:"cropped-pexels-ali-pazani-9216742-1-1536x485.jpg";s:5:"width";i:1536;s:6:"height";i:485;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:95831;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:48:"cropped-pexels-ali-pazani-9216742-1-1115x600.jpg";s:5:"width";i:1115;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:86891;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:47:"cropped-pexels-ali-pazani-9216742-1-800x500.jpg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55074;}s:18:"covernews-featured";a:5:{s:4:"file";s:48:"cropped-pexels-ali-pazani-9216742-1-1024x323.jpg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:54470;}s:16:"covernews-medium";a:5:{s:4:"file";s:47:"cropped-pexels-ali-pazani-9216742-1-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:32227;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:47:"cropped-pexels-ali-pazani-9216742-1-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20904;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:17:"attachment_parent";i:1070;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_covernews-pro]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1706091541]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[covernews-pro]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Navigation]]></title>
 		<link>https://demos.afthemes.com/covernews-pro/russian/2023/12/15/navigation/</link>
 		<pubDate>Fri, 15 Dec 2023 05:48:14 +0000</pubDate>
@@ -2086,40 +1965,97 @@
 														</item>
 					<item>
 		<title><![CDATA[Осенью 2023 Valentino становится нарочито женственным]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/russian/2018/03/06/valentino-goes-deliberately-feminine-for-fall-2018/</link>
+		<link>https://demos.afthemes.com/covernews-pro/russian/2024/05/14/valentino-goes-deliberately-feminine-for-fall-2018/</link>
 		<pubDate>Tue, 06 Mar 2018 09:51:48 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=46</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Лорем ипсум долор сит амет, цу аццоммодаре нецесситатибус иус, ин про вирис чоро саепе. Утамур дицерет еффициенди еос ан. Цум те еуисмод еррорибус цонсецтетуер, мел ад еиус еррем патриояуе, ин цум пондерум адолесценс. Ат антиопам постулант диссентиунт хас. Цу еос петентиум делицатиссими, еу дицунт персиус ест.Вим ат мелиус пертинациа, ест вертерем волуптатум реферрентур ид. Еум латине аццусам ат, ин иус утамур елигенди нецесситатибус, еос сенсибус партиендо адолесценс ин. Ин вивендо торяуатос неглегентур яуи, анциллае цотидиеяуе еу вим, видит молестиае диссентиунт ех ест. Видит дисцере елеифенд усу еу, ех агам персецути десеруиссе вис, сонет менандри цу цум.</p>
+<p>В динамичном мире WordPress мы являемся маяком инноваций и совершенства. Наши популярные продукты, такие как <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>, <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, а также мощные плагины, такие как <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a> , <a href="https://elespare.com/">Elespare</a>, служат строительными блоками вашего цифрового путешествия.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Ессент салутанди перицулис меи ан, нам инермис маиорум индоцтум ан. Омнесяуе детерруиссет меи ид, еу вим моллис сингулис. Еи волумус оцурререт пертинациа сед, цибо адиписцинг еос ех, еа продессет либерависсе еос. Яуо аетерно диспутатиони не, яуод иллум усу не. Еа афферт волуптуа про, перципит пондерум пертинах вис цу. Про магна ерудити те. Но веро граеци про.</p>
+<p>Мы увлечены качественным кодом и элегантным дизайном, поэтому создание вашего веб-сайта представляет собой легкое сочетание изысканности и простоты. Благодаря непоколебимой поддержке нашей преданной команды вы никогда не останетесь одиноки.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><br><a href="Templatespare: создайте веб-сайт своей мечты с помощью простых стартовых сайтов!"></a><a href="https://templatespare.com/">Templatespare</a>: создайте веб-сайт своей мечты с помощью простых стартовых сайтов!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote {"align":"center"} -->
+<blockquote class="wp-block-quote has-text-align-center"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Прекрасная коллекция готовых к импорту стартовых сайтов одним щелчком мыши. Получите современные и креативные веб-сайты за считанные минуты!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Газета, журнал, блог и электронная коммерция готовы</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><strong><strong><strong><strong>Забудьте о том, чтобы начинать с нуля</strong></strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Откройте для себя мир творчества с более чем 365 готовыми к использованию шаблонами веб-сайтов! От шикарных блогов до динамичных новостных платформ, интересных журналов и веб-сайтов профессиональных агентств — найдите свое идеальное онлайн-пространство!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size"><strong><strong><strong><strong>Импорт в один клик: никаких проблем с кодированием! Три простых шага</strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Отправьтесь в путешествие по своему веб-сайту с простотой и стилем. Следуйте этим 3 простым шагам, чтобы легко создать свой онлайн-шедевр.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Узнайте больше</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Выберите сайт<br></strong>Исследуйте богатый выбор из более чем 350 готовых веб-сайтов. Одним щелчком мыши импортируйте сайт, который соответствует вашему видению.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Настройте и персонализируйте<br></strong>Раскройте свой творческий потенциал! Настройте выбранный вами сайт с полной свободой дизайна. Настройте каждый элемент, чтобы создать и персонализировать свой веб-сайт именно так, как вы его себе представляете.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Публикуйте и живите!</strong><br>Когда редактирование и настройка завершены, пришло время выпустить в свет! Всего за несколько минут ваш сайт будет готов поделиться с миром.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Присоединяйтесь к семье <a href="https://afthemes.com/">AF Themes</a>, где совершенство сочетается с легкостью. Исследуйте безграничные возможности и отправляйтесь в путешествие по Интернету вместе с нами уже сегодня!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Ад нулла граеце луцилиус меи. Пер дицант цоммуне сентентиае еу. Ассум еяуидем еам те, поссим еффициантур цомплецтитур ут вим. Ет либер бонорум усу, еу агам еррор дуо. Нам малорум бонорум фацилиси еу, ат дуо модо пауло еррем. Ет солум цоррумпит дуо.</p>
+<p>Вместе мы формируем будущее Интернета.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Не сед еверти апеириан, малис либрис доценди цу вим. Хис яуем денияуе рецусабо но, усу нисл миним утрояуе ин, вих еи примис елеифенд ехплицари. Сумо цонсул вел ут, яуандо оратио ехерци цум ин, яуо хабео лаореет адмодум ут. Вис ад алии еним аудиам. Цу меа фацете цетерос симилияуе, про но алиа афферт, при ет утрояуе постулант либерависсе. Ан промпта епицури делецтус сит, еам ат вениам молестие луцилиус, еирмод садипсцинг цонцлусионемяуе еи вел.Ут еам омиттам цонституам, дисцере пертинах ид при. Ин афферт убияуе яуи, те хис видерер салутанди сусципиантур. Дицта граеце абхорреант хис те. Иудицо сингулис глориатур еи хас, ут нам путант ехплицари.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Ад дуо тота аппетере пхилосопхиа, яуи нибх делецтус трацтатос ад, елигенди адверсариум яуо ан. Вис еу солет долорес елаборарет, дицат иисяуе про ех, мовет нолуиссе вис ет. Еум не дицит доцтус аппеллантур, еу хас харум фабулас. Не дуо виртуте форенсибус, еним атяуи ад хас, ад яуис еним ест.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Ехерци адмодум еи вис. Еи аеяуе утинам вим, цоммодо цорпора сит не. Вих ин лаборе анимал малуиссет. Цум симилияуе интеллегам цонтентионес не, еум те фалли омиттантур диссентиунт. Пер меис ехпетенда ид. Ид видит продессет меа. Ат вих сапиентем цомпрехенсамУллум алтера аппетере дуо те, малуиссет цонсеяуат яуи еи. Веро ерат долорум вих ех. Еу алтерум номинати репудиаре при, еи сеа хинц елитр. Усу еррор толлит еи, пер яуот ерант цонсецтетуер цу.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Лорем ипсум долор сит амет, цу аццоммодаре нецесситатибус иус, ин про вирис чоро саепе. Утамур дицерет еффициенди еос ан. Цум те еуисмод еррорибус цонсецтетуер, мел ад еиус еррем патриояуе, ин цум пондерум адолесценс]]></excerpt:encoded>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Создайте свой веб-сайт за считанные минуты с помощью импорта в один клик — никаких проблем с кодированием!]]></excerpt:encoded>
 		<wp:post_id>46</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-06 09:51:48]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-14 05:43:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-06 09:51:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-03-06 09:51:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-03-06 09:51:48]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:43:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:43:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[valentino-goes-deliberately-feminine-for-fall-2018]]></wp:post_name>
@@ -2157,7 +2093,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[259]]></wp:meta_value>
+		<wp:meta_value><![CDATA[319]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -2187,43 +2123,120 @@
 		<wp:meta_key><![CDATA[wpma_author]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-03-06]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1715777039]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1716476157]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Познакомьтесь с Джо Джо, бодипозитивной моделью и двоюродной сестрой Джиджи.]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/russian/2018/03/06/meet-jo-jo-body-positive-model-and-cousin-of-gigi-and-bella/</link>
+		<link>https://demos.afthemes.com/covernews-pro/russian/2024/05/14/meet-jo-jo-body-positive-model-and-cousin-of-gigi-and-bella/</link>
 		<pubDate>Tue, 06 Mar 2018 09:53:50 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=48</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Лорем ипсум долор сит амет, цу аццоммодаре нецесситатибус иус, ин про вирис чоро саепе. Утамур дицерет еффициенди еос ан. Цум те еуисмод еррорибус цонсецтетуер, мел ад еиус еррем патриояуе, ин цум пондерум адолесценс. Ат антиопам постулант диссентиунт хас. Цу еос петентиум делицатиссими, еу дицунт персиус ест.Вим ат мелиус пертинациа, ест вертерем волуптатум реферрентур ид. Еум латине аццусам ат, ин иус утамур елигенди нецесситатибус, еос сенсибус партиендо адолесценс ин. Ин вивендо торяуатос неглегентур яуи, анциллае цотидиеяуе еу вим, видит молестиае диссентиунт ех ест. Видит дисцере елеифенд усу еу, ех агам персецути десеруиссе вис, сонет менандри цу цум.</p>
+<p>В динамичном мире WordPress мы являемся маяком инноваций и совершенства. Наши популярные продукты, такие как <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>, <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, а также мощные плагины, такие как <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a> , <a href="https://elespare.com/">Elespare</a>, служат строительными блоками вашего цифрового путешествия.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Ессент салутанди перицулис меи ан, нам инермис маиорум индоцтум ан. Омнесяуе детерруиссет меи ид, еу вим моллис сингулис. Еи волумус оцурререт пертинациа сед, цибо адиписцинг еос ех, еа продессет либерависсе еос. Яуо аетерно диспутатиони не, яуод иллум усу не. Еа афферт волуптуа про, перципит пондерум пертинах вис цу. Про магна ерудити те. Но веро граеци про.</p>
+<p>Мы увлечены качественным кодом и элегантным дизайном, поэтому создание вашего веб-сайта представляет собой легкое сочетание изысканности и простоты. Благодаря непоколебимой поддержке нашей преданной команды вы никогда не останетесь одиноки.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><br><a href="Templatespare: создайте веб-сайт своей мечты с помощью простых стартовых сайтов!"></a><a href="https://templatespare.com/">Templatespare</a>: создайте веб-сайт своей мечты с помощью простых стартовых сайтов!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote {"align":"center"} -->
+<blockquote class="wp-block-quote has-text-align-center"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Прекрасная коллекция готовых к импорту стартовых сайтов одним щелчком мыши. Получите современные и креативные веб-сайты за считанные минуты!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Газета, журнал, блог и электронная коммерция готовы</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><strong><strong><strong><strong>Забудьте о том, чтобы начинать с нуля</strong></strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Откройте для себя мир творчества с более чем 365 готовыми к использованию шаблонами веб-сайтов! От шикарных блогов до динамичных новостных платформ, интересных журналов и веб-сайтов профессиональных агентств — найдите свое идеальное онлайн-пространство!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size"><strong><strong><strong><strong>Импорт в один клик: никаких проблем с кодированием! Три простых шага</strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Отправьтесь в путешествие по своему веб-сайту с простотой и стилем. Следуйте этим 3 простым шагам, чтобы легко создать свой онлайн-шедевр.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Узнайте больше</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Выберите сайт<br></strong>Исследуйте богатый выбор из более чем 350 готовых веб-сайтов. Одним щелчком мыши импортируйте сайт, который соответствует вашему видению.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Настройте и персонализируйте<br></strong>Раскройте свой творческий потенциал! Настройте выбранный вами сайт с полной свободой дизайна. Настройте каждый элемент, чтобы создать и персонализировать свой веб-сайт именно так, как вы его себе представляете.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Публикуйте и живите!</strong><br>Когда редактирование и настройка завершены, пришло время выпустить в свет! Всего за несколько минут ваш сайт будет готов поделиться с миром.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Присоединяйтесь к семье <a href="https://afthemes.com/">AF Themes</a>, где совершенство сочетается с легкостью. Исследуйте безграничные возможности и отправляйтесь в путешествие по Интернету вместе с нами уже сегодня!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Ад нулла граеце луцилиус меи. Пер дицант цоммуне сентентиае еу. Ассум еяуидем еам те, поссим еффициантур цомплецтитур ут вим. Ет либер бонорум усу, еу агам еррор дуо. Нам малорум бонорум фацилиси еу, ат дуо модо пауло еррем. Ет солум цоррумпит дуо.</p>
+<p>Вместе мы формируем будущее Интернета.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Не сед еверти апеириан, малис либрис доценди цу вим. Хис яуем денияуе рецусабо но, усу нисл миним утрояуе ин, вих еи примис елеифенд ехплицари. Сумо цонсул вел ут, яуандо оратио ехерци цум ин, яуо хабео лаореет адмодум ут. Вис ад алии еним аудиам. Цу меа фацете цетерос симилияуе, про но алиа афферт, при ет утрояуе постулант либерависсе. Ан промпта епицури делецтус сит, еам ат вениам молестие луцилиус, еирмод садипсцинг цонцлусионемяуе еи вел.Ут еам омиттам цонституам, дисцере пертинах ид при. Ин афферт убияуе яуи, те хис видерер салутанди сусципиантур. Дицта граеце абхорреант хис те. Иудицо сингулис глориатур еи хас, ут нам путант ехплицари.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Ад дуо тота аппетере пхилосопхиа, яуи нибх делецтус трацтатос ад, елигенди адверсариум яуо ан. Вис еу солет долорес елаборарет, дицат иисяуе про ех, мовет нолуиссе вис ет. Еум не дицит доцтус аппеллантур, еу хас харум фабулас. Не дуо виртуте форенсибус, еним атяуи ад хас, ад яуис еним ест.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Ехерци адмодум еи вис. Еи аеяуе утинам вим, цоммодо цорпора сит не. Вих ин лаборе анимал малуиссет. Цум симилияуе интеллегам цонтентионес не, еум те фалли омиттантур диссентиунт. Пер меис ехпетенда ид. Ид видит продессет меа. Ат вих сапиентем цомпрехенсамУллум алтера аппетере дуо те, малуиссет цонсеяуат яуи еи. Веро ерат долорум вих ех. Еу алтерум номинати репудиаре при, еи сеа хинц елитр. Усу еррор толлит еи, пер яуот ерант цонсецтетуер цу.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Лорем ипсум долор сит амет, цу аццоммодаре нецесситатибус иус, ин про вирис чоро саепе. Утамур дицерет еффициенди еос ан. Цум те еуисмод еррорибус цонсецтетуер, мел ад еиус еррем патриояуе, ин цум пондерум адолесценс]]></excerpt:encoded>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Создайте свой веб-сайт за считанные минуты с помощью импорта в один клик — никаких проблем с кодированием!]]></excerpt:encoded>
 		<wp:post_id>48</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-06 09:53:50]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-14 05:43:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-06 09:53:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-03-06 09:53:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-03-06 09:53:50]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:43:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:43:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[meet-jo-jo-body-positive-model-and-cousin-of-gigi-and-bella]]></wp:post_name>
@@ -2261,7 +2274,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[295]]></wp:meta_value>
+		<wp:meta_value><![CDATA[359]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -2291,43 +2304,120 @@
 		<wp:meta_key><![CDATA[wpma_author]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-03-06]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1715776914]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1716485451]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Модель финского бренда Down Майя добилась успехов на подиуме]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/russian/2018/03/12/finlands-downs-model-maija-mattila-makes-strides-on-catwalk/</link>
+		<link>https://demos.afthemes.com/covernews-pro/russian/2024/05/14/finlands-downs-model-maija-mattila-makes-strides-on-catwalk/</link>
 		<pubDate>Mon, 12 Mar 2018 11:25:46 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=82</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Лорем ипсум долор сит амет, цу аццоммодаре нецесситатибус иус, ин про вирис чоро саепе. Утамур дицерет еффициенди еос ан. Цум те еуисмод еррорибус цонсецтетуер, мел ад еиус еррем патриояуе, ин цум пондерум адолесценс. Ат антиопам постулант диссентиунт хас. Цу еос петентиум делицатиссими, еу дицунт персиус ест.Вим ат мелиус пертинациа, ест вертерем волуптатум реферрентур ид. Еум латине аццусам ат, ин иус утамур елигенди нецесситатибус, еос сенсибус партиендо адолесценс ин. Ин вивендо торяуатос неглегентур яуи, анциллае цотидиеяуе еу вим, видит молестиае диссентиунт ех ест. Видит дисцере елеифенд усу еу, ех агам персецути десеруиссе вис, сонет менандри цу цум.</p>
+<p>В динамичном мире WordPress мы являемся маяком инноваций и совершенства. Наши популярные продукты, такие как <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>, <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, а также мощные плагины, такие как <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a> , <a href="https://elespare.com/">Elespare</a>, служат строительными блоками вашего цифрового путешествия.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Ессент салутанди перицулис меи ан, нам инермис маиорум индоцтум ан. Омнесяуе детерруиссет меи ид, еу вим моллис сингулис. Еи волумус оцурререт пертинациа сед, цибо адиписцинг еос ех, еа продессет либерависсе еос. Яуо аетерно диспутатиони не, яуод иллум усу не. Еа афферт волуптуа про, перципит пондерум пертинах вис цу. Про магна ерудити те. Но веро граеци про.</p>
+<p>Мы увлечены качественным кодом и элегантным дизайном, поэтому создание вашего веб-сайта представляет собой легкое сочетание изысканности и простоты. Благодаря непоколебимой поддержке нашей преданной команды вы никогда не останетесь одиноки.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><br><a href="Templatespare: создайте веб-сайт своей мечты с помощью простых стартовых сайтов!"></a><a href="https://templatespare.com/">Templatespare</a>: создайте веб-сайт своей мечты с помощью простых стартовых сайтов!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote {"align":"center"} -->
+<blockquote class="wp-block-quote has-text-align-center"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Прекрасная коллекция готовых к импорту стартовых сайтов одним щелчком мыши. Получите современные и креативные веб-сайты за считанные минуты!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Газета, журнал, блог и электронная коммерция готовы</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><strong><strong><strong><strong>Забудьте о том, чтобы начинать с нуля</strong></strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Откройте для себя мир творчества с более чем 365 готовыми к использованию шаблонами веб-сайтов! От шикарных блогов до динамичных новостных платформ, интересных журналов и веб-сайтов профессиональных агентств — найдите свое идеальное онлайн-пространство!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size"><strong><strong><strong><strong>Импорт в один клик: никаких проблем с кодированием! Три простых шага</strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Отправьтесь в путешествие по своему веб-сайту с простотой и стилем. Следуйте этим 3 простым шагам, чтобы легко создать свой онлайн-шедевр.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Узнайте больше</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Выберите сайт<br></strong>Исследуйте богатый выбор из более чем 350 готовых веб-сайтов. Одним щелчком мыши импортируйте сайт, который соответствует вашему видению.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Настройте и персонализируйте<br></strong>Раскройте свой творческий потенциал! Настройте выбранный вами сайт с полной свободой дизайна. Настройте каждый элемент, чтобы создать и персонализировать свой веб-сайт именно так, как вы его себе представляете.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Публикуйте и живите!</strong><br>Когда редактирование и настройка завершены, пришло время выпустить в свет! Всего за несколько минут ваш сайт будет готов поделиться с миром.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Присоединяйтесь к семье <a href="https://afthemes.com/">AF Themes</a>, где совершенство сочетается с легкостью. Исследуйте безграничные возможности и отправляйтесь в путешествие по Интернету вместе с нами уже сегодня!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Ад нулла граеце луцилиус меи. Пер дицант цоммуне сентентиае еу. Ассум еяуидем еам те, поссим еффициантур цомплецтитур ут вим. Ет либер бонорум усу, еу агам еррор дуо. Нам малорум бонорум фацилиси еу, ат дуо модо пауло еррем. Ет солум цоррумпит дуо.</p>
+<p>Вместе мы формируем будущее Интернета.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Не сед еверти апеириан, малис либрис доценди цу вим. Хис яуем денияуе рецусабо но, усу нисл миним утрояуе ин, вих еи примис елеифенд ехплицари. Сумо цонсул вел ут, яуандо оратио ехерци цум ин, яуо хабео лаореет адмодум ут. Вис ад алии еним аудиам. Цу меа фацете цетерос симилияуе, про но алиа афферт, при ет утрояуе постулант либерависсе. Ан промпта епицури делецтус сит, еам ат вениам молестие луцилиус, еирмод садипсцинг цонцлусионемяуе еи вел.Ут еам омиттам цонституам, дисцере пертинах ид при. Ин афферт убияуе яуи, те хис видерер салутанди сусципиантур. Дицта граеце абхорреант хис те. Иудицо сингулис глориатур еи хас, ут нам путант ехплицари.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Ад дуо тота аппетере пхилосопхиа, яуи нибх делецтус трацтатос ад, елигенди адверсариум яуо ан. Вис еу солет долорес елаборарет, дицат иисяуе про ех, мовет нолуиссе вис ет. Еум не дицит доцтус аппеллантур, еу хас харум фабулас. Не дуо виртуте форенсибус, еним атяуи ад хас, ад яуис еним ест.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Ехерци адмодум еи вис. Еи аеяуе утинам вим, цоммодо цорпора сит не. Вих ин лаборе анимал малуиссет. Цум симилияуе интеллегам цонтентионес не, еум те фалли омиттантур диссентиунт. Пер меис ехпетенда ид. Ид видит продессет меа. Ат вих сапиентем цомпрехенсамУллум алтера аппетере дуо те, малуиссет цонсеяуат яуи еи. Веро ерат долорум вих ех. Еу алтерум номинати репудиаре при, еи сеа хинц елитр. Усу еррор толлит еи, пер яуот ерант цонсецтетуер цу.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Лорем ипсум долор сит амет, цу аццоммодаре нецесситатибус иус, ин про вирис чоро саепе. Утамур дицерет еффициенди еос ан. Цум те еуисмод еррорибус цонсецтетуер, мел ад еиус еррем патриояуе, ин цум пондерум адолесценс]]></excerpt:encoded>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Создайте свой веб-сайт за считанные минуты с помощью импорта в один клик — никаких проблем с кодированием!]]></excerpt:encoded>
 		<wp:post_id>82</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-12 11:25:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-14 05:43:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 11:25:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-03-12 11:25:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-03-12 11:25:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:43:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:43:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[finlands-downs-model-maija-mattila-makes-strides-on-catwalk]]></wp:post_name>
@@ -2361,7 +2451,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[271]]></wp:meta_value>
+		<wp:meta_value><![CDATA[333]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
@@ -2395,43 +2485,120 @@
 		<wp:meta_key><![CDATA[wpma_author]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-03-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1715776748]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1716486142]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Как создать корректирующие слои на основе цвета]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/russian/2018/03/12/how-to-create-adjustment-layers-based-on-color-in-capture-one-9/</link>
+		<link>https://demos.afthemes.com/covernews-pro/russian/2024/05/14/how-to-create-adjustment-layers-based-on-color-in-capture-one-9/</link>
 		<pubDate>Mon, 12 Mar 2018 11:34:08 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=88</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Лорем ипсум долор сит амет, цу аццоммодаре нецесситатибус иус, ин про вирис чоро саепе. Утамур дицерет еффициенди еос ан. Цум те еуисмод еррорибус цонсецтетуер, мел ад еиус еррем патриояуе, ин цум пондерум адолесценс. Ат антиопам постулант диссентиунт хас. Цу еос петентиум делицатиссими, еу дицунт персиус ест.Вим ат мелиус пертинациа, ест вертерем волуптатум реферрентур ид. Еум латине аццусам ат, ин иус утамур елигенди нецесситатибус, еос сенсибус партиендо адолесценс ин. Ин вивендо торяуатос неглегентур яуи, анциллае цотидиеяуе еу вим, видит молестиае диссентиунт ех ест. Видит дисцере елеифенд усу еу, ех агам персецути десеруиссе вис, сонет менандри цу цум.</p>
+<p>В динамичном мире WordPress мы являемся маяком инноваций и совершенства. Наши популярные продукты, такие как <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>, <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, а также мощные плагины, такие как <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a> , <a href="https://elespare.com/">Elespare</a>, служат строительными блоками вашего цифрового путешествия.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Ессент салутанди перицулис меи ан, нам инермис маиорум индоцтум ан. Омнесяуе детерруиссет меи ид, еу вим моллис сингулис. Еи волумус оцурререт пертинациа сед, цибо адиписцинг еос ех, еа продессет либерависсе еос. Яуо аетерно диспутатиони не, яуод иллум усу не. Еа афферт волуптуа про, перципит пондерум пертинах вис цу. Про магна ерудити те. Но веро граеци про.</p>
+<p>Мы увлечены качественным кодом и элегантным дизайном, поэтому создание вашего веб-сайта представляет собой легкое сочетание изысканности и простоты. Благодаря непоколебимой поддержке нашей преданной команды вы никогда не останетесь одиноки.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><br><a href="Templatespare: создайте веб-сайт своей мечты с помощью простых стартовых сайтов!"></a><a href="https://templatespare.com/">Templatespare</a>: создайте веб-сайт своей мечты с помощью простых стартовых сайтов!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote {"align":"center"} -->
+<blockquote class="wp-block-quote has-text-align-center"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Прекрасная коллекция готовых к импорту стартовых сайтов одним щелчком мыши. Получите современные и креативные веб-сайты за считанные минуты!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Газета, журнал, блог и электронная коммерция готовы</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><strong><strong><strong><strong>Забудьте о том, чтобы начинать с нуля</strong></strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Откройте для себя мир творчества с более чем 365 готовыми к использованию шаблонами веб-сайтов! От шикарных блогов до динамичных новостных платформ, интересных журналов и веб-сайтов профессиональных агентств — найдите свое идеальное онлайн-пространство!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size"><strong><strong><strong><strong>Импорт в один клик: никаких проблем с кодированием! Три простых шага</strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Отправьтесь в путешествие по своему веб-сайту с простотой и стилем. Следуйте этим 3 простым шагам, чтобы легко создать свой онлайн-шедевр.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Узнайте больше</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Выберите сайт<br></strong>Исследуйте богатый выбор из более чем 350 готовых веб-сайтов. Одним щелчком мыши импортируйте сайт, который соответствует вашему видению.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Настройте и персонализируйте<br></strong>Раскройте свой творческий потенциал! Настройте выбранный вами сайт с полной свободой дизайна. Настройте каждый элемент, чтобы создать и персонализировать свой веб-сайт именно так, как вы его себе представляете.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Публикуйте и живите!</strong><br>Когда редактирование и настройка завершены, пришло время выпустить в свет! Всего за несколько минут ваш сайт будет готов поделиться с миром.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Присоединяйтесь к семье <a href="https://afthemes.com/">AF Themes</a>, где совершенство сочетается с легкостью. Исследуйте безграничные возможности и отправляйтесь в путешествие по Интернету вместе с нами уже сегодня!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Ад нулла граеце луцилиус меи. Пер дицант цоммуне сентентиае еу. Ассум еяуидем еам те, поссим еффициантур цомплецтитур ут вим. Ет либер бонорум усу, еу агам еррор дуо. Нам малорум бонорум фацилиси еу, ат дуо модо пауло еррем. Ет солум цоррумпит дуо.</p>
+<p>Вместе мы формируем будущее Интернета.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Не сед еверти апеириан, малис либрис доценди цу вим. Хис яуем денияуе рецусабо но, усу нисл миним утрояуе ин, вих еи примис елеифенд ехплицари. Сумо цонсул вел ут, яуандо оратио ехерци цум ин, яуо хабео лаореет адмодум ут. Вис ад алии еним аудиам. Цу меа фацете цетерос симилияуе, про но алиа афферт, при ет утрояуе постулант либерависсе. Ан промпта епицури делецтус сит, еам ат вениам молестие луцилиус, еирмод садипсцинг цонцлусионемяуе еи вел.Ут еам омиттам цонституам, дисцере пертинах ид при. Ин афферт убияуе яуи, те хис видерер салутанди сусципиантур. Дицта граеце абхорреант хис те. Иудицо сингулис глориатур еи хас, ут нам путант ехплицари.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Ад дуо тота аппетере пхилосопхиа, яуи нибх делецтус трацтатос ад, елигенди адверсариум яуо ан. Вис еу солет долорес елаборарет, дицат иисяуе про ех, мовет нолуиссе вис ет. Еум не дицит доцтус аппеллантур, еу хас харум фабулас. Не дуо виртуте форенсибус, еним атяуи ад хас, ад яуис еним ест.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Ехерци адмодум еи вис. Еи аеяуе утинам вим, цоммодо цорпора сит не. Вих ин лаборе анимал малуиссет. Цум симилияуе интеллегам цонтентионес не, еум те фалли омиттантур диссентиунт. Пер меис ехпетенда ид. Ид видит продессет меа. Ат вих сапиентем цомпрехенсамУллум алтера аппетере дуо те, малуиссет цонсеяуат яуи еи. Веро ерат долорум вих ех. Еу алтерум номинати репудиаре при, еи сеа хинц елитр. Усу еррор толлит еи, пер яуот ерант цонсецтетуер цу.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Лорем ипсум долор сит амет, цу аццоммодаре нецесситатибус иус, ин про вирис чоро саепе. Утамур дицерет еффициенди еос ан. Цум те еуисмод еррорибус цонсецтетуер, мел ад еиус еррем патриояуе, ин цум пондерум адолесценс]]></excerpt:encoded>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Создайте свой веб-сайт за считанные минуты с помощью импорта в один клик — никаких проблем с кодированием!]]></excerpt:encoded>
 		<wp:post_id>88</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-12 11:34:08]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-14 05:43:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 11:34:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-03-12 11:34:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-03-12 11:34:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:43:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:43:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[how-to-create-adjustment-layers-based-on-color-in-capture-one-9]]></wp:post_name>
@@ -2463,7 +2630,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[304]]></wp:meta_value>
+		<wp:meta_value><![CDATA[368]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -2497,43 +2664,120 @@
 		<wp:meta_key><![CDATA[wpma_author]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-03-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1715776809]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1716485759]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Если у вас есть 5 долларов, Зендая нашла весенние коллекции]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/russian/2018/03/12/if-you-have-5-zendaya-found-the-spring-collection-your-wardrobe-needs/</link>
+		<link>https://demos.afthemes.com/covernews-pro/russian/2024/05/14/if-you-have-5-zendaya-found-the-spring-collection-your-wardrobe-needs/</link>
 		<pubDate>Mon, 12 Mar 2018 12:34:46 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=103</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Лорем ипсум долор сит амет, цу аццоммодаре нецесситатибус иус, ин про вирис чоро саепе. Утамур дицерет еффициенди еос ан. Цум те еуисмод еррорибус цонсецтетуер, мел ад еиус еррем патриояуе, ин цум пондерум адолесценс. Ат антиопам постулант диссентиунт хас. Цу еос петентиум делицатиссими, еу дицунт персиус ест.Вим ат мелиус пертинациа, ест вертерем волуптатум реферрентур ид. Еум латине аццусам ат, ин иус утамур елигенди нецесситатибус, еос сенсибус партиендо адолесценс ин. Ин вивендо торяуатос неглегентур яуи, анциллае цотидиеяуе еу вим, видит молестиае диссентиунт ех ест. Видит дисцере елеифенд усу еу, ех агам персецути десеруиссе вис, сонет менандри цу цум.</p>
+<p>В динамичном мире WordPress мы являемся маяком инноваций и совершенства. Наши популярные продукты, такие как <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>, <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, а также мощные плагины, такие как <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a> , <a href="https://elespare.com/">Elespare</a>, служат строительными блоками вашего цифрового путешествия.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Ессент салутанди перицулис меи ан, нам инермис маиорум индоцтум ан. Омнесяуе детерруиссет меи ид, еу вим моллис сингулис. Еи волумус оцурререт пертинациа сед, цибо адиписцинг еос ех, еа продессет либерависсе еос. Яуо аетерно диспутатиони не, яуод иллум усу не. Еа афферт волуптуа про, перципит пондерум пертинах вис цу. Про магна ерудити те. Но веро граеци про.</p>
+<p>Мы увлечены качественным кодом и элегантным дизайном, поэтому создание вашего веб-сайта представляет собой легкое сочетание изысканности и простоты. Благодаря непоколебимой поддержке нашей преданной команды вы никогда не останетесь одиноки.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><br><a href="Templatespare: создайте веб-сайт своей мечты с помощью простых стартовых сайтов!"></a><a href="https://templatespare.com/">Templatespare</a>: создайте веб-сайт своей мечты с помощью простых стартовых сайтов!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote {"align":"center"} -->
+<blockquote class="wp-block-quote has-text-align-center"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Прекрасная коллекция готовых к импорту стартовых сайтов одним щелчком мыши. Получите современные и креативные веб-сайты за считанные минуты!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Газета, журнал, блог и электронная коммерция готовы</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><strong><strong><strong><strong>Забудьте о том, чтобы начинать с нуля</strong></strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Откройте для себя мир творчества с более чем 365 готовыми к использованию шаблонами веб-сайтов! От шикарных блогов до динамичных новостных платформ, интересных журналов и веб-сайтов профессиональных агентств — найдите свое идеальное онлайн-пространство!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size"><strong><strong><strong><strong>Импорт в один клик: никаких проблем с кодированием! Три простых шага</strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Отправьтесь в путешествие по своему веб-сайту с простотой и стилем. Следуйте этим 3 простым шагам, чтобы легко создать свой онлайн-шедевр.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Узнайте больше</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Выберите сайт<br></strong>Исследуйте богатый выбор из более чем 350 готовых веб-сайтов. Одним щелчком мыши импортируйте сайт, который соответствует вашему видению.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Настройте и персонализируйте<br></strong>Раскройте свой творческий потенциал! Настройте выбранный вами сайт с полной свободой дизайна. Настройте каждый элемент, чтобы создать и персонализировать свой веб-сайт именно так, как вы его себе представляете.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Публикуйте и живите!</strong><br>Когда редактирование и настройка завершены, пришло время выпустить в свет! Всего за несколько минут ваш сайт будет готов поделиться с миром.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Присоединяйтесь к семье <a href="https://afthemes.com/">AF Themes</a>, где совершенство сочетается с легкостью. Исследуйте безграничные возможности и отправляйтесь в путешествие по Интернету вместе с нами уже сегодня!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Ад нулла граеце луцилиус меи. Пер дицант цоммуне сентентиае еу. Ассум еяуидем еам те, поссим еффициантур цомплецтитур ут вим. Ет либер бонорум усу, еу агам еррор дуо. Нам малорум бонорум фацилиси еу, ат дуо модо пауло еррем. Ет солум цоррумпит дуо.</p>
+<p>Вместе мы формируем будущее Интернета.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Не сед еверти апеириан, малис либрис доценди цу вим. Хис яуем денияуе рецусабо но, усу нисл миним утрояуе ин, вих еи примис елеифенд ехплицари. Сумо цонсул вел ут, яуандо оратио ехерци цум ин, яуо хабео лаореет адмодум ут. Вис ад алии еним аудиам. Цу меа фацете цетерос симилияуе, про но алиа афферт, при ет утрояуе постулант либерависсе. Ан промпта епицури делецтус сит, еам ат вениам молестие луцилиус, еирмод садипсцинг цонцлусионемяуе еи вел.Ут еам омиттам цонституам, дисцере пертинах ид при. Ин афферт убияуе яуи, те хис видерер салутанди сусципиантур. Дицта граеце абхорреант хис те. Иудицо сингулис глориатур еи хас, ут нам путант ехплицари.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Ад дуо тота аппетере пхилосопхиа, яуи нибх делецтус трацтатос ад, елигенди адверсариум яуо ан. Вис еу солет долорес елаборарет, дицат иисяуе про ех, мовет нолуиссе вис ет. Еум не дицит доцтус аппеллантур, еу хас харум фабулас. Не дуо виртуте форенсибус, еним атяуи ад хас, ад яуис еним ест.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Ехерци адмодум еи вис. Еи аеяуе утинам вим, цоммодо цорпора сит не. Вих ин лаборе анимал малуиссет. Цум симилияуе интеллегам цонтентионес не, еум те фалли омиттантур диссентиунт. Пер меис ехпетенда ид. Ид видит продессет меа. Ат вих сапиентем цомпрехенсамУллум алтера аппетере дуо те, малуиссет цонсеяуат яуи еи. Веро ерат долорум вих ех. Еу алтерум номинати репудиаре при, еи сеа хинц елитр. Усу еррор толлит еи, пер яуот ерант цонсецтетуер цу.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Лорем ипсум долор сит амет, цу аццоммодаре нецесситатибус иус, ин про вирис чоро саепе. Утамур дицерет еффициенди еос ан. Цум те еуисмод еррорибус цонсецтетуер, мел ад еиус еррем патриояуе, ин цум пондерум адолесценс]]></excerpt:encoded>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Создайте свой веб-сайт за считанные минуты с помощью импорта в один клик — никаких проблем с кодированием!]]></excerpt:encoded>
 		<wp:post_id>103</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-12 12:34:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-14 05:43:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 12:34:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-03-12 12:34:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-03-12 12:34:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:43:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:43:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[if-you-have-5-zendaya-found-the-spring-collection-your-wardrobe-needs]]></wp:post_name>
@@ -2545,7 +2789,6 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="beauty"><![CDATA[Beauty]]></category>
 		<category domain="post_tag" nicename="trends"><![CDATA[Trends]]></category>
-		<category domain="category" nicename="%d0%ba%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0"><![CDATA[красота]]></category>
 		<category domain="category" nicename="%d1%82%d0%b5%d0%bd%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d0%b8"><![CDATA[тенденции]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
@@ -2565,7 +2808,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[306]]></wp:meta_value>
+		<wp:meta_value><![CDATA[372]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -2599,43 +2842,120 @@
 		<wp:meta_key><![CDATA[wpma_author]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-03-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1715776864]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1716485813]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Косметические товары, без которых Крисси Тейген не может путешествовать]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/russian/2018/03/12/the-beauty-products-chrissy-teigen-cant-travel-without/</link>
+		<link>https://demos.afthemes.com/covernews-pro/russian/2024/05/14/the-beauty-products-chrissy-teigen-cant-travel-without/</link>
 		<pubDate>Mon, 12 Mar 2018 12:35:45 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=106</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Лорем ипсум долор сит амет, цу аццоммодаре нецесситатибус иус, ин про вирис чоро саепе. Утамур дицерет еффициенди еос ан. Цум те еуисмод еррорибус цонсецтетуер, мел ад еиус еррем патриояуе, ин цум пондерум адолесценс. Ат антиопам постулант диссентиунт хас. Цу еос петентиум делицатиссими, еу дицунт персиус ест.Вим ат мелиус пертинациа, ест вертерем волуптатум реферрентур ид. Еум латине аццусам ат, ин иус утамур елигенди нецесситатибус, еос сенсибус партиендо адолесценс ин. Ин вивендо торяуатос неглегентур яуи, анциллае цотидиеяуе еу вим, видит молестиае диссентиунт ех ест. Видит дисцере елеифенд усу еу, ех агам персецути десеруиссе вис, сонет менандри цу цум.</p>
+<p>В динамичном мире WordPress мы являемся маяком инноваций и совершенства. Наши популярные продукты, такие как <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>, <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, а также мощные плагины, такие как <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a> , <a href="https://elespare.com/">Elespare</a>, служат строительными блоками вашего цифрового путешествия.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Ессент салутанди перицулис меи ан, нам инермис маиорум индоцтум ан. Омнесяуе детерруиссет меи ид, еу вим моллис сингулис. Еи волумус оцурререт пертинациа сед, цибо адиписцинг еос ех, еа продессет либерависсе еос. Яуо аетерно диспутатиони не, яуод иллум усу не. Еа афферт волуптуа про, перципит пондерум пертинах вис цу. Про магна ерудити те. Но веро граеци про.</p>
+<p>Мы увлечены качественным кодом и элегантным дизайном, поэтому создание вашего веб-сайта представляет собой легкое сочетание изысканности и простоты. Благодаря непоколебимой поддержке нашей преданной команды вы никогда не останетесь одиноки.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><br><a href="Templatespare: создайте веб-сайт своей мечты с помощью простых стартовых сайтов!"></a><a href="https://templatespare.com/">Templatespare</a>: создайте веб-сайт своей мечты с помощью простых стартовых сайтов!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote {"align":"center"} -->
+<blockquote class="wp-block-quote has-text-align-center"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Прекрасная коллекция готовых к импорту стартовых сайтов одним щелчком мыши. Получите современные и креативные веб-сайты за считанные минуты!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Газета, журнал, блог и электронная коммерция готовы</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><strong><strong><strong><strong>Забудьте о том, чтобы начинать с нуля</strong></strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Откройте для себя мир творчества с более чем 365 готовыми к использованию шаблонами веб-сайтов! От шикарных блогов до динамичных новостных платформ, интересных журналов и веб-сайтов профессиональных агентств — найдите свое идеальное онлайн-пространство!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size"><strong><strong><strong><strong>Импорт в один клик: никаких проблем с кодированием! Три простых шага</strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Отправьтесь в путешествие по своему веб-сайту с простотой и стилем. Следуйте этим 3 простым шагам, чтобы легко создать свой онлайн-шедевр.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Узнайте больше</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Выберите сайт<br></strong>Исследуйте богатый выбор из более чем 350 готовых веб-сайтов. Одним щелчком мыши импортируйте сайт, который соответствует вашему видению.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Настройте и персонализируйте<br></strong>Раскройте свой творческий потенциал! Настройте выбранный вами сайт с полной свободой дизайна. Настройте каждый элемент, чтобы создать и персонализировать свой веб-сайт именно так, как вы его себе представляете.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Публикуйте и живите!</strong><br>Когда редактирование и настройка завершены, пришло время выпустить в свет! Всего за несколько минут ваш сайт будет готов поделиться с миром.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Присоединяйтесь к семье <a href="https://afthemes.com/">AF Themes</a>, где совершенство сочетается с легкостью. Исследуйте безграничные возможности и отправляйтесь в путешествие по Интернету вместе с нами уже сегодня!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Ад нулла граеце луцилиус меи. Пер дицант цоммуне сентентиае еу. Ассум еяуидем еам те, поссим еффициантур цомплецтитур ут вим. Ет либер бонорум усу, еу агам еррор дуо. Нам малорум бонорум фацилиси еу, ат дуо модо пауло еррем. Ет солум цоррумпит дуо.</p>
+<p>Вместе мы формируем будущее Интернета.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Не сед еверти апеириан, малис либрис доценди цу вим. Хис яуем денияуе рецусабо но, усу нисл миним утрояуе ин, вих еи примис елеифенд ехплицари. Сумо цонсул вел ут, яуандо оратио ехерци цум ин, яуо хабео лаореет адмодум ут. Вис ад алии еним аудиам. Цу меа фацете цетерос симилияуе, про но алиа афферт, при ет утрояуе постулант либерависсе. Ан промпта епицури делецтус сит, еам ат вениам молестие луцилиус, еирмод садипсцинг цонцлусионемяуе еи вел.Ут еам омиттам цонституам, дисцере пертинах ид при. Ин афферт убияуе яуи, те хис видерер салутанди сусципиантур. Дицта граеце абхорреант хис те. Иудицо сингулис глориатур еи хас, ут нам путант ехплицари.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Ад дуо тота аппетере пхилосопхиа, яуи нибх делецтус трацтатос ад, елигенди адверсариум яуо ан. Вис еу солет долорес елаборарет, дицат иисяуе про ех, мовет нолуиссе вис ет. Еум не дицит доцтус аппеллантур, еу хас харум фабулас. Не дуо виртуте форенсибус, еним атяуи ад хас, ад яуис еним ест.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Ехерци адмодум еи вис. Еи аеяуе утинам вим, цоммодо цорпора сит не. Вих ин лаборе анимал малуиссет. Цум симилияуе интеллегам цонтентионес не, еум те фалли омиттантур диссентиунт. Пер меис ехпетенда ид. Ид видит продессет меа. Ат вих сапиентем цомпрехенсамУллум алтера аппетере дуо те, малуиссет цонсеяуат яуи еи. Веро ерат долорум вих ех. Еу алтерум номинати репудиаре при, еи сеа хинц елитр. Усу еррор толлит еи, пер яуот ерант цонсецтетуер цу.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Лорем ипсум долор сит амет, цу аццоммодаре нецесситатибус иус, ин про вирис чоро саепе. Утамур дицерет еффициенди еос ан. Цум те еуисмод еррорибус цонсецтетуер, мел ад еиус еррем патриояуе, ин цум пондерум адолесценс]]></excerpt:encoded>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Создайте свой веб-сайт за считанные минуты с помощью импорта в один клик — никаких проблем с кодированием!]]></excerpt:encoded>
 		<wp:post_id>106</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-12 12:35:45]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-14 05:43:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 12:35:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-03-12 12:35:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-03-12 12:35:45]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:43:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:43:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-beauty-products-chrissy-teigen-cant-travel-without]]></wp:post_name>
@@ -2647,7 +2967,6 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="artist"><![CDATA[Artist]]></category>
 		<category domain="post_tag" nicename="beauty"><![CDATA[Beauty]]></category>
-		<category domain="category" nicename="%d0%ba%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0"><![CDATA[красота]]></category>
 		<category domain="category" nicename="%d1%82%d0%b5%d0%bd%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d0%b8"><![CDATA[тенденции]]></category>
 		<category domain="category" nicename="%d1%85%d1%83%d0%b4%d0%be%d0%b6%d0%bd%d0%b8%d0%ba"><![CDATA[художник]]></category>
 						<wp:postmeta>
@@ -2672,7 +2991,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[364]]></wp:meta_value>
+		<wp:meta_value><![CDATA[424]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
@@ -2706,43 +3025,120 @@
 		<wp:meta_key><![CDATA[wpma_author]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-03-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1715776986]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1716485984]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Жизель Бюндхен не может перестать носить эти ретро-джинсы]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/russian/2018/03/12/gisele-bundchen-cant-stop-wearing-these-retro-jeans-to-the-airport/</link>
+		<link>https://demos.afthemes.com/covernews-pro/russian/2024/05/14/gisele-bundchen-cant-stop-wearing-these-retro-jeans-to-the-airport/</link>
 		<pubDate>Mon, 12 Mar 2018 12:44:18 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=111</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Лорем ипсум долор сит амет, цу аццоммодаре нецесситатибус иус, ин про вирис чоро саепе. Утамур дицерет еффициенди еос ан. Цум те еуисмод еррорибус цонсецтетуер, мел ад еиус еррем патриояуе, ин цум пондерум адолесценс. Ат антиопам постулант диссентиунт хас. Цу еос петентиум делицатиссими, еу дицунт персиус ест.Вим ат мелиус пертинациа, ест вертерем волуптатум реферрентур ид. Еум латине аццусам ат, ин иус утамур елигенди нецесситатибус, еос сенсибус партиендо адолесценс ин. Ин вивендо торяуатос неглегентур яуи, анциллае цотидиеяуе еу вим, видит молестиае диссентиунт ех ест. Видит дисцере елеифенд усу еу, ех агам персецути десеруиссе вис, сонет менандри цу цум.</p>
+<p>В динамичном мире WordPress мы являемся маяком инноваций и совершенства. Наши популярные продукты, такие как <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>, <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, а также мощные плагины, такие как <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a> , <a href="https://elespare.com/">Elespare</a>, служат строительными блоками вашего цифрового путешествия.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Ессент салутанди перицулис меи ан, нам инермис маиорум индоцтум ан. Омнесяуе детерруиссет меи ид, еу вим моллис сингулис. Еи волумус оцурререт пертинациа сед, цибо адиписцинг еос ех, еа продессет либерависсе еос. Яуо аетерно диспутатиони не, яуод иллум усу не. Еа афферт волуптуа про, перципит пондерум пертинах вис цу. Про магна ерудити те. Но веро граеци про.</p>
+<p>Мы увлечены качественным кодом и элегантным дизайном, поэтому создание вашего веб-сайта представляет собой легкое сочетание изысканности и простоты. Благодаря непоколебимой поддержке нашей преданной команды вы никогда не останетесь одиноки.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><br><a href="Templatespare: создайте веб-сайт своей мечты с помощью простых стартовых сайтов!"></a><a href="https://templatespare.com/">Templatespare</a>: создайте веб-сайт своей мечты с помощью простых стартовых сайтов!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote {"align":"center"} -->
+<blockquote class="wp-block-quote has-text-align-center"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Прекрасная коллекция готовых к импорту стартовых сайтов одним щелчком мыши. Получите современные и креативные веб-сайты за считанные минуты!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Газета, журнал, блог и электронная коммерция готовы</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><strong><strong><strong><strong>Забудьте о том, чтобы начинать с нуля</strong></strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Откройте для себя мир творчества с более чем 365 готовыми к использованию шаблонами веб-сайтов! От шикарных блогов до динамичных новостных платформ, интересных журналов и веб-сайтов профессиональных агентств — найдите свое идеальное онлайн-пространство!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size"><strong><strong><strong><strong>Импорт в один клик: никаких проблем с кодированием! Три простых шага</strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Отправьтесь в путешествие по своему веб-сайту с простотой и стилем. Следуйте этим 3 простым шагам, чтобы легко создать свой онлайн-шедевр.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Узнайте больше</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Выберите сайт<br></strong>Исследуйте богатый выбор из более чем 350 готовых веб-сайтов. Одним щелчком мыши импортируйте сайт, который соответствует вашему видению.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Настройте и персонализируйте<br></strong>Раскройте свой творческий потенциал! Настройте выбранный вами сайт с полной свободой дизайна. Настройте каждый элемент, чтобы создать и персонализировать свой веб-сайт именно так, как вы его себе представляете.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Публикуйте и живите!</strong><br>Когда редактирование и настройка завершены, пришло время выпустить в свет! Всего за несколько минут ваш сайт будет готов поделиться с миром.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Присоединяйтесь к семье <a href="https://afthemes.com/">AF Themes</a>, где совершенство сочетается с легкостью. Исследуйте безграничные возможности и отправляйтесь в путешествие по Интернету вместе с нами уже сегодня!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Ад нулла граеце луцилиус меи. Пер дицант цоммуне сентентиае еу. Ассум еяуидем еам те, поссим еффициантур цомплецтитур ут вим. Ет либер бонорум усу, еу агам еррор дуо. Нам малорум бонорум фацилиси еу, ат дуо модо пауло еррем. Ет солум цоррумпит дуо.</p>
+<p>Вместе мы формируем будущее Интернета.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Не сед еверти апеириан, малис либрис доценди цу вим. Хис яуем денияуе рецусабо но, усу нисл миним утрояуе ин, вих еи примис елеифенд ехплицари. Сумо цонсул вел ут, яуандо оратио ехерци цум ин, яуо хабео лаореет адмодум ут. Вис ад алии еним аудиам. Цу меа фацете цетерос симилияуе, про но алиа афферт, при ет утрояуе постулант либерависсе. Ан промпта епицури делецтус сит, еам ат вениам молестие луцилиус, еирмод садипсцинг цонцлусионемяуе еи вел.Ут еам омиттам цонституам, дисцере пертинах ид при. Ин афферт убияуе яуи, те хис видерер салутанди сусципиантур. Дицта граеце абхорреант хис те. Иудицо сингулис глориатур еи хас, ут нам путант ехплицари.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Ад дуо тота аппетере пхилосопхиа, яуи нибх делецтус трацтатос ад, елигенди адверсариум яуо ан. Вис еу солет долорес елаборарет, дицат иисяуе про ех, мовет нолуиссе вис ет. Еум не дицит доцтус аппеллантур, еу хас харум фабулас. Не дуо виртуте форенсибус, еним атяуи ад хас, ад яуис еним ест.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Ехерци адмодум еи вис. Еи аеяуе утинам вим, цоммодо цорпора сит не. Вих ин лаборе анимал малуиссет. Цум симилияуе интеллегам цонтентионес не, еум те фалли омиттантур диссентиунт. Пер меис ехпетенда ид. Ид видит продессет меа. Ат вих сапиентем цомпрехенсамУллум алтера аппетере дуо те, малуиссет цонсеяуат яуи еи. Веро ерат долорум вих ех. Еу алтерум номинати репудиаре при, еи сеа хинц елитр. Усу еррор толлит еи, пер яуот ерант цонсецтетуер цу.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Лорем ипсум долор сит амет, цу аццоммодаре нецесситатибус иус, ин про вирис чоро саепе. Утамур дицерет еффициенди еос ан. Цум те еуисмод еррорибус цонсецтетуер, мел ад еиус еррем патриояуе, ин цум пондерум адолесценс]]></excerpt:encoded>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Создайте свой веб-сайт за считанные минуты с помощью импорта в один клик — никаких проблем с кодированием!]]></excerpt:encoded>
 		<wp:post_id>111</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-12 12:44:18]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-14 05:43:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 12:44:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-03-12 12:44:18]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-03-12 12:44:18]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:43:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:43:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[gisele-bundchen-cant-stop-wearing-these-retro-jeans-to-the-airport]]></wp:post_name>
@@ -2755,7 +3151,6 @@
 										<category domain="post_tag" nicename="beauty"><![CDATA[Beauty]]></category>
 		<category domain="post_format" nicename="post-format-gallery"><![CDATA[Gallery]]></category>
 		<category domain="post_tag" nicename="trends"><![CDATA[Trends]]></category>
-		<category domain="category" nicename="%d0%ba%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0"><![CDATA[красота]]></category>
 		<category domain="category" nicename="%d0%bc%d0%be%d0%b4%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9"><![CDATA[модальный]]></category>
 		<category domain="category" nicename="%d0%bc%d0%be%d0%b4%d0%b5%d0%bb%d1%8c"><![CDATA[модель]]></category>
 						<wp:postmeta>
@@ -2776,7 +3171,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[350]]></wp:meta_value>
+		<wp:meta_value><![CDATA[411]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -2810,43 +3205,120 @@
 		<wp:meta_key><![CDATA[wpma_author]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-03-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1715776779]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1716485693]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Завивка возвращается, но становится современной]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/russian/2018/03/12/perms-are-coming-back-but-theyre-getting-a-modern-makeover/</link>
+		<link>https://demos.afthemes.com/covernews-pro/russian/2024/05/14/perms-are-coming-back-but-theyre-getting-a-modern-makeover/</link>
 		<pubDate>Mon, 12 Mar 2018 13:06:53 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=118</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Лорем ипсум долор сит амет, цу аццоммодаре нецесситатибус иус, ин про вирис чоро саепе. Утамур дицерет еффициенди еос ан. Цум те еуисмод еррорибус цонсецтетуер, мел ад еиус еррем патриояуе, ин цум пондерум адолесценс. Ат антиопам постулант диссентиунт хас. Цу еос петентиум делицатиссими, еу дицунт персиус ест.Вим ат мелиус пертинациа, ест вертерем волуптатум реферрентур ид. Еум латине аццусам ат, ин иус утамур елигенди нецесситатибус, еос сенсибус партиендо адолесценс ин. Ин вивендо торяуатос неглегентур яуи, анциллае цотидиеяуе еу вим, видит молестиае диссентиунт ех ест. Видит дисцере елеифенд усу еу, ех агам персецути десеруиссе вис, сонет менандри цу цум.</p>
+<p>В динамичном мире WordPress мы являемся маяком инноваций и совершенства. Наши популярные продукты, такие как <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>, <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, а также мощные плагины, такие как <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a> , <a href="https://elespare.com/">Elespare</a>, служат строительными блоками вашего цифрового путешествия.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Ессент салутанди перицулис меи ан, нам инермис маиорум индоцтум ан. Омнесяуе детерруиссет меи ид, еу вим моллис сингулис. Еи волумус оцурререт пертинациа сед, цибо адиписцинг еос ех, еа продессет либерависсе еос. Яуо аетерно диспутатиони не, яуод иллум усу не. Еа афферт волуптуа про, перципит пондерум пертинах вис цу. Про магна ерудити те. Но веро граеци про.</p>
+<p>Мы увлечены качественным кодом и элегантным дизайном, поэтому создание вашего веб-сайта представляет собой легкое сочетание изысканности и простоты. Благодаря непоколебимой поддержке нашей преданной команды вы никогда не останетесь одиноки.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><br><a href="Templatespare: создайте веб-сайт своей мечты с помощью простых стартовых сайтов!"></a><a href="https://templatespare.com/">Templatespare</a>: создайте веб-сайт своей мечты с помощью простых стартовых сайтов!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote {"align":"center"} -->
+<blockquote class="wp-block-quote has-text-align-center"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Прекрасная коллекция готовых к импорту стартовых сайтов одним щелчком мыши. Получите современные и креативные веб-сайты за считанные минуты!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Газета, журнал, блог и электронная коммерция готовы</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><strong><strong><strong><strong>Забудьте о том, чтобы начинать с нуля</strong></strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Откройте для себя мир творчества с более чем 365 готовыми к использованию шаблонами веб-сайтов! От шикарных блогов до динамичных новостных платформ, интересных журналов и веб-сайтов профессиональных агентств — найдите свое идеальное онлайн-пространство!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size"><strong><strong><strong><strong>Импорт в один клик: никаких проблем с кодированием! Три простых шага</strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Отправьтесь в путешествие по своему веб-сайту с простотой и стилем. Следуйте этим 3 простым шагам, чтобы легко создать свой онлайн-шедевр.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Узнайте больше</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Выберите сайт<br></strong>Исследуйте богатый выбор из более чем 350 готовых веб-сайтов. Одним щелчком мыши импортируйте сайт, который соответствует вашему видению.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Настройте и персонализируйте<br></strong>Раскройте свой творческий потенциал! Настройте выбранный вами сайт с полной свободой дизайна. Настройте каждый элемент, чтобы создать и персонализировать свой веб-сайт именно так, как вы его себе представляете.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Публикуйте и живите!</strong><br>Когда редактирование и настройка завершены, пришло время выпустить в свет! Всего за несколько минут ваш сайт будет готов поделиться с миром.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Присоединяйтесь к семье <a href="https://afthemes.com/">AF Themes</a>, где совершенство сочетается с легкостью. Исследуйте безграничные возможности и отправляйтесь в путешествие по Интернету вместе с нами уже сегодня!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Ад нулла граеце луцилиус меи. Пер дицант цоммуне сентентиае еу. Ассум еяуидем еам те, поссим еффициантур цомплецтитур ут вим. Ет либер бонорум усу, еу агам еррор дуо. Нам малорум бонорум фацилиси еу, ат дуо модо пауло еррем. Ет солум цоррумпит дуо.</p>
+<p>Вместе мы формируем будущее Интернета.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Не сед еверти апеириан, малис либрис доценди цу вим. Хис яуем денияуе рецусабо но, усу нисл миним утрояуе ин, вих еи примис елеифенд ехплицари. Сумо цонсул вел ут, яуандо оратио ехерци цум ин, яуо хабео лаореет адмодум ут. Вис ад алии еним аудиам. Цу меа фацете цетерос симилияуе, про но алиа афферт, при ет утрояуе постулант либерависсе. Ан промпта епицури делецтус сит, еам ат вениам молестие луцилиус, еирмод садипсцинг цонцлусионемяуе еи вел.Ут еам омиттам цонституам, дисцере пертинах ид при. Ин афферт убияуе яуи, те хис видерер салутанди сусципиантур. Дицта граеце абхорреант хис те. Иудицо сингулис глориатур еи хас, ут нам путант ехплицари.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Ад дуо тота аппетере пхилосопхиа, яуи нибх делецтус трацтатос ад, елигенди адверсариум яуо ан. Вис еу солет долорес елаборарет, дицат иисяуе про ех, мовет нолуиссе вис ет. Еум не дицит доцтус аппеллантур, еу хас харум фабулас. Не дуо виртуте форенсибус, еним атяуи ад хас, ад яуис еним ест.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Ехерци адмодум еи вис. Еи аеяуе утинам вим, цоммодо цорпора сит не. Вих ин лаборе анимал малуиссет. Цум симилияуе интеллегам цонтентионес не, еум те фалли омиттантур диссентиунт. Пер меис ехпетенда ид. Ид видит продессет меа. Ат вих сапиентем цомпрехенсамУллум алтера аппетере дуо те, малуиссет цонсеяуат яуи еи. Веро ерат долорум вих ех. Еу алтерум номинати репудиаре при, еи сеа хинц елитр. Усу еррор толлит еи, пер яуот ерант цонсецтетуер цу.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Лорем ипсум долор сит амет, цу аццоммодаре нецесситатибус иус, ин про вирис чоро саепе. Утамур дицерет еффициенди еос ан. Цум те еуисмод еррорибус цонсецтетуер, мел ад еиус еррем патриояуе, ин цум пондерум адолесценс]]></excerpt:encoded>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Создайте свой веб-сайт за считанные минуты с помощью импорта в один клик — никаких проблем с кодированием!]]></excerpt:encoded>
 		<wp:post_id>118</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-12 13:06:53]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-14 05:43:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 13:06:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-15 06:24:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-15 06:24:48]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:43:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:43:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[perms-are-coming-back-but-theyre-getting-a-modern-makeover]]></wp:post_name>
@@ -2879,7 +3351,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[318]]></wp:meta_value>
+		<wp:meta_value><![CDATA[380]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
@@ -2926,46 +3398,119 @@
 		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-03-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1715776938]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1716485897]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Не называйте Деми «плохой девочкой» — она просто высказалась]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/russian/2018/03/12/dont-call-demi-lovato-a-bad-girl-shes-just-speaking-out/</link>
+		<link>https://demos.afthemes.com/covernews-pro/russian/2024/05/14/dont-call-demi-lovato-a-bad-girl-shes-just-speaking-out/</link>
 		<pubDate>Mon, 12 Mar 2018 13:07:47 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=125</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Лорем ипсум долор сит амет, цу аццоммодаре нецесситатибус иус, ин про вирис чоро саепе. Утамур дицерет еффициенди еос ан. Цум те еуисмод еррорибус цонсецтетуер, мел ад еиус еррем патриояуе, ин цум пондерум адолесценс. Ат антиопам постулант диссентиунт хас. Цу еос петентиум делицатиссими, еу дицунт персиус ест.Вим ат мелиус пертинациа, ест вертерем волуптатум реферрентур ид. Еум латине аццусам ат, ин иус утамур елигенди нецесситатибус, еос сенсибус партиендо адолесценс ин. Ин вивендо торяуатос неглегентур яуи, анциллае цотидиеяуе еу вим, видит молестиае диссентиунт ех ест. Видит дисцере елеифенд усу еу, ех агам персецути десеруиссе вис, сонет менандри цу цум.</p>
+<p>В динамичном мире WordPress мы являемся маяком инноваций и совершенства. Наши популярные продукты, такие как <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>, <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, а также мощные плагины, такие как <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a> , <a href="https://elespare.com/">Elespare</a>, служат строительными блоками вашего цифрового путешествия.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Ессент салутанди перицулис меи ан, нам инермис маиорум индоцтум ан. Омнесяуе детерруиссет меи ид, еу вим моллис сингулис. Еи волумус оцурререт пертинациа сед, цибо адиписцинг еос ех, еа продессет либерависсе еос. Яуо аетерно диспутатиони не, яуод иллум усу не. Еа афферт волуптуа про, перципит пондерум пертинах вис цу. Про магна ерудити те. Но веро граеци про.</p>
+<p>Мы увлечены качественным кодом и элегантным дизайном, поэтому создание вашего веб-сайта представляет собой легкое сочетание изысканности и простоты. Благодаря непоколебимой поддержке нашей преданной команды вы никогда не останетесь одиноки.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><br><a href="Templatespare: создайте веб-сайт своей мечты с помощью простых стартовых сайтов!"></a><a href="https://templatespare.com/">Templatespare</a>: создайте веб-сайт своей мечты с помощью простых стартовых сайтов!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote {"align":"center"} -->
+<blockquote class="wp-block-quote has-text-align-center"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Прекрасная коллекция готовых к импорту стартовых сайтов одним щелчком мыши. Получите современные и креативные веб-сайты за считанные минуты!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Газета, журнал, блог и электронная коммерция готовы</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><strong><strong><strong><strong>Забудьте о том, чтобы начинать с нуля</strong></strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Откройте для себя мир творчества с более чем 365 готовыми к использованию шаблонами веб-сайтов! От шикарных блогов до динамичных новостных платформ, интересных журналов и веб-сайтов профессиональных агентств — найдите свое идеальное онлайн-пространство!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size"><strong><strong><strong><strong>Импорт в один клик: никаких проблем с кодированием! Три простых шага</strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Отправьтесь в путешествие по своему веб-сайту с простотой и стилем. Следуйте этим 3 простым шагам, чтобы легко создать свой онлайн-шедевр.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Узнайте больше</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Выберите сайт<br></strong>Исследуйте богатый выбор из более чем 350 готовых веб-сайтов. Одним щелчком мыши импортируйте сайт, который соответствует вашему видению.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Настройте и персонализируйте<br></strong>Раскройте свой творческий потенциал! Настройте выбранный вами сайт с полной свободой дизайна. Настройте каждый элемент, чтобы создать и персонализировать свой веб-сайт именно так, как вы его себе представляете.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Публикуйте и живите!</strong><br>Когда редактирование и настройка завершены, пришло время выпустить в свет! Всего за несколько минут ваш сайт будет готов поделиться с миром.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Присоединяйтесь к семье <a href="https://afthemes.com/">AF Themes</a>, где совершенство сочетается с легкостью. Исследуйте безграничные возможности и отправляйтесь в путешествие по Интернету вместе с нами уже сегодня!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Ад нулла граеце луцилиус меи. Пер дицант цоммуне сентентиае еу. Ассум еяуидем еам те, поссим еффициантур цомплецтитур ут вим. Ет либер бонорум усу, еу агам еррор дуо. Нам малорум бонорум фацилиси еу, ат дуо модо пауло еррем. Ет солум цоррумпит дуо.</p>
+<p>Вместе мы формируем будущее Интернета.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Не сед еверти апеириан, малис либрис доценди цу вим. Хис яуем денияуе рецусабо но, усу нисл миним утрояуе ин, вих еи примис елеифенд ехплицари. Сумо цонсул вел ут, яуандо оратио ехерци цум ин, яуо хабео лаореет адмодум ут. Вис ад алии еним аудиам. Цу меа фацете цетерос симилияуе, про но алиа афферт, при ет утрояуе постулант либерависсе. Ан промпта епицури делецтус сит, еам ат вениам молестие луцилиус, еирмод садипсцинг цонцлусионемяуе еи вел.Ут еам омиттам цонституам, дисцере пертинах ид при. Ин афферт убияуе яуи, те хис видерер салутанди сусципиантур. Дицта граеце абхорреант хис те. Иудицо сингулис глориатур еи хас, ут нам путант ехплицари.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Ад дуо тота аппетере пхилосопхиа, яуи нибх делецтус трацтатос ад, елигенди адверсариум яуо ан. Вис еу солет долорес елаборарет, дицат иисяуе про ех, мовет нолуиссе вис ет. Еум не дицит доцтус аппеллантур, еу хас харум фабулас. Не дуо виртуте форенсибус, еним атяуи ад хас, ад яуис еним ест.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Ехерци адмодум еи вис. Еи аеяуе утинам вим, цоммодо цорпора сит не. Вих ин лаборе анимал малуиссет. Цум симилияуе интеллегам цонтентионес не, еум те фалли омиттантур диссентиунт. Пер меис ехпетенда ид. Ид видит продессет меа. Ат вих сапиентем цомпрехенсамУллум алтера аппетере дуо те, малуиссет цонсеяуат яуи еи. Веро ерат долорум вих ех. Еу алтерум номинати репудиаре при, еи сеа хинц елитр. Усу еррор толлит еи, пер яуот ерант цонсецтетуер цу.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Лорем ипсум долор сит амет, цу аццоммодаре нецесситатибус иус, ин про вирис чоро саепе. Утамур дицерет еффициенди еос ан. Цум те еуисмод еррорибус цонсецтетуер, мел ад еиус еррем патриояуе, ин цум пондерум адолесценс]]></excerpt:encoded>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Создайте свой веб-сайт за считанные минуты с помощью импорта в один клик — никаких проблем с кодированием!]]></excerpt:encoded>
 		<wp:post_id>125</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-12 13:07:47]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-14 05:43:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 13:07:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-03-12 13:07:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-03-12 13:07:47]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:43:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:43:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[dont-call-demi-lovato-a-bad-girl-shes-just-speaking-out]]></wp:post_name>
@@ -2977,7 +3522,6 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="beauty"><![CDATA[Beauty]]></category>
 		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
-		<category domain="category" nicename="%d0%ba%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0"><![CDATA[красота]]></category>
 		<category domain="category" nicename="%d1%81%d1%82%d0%b8%d0%bb%d1%8c-%d0%b6%d0%b8%d0%b7%d0%bd%d0%b8"><![CDATA[Стиль жизни]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
@@ -2997,7 +3541,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[349]]></wp:meta_value>
+		<wp:meta_value><![CDATA[410]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
@@ -3039,43 +3583,120 @@
 		<wp:meta_key><![CDATA[wpma_author]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-03-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1715776726]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1716485928]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Коллекция Aerie изначально была разработана компанией Iskra.]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/russian/2018/03/12/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/</link>
+		<link>https://demos.afthemes.com/covernews-pro/russian/2024/05/14/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/</link>
 		<pubDate>Mon, 12 Mar 2018 13:10:50 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=127</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Лорем ипсум долор сит амет, цу аццоммодаре нецесситатибус иус, ин про вирис чоро саепе. Утамур дицерет еффициенди еос ан. Цум те еуисмод еррорибус цонсецтетуер, мел ад еиус еррем патриояуе, ин цум пондерум адолесценс. Ат антиопам постулант диссентиунт хас. Цу еос петентиум делицатиссими, еу дицунт персиус ест.Вим ат мелиус пертинациа, ест вертерем волуптатум реферрентур ид. Еум латине аццусам ат, ин иус утамур елигенди нецесситатибус, еос сенсибус партиендо адолесценс ин. Ин вивендо торяуатос неглегентур яуи, анциллае цотидиеяуе еу вим, видит молестиае диссентиунт ех ест. Видит дисцере елеифенд усу еу, ех агам персецути десеруиссе вис, сонет менандри цу цум.</p>
+<p>В динамичном мире WordPress мы являемся маяком инноваций и совершенства. Наши популярные продукты, такие как <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>, <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, а также мощные плагины, такие как <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a> , <a href="https://elespare.com/">Elespare</a>, служат строительными блоками вашего цифрового путешествия.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Ессент салутанди перицулис меи ан, нам инермис маиорум индоцтум ан. Омнесяуе детерруиссет меи ид, еу вим моллис сингулис. Еи волумус оцурререт пертинациа сед, цибо адиписцинг еос ех, еа продессет либерависсе еос. Яуо аетерно диспутатиони не, яуод иллум усу не. Еа афферт волуптуа про, перципит пондерум пертинах вис цу. Про магна ерудити те. Но веро граеци про.</p>
+<p>Мы увлечены качественным кодом и элегантным дизайном, поэтому создание вашего веб-сайта представляет собой легкое сочетание изысканности и простоты. Благодаря непоколебимой поддержке нашей преданной команды вы никогда не останетесь одиноки.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><br><a href="Templatespare: создайте веб-сайт своей мечты с помощью простых стартовых сайтов!"></a><a href="https://templatespare.com/">Templatespare</a>: создайте веб-сайт своей мечты с помощью простых стартовых сайтов!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote {"align":"center"} -->
+<blockquote class="wp-block-quote has-text-align-center"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Прекрасная коллекция готовых к импорту стартовых сайтов одним щелчком мыши. Получите современные и креативные веб-сайты за считанные минуты!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Газета, журнал, блог и электронная коммерция готовы</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><strong><strong><strong><strong>Забудьте о том, чтобы начинать с нуля</strong></strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Откройте для себя мир творчества с более чем 365 готовыми к использованию шаблонами веб-сайтов! От шикарных блогов до динамичных новостных платформ, интересных журналов и веб-сайтов профессиональных агентств — найдите свое идеальное онлайн-пространство!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size"><strong><strong><strong><strong>Импорт в один клик: никаких проблем с кодированием! Три простых шага</strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Отправьтесь в путешествие по своему веб-сайту с простотой и стилем. Следуйте этим 3 простым шагам, чтобы легко создать свой онлайн-шедевр.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Узнайте больше</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Выберите сайт<br></strong>Исследуйте богатый выбор из более чем 350 готовых веб-сайтов. Одним щелчком мыши импортируйте сайт, который соответствует вашему видению.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Настройте и персонализируйте<br></strong>Раскройте свой творческий потенциал! Настройте выбранный вами сайт с полной свободой дизайна. Настройте каждый элемент, чтобы создать и персонализировать свой веб-сайт именно так, как вы его себе представляете.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Публикуйте и живите!</strong><br>Когда редактирование и настройка завершены, пришло время выпустить в свет! Всего за несколько минут ваш сайт будет готов поделиться с миром.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Присоединяйтесь к семье <a href="https://afthemes.com/">AF Themes</a>, где совершенство сочетается с легкостью. Исследуйте безграничные возможности и отправляйтесь в путешествие по Интернету вместе с нами уже сегодня!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Ад нулла граеце луцилиус меи. Пер дицант цоммуне сентентиае еу. Ассум еяуидем еам те, поссим еффициантур цомплецтитур ут вим. Ет либер бонорум усу, еу агам еррор дуо. Нам малорум бонорум фацилиси еу, ат дуо модо пауло еррем. Ет солум цоррумпит дуо.</p>
+<p>Вместе мы формируем будущее Интернета.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Не сед еверти апеириан, малис либрис доценди цу вим. Хис яуем денияуе рецусабо но, усу нисл миним утрояуе ин, вих еи примис елеифенд ехплицари. Сумо цонсул вел ут, яуандо оратио ехерци цум ин, яуо хабео лаореет адмодум ут. Вис ад алии еним аудиам. Цу меа фацете цетерос симилияуе, про но алиа афферт, при ет утрояуе постулант либерависсе. Ан промпта епицури делецтус сит, еам ат вениам молестие луцилиус, еирмод садипсцинг цонцлусионемяуе еи вел.Ут еам омиттам цонституам, дисцере пертинах ид при. Ин афферт убияуе яуи, те хис видерер салутанди сусципиантур. Дицта граеце абхорреант хис те. Иудицо сингулис глориатур еи хас, ут нам путант ехплицари.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Ад дуо тота аппетере пхилосопхиа, яуи нибх делецтус трацтатос ад, елигенди адверсариум яуо ан. Вис еу солет долорес елаборарет, дицат иисяуе про ех, мовет нолуиссе вис ет. Еум не дицит доцтус аппеллантур, еу хас харум фабулас. Не дуо виртуте форенсибус, еним атяуи ад хас, ад яуис еним ест.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Ехерци адмодум еи вис. Еи аеяуе утинам вим, цоммодо цорпора сит не. Вих ин лаборе анимал малуиссет. Цум симилияуе интеллегам цонтентионес не, еум те фалли омиттантур диссентиунт. Пер меис ехпетенда ид. Ид видит продессет меа. Ат вих сапиентем цомпрехенсамУллум алтера аппетере дуо те, малуиссет цонсеяуат яуи еи. Веро ерат долорум вих ех. Еу алтерум номинати репудиаре при, еи сеа хинц елитр. Усу еррор толлит еи, пер яуот ерант цонсецтетуер цу.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Лорем ипсум долор сит амет, цу аццоммодаре нецесситатибус иус, ин про вирис чоро саепе. Утамур дицерет еффициенди еос ан. Цум те еуисмод еррорибус цонсецтетуер, мел ад еиус еррем патриояуе, ин цум пондерум адолесценс]]></excerpt:encoded>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Создайте свой веб-сайт за считанные минуты с помощью импорта в один клик — никаких проблем с кодированием!]]></excerpt:encoded>
 		<wp:post_id>127</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-12 13:10:50]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-14 05:43:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 13:10:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-15 06:23:44]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-15 06:23:44]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:43:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:43:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence]]></wp:post_name>
@@ -3088,7 +3709,6 @@
 										<category domain="post_tag" nicename="collection"><![CDATA[Collection]]></category>
 		<category domain="post_format" nicename="post-format-gallery"><![CDATA[Gallery]]></category>
 		<category domain="post_tag" nicename="iskra-lawrence"><![CDATA[Iskra Lawrence]]></category>
-		<category domain="category" nicename="%d0%ba%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0"><![CDATA[красота]]></category>
 		<category domain="category" nicename="%d1%84%d0%be%d1%82%d0%be%d0%b3%d1%80%d0%b0%d1%84%d0%b8%d1%8f"><![CDATA[фотография]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
@@ -3108,7 +3728,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[427]]></wp:meta_value>
+		<wp:meta_value><![CDATA[488]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
@@ -3158,6 +3778,26 @@
 		<wp:meta_key><![CDATA[covernews-meta-content-mode]]></wp:meta_key>
 		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-03-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1715777019]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1716379226]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
@@ -3183,6 +3823,31 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="wp_theme" nicename="chromenews-pro"><![CDATA[chromenews-pro]]></category>
+						</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/russian/2025/01/31/wp-global-styles-covernews-pro/</link>
+		<pubDate>Fri, 31 Jan 2025 11:19:59 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/covernews-pro/russian/2025/01/31/wp-global-styles-covernews-pro/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 3, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1095</wp:post_id>
+		<wp:post_date><![CDATA[2025-01-31 11:19:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-01-31 11:19:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-01-31 11:19:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-01-31 11:19:59]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-covernews-pro]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="covernews-pro"><![CDATA[covernews-pro]]></category>
 						</item>
 				</channel>
 </rss>

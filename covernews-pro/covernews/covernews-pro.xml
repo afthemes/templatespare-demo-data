@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.5.3" created="2024-05-21 06:10" -->
+	<!-- generator="WordPress/6.7.1" created="2025-01-28 10:02" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>CoverNews Pro</title>
 	<link>https://demos.afthemes.com/covernews-pro</link>
 	<description>The Best Newspaper theme for WordPress</description>
-	<pubDate>Tue, 21 May 2024 06:10:04 +0000</pubDate>
+	<pubDate>Tue, 28 Jan 2025 10:02:35 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.afthemes.com/covernews-pro/</wp:base_site_url>
@@ -43,6 +43,12 @@
 		<wp:category_nicename><![CDATA[business]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Business]]></wp:cat_name>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>18</wp:term_id>
+		<wp:category_nicename><![CDATA[education]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Education]]></wp:cat_name>
 	</wp:category>
 		<wp:category>
 		<wp:term_id>3</wp:term_id>
@@ -87,6 +93,12 @@
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
 		<wp:category>
+		<wp:term_id>19</wp:term_id>
+		<wp:category_nicename><![CDATA[wordpress]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[WordPress]]></wp:cat_name>
+	</wp:category>
+		<wp:category>
 		<wp:term_id>9</wp:term_id>
 		<wp:category_nicename><![CDATA[world]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
@@ -105,6 +117,41 @@
 		<wp:term_slug><![CDATA[covernews-pro]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[covernews-pro]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>18</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[education]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Education]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>20</wp:term_id>
+		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[footer-1]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Footer 1]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>21</wp:term_id>
+		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[footer-2]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Footer 2]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>22</wp:term_id>
+		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[footer-3]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Footer 3]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>23</wp:term_id>
+		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[footer-menu]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Footer Menu]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>10</wp:term_id>
@@ -133,6 +180,13 @@
 		<wp:term_slug><![CDATA[post-format-image]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Image]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>24</wp:term_id>
+		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[main-menu]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Main Menu]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>11</wp:term_id>
@@ -205,13 +259,30 @@
 		<wp:term_name><![CDATA[Video]]></wp:term_name>
 	</wp:term>
 		<wp:term>
+		<wp:term_id>19</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[wordpress]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[WordPress]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>9</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[world]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[World]]></wp:term_name>
 	</wp:term>
-			<wp:term><wp:term_id>10</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Footer menu items]]></wp:term_name>
+			<wp:term><wp:term_id>20</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer-1]]></wp:term_slug><wp:term_name><![CDATA[Footer 1]]></wp:term_name>
+</wp:term>
+	<wp:term><wp:term_id>21</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer-2]]></wp:term_slug><wp:term_name><![CDATA[Footer 2]]></wp:term_name>
+</wp:term>
+	<wp:term><wp:term_id>22</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer-3]]></wp:term_slug><wp:term_name><![CDATA[Footer 3]]></wp:term_name>
+</wp:term>
+	<wp:term><wp:term_id>23</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer-menu]]></wp:term_slug><wp:term_name><![CDATA[Footer Menu]]></wp:term_name>
+</wp:term>
+	<wp:term><wp:term_id>10</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Footer menu items]]></wp:term_name>
+</wp:term>
+	<wp:term><wp:term_id>24</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[Main Menu]]></wp:term_name>
 </wp:term>
 	<wp:term><wp:term_id>11</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Main menu items]]></wp:term_name>
 </wp:term>
@@ -220,7 +291,7 @@
 	<wp:term><wp:term_id>16</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Top menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 
 <image>
 	<url>https://demos.afthemes.com/covernews-pro/wp-content/uploads/2018/08/af-themes-main-dark-1-150x150.png</url>
@@ -280,6 +351,47 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[woocommerce-placeholder]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/woocommerce-placeholder/</link>
+		<pubDate>Mon, 10 Jun 2019 05:09:13 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/covernews-pro/wp-content/uploads/2019/06/woocommerce-placeholder.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>8</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-10 05:09:13]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-10 05:09:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-10 05:09:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-10 05:09:13]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[woocommerce-placeholder]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews-pro/wp-content/uploads/2019/06/woocommerce-placeholder.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/06/woocommerce-placeholder.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:1200;s:4:"file";s:35:"2019/06/woocommerce-placeholder.png";s:8:"filesize";i:102644;s:5:"sizes";a:9:{s:6:"medium";a:5:{s:4:"file";s:35:"woocommerce-placeholder-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:12475;}s:5:"large";a:5:{s:4:"file";s:37:"woocommerce-placeholder-1024x1024.png";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:98202;}s:9:"thumbnail";a:5:{s:4:"file";s:35:"woocommerce-placeholder-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:4204;}s:12:"medium_large";a:5:{s:4:"file";s:35:"woocommerce-placeholder-768x768.png";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:60014;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:36:"woocommerce-placeholder-1115x715.png";s:5:"width";i:1115;s:6:"height";i:715;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:111394;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:35:"woocommerce-placeholder-800x500.png";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:62029;}s:18:"covernews-featured";a:5:{s:4:"file";s:37:"woocommerce-placeholder-1024x1024.png";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:98202;}s:16:"covernews-medium";a:5:{s:4:"file";s:35:"woocommerce-placeholder-540x340.png";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:31165;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:35:"woocommerce-placeholder-400x250.png";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:18763;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[102644]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[pexels-photo-261949 (1)]]></title>
 		<link>https://demos.afthemes.com/covernews-pro/blog/2024/05/14/why-local-us-newspapers-are-sounding-the-alarm/pexels-photo-261949-1/</link>
 		<pubDate>Wed, 18 Jul 2018 11:07:22 +0000</pubDate>
@@ -325,7 +437,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -374,7 +486,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -423,7 +535,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -472,7 +584,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -521,7 +633,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -570,7 +682,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -619,7 +731,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -668,7 +780,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -717,7 +829,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		<wp:meta_value><![CDATA[12]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -766,7 +878,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -823,7 +935,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_6d248c585d3eebc9cc61fbd9d0b84477]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -872,7 +988,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -982,7 +1098,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1039,33 +1155,13 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_0ebb48d5044a316dff86f6201aa3a27d]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
-					<item>
-		<title><![CDATA[covernews-pro]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/blog/2020/04/02/covernews-pro/</link>
-		<pubDate>Thu, 02 Apr 2020 08:26:51 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/blog/2020/04/02/covernews-pro/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>153</wp:post_id>
-		<wp:post_date><![CDATA[2020-04-02 08:26:51]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-04-02 08:26:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-11-29 05:08:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-11-29 05:08:14]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[covernews-pro]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
 					<item>
 		<title><![CDATA[cropped-pexels-photo-1051574-1]]></title>
 		<link>https://demos.afthemes.com/covernews-pro/cropped-pexels-photo-1051574-1/</link>
@@ -1112,7 +1208,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1750,6 +1846,30 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[covernews-pro]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/blog/2020/04/02/covernews-pro/</link>
+		<pubDate>Thu, 02 Apr 2020 08:26:51 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/blog/2020/04/02/covernews-pro/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>153</wp:post_id>
+		<wp:post_date><![CDATA[2020-04-02 08:26:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-04-02 08:26:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-11-29 05:08:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-11-29 05:08:14]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[covernews-pro]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
 		<title><![CDATA[]]></title>
 		<link>https://demos.afthemes.com/covernews-pro/blog/2024/03/25/177/</link>
 		<pubDate>Mon, 19 Apr 2021 08:37:09 +0000</pubDate>
@@ -2161,79 +2281,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://demos.afthemes.com/covernews-pro/lifestyle/category/newsbeat/]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-04-19]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-04-21]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022-11-22]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023-04-05]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[List Layout]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/blog/2024/03/25/list-layout/</link>
-		<pubDate>Mon, 19 Apr 2021 08:37:09 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=183</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>183</wp:post_id>
-		<wp:post_date><![CDATA[2024-03-25 06:25:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-04-19 08:37:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-03-25 06:25:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-03-25 06:25:01]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[list-layout]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[178]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[183]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demos.afthemes.com/covernews-pro/wedding/category/beauty/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
@@ -3355,25 +3402,25 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Online News Pro]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/blog/2024/03/25/online-news-pro/</link>
+		<title><![CDATA[List Layout]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/blog/2024/03/25/list-layout/</link>
 		<pubDate>Mon, 19 Apr 2021 08:37:09 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=173</guid>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=183</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>173</wp:post_id>
-		<wp:post_date><![CDATA[2024-03-25 06:25:02]]></wp:post_date>
+		<wp:post_id>183</wp:post_id>
+		<wp:post_date><![CDATA[2024-03-25 06:25:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-04-19 08:37:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-03-25 06:25:02]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-03-25 06:25:02]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-03-25 06:25:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-25 06:25:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[online-news-pro]]></wp:post_name>
+		<wp:post_name><![CDATA[list-layout]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>36</wp:menu_order>
+		<wp:menu_order>4</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3384,11 +3431,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[111]]></wp:meta_value>
+		<wp:meta_value><![CDATA[178]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[173]]></wp:meta_value>
+		<wp:meta_value><![CDATA[183]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
@@ -3400,7 +3447,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demos.afthemes.com/covernews-pro/online-news/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/covernews-pro/wedding/category/beauty/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
@@ -3789,364 +3836,76 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Why local US newspapers are sounding the alarm]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/blog/2024/05/14/why-local-us-newspapers-are-sounding-the-alarm/</link>
-		<pubDate>Fri, 13 Jan 2023 11:27:36 +0000</pubDate>
+		<title><![CDATA[Online News Pro]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/blog/2024/03/25/online-news-pro/</link>
+		<pubDate>Mon, 19 Apr 2021 08:37:09 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=9</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>In the dynamic world of WordPress, we emerge as a beacon of innovation and excellence. Our popular products, like <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>, and <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, alongside powerful plugins such as <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a>, and <a href="https://elespare.com/">Elespare</a>, serve as the building blocks of your digital journey.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>We’re passionate about quality code and elegant design, ensuring your website creation is an effortless blend of sophistication and simplicity. With unwavering support from our dedicated team, you’re never alone.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"textAlign":"left"} -->
-<h2 class="wp-block-heading has-text-align-left" id="phasellus-autem-placeat-laboris-sem-cupiditate-assumenda"><a href="https://templatespare.com/">Templatespare</a>: Create Your Dream Website with Easy Starter Sites!</h2>
-<!-- /wp:heading -->
-
-<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://www.youtube.com/watch?v=t7LMDLRE8Ok
-</div></figure>
-<!-- /wp:embed -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>A beautiful collection of Ready to Import Starter Sites with just one click. Get modern &amp; creative websites in minutes!</p>
-<!-- /wp:paragraph --><cite><strong><strong>Newspaper, Magazine,&nbsp;Blog,&nbsp;and eCommerce Ready</strong></strong></cite></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading"><strong>Forget About Starting From Scratch</strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Explore a world of creativity with 365+ ready-to-use website templates! From chic blogs to dynamic news platforms, engaging magazines, and professional agency websites - find your perfect online space! </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
-<h2 class="wp-block-heading has-medium-font-size">One Click Import: No Coding Hassle! Three Simple Steps</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}}},"textColor":"black"} -->
-<p class="has-black-color has-text-color has-link-color">Embark on your website journey with simplicity and style. Follow these 3 easy steps to create your online masterpiece effortlessly</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
-<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Explore More</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:list {"ordered":true} -->
-<ol><!-- wp:list-item -->
-<li><strong>Choose a Site</strong><br>Explore a rich selection of over 350 pre-built websites. With a single click, import the site that resonates with your vision.</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>Customize &amp; Personalize</strong><br>Unleash your creativity! Customize your chosen site with complete design freedom. Tailor every element to build and personalize your website exactly the way you envision it.</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>Publish &amp; Go Live!</strong><br>With the editing and customization complete, it’s time to go live! In just minutes, your website will be ready to share with the world.</li>
-<!-- /wp:list-item --></ol>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>Join the <a href="https://afthemes.com/">AF themes</a> family, where excellence meets ease. Explore the endless possibilities and embark on your web journey with us today!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Together, we’re shaping the future of the web.</p>
-<!-- /wp:paragraph -->
-]]></content:encoded>
-		<excerpt:encoded><![CDATA[Build Your Website in Minutes with One-Click Import – No Coding Hassle!]]></excerpt:encoded>
-		<wp:post_id>9</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-14 05:43:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-01-13 11:27:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-14 05:43:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-14 05:43:49]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[why-local-us-newspapers-are-sounding-the-alarm]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="business"><![CDATA[Business]]></category>
-		<category domain="category" nicename="newsbeat"><![CDATA[Newsbeat]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[estory-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[249]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023-01-13]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_time_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1715670226]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1715888828]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Searching for the 'angel' who held me on Westminster Bridge]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/blog/2024/05/14/searching-for-the-angel-who-held-me-on-westminster-bridge/</link>
-		<pubDate>Fri, 13 Jan 2023 11:27:36 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=12</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>In the dynamic world of WordPress, we emerge as a beacon of innovation and excellence. Our popular products, like <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>, and <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, alongside powerful plugins such as <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a>, and <a href="https://elespare.com/">Elespare</a>, serve as the building blocks of your digital journey.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>We’re passionate about quality code and elegant design, ensuring your website creation is an effortless blend of sophistication and simplicity. With unwavering support from our dedicated team, you’re never alone.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"textAlign":"left"} -->
-<h2 class="wp-block-heading has-text-align-left" id="phasellus-autem-placeat-laboris-sem-cupiditate-assumenda"><a href="https://templatespare.com/">Templatespare</a>: Create Your Dream Website with Easy Starter Sites!</h2>
-<!-- /wp:heading -->
-
-<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://www.youtube.com/watch?v=t7LMDLRE8Ok
-</div></figure>
-<!-- /wp:embed -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>A beautiful collection of Ready to Import Starter Sites with just one click. Get modern &amp; creative websites in minutes!</p>
-<!-- /wp:paragraph --><cite><strong><strong>Newspaper, Magazine,&nbsp;Blog,&nbsp;and eCommerce Ready</strong></strong></cite></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading"><strong>Forget About Starting From Scratch</strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Explore a world of creativity with 365+ ready-to-use website templates! From chic blogs to dynamic news platforms, engaging magazines, and professional agency websites - find your perfect online space! </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
-<h2 class="wp-block-heading has-medium-font-size">One Click Import: No Coding Hassle! Three Simple Steps</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}}},"textColor":"black"} -->
-<p class="has-black-color has-text-color has-link-color">Embark on your website journey with simplicity and style. Follow these 3 easy steps to create your online masterpiece effortlessly</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
-<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Explore More</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:list {"ordered":true} -->
-<ol><!-- wp:list-item -->
-<li><strong>Choose a Site</strong><br>Explore a rich selection of over 350 pre-built websites. With a single click, import the site that resonates with your vision.</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>Customize &amp; Personalize</strong><br>Unleash your creativity! Customize your chosen site with complete design freedom. Tailor every element to build and personalize your website exactly the way you envision it.</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>Publish &amp; Go Live!</strong><br>With the editing and customization complete, it’s time to go live! In just minutes, your website will be ready to share with the world.</li>
-<!-- /wp:list-item --></ol>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>Join the <a href="https://afthemes.com/">AF themes</a> family, where excellence meets ease. Explore the endless possibilities and embark on your web journey with us today!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Together, we’re shaping the future of the web.</p>
-<!-- /wp:paragraph -->
-]]></content:encoded>
-		<excerpt:encoded><![CDATA[Build Your Website in Minutes with One-Click Import – No Coding Hassle!]]></excerpt:encoded>
-		<wp:post_id>12</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-14 05:43:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-01-13 11:27:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-14 05:43:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-14 05:43:49]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[searching-for-the-angel-who-held-me-on-westminster-bridge]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="stories"><![CDATA[Stories]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[13]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[estory-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[225]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023-01-13]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_time_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1715677648]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1715874196]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Home]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/</link>
-		<pubDate>Wed, 18 Jul 2018 11:55:09 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?page_id=37</guid>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=173</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>37</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-18 11:55:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-07-18 11:55:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-07-18 11:55:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-07-18 11:55:09]]></wp:post_modified_gmt>
+		<wp:post_id>173</wp:post_id>
+		<wp:post_date><![CDATA[2024-03-25 06:25:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-04-19 08:37:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-03-25 06:25:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-25 06:25:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:post_name><![CDATA[online-news-pro]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:menu_order>36</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[tmpl-front-page.php]]></wp:meta_value>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[estory-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[111]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_7f9cb5308930a6959d47c1f49bc177c4]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<blockquote class="wp-embedded-content" data-secret="VRu3cBM7I7"><a href="https://afthemes.com/">Home</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="&#8220;Home&#8221; &#8212; AF themes" src="https://afthemes.com/embed/#?secret=VRu3cBM7I7" data-secret="VRu3cBM7I7" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[173]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_time_7f9cb5308930a6959d47c1f49bc177c4]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1621580491]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Blog]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/blog/</link>
-		<pubDate>Wed, 27 Jan 2021 06:11:07 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?page_id=164</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>164</wp:post_id>
-		<wp:post_date><![CDATA[2021-01-27 06:11:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-01-27 06:11:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-01-27 06:11:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-01-27 06:11:07]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[blog]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_bj_lazy_load_skip_post]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/covernews-pro/online-news/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[covernews-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-04-19]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[covernews-meta-content-mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-04-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-11-22]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-04-05]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5234,6 +4993,450 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Pages]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/blog/2024/08/05/pages/</link>
+		<pubDate>Mon, 05 Aug 2024 11:00:51 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/covernews-pro/blog/2024/08/05/pages/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>555</wp:post_id>
+		<wp:post_date><![CDATA[2024-08-05 11:00:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-05 11:00:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-05 11:00:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-05 11:00:51]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[pages]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>7</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[555]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Terms &amp; Conditions]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/blog/2024/08/05/terms-conditions/</link>
+		<pubDate>Mon, 05 Aug 2024 11:00:51 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/covernews-pro/blog/2024/08/05/terms-conditions/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>556</wp:post_id>
+		<wp:post_date><![CDATA[2024-08-05 11:00:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-05 11:00:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-05 11:00:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-05 11:00:51]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[terms-conditions]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[556]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Special]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/blog/2024/08/05/special/</link>
+		<pubDate>Mon, 05 Aug 2024 11:00:51 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/covernews-pro/blog/2024/08/05/special/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>557</wp:post_id>
+		<wp:post_date><![CDATA[2024-08-05 11:00:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-05 11:00:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-05 11:00:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-05 11:00:51]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[special]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[557]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Why local US newspapers are sounding the alarm]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/blog/2024/05/14/why-local-us-newspapers-are-sounding-the-alarm/</link>
+		<pubDate>Fri, 13 Jan 2023 11:27:36 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=9</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>In the dynamic world of WordPress, we emerge as a beacon of innovation and excellence. Our popular products, like <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>, and <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, alongside powerful plugins such as <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a>, and <a href="https://elespare.com/">Elespare</a>, serve as the building blocks of your digital journey.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We’re passionate about quality code and elegant design, ensuring your website creation is an effortless blend of sophistication and simplicity. With unwavering support from our dedicated team, you’re never alone.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"left"} -->
+<h2 class="wp-block-heading has-text-align-left" id="phasellus-autem-placeat-laboris-sem-cupiditate-assumenda"><a href="https://templatespare.com/">Templatespare</a>: Create Your Dream Website with Easy Starter Sites!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>A beautiful collection of Ready to Import Starter Sites with just one click. Get modern &amp; creative websites in minutes!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Newspaper, Magazine,&nbsp;Blog,&nbsp;and eCommerce Ready</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong>Forget About Starting From Scratch</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Explore a world of creativity with 365+ ready-to-use website templates! From chic blogs to dynamic news platforms, engaging magazines, and professional agency websites - find your perfect online space! </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size">One Click Import: No Coding Hassle! Three Simple Steps</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}}},"textColor":"black"} -->
+<p class="has-black-color has-text-color has-link-color">Embark on your website journey with simplicity and style. Follow these 3 easy steps to create your online masterpiece effortlessly</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Explore More</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><!-- wp:list-item -->
+<li><strong>Choose a Site</strong><br>Explore a rich selection of over 350 pre-built websites. With a single click, import the site that resonates with your vision.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Customize &amp; Personalize</strong><br>Unleash your creativity! Customize your chosen site with complete design freedom. Tailor every element to build and personalize your website exactly the way you envision it.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Publish &amp; Go Live!</strong><br>With the editing and customization complete, it’s time to go live! In just minutes, your website will be ready to share with the world.</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Join the <a href="https://afthemes.com/">AF themes</a> family, where excellence meets ease. Explore the endless possibilities and embark on your web journey with us today!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Together, we’re shaping the future of the web.</p>
+<!-- /wp:paragraph -->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Build Your Website in Minutes with One-Click Import – No Coding Hassle!]]></excerpt:encoded>
+		<wp:post_id>9</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-14 05:43:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-01-13 11:27:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:43:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:43:49]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[why-local-us-newspapers-are-sounding-the-alarm]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="business"><![CDATA[Business]]></category>
+		<category domain="category" nicename="newsbeat"><![CDATA[Newsbeat]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[estory-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[461]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-01-13]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1715670226]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1715888828]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Searching for the 'angel' who held me on Westminster Bridge]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/blog/2024/05/14/searching-for-the-angel-who-held-me-on-westminster-bridge/</link>
+		<pubDate>Fri, 13 Jan 2023 11:27:36 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=12</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>In the dynamic world of WordPress, we emerge as a beacon of innovation and excellence. Our popular products, like <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>, and <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, alongside powerful plugins such as <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a>, and <a href="https://elespare.com/">Elespare</a>, serve as the building blocks of your digital journey.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We’re passionate about quality code and elegant design, ensuring your website creation is an effortless blend of sophistication and simplicity. With unwavering support from our dedicated team, you’re never alone.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"left"} -->
+<h2 class="wp-block-heading has-text-align-left" id="phasellus-autem-placeat-laboris-sem-cupiditate-assumenda"><a href="https://templatespare.com/">Templatespare</a>: Create Your Dream Website with Easy Starter Sites!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>A beautiful collection of Ready to Import Starter Sites with just one click. Get modern &amp; creative websites in minutes!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Newspaper, Magazine,&nbsp;Blog,&nbsp;and eCommerce Ready</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong>Forget About Starting From Scratch</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Explore a world of creativity with 365+ ready-to-use website templates! From chic blogs to dynamic news platforms, engaging magazines, and professional agency websites - find your perfect online space! </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size">One Click Import: No Coding Hassle! Three Simple Steps</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}}},"textColor":"black"} -->
+<p class="has-black-color has-text-color has-link-color">Embark on your website journey with simplicity and style. Follow these 3 easy steps to create your online masterpiece effortlessly</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Explore More</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><!-- wp:list-item -->
+<li><strong>Choose a Site</strong><br>Explore a rich selection of over 350 pre-built websites. With a single click, import the site that resonates with your vision.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Customize &amp; Personalize</strong><br>Unleash your creativity! Customize your chosen site with complete design freedom. Tailor every element to build and personalize your website exactly the way you envision it.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Publish &amp; Go Live!</strong><br>With the editing and customization complete, it’s time to go live! In just minutes, your website will be ready to share with the world.</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Join the <a href="https://afthemes.com/">AF themes</a> family, where excellence meets ease. Explore the endless possibilities and embark on your web journey with us today!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Together, we’re shaping the future of the web.</p>
+<!-- /wp:paragraph -->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Build Your Website in Minutes with One-Click Import – No Coding Hassle!]]></excerpt:encoded>
+		<wp:post_id>12</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-14 05:43:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-01-13 11:27:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:43:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:43:49]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[searching-for-the-angel-who-held-me-on-westminster-bridge]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="stories"><![CDATA[Stories]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[13]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[estory-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[389]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-01-13]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1715677648]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1715874196]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[All you need to know about penalty shootouts]]></title>
 		<link>https://demos.afthemes.com/covernews-pro/blog/2024/05/14/all-you-need-to-know-about-penalty-shootouts/</link>
 		<pubDate>Fri, 13 Jan 2023 11:27:36 +0000</pubDate>
@@ -5346,7 +5549,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[245]]></wp:meta_value>
+		<wp:meta_value><![CDATA[391]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
@@ -5483,7 +5686,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[251]]></wp:meta_value>
+		<wp:meta_value><![CDATA[418]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
@@ -5621,7 +5824,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[253]]></wp:meta_value>
+		<wp:meta_value><![CDATA[456]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
@@ -5758,7 +5961,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[325]]></wp:meta_value>
+		<wp:meta_value><![CDATA[537]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -5915,7 +6118,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[380]]></wp:meta_value>
+		<wp:meta_value><![CDATA[657]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpma_author]]></wp:meta_key>
@@ -6076,7 +6279,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[412]]></wp:meta_value>
+		<wp:meta_value><![CDATA[699]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpma_author]]></wp:meta_key>
@@ -6246,7 +6449,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[464]]></wp:meta_value>
+		<wp:meta_value><![CDATA[756]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpma_author]]></wp:meta_key>
@@ -6279,6 +6482,50 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1715847320]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Home]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/</link>
+		<pubDate>Wed, 18 Jul 2018 11:55:09 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?page_id=37</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>37</wp:post_id>
+		<wp:post_date><![CDATA[2018-07-18 11:55:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-07-18 11:55:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 11:55:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 11:55:09]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[tmpl-front-page.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[estory-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_7f9cb5308930a6959d47c1f49bc177c4]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<blockquote class="wp-embedded-content" data-secret="VRu3cBM7I7"><a href="https://afthemes.com/">Home</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="&#8220;Home&#8221; &#8212; AF themes" src="https://afthemes.com/embed/#?secret=VRu3cBM7I7" data-secret="VRu3cBM7I7" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_7f9cb5308930a6959d47c1f49bc177c4]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1621580491]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6396,7 +6643,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[297]]></wp:meta_value>
+		<wp:meta_value><![CDATA[524]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
@@ -6417,6 +6664,506 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1715862643]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Blog]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/blog/</link>
+		<pubDate>Wed, 27 Jan 2021 06:11:07 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?page_id=164</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>164</wp:post_id>
+		<wp:post_date><![CDATA[2021-01-27 06:11:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-01-27 06:11:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-27 06:11:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-27 06:11:07]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blog]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_bj_lazy_load_skip_post]]></wp:meta_key>
+		<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[covernews-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[covernews-meta-content-mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Privacy Policy]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/blog/2024/08/05/privacy-policy/</link>
+		<pubDate>Mon, 05 Aug 2024 11:00:51 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/covernews-pro/blog/2024/08/05/privacy-policy/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>558</wp:post_id>
+		<wp:post_date><![CDATA[2024-08-05 11:00:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-05 11:00:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-05 11:00:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-05 11:00:51]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[558]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Catalog]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/blog/2024/08/05/catalog/</link>
+		<pubDate>Mon, 05 Aug 2024 11:00:51 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/covernews-pro/blog/2024/08/05/catalog/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>559</wp:post_id>
+		<wp:post_date><![CDATA[2024-08-05 11:00:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-05 11:00:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-05 11:00:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-05 11:00:51]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[catalog]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-3"><![CDATA[Footer 3]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[559]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Career Resource Center]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/blog/2024/08/05/career-resource-center/</link>
+		<pubDate>Mon, 05 Aug 2024 11:00:51 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/covernews-pro/blog/2024/08/05/career-resource-center/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>560</wp:post_id>
+		<wp:post_date><![CDATA[2024-08-05 11:00:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-05 11:00:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-05 11:00:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-05 11:00:51]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[career-resource-center]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-3"><![CDATA[Footer 3]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[560]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Hiring Partners]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/blog/2024/08/05/hiring-partners/</link>
+		<pubDate>Mon, 05 Aug 2024 11:00:51 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/covernews-pro/blog/2024/08/05/hiring-partners/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>561</wp:post_id>
+		<wp:post_date><![CDATA[2024-08-05 11:00:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-05 11:00:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-05 11:00:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-05 11:00:51]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[hiring-partners]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-3"><![CDATA[Footer 3]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[561]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Student Success]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/blog/2024/08/05/student-success/</link>
+		<pubDate>Mon, 05 Aug 2024 11:00:51 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/covernews-pro/blog/2024/08/05/student-success/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>562</wp:post_id>
+		<wp:post_date><![CDATA[2024-08-05 11:00:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-05 11:00:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-05 11:00:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-05 11:00:51]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[student-success]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-3"><![CDATA[Footer 3]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[562]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Udacity Connect]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/blog/2024/08/05/udacity-connect/</link>
+		<pubDate>Mon, 05 Aug 2024 11:00:51 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/covernews-pro/blog/2024/08/05/udacity-connect/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>563</wp:post_id>
+		<wp:post_date><![CDATA[2024-08-05 11:00:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-05 11:00:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-05 11:00:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-05 11:00:51]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[udacity-connect]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-3"><![CDATA[Footer 3]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[563]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Udacity Talks]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/blog/2024/08/05/udacity-talks/</link>
+		<pubDate>Mon, 05 Aug 2024 11:00:51 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/covernews-pro/blog/2024/08/05/udacity-talks/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>564</wp:post_id>
+		<wp:post_date><![CDATA[2024-08-05 11:00:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-05 11:00:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-05 11:00:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-05 11:00:51]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[udacity-talks]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>6</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-3"><![CDATA[Footer 3]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[564]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Scholarships]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/blog/2024/08/05/scholarships/</link>
+		<pubDate>Mon, 05 Aug 2024 11:00:51 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/covernews-pro/blog/2024/08/05/scholarships/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>565</wp:post_id>
+		<wp:post_date><![CDATA[2024-08-05 11:00:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-05 11:00:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-05 11:00:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-05 11:00:51]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[scholarships]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>7</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-3"><![CDATA[Footer 3]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[565]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>

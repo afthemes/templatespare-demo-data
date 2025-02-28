@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.4.2" created="2024-01-03 06:39" -->
+	<!-- generator="WordPress/6.7.1" created="2025-02-03 10:51" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>アニメ</title>
 	<link>https://demos.afthemes.com/covernews-pro/japanese</link>
 	<description></description>
-	<pubDate>Wed, 03 Jan 2024 06:39:28 +0000</pubDate>
+	<pubDate>Mon, 03 Feb 2025 10:51:37 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.afthemes.com/covernews-pro/</wp:base_site_url>
@@ -185,7 +185,7 @@
 	<wp:term><wp:term_id>13</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu]]></wp:term_slug><wp:term_name><![CDATA[Top menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 
 		<item>
 		<title><![CDATA[banner-promotions]]></title>
@@ -226,7 +226,7 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-mali-maeder-69378]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/japanese/2018/03/12/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/pexels-mali-maeder-69378/</link>
+		<link>https://demos.afthemes.com/covernews-pro/japanese/2024/05/14/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/pexels-mali-maeder-69378/</link>
 		<pubDate>Mon, 07 Aug 2023 08:13:28 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/reviewnews-pro/japanese/wp-content/uploads/sites/10/2018/03/pexels-mali-maeder-69378.jpg</guid>
@@ -259,7 +259,7 @@
 							</item>
 					<item>
 		<title><![CDATA[janos-venczak-EmDe2QylecI-unsplash]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/japanese/2018/03/12/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/janos-venczak-emde2qyleci-unsplash/</link>
+		<link>https://demos.afthemes.com/covernews-pro/japanese/2024/05/14/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/janos-venczak-emde2qyleci-unsplash/</link>
 		<pubDate>Mon, 07 Aug 2023 08:27:29 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/reviewnews-pro/japanese/wp-content/uploads/sites/10/2018/03/janos-venczak-EmDe2QylecI-unsplash.jpg</guid>
@@ -292,7 +292,7 @@
 							</item>
 					<item>
 		<title><![CDATA[amit-pritam-zGauHvuh2M0-unsplash]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/japanese/2018/03/12/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/amit-pritam-zgauhvuh2m0-unsplash/</link>
+		<link>https://demos.afthemes.com/covernews-pro/japanese/2024/05/14/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/amit-pritam-zgauhvuh2m0-unsplash/</link>
 		<pubDate>Mon, 07 Aug 2023 08:28:17 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/reviewnews-pro/japanese/wp-content/uploads/sites/10/2023/08/amit-pritam-zGauHvuh2M0-unsplash.jpg</guid>
@@ -325,7 +325,7 @@
 							</item>
 					<item>
 		<title><![CDATA[aaron-cass-GJuhDRbMj7g-unsplash]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/japanese/2018/03/12/perms-are-coming-back-but-theyre-getting-a-modern-makeover/aaron-cass-gjuhdrbmj7g-unsplash/</link>
+		<link>https://demos.afthemes.com/covernews-pro/japanese/2024/05/14/perms-are-coming-back-but-theyre-getting-a-modern-makeover/aaron-cass-gjuhdrbmj7g-unsplash/</link>
 		<pubDate>Mon, 07 Aug 2023 10:02:55 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/reviewnews-pro/japanese/wp-content/uploads/sites/10/2018/03/aaron-cass-GJuhDRbMj7g-unsplash.jpg</guid>
@@ -358,7 +358,7 @@
 							</item>
 					<item>
 		<title><![CDATA[linli-xu-E1_U3UN1Kfs-unsplash]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/japanese/2018/03/12/dont-call-demi-lovato-a-bad-girl-shes-just-speaking-out/linli-xu-e1_u3un1kfs-unsplash/</link>
+		<link>https://demos.afthemes.com/covernews-pro/japanese/2024/05/14/dont-call-demi-lovato-a-bad-girl-shes-just-speaking-out/linli-xu-e1_u3un1kfs-unsplash/</link>
 		<pubDate>Mon, 07 Aug 2023 10:05:14 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/reviewnews-pro/japanese/wp-content/uploads/sites/10/2018/03/linli-xu-E1_U3UN1Kfs-unsplash.jpg</guid>
@@ -391,7 +391,7 @@
 							</item>
 					<item>
 		<title><![CDATA[aung-khant-maung-F0gbS7Wjz2c-unsplash]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/japanese/2018/03/12/gisele-bundchen-cant-stop-wearing-these-retro-jeans-to-the-airport/aung-khant-maung-f0gbs7wjz2c-unsplash/</link>
+		<link>https://demos.afthemes.com/covernews-pro/japanese/2024/05/14/gisele-bundchen-cant-stop-wearing-these-retro-jeans-to-the-airport/aung-khant-maung-f0gbs7wjz2c-unsplash/</link>
 		<pubDate>Mon, 07 Aug 2023 10:09:02 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/reviewnews-pro/japanese/wp-content/uploads/sites/10/2018/03/aung-khant-maung-F0gbS7Wjz2c-unsplash.jpg</guid>
@@ -424,7 +424,7 @@
 							</item>
 					<item>
 		<title><![CDATA[maha-khairy-3uuLWb6aQXc-unsplash]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/japanese/2018/03/12/the-beauty-products-chrissy-teigen-cant-travel-without/maha-khairy-3uulwb6aqxc-unsplash/</link>
+		<link>https://demos.afthemes.com/covernews-pro/japanese/2024/05/14/the-beauty-products-chrissy-teigen-cant-travel-without/maha-khairy-3uulwb6aqxc-unsplash/</link>
 		<pubDate>Mon, 07 Aug 2023 10:12:00 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/reviewnews-pro/japanese/wp-content/uploads/sites/10/2018/03/maha-khairy-3uuLWb6aQXc-unsplash.jpg</guid>
@@ -457,7 +457,7 @@
 							</item>
 					<item>
 		<title><![CDATA[ryan-yao-VURwPtZqyF4-unsplash]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/japanese/2018/03/12/if-you-have-5-zendaya-found-the-spring-collection-your-wardrobe-needs/ryan-yao-vurwptzqyf4-unsplash/</link>
+		<link>https://demos.afthemes.com/covernews-pro/japanese/2024/05/14/if-you-have-5-zendaya-found-the-spring-collection-your-wardrobe-needs/ryan-yao-vurwptzqyf4-unsplash/</link>
 		<pubDate>Mon, 07 Aug 2023 10:17:35 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/reviewnews-pro/japanese/wp-content/uploads/sites/10/2018/03/ryan-yao-VURwPtZqyF4-unsplash.jpg</guid>
@@ -487,10 +487,14 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1707;s:6:"height";i:2560;s:4:"file";s:50:"2018/03/ryan-yao-VURwPtZqyF4-unsplash-scaled-1.jpg";s:8:"filesize";i:281796;s:5:"sizes";a:11:{s:6:"medium";a:5:{s:4:"file";s:50:"ryan-yao-VURwPtZqyF4-unsplash-scaled-1-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6748;}s:5:"large";a:5:{s:4:"file";s:51:"ryan-yao-VURwPtZqyF4-unsplash-scaled-1-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:43869;}s:9:"thumbnail";a:5:{s:4:"file";s:50:"ryan-yao-VURwPtZqyF4-unsplash-scaled-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3488;}s:12:"medium_large";a:5:{s:4:"file";s:51:"ryan-yao-VURwPtZqyF4-unsplash-scaled-1-768x1152.jpg";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:54309;}s:9:"1536x1536";a:5:{s:4:"file";s:52:"ryan-yao-VURwPtZqyF4-unsplash-scaled-1-1024x1536.jpg";s:5:"width";i:1024;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:96194;}s:9:"2048x2048";a:5:{s:4:"file";s:52:"ryan-yao-VURwPtZqyF4-unsplash-scaled-1-1366x2048.jpg";s:5:"width";i:1366;s:6:"height";i:2048;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:173073;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:51:"ryan-yao-VURwPtZqyF4-unsplash-scaled-1-1115x715.jpg";s:5:"width";i:1115;s:6:"height";i:715;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:53725;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:50:"ryan-yao-VURwPtZqyF4-unsplash-scaled-1-800x500.jpg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:28281;}s:18:"covernews-featured";a:5:{s:4:"file";s:52:"ryan-yao-VURwPtZqyF4-unsplash-scaled-1-1024x1536.jpg";s:5:"width";i:1024;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:96194;}s:16:"covernews-medium";a:5:{s:4:"file";s:50:"ryan-yao-VURwPtZqyF4-unsplash-scaled-1-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14800;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:50:"ryan-yao-VURwPtZqyF4-unsplash-scaled-1-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9353;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_is_custom_background]]></wp:meta_key>
+		<wp:meta_value><![CDATA[covernews-pro]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[anton-maksimov-5642-su-3dnZdTseNKg-unsplash]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/japanese/2018/03/12/how-to-create-adjustment-layers-based-on-color-in-capture-one-9/anton-maksimov-5642-su-3dnzdtsenkg-unsplash/</link>
+		<link>https://demos.afthemes.com/covernews-pro/japanese/2024/05/14/how-to-create-adjustment-layers-based-on-color-in-capture-one-9/anton-maksimov-5642-su-3dnzdtsenkg-unsplash/</link>
 		<pubDate>Mon, 07 Aug 2023 10:19:48 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/reviewnews-pro/japanese/wp-content/uploads/sites/10/2018/03/anton-maksimov-5642-su-3dnZdTseNKg-unsplash.jpg</guid>
@@ -523,7 +527,7 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-quyn-phạm-12551742]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/japanese/2018/03/12/finlands-downs-model-maija-mattila-makes-strides-on-catwalk/pexels-quyn-pham-12551742/</link>
+		<link>https://demos.afthemes.com/covernews-pro/japanese/2024/05/14/finlands-downs-model-maija-mattila-makes-strides-on-catwalk/pexels-quyn-pham-12551742/</link>
 		<pubDate>Mon, 07 Aug 2023 10:26:27 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/reviewnews-pro/japanese/wp-content/uploads/sites/10/2018/03/pexels-quyn-pham-12551742.jpg</guid>
@@ -556,7 +560,7 @@
 							</item>
 					<item>
 		<title><![CDATA[kadyn-pierce-49X42qrgUmQ-unsplash]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/japanese/2018/03/06/meet-jo-jo-body-positive-model-and-cousin-of-gigi-and-bella/kadyn-pierce-49x42qrgumq-unsplash/</link>
+		<link>https://demos.afthemes.com/covernews-pro/japanese/2024/05/14/meet-jo-jo-body-positive-model-and-cousin-of-gigi-and-bella/kadyn-pierce-49x42qrgumq-unsplash/</link>
 		<pubDate>Mon, 07 Aug 2023 10:30:49 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/reviewnews-pro/japanese/wp-content/uploads/sites/10/2018/03/kadyn-pierce-49X42qrgUmQ-unsplash.jpg</guid>
@@ -589,7 +593,7 @@
 							</item>
 					<item>
 		<title><![CDATA[jeet-dhanoa-sR1BaDlRSKM-unsplash]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/japanese/2018/03/06/valentino-goes-deliberately-feminine-for-fall-2018/jeet-dhanoa-sr1badlrskm-unsplash/</link>
+		<link>https://demos.afthemes.com/covernews-pro/japanese/2024/05/14/valentino-goes-deliberately-feminine-for-fall-2018/jeet-dhanoa-sr1badlrskm-unsplash/</link>
 		<pubDate>Mon, 07 Aug 2023 10:35:27 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/reviewnews-pro/japanese/wp-content/uploads/sites/10/2018/03/jeet-dhanoa-sR1BaDlRSKM-unsplash.jpg</guid>
@@ -754,7 +758,7 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-cottonbro-studio-7780086 (1)]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/japanese/2018/03/12/dont-call-demi-lovato-a-bad-girl-shes-just-speaking-out/pexels-cottonbro-studio-7780086-1/</link>
+		<link>https://demos.afthemes.com/covernews-pro/japanese/2024/05/14/dont-call-demi-lovato-a-bad-girl-shes-just-speaking-out/pexels-cottonbro-studio-7780086-1/</link>
 		<pubDate>Wed, 13 Dec 2023 10:31:27 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/chromenews-pro/japanese/wp-content/uploads/sites/32/2018/03/pexels-cottonbro-studio-7780086-1.jpg</guid>
@@ -787,7 +791,7 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-meijii-1340903]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/japanese/2018/03/12/if-you-have-5-zendaya-found-the-spring-collection-your-wardrobe-needs/pexels-meijii-1340903/</link>
+		<link>https://demos.afthemes.com/covernews-pro/japanese/2024/05/14/if-you-have-5-zendaya-found-the-spring-collection-your-wardrobe-needs/pexels-meijii-1340903/</link>
 		<pubDate>Wed, 13 Dec 2023 10:36:38 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/chromenews-pro/japanese/wp-content/uploads/sites/32/2018/03/pexels-meijii-1340903.jpg</guid>
@@ -819,48 +823,36 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[cropped-pexels-cottonbro-studio-7780086-1.jpg]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/japanese/cropped-pexels-cottonbro-studio-7780086-1-jpg/</link>
-		<pubDate>Mon, 18 Dec 2023 05:49:56 +0000</pubDate>
+		<title><![CDATA[blue banner]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/japanese/blue-banner/</link>
+		<pubDate>Wed, 03 Jan 2024 05:53:39 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demos.afthemes.com/covernews-pro/japanese/wp-content/uploads/sites/28/2018/03/cropped-pexels-cottonbro-studio-7780086-1.jpg</guid>
+		<guid isPermaLink="false">https://demos.afthemes.com/covernews-pro/japanese/wp-content/uploads/sites/28/2024/01/blue-banner.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>414</wp:post_id>
-		<wp:post_date><![CDATA[2023-12-18 05:49:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-12-18 05:49:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-18 05:49:56]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-18 05:49:56]]></wp:post_modified_gmt>
+		<wp:post_id>433</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-03 05:53:39]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-03 05:53:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-01-03 05:53:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-01-03 05:53:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-pexels-cottonbro-studio-7780086-1-jpg]]></wp:post_name>
+		<wp:post_name><![CDATA[blue-banner]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews-pro/japanese/wp-content/uploads/sites/28/2018/03/cropped-pexels-cottonbro-studio-7780086-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews-pro/japanese/wp-content/uploads/sites/28/2024/01/blue-banner.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/03/cropped-pexels-cottonbro-studio-7780086-1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2024/01/blue-banner.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:5:"width";i:1900;s:6:"height";i:598;s:4:"file";s:53:"2018/03/cropped-pexels-cottonbro-studio-7780086-1.jpg";s:8:"filesize";i:83432;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:52:"cropped-pexels-cottonbro-studio-7780086-1-300x94.jpg";s:5:"width";i:300;s:6:"height";i:94;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5438;}s:5:"large";a:5:{s:4:"file";s:54:"cropped-pexels-cottonbro-studio-7780086-1-1024x322.jpg";s:5:"width";i:1024;s:6:"height";i:322;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:33678;}s:9:"thumbnail";a:5:{s:4:"file";s:53:"cropped-pexels-cottonbro-studio-7780086-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3154;}s:12:"medium_large";a:5:{s:4:"file";s:53:"cropped-pexels-cottonbro-studio-7780086-1-768x242.jpg";s:5:"width";i:768;s:6:"height";i:242;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:22224;}s:9:"1536x1536";a:5:{s:4:"file";s:54:"cropped-pexels-cottonbro-studio-7780086-1-1536x483.jpg";s:5:"width";i:1536;s:6:"height";i:483;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:59914;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:54:"cropped-pexels-cottonbro-studio-7780086-1-1115x598.jpg";s:5:"width";i:1115;s:6:"height";i:598;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:42302;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:53:"cropped-pexels-cottonbro-studio-7780086-1-800x500.jpg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:25653;}s:18:"covernews-featured";a:5:{s:4:"file";s:54:"cropped-pexels-cottonbro-studio-7780086-1-1024x322.jpg";s:5:"width";i:1024;s:6:"height";i:322;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:33678;}s:16:"covernews-medium";a:5:{s:4:"file";s:53:"cropped-pexels-cottonbro-studio-7780086-1-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14539;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:53:"cropped-pexels-cottonbro-studio-7780086-1-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9295;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:17:"attachment_parent";i:401;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_covernews-pro]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1702878776]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[covernews-pro]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1170;s:6:"height";i:125;s:4:"file";s:23:"2024/01/blue-banner.png";s:8:"filesize";i:32025;s:5:"sizes";a:9:{s:6:"medium";a:5:{s:4:"file";s:22:"blue-banner-300x32.png";s:5:"width";i:300;s:6:"height";i:32;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:8264;}s:5:"large";a:5:{s:4:"file";s:24:"blue-banner-1024x109.png";s:5:"width";i:1024;s:6:"height";i:109;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:37502;}s:9:"thumbnail";a:5:{s:4:"file";s:23:"blue-banner-150x125.png";s:5:"width";i:150;s:6:"height";i:125;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:7052;}s:12:"medium_large";a:5:{s:4:"file";s:22:"blue-banner-768x82.png";s:5:"width";i:768;s:6:"height";i:82;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:26512;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:24:"blue-banner-1115x125.png";s:5:"width";i:1115;s:6:"height";i:125;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:32400;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:23:"blue-banner-800x125.png";s:5:"width";i:800;s:6:"height";i:125;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:24229;}s:18:"covernews-featured";a:5:{s:4:"file";s:24:"blue-banner-1024x109.png";s:5:"width";i:1024;s:6:"height";i:109;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:37502;}s:16:"covernews-medium";a:5:{s:4:"file";s:23:"blue-banner-540x125.png";s:5:"width";i:540;s:6:"height";i:125;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:16599;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:23:"blue-banner-400x125.png";s:5:"width";i:400;s:6:"height";i:125;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:12390;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -933,314 +925,6 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
-					<item>
-		<title><![CDATA[故・神田沙也加に代わって松田利冴が『ソードアート・オンライン ラスト・リコレクション』ユナ役で出演]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/japanese/2018/03/06/valentino-goes-deliberately-feminine-for-fall-2018/</link>
-		<pubDate>Tue, 06 Mar 2018 09:51:48 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=46</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">位于石川县金泽市的国立工艺馆目前正在举办一场别具一格的展览会。展览会以宝可梦游戏中登场的角色为主题，汇集了用日本传统工艺塑造的宝可梦作品。2023年3月21日，展览会首日的参观人数达到了国立工艺馆从东京迁至金泽以来的最高水平，其中许多参观者来自国外。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:cover {"url":"https://demos.afthemes.com/covernews-pro/japanese/wp-content/uploads/sites/28/2018/03/janos-venczak-EmDe2QylecI-unsplash.jpg","id":308,"dimRatio":80,"overlayColor":"black","align":"wide","className":"has-background-dim-NaN"} -->
-<div class="wp-block-cover alignwide has-background-dim-NaN"><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-80 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-308" alt="" src="https://demos.afthemes.com/covernews-pro/japanese/wp-content/uploads/sites/28/2018/03/janos-venczak-EmDe2QylecI-unsplash.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center","textColor":"white"} -->
-<h2 class="wp-block-heading has-text-align-center has-white-color has-text-color" id="lorem-ipsum-dolor-sit-amet">位于石川县金泽市的国立工艺馆目前正在举办</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"align":"center","textColor":"white"} -->
-<p class="has-text-align-center has-white-color has-text-color">位于石川县金泽市的国立工艺馆目前正在举办一场别具一格的展览会。展览会以宝可梦游戏中登场的角色为主题，汇集了用日本传统工艺塑造的宝可梦作品。2023年3月21日，展览会首日的参观人数达到了国立工艺馆从东京迁至金泽以来的最高水平，其中许多参观者来自国外。</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:cover -->
-
-<!-- wp:paragraph {"dropCap":true,"placeholder":"Content…","backgroundColor":"very-dark-gray","textColor":"luminous-vivid-amber"} -->
-<p class="has-drop-cap has-luminous-vivid-amber-color has-very-dark-gray-background-color has-text-color has-background">在江户时代，石川县是一个繁荣昌盛之处。为了让日本传统工艺文化扎根于当地，当地从京都邀请来各行工匠发展传统工艺。在日本，现今很少有地区能使用当地产品配全整套茶道器具，而石川则是为数不多的地区之一。并且，这里至今仍有传授传统工艺的教育机构。这些教育机构定期向社会输送工艺人才。石川是一个充满传统文化底蕴的地区，这也正是国立工艺馆从东京迁址至此的主要原因。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":1108,"sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image size-large"><a href="https://afthemes.com/products/chromenews-pro/" target="_blank" rel="noreferrer noopener"><img src="https://demos.afthemes.com/chromenews/wp-content/uploads/2022/09/content-yellow-1024x109.png" alt="" class="wp-image-1108"/></a></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center" id="phasellus-autem-placeat-laboris-sem-cupiditate-assumenda">在江户时代，石川县是一个繁荣昌盛之处</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"backgroundColor":"vivid-red","textColor":"very-light-gray"} -->
-<p class="has-very-light-gray-color has-vivid-red-background-color has-text-color has-background">在江户时代，石川县是一个繁荣昌盛之处。为了让日本传统工艺文化扎根于当地，当地从京都邀请来各行工匠发展传统工艺。在日本，现今很少有地区能使用当地产品配全整套茶道器具，而石川则是为数不多的地区之一。并且，这里至今仍有传授传统工艺的教育机构。这些教育机构定期向社会输送工艺人才。石川是一个充满传统文化底蕴的地区，这也正是国立工艺馆从东京迁址至此的主要原因。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>须藤设计的蕾丝花边还包括蕨类植物、藤蔓植物、叶状植物、蘑菇和花朵等多种花样。她先用线条勾勒出花样图，将其做成剪纸底样。然后，她委托工厂在由石灰成分制成的底布上按剪纸底样机绣花样，再进行冲洗处理去除底布，取留下来的机绣花样制成900条蕾丝花边。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>金工艺术家吉田泰一郎创作了数款伊布家族成员的雕塑作品。其中，作品雷伊布采用了镀金和镀银工艺，作品火伊布采用了传统“绯铜”工艺。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>该展览会不仅展出宝可梦精灵，还展出与宝可梦游戏攻略招式有关的作品。玻璃艺术家新实广记试图通过作品表现攻略招式冰柱坠击。</p>
-<!-- /wp:paragraph --><cite>一位金工艺术大师接受了参展提议，他希望通过宝可梦让人们了解他的金工艺术。<br></cite></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:image {"align":"full","id":310,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image alignfull size-large"><img src="https://demos.afthemes.com/reviewnews-pro/japanese/wp-content/uploads/sites/10/2023/08/amit-pritam-zGauHvuh2M0-unsplash-1024x563.jpg" alt="" class="wp-image-310"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-<p>国立工艺馆提供英语、汉语、韩语和日语等多种语言的讲解导览服务。参观者可以通过扫二维码获取语音导览服务。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>国立工艺馆馆长唐泽昌宏在谈及对展览会的期盼时表示：“我希望通过闻名于世的宝可梦，让更多的人对辉煌的日本工艺形成认知，了解其深厚的文化底蕴。”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>展览会持续至2023年6月11日。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"textColor":"vivid-red"} -->
-<h2 class="wp-block-heading has-vivid-red-color has-text-color" id="some-useful-links">いくつかの役立つリンク</h2>
-<!-- /wp:heading -->
-
-<!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading" id="totam-elit-laboris-eu-donec-consectetuer-litora-adipisci-praesent-convallis-augue">桂大师表示：“原本在家里用的所有的东西都可称之为工艺品</h4>
-<!-- /wp:heading -->
-
-<!-- wp:preformatted -->
-<pre id="tw-target-text" class="wp-block-preformatted">タグ クラウド</pre>
-<!-- /wp:preformatted -->
-
-<!-- wp:tag-cloud /-->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="latest-posts">最新の投稿</h3>
-<!-- /wp:heading -->
-
-<!-- wp:latest-posts /--></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:group -->
-<div class="wp-block-group"><!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="categories">カテゴリー</h3>
-<!-- /wp:heading -->
-
-<!-- wp:categories {"showPostCounts":true} /--></div>
-<!-- /wp:group -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[位于石川县金泽市的国立工艺馆目前正在举办一场别具一格的展览会。展览会以宝可梦游戏中登场的角色为主题，汇集了用日本传统工艺塑造的宝可梦作品。]]></excerpt:encoded>
-		<wp:post_id>46</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-06 09:51:48]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-06 09:51:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-18 05:45:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-18 05:45:38]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[valentino-goes-deliberately-feminine-for-fall-2018]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="%e3%83%88%e3%83%ac%e3%83%b3%e3%83%89"><![CDATA[トレンド]]></category>
-		<category domain="category" nicename="%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9"><![CDATA[ニュース]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[348]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
-		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[reviewnews-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[reviewnews-meta-content-mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-content-mode-compact]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[アニメ『範馬刃牙』シーズン2の予告編でさらなるキャストメンバーが明らかに]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/japanese/2018/03/06/meet-jo-jo-body-positive-model-and-cousin-of-gigi-and-bella/</link>
-		<pubDate>Tue, 06 Mar 2018 09:53:50 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=48</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">位于石川县金泽市的国立工艺馆目前正在举办一场别具一格的展览会。展览会以宝可梦游戏中登场的角色为主题，汇集了用日本传统工艺塑造的宝可梦作品。2023年3月21日，展览会首日的参观人数达到了国立工艺馆从东京迁至金泽以来的最高水平，其中许多参观者来自国外。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:cover {"url":"https://demos.afthemes.com/covernews-pro/japanese/wp-content/uploads/sites/28/2018/03/janos-venczak-EmDe2QylecI-unsplash.jpg","id":308,"dimRatio":80,"overlayColor":"black","align":"wide","className":"has-background-dim-NaN"} -->
-<div class="wp-block-cover alignwide has-background-dim-NaN"><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-80 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-308" alt="" src="https://demos.afthemes.com/covernews-pro/japanese/wp-content/uploads/sites/28/2018/03/janos-venczak-EmDe2QylecI-unsplash.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center","textColor":"white"} -->
-<h2 class="wp-block-heading has-text-align-center has-white-color has-text-color" id="lorem-ipsum-dolor-sit-amet">位于石川县金泽市的国立工艺馆目前正在举办</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"align":"center","textColor":"white"} -->
-<p class="has-text-align-center has-white-color has-text-color">位于石川县金泽市的国立工艺馆目前正在举办一场别具一格的展览会。展览会以宝可梦游戏中登场的角色为主题，汇集了用日本传统工艺塑造的宝可梦作品。2023年3月21日，展览会首日的参观人数达到了国立工艺馆从东京迁至金泽以来的最高水平，其中许多参观者来自国外。</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:cover -->
-
-<!-- wp:paragraph {"dropCap":true,"placeholder":"Content…","backgroundColor":"very-dark-gray","textColor":"luminous-vivid-amber"} -->
-<p class="has-drop-cap has-luminous-vivid-amber-color has-very-dark-gray-background-color has-text-color has-background">在江户时代，石川县是一个繁荣昌盛之处。为了让日本传统工艺文化扎根于当地，当地从京都邀请来各行工匠发展传统工艺。在日本，现今很少有地区能使用当地产品配全整套茶道器具，而石川则是为数不多的地区之一。并且，这里至今仍有传授传统工艺的教育机构。这些教育机构定期向社会输送工艺人才。石川是一个充满传统文化底蕴的地区，这也正是国立工艺馆从东京迁址至此的主要原因。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":1108,"sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image size-large"><a href="https://afthemes.com/products/chromenews-pro/" target="_blank" rel="noreferrer noopener"><img src="https://demos.afthemes.com/chromenews/wp-content/uploads/2022/09/content-yellow-1024x109.png" alt="" class="wp-image-1108"/></a></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center" id="phasellus-autem-placeat-laboris-sem-cupiditate-assumenda">在江户时代，石川县是一个繁荣昌盛之处</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"backgroundColor":"vivid-red","textColor":"very-light-gray"} -->
-<p class="has-very-light-gray-color has-vivid-red-background-color has-text-color has-background">在江户时代，石川县是一个繁荣昌盛之处。为了让日本传统工艺文化扎根于当地，当地从京都邀请来各行工匠发展传统工艺。在日本，现今很少有地区能使用当地产品配全整套茶道器具，而石川则是为数不多的地区之一。并且，这里至今仍有传授传统工艺的教育机构。这些教育机构定期向社会输送工艺人才。石川是一个充满传统文化底蕴的地区，这也正是国立工艺馆从东京迁址至此的主要原因。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>须藤设计的蕾丝花边还包括蕨类植物、藤蔓植物、叶状植物、蘑菇和花朵等多种花样。她先用线条勾勒出花样图，将其做成剪纸底样。然后，她委托工厂在由石灰成分制成的底布上按剪纸底样机绣花样，再进行冲洗处理去除底布，取留下来的机绣花样制成900条蕾丝花边。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>金工艺术家吉田泰一郎创作了数款伊布家族成员的雕塑作品。其中，作品雷伊布采用了镀金和镀银工艺，作品火伊布采用了传统“绯铜”工艺。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>该展览会不仅展出宝可梦精灵，还展出与宝可梦游戏攻略招式有关的作品。玻璃艺术家新实广记试图通过作品表现攻略招式冰柱坠击。</p>
-<!-- /wp:paragraph --><cite>一位金工艺术大师接受了参展提议，他希望通过宝可梦让人们了解他的金工艺术。<br></cite></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:image {"align":"full","id":310,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image alignfull size-large"><img src="https://demos.afthemes.com/reviewnews-pro/japanese/wp-content/uploads/sites/10/2023/08/amit-pritam-zGauHvuh2M0-unsplash-1024x563.jpg" alt="" class="wp-image-310"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-<p>国立工艺馆提供英语、汉语、韩语和日语等多种语言的讲解导览服务。参观者可以通过扫二维码获取语音导览服务。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>国立工艺馆馆长唐泽昌宏在谈及对展览会的期盼时表示：“我希望通过闻名于世的宝可梦，让更多的人对辉煌的日本工艺形成认知，了解其深厚的文化底蕴。”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>展览会持续至2023年6月11日。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"textColor":"vivid-red"} -->
-<h2 class="wp-block-heading has-vivid-red-color has-text-color" id="some-useful-links">いくつかの役立つリンク</h2>
-<!-- /wp:heading -->
-
-<!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading" id="totam-elit-laboris-eu-donec-consectetuer-litora-adipisci-praesent-convallis-augue">桂大师表示：“原本在家里用的所有的东西都可称之为工艺品</h4>
-<!-- /wp:heading -->
-
-<!-- wp:preformatted -->
-<pre id="tw-target-text" class="wp-block-preformatted">タグ クラウド</pre>
-<!-- /wp:preformatted -->
-
-<!-- wp:tag-cloud /-->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="latest-posts">最新の投稿</h3>
-<!-- /wp:heading -->
-
-<!-- wp:latest-posts /--></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:group -->
-<div class="wp-block-group"><!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="categories">カテゴリー</h3>
-<!-- /wp:heading -->
-
-<!-- wp:categories {"showPostCounts":true} /--></div>
-<!-- /wp:group -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[位于石川县金泽市的国立工艺馆目前正在举办一场别具一格的展览会。展览会以宝可梦游戏中登场的角色为主题，汇集了用日本传统工艺塑造的宝可梦作品]]></excerpt:encoded>
-		<wp:post_id>48</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-06 09:53:50]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-06 09:53:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-18 05:45:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-18 05:45:38]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[meet-jo-jo-body-positive-model-and-cousin-of-gigi-and-bella]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="%e3%83%88%e3%83%ac%e3%83%b3%e3%83%89"><![CDATA[トレンド]]></category>
-		<category domain="category" nicename="%e5%86%92%e9%99%ba"><![CDATA[冒険]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[344]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
-		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_bj_lazy_load_skip_post]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
-		<wp:meta_value><![CDATA[43]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[60]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[reviewnews-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[reviewnews-meta-content-mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-content-mode-compact]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
 					<item>
 		<title><![CDATA[Facebook]]></title>
 		<link>https://demos.afthemes.com/covernews-pro/japanese/2018/03/06/facebook/</link>
@@ -1464,156 +1148,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://vimeo.com]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[アンデッド少女殺人茶番小説作家、青崎有吾氏が新作漫画を発表]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/japanese/2018/03/12/finlands-downs-model-maija-mattila-makes-strides-on-catwalk/</link>
-		<pubDate>Mon, 12 Mar 2018 11:25:46 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=82</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">位于石川县金泽市的国立工艺馆目前正在举办一场别具一格的展览会。展览会以宝可梦游戏中登场的角色为主题，汇集了用日本传统工艺塑造的宝可梦作品。2023年3月21日，展览会首日的参观人数达到了国立工艺馆从东京迁至金泽以来的最高水平，其中许多参观者来自国外。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:cover {"url":"https://demos.afthemes.com/covernews-pro/japanese/wp-content/uploads/sites/28/2018/03/janos-venczak-EmDe2QylecI-unsplash.jpg","id":308,"dimRatio":80,"overlayColor":"black","align":"wide","className":"has-background-dim-NaN"} -->
-<div class="wp-block-cover alignwide has-background-dim-NaN"><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-80 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-308" alt="" src="https://demos.afthemes.com/covernews-pro/japanese/wp-content/uploads/sites/28/2018/03/janos-venczak-EmDe2QylecI-unsplash.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center","textColor":"white"} -->
-<h2 class="wp-block-heading has-text-align-center has-white-color has-text-color" id="lorem-ipsum-dolor-sit-amet">位于石川县金泽市的国立工艺馆目前正在举办</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"align":"center","textColor":"white"} -->
-<p class="has-text-align-center has-white-color has-text-color">位于石川县金泽市的国立工艺馆目前正在举办一场别具一格的展览会。展览会以宝可梦游戏中登场的角色为主题，汇集了用日本传统工艺塑造的宝可梦作品。2023年3月21日，展览会首日的参观人数达到了国立工艺馆从东京迁至金泽以来的最高水平，其中许多参观者来自国外。</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:cover -->
-
-<!-- wp:paragraph {"dropCap":true,"placeholder":"Content…","backgroundColor":"very-dark-gray","textColor":"luminous-vivid-amber"} -->
-<p class="has-drop-cap has-luminous-vivid-amber-color has-very-dark-gray-background-color has-text-color has-background">在江户时代，石川县是一个繁荣昌盛之处。为了让日本传统工艺文化扎根于当地，当地从京都邀请来各行工匠发展传统工艺。在日本，现今很少有地区能使用当地产品配全整套茶道器具，而石川则是为数不多的地区之一。并且，这里至今仍有传授传统工艺的教育机构。这些教育机构定期向社会输送工艺人才。石川是一个充满传统文化底蕴的地区，这也正是国立工艺馆从东京迁址至此的主要原因。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":1108,"sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image size-large"><a href="https://afthemes.com/products/chromenews-pro/" target="_blank" rel="noreferrer noopener"><img src="https://demos.afthemes.com/chromenews/wp-content/uploads/2022/09/content-yellow-1024x109.png" alt="" class="wp-image-1108"/></a></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center" id="phasellus-autem-placeat-laboris-sem-cupiditate-assumenda">在江户时代，石川县是一个繁荣昌盛之处</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"backgroundColor":"vivid-red","textColor":"very-light-gray"} -->
-<p class="has-very-light-gray-color has-vivid-red-background-color has-text-color has-background">在江户时代，石川县是一个繁荣昌盛之处。为了让日本传统工艺文化扎根于当地，当地从京都邀请来各行工匠发展传统工艺。在日本，现今很少有地区能使用当地产品配全整套茶道器具，而石川则是为数不多的地区之一。并且，这里至今仍有传授传统工艺的教育机构。这些教育机构定期向社会输送工艺人才。石川是一个充满传统文化底蕴的地区，这也正是国立工艺馆从东京迁址至此的主要原因。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>须藤设计的蕾丝花边还包括蕨类植物、藤蔓植物、叶状植物、蘑菇和花朵等多种花样。她先用线条勾勒出花样图，将其做成剪纸底样。然后，她委托工厂在由石灰成分制成的底布上按剪纸底样机绣花样，再进行冲洗处理去除底布，取留下来的机绣花样制成900条蕾丝花边。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>金工艺术家吉田泰一郎创作了数款伊布家族成员的雕塑作品。其中，作品雷伊布采用了镀金和镀银工艺，作品火伊布采用了传统“绯铜”工艺。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>该展览会不仅展出宝可梦精灵，还展出与宝可梦游戏攻略招式有关的作品。玻璃艺术家新实广记试图通过作品表现攻略招式冰柱坠击。</p>
-<!-- /wp:paragraph --><cite>一位金工艺术大师接受了参展提议，他希望通过宝可梦让人们了解他的金工艺术。<br></cite></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:image {"align":"full","id":310,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image alignfull size-large"><img src="https://demos.afthemes.com/reviewnews-pro/japanese/wp-content/uploads/sites/10/2023/08/amit-pritam-zGauHvuh2M0-unsplash-1024x563.jpg" alt="" class="wp-image-310"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-<p>国立工艺馆提供英语、汉语、韩语和日语等多种语言的讲解导览服务。参观者可以通过扫二维码获取语音导览服务。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>国立工艺馆馆长唐泽昌宏在谈及对展览会的期盼时表示：“我希望通过闻名于世的宝可梦，让更多的人对辉煌的日本工艺形成认知，了解其深厚的文化底蕴。”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>展览会持续至2023年6月11日。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"textColor":"vivid-red"} -->
-<h2 class="wp-block-heading has-vivid-red-color has-text-color" id="some-useful-links">いくつかの役立つリンク</h2>
-<!-- /wp:heading -->
-
-<!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading" id="totam-elit-laboris-eu-donec-consectetuer-litora-adipisci-praesent-convallis-augue">桂大师表示：“原本在家里用的所有的东西都可称之为工艺品</h4>
-<!-- /wp:heading -->
-
-<!-- wp:preformatted -->
-<pre id="tw-target-text" class="wp-block-preformatted">タグ クラウド</pre>
-<!-- /wp:preformatted -->
-
-<!-- wp:tag-cloud /-->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="latest-posts">最新の投稿</h3>
-<!-- /wp:heading -->
-
-<!-- wp:latest-posts /--></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:group -->
-<div class="wp-block-group"><!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="categories">カテゴリー</h3>
-<!-- /wp:heading -->
-
-<!-- wp:categories {"showPostCounts":true} /--></div>
-<!-- /wp:group -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[位于石川县金泽市的国立工艺馆目前正在举办一场别具一格的展览会。展览会以宝可梦游戏中登场的角色为主题，汇集了用日本传统工艺塑造的宝可梦作品]]></excerpt:encoded>
-		<wp:post_id>82</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-12 11:25:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-12 11:25:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-18 05:45:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-18 05:45:38]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[finlands-downs-model-maija-mattila-makes-strides-on-catwalk]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="%e3%82%b2%e3%83%bc%e3%83%a0"><![CDATA[ゲーム]]></category>
-		<category domain="category" nicename="%e3%83%9b%e3%83%a9%e3%83%bc"><![CDATA[ホラー]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[341]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
-		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[reviewnews-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[reviewnews-meta-content-mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-content-mode-compact]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2005,36 +1539,151 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[blue banner]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/japanese/blue-banner/</link>
-		<pubDate>Wed, 03 Jan 2024 05:53:39 +0000</pubDate>
+		<title><![CDATA[pexels-audrey-mari-3421920]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/japanese/pexels-audrey-mari-3421920/</link>
+		<pubDate>Wed, 24 Jan 2024 10:37:53 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demos.afthemes.com/covernews-pro/japanese/wp-content/uploads/sites/28/2024/01/blue-banner.png</guid>
+		<guid isPermaLink="false">https://demos.afthemes.com/covernews-pro/japanese/wp-content/uploads/sites/28/2024/01/pexels-audrey-mari-3421920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>433</wp:post_id>
-		<wp:post_date><![CDATA[2024-01-03 05:53:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-01-03 05:53:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-01-03 05:53:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-01-03 05:53:39]]></wp:post_modified_gmt>
+		<wp:post_id>440</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-24 10:37:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-24 10:37:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-01-24 10:37:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-01-24 10:37:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[blue-banner]]></wp:post_name>
+		<wp:post_name><![CDATA[pexels-audrey-mari-3421920]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews-pro/japanese/wp-content/uploads/sites/28/2024/01/blue-banner.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews-pro/japanese/wp-content/uploads/sites/28/2024/01/pexels-audrey-mari-3421920-scaled.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024/01/blue-banner.png]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2024/01/pexels-audrey-mari-3421920-scaled.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1170;s:6:"height";i:125;s:4:"file";s:23:"2024/01/blue-banner.png";s:8:"filesize";i:32025;s:5:"sizes";a:9:{s:6:"medium";a:5:{s:4:"file";s:22:"blue-banner-300x32.png";s:5:"width";i:300;s:6:"height";i:32;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:8264;}s:5:"large";a:5:{s:4:"file";s:24:"blue-banner-1024x109.png";s:5:"width";i:1024;s:6:"height";i:109;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:37502;}s:9:"thumbnail";a:5:{s:4:"file";s:23:"blue-banner-150x125.png";s:5:"width";i:150;s:6:"height";i:125;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:7052;}s:12:"medium_large";a:5:{s:4:"file";s:22:"blue-banner-768x82.png";s:5:"width";i:768;s:6:"height";i:82;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:26512;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:24:"blue-banner-1115x125.png";s:5:"width";i:1115;s:6:"height";i:125;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:32400;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:23:"blue-banner-800x125.png";s:5:"width";i:800;s:6:"height";i:125;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:24229;}s:18:"covernews-featured";a:5:{s:4:"file";s:24:"blue-banner-1024x109.png";s:5:"width";i:1024;s:6:"height";i:109;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:37502;}s:16:"covernews-medium";a:5:{s:4:"file";s:23:"blue-banner-540x125.png";s:5:"width";i:540;s:6:"height";i:125;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:16599;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:23:"blue-banner-400x125.png";s:5:"width";i:400;s:6:"height";i:125;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:12390;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{s:5:"width";i:2048;s:6:"height";i:2560;s:4:"file";s:45:"2024/01/pexels-audrey-mari-3421920-scaled.jpg";s:8:"filesize";i:553149;s:5:"sizes";a:11:{s:6:"medium";a:5:{s:4:"file";s:38:"pexels-audrey-mari-3421920-240x300.jpg";s:5:"width";i:240;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17197;}s:5:"large";a:5:{s:4:"file";s:39:"pexels-audrey-mari-3421920-819x1024.jpg";s:5:"width";i:819;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:103509;}s:9:"thumbnail";a:5:{s:4:"file";s:38:"pexels-audrey-mari-3421920-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7718;}s:12:"medium_large";a:5:{s:4:"file";s:38:"pexels-audrey-mari-3421920-768x960.jpg";s:5:"width";i:768;s:6:"height";i:960;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:93057;}s:9:"1536x1536";a:5:{s:4:"file";s:40:"pexels-audrey-mari-3421920-1229x1536.jpg";s:5:"width";i:1229;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:203620;}s:9:"2048x2048";a:5:{s:4:"file";s:40:"pexels-audrey-mari-3421920-1638x2048.jpg";s:5:"width";i:1638;s:6:"height";i:2048;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:350641;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:39:"pexels-audrey-mari-3421920-1115x715.jpg";s:5:"width";i:1115;s:6:"height";i:715;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:104648;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:38:"pexels-audrey-mari-3421920-800x500.jpg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:61153;}s:18:"covernews-featured";a:5:{s:4:"file";s:40:"pexels-audrey-mari-3421920-1024x1280.jpg";s:5:"width";i:1024;s:6:"height";i:1280;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:147717;}s:16:"covernews-medium";a:5:{s:4:"file";s:38:"pexels-audrey-mari-3421920-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:34676;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:38:"pexels-audrey-mari-3421920-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:22333;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:14:"original_image";s:30:"pexels-audrey-mari-3421920.jpg";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_is_custom_background]]></wp:meta_key>
+		<wp:meta_value><![CDATA[covernews-pro]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[cropped-ryan-yao-VURwPtZqyF4-unsplash-scaled-1-1.jpg]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/japanese/cropped-ryan-yao-vurwptzqyf4-unsplash-scaled-1-jpg/</link>
+		<pubDate>Wed, 24 Jan 2024 10:50:13 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/covernews-pro/japanese/wp-content/uploads/sites/28/2018/03/cropped-ryan-yao-VURwPtZqyF4-unsplash-scaled-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>443</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-24 10:50:13]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-24 10:50:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-01-24 10:50:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-01-24 10:50:13]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cropped-ryan-yao-vurwptzqyf4-unsplash-scaled-1-jpg]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews-pro/japanese/wp-content/uploads/sites/28/2018/03/cropped-ryan-yao-VURwPtZqyF4-unsplash-scaled-1-1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/03/cropped-ryan-yao-VURwPtZqyF4-unsplash-scaled-1-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:7:{s:5:"width";i:1900;s:6:"height";i:600;s:4:"file";s:60:"2018/03/cropped-ryan-yao-VURwPtZqyF4-unsplash-scaled-1-1.jpg";s:8:"filesize";i:76169;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:59:"cropped-ryan-yao-VURwPtZqyF4-unsplash-scaled-1-1-300x95.jpg";s:5:"width";i:300;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3926;}s:5:"large";a:5:{s:4:"file";s:61:"cropped-ryan-yao-VURwPtZqyF4-unsplash-scaled-1-1-1024x323.jpg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:25419;}s:9:"thumbnail";a:5:{s:4:"file";s:60:"cropped-ryan-yao-VURwPtZqyF4-unsplash-scaled-1-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4971;}s:12:"medium_large";a:5:{s:4:"file";s:60:"cropped-ryan-yao-VURwPtZqyF4-unsplash-scaled-1-1-768x243.jpg";s:5:"width";i:768;s:6:"height";i:243;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15521;}s:9:"1536x1536";a:5:{s:4:"file";s:61:"cropped-ryan-yao-VURwPtZqyF4-unsplash-scaled-1-1-1536x485.jpg";s:5:"width";i:1536;s:6:"height";i:485;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:51774;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:61:"cropped-ryan-yao-VURwPtZqyF4-unsplash-scaled-1-1-1115x600.jpg";s:5:"width";i:1115;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:52175;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:60:"cropped-ryan-yao-VURwPtZqyF4-unsplash-scaled-1-1-800x500.jpg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:34825;}s:18:"covernews-featured";a:5:{s:4:"file";s:61:"cropped-ryan-yao-VURwPtZqyF4-unsplash-scaled-1-1-1024x323.jpg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:25419;}s:16:"covernews-medium";a:5:{s:4:"file";s:60:"cropped-ryan-yao-VURwPtZqyF4-unsplash-scaled-1-1-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19126;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:60:"cropped-ryan-yao-VURwPtZqyF4-unsplash-scaled-1-1-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12057;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:17:"attachment_parent";i:331;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_covernews-pro]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1706093442]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[covernews-pro]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[banner-promo-full-pink]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/japanese/banner-promo-full-pink/</link>
+		<pubDate>Wed, 24 Jan 2024 10:49:27 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/covernews-pro/japanese/wp-content/uploads/sites/28/2024/01/banner-promo-full-pink.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>444</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-24 10:49:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-24 10:49:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-01-24 10:49:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-01-24 10:49:27]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[banner-promo-full-pink]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews-pro/japanese/wp-content/uploads/sites/28/2024/01/banner-promo-full-pink.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/01/banner-promo-full-pink.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:930;s:6:"height";i:110;s:4:"file";s:34:"2024/01/banner-promo-full-pink.png";s:8:"filesize";i:38490;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:33:"banner-promo-full-pink-300x35.png";s:5:"width";i:300;s:6:"height";i:35;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:12087;}s:9:"thumbnail";a:5:{s:4:"file";s:34:"banner-promo-full-pink-150x110.png";s:5:"width";i:150;s:6:"height";i:110;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:6621;}s:12:"medium_large";a:5:{s:4:"file";s:33:"banner-promo-full-pink-768x91.png";s:5:"width";i:768;s:6:"height";i:91;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:42421;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:34:"banner-promo-full-pink-800x110.png";s:5:"width";i:800;s:6:"height";i:110;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:36779;}s:16:"covernews-medium";a:5:{s:4:"file";s:34:"banner-promo-full-pink-540x110.png";s:5:"width";i:540;s:6:"height";i:110;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:24567;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:34:"banner-promo-full-pink-400x110.png";s:5:"width";i:400;s:6:"height";i:110;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:17792;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[pexels-quốc-bảo-2034541]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/japanese/2024/05/14/dont-call-demi-lovato-a-bad-girl-shes-just-speaking-out/pexels-quoc-bao-2034541/</link>
+		<pubDate>Wed, 24 Jan 2024 10:52:19 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/covernews-pro/japanese/wp-content/uploads/sites/28/2018/03/pexels-quoc-bao-2034541.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>445</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-24 10:52:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-24 10:52:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-01-24 10:52:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-01-24 10:52:19]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[pexels-quoc-bao-2034541]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>125</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews-pro/japanese/wp-content/uploads/sites/28/2018/03/pexels-quoc-bao-2034541-scaled.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/03/pexels-quoc-bao-2034541-scaled.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:7:{s:5:"width";i:1707;s:6:"height";i:2560;s:4:"file";s:42:"2018/03/pexels-quoc-bao-2034541-scaled.jpg";s:8:"filesize";i:427493;s:5:"sizes";a:11:{s:6:"medium";a:5:{s:4:"file";s:35:"pexels-quoc-bao-2034541-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12717;}s:5:"large";a:5:{s:4:"file";s:36:"pexels-quoc-bao-2034541-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:89564;}s:9:"thumbnail";a:5:{s:4:"file";s:35:"pexels-quoc-bao-2034541-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6118;}s:12:"medium_large";a:5:{s:4:"file";s:36:"pexels-quoc-bao-2034541-768x1152.jpg";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:108038;}s:9:"1536x1536";a:5:{s:4:"file";s:37:"pexels-quoc-bao-2034541-1024x1536.jpg";s:5:"width";i:1024;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:174040;}s:9:"2048x2048";a:5:{s:4:"file";s:37:"pexels-quoc-bao-2034541-1365x2048.jpg";s:5:"width";i:1365;s:6:"height";i:2048;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:286641;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:36:"pexels-quoc-bao-2034541-1115x715.jpg";s:5:"width";i:1115;s:6:"height";i:715;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:104059;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:35:"pexels-quoc-bao-2034541-800x500.jpg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:58520;}s:18:"covernews-featured";a:5:{s:4:"file";s:37:"pexels-quoc-bao-2034541-1024x1536.jpg";s:5:"width";i:1024;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:174040;}s:16:"covernews-medium";a:5:{s:4:"file";s:35:"pexels-quoc-bao-2034541-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:31056;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:35:"pexels-quoc-bao-2034541-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18871;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:14:"original_image";s:27:"pexels-quoc-bao-2034541.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2062,115 +1711,549 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
+		<title><![CDATA[故・神田沙也加に代わって松田利冴が『ソードアート・オンライン ラスト・リコレクション』ユナ役で出演]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/japanese/2024/05/14/valentino-goes-deliberately-feminine-for-fall-2018/</link>
+		<pubDate>Tue, 06 Mar 2018 09:51:48 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=46</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>WordPress のダイナミックな世界において、当社はイノベーションと卓越性の先駆者として浮上します。 <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>、<a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>、<a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>、<a href="https://afthemes.com/products/shopical-pro/">Shopical</a> などの人気製品と、<a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>、<a href="https://blockspare.com/">Blockspare</a>、<a href="https://elespare.com/">Elespare</a> などの強力なプラグインは、デジタル ジャーニーの構成要素として機能します。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;私たちは高品質のコードとエレガントなデザインに情熱を注いでおり、洗練さとシンプルさが融合した ウェブ サイトを簡単に作成できるようにします。当社の専任チームによる揺るぎないサポートにより、あなたは決して孤独ではありません。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><br><a href="Templatespare: 簡単なスターター サイトで夢の ウェブ サイトを作成しましょう!"></a><a href="https://templatespare.com/">Templatespare:</a> 簡単なスターター サイトで夢の ウェブ サイトを作成しましょう!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote {"align":"center"} -->
+<blockquote class="wp-block-quote has-text-align-center"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">ワンクリックですぐにインポートできるスターター サイトの美しいコレクション。モダンでクリエイティブなウェブサイトを数分で作成できます!</p>
+<!-- /wp:paragraph --><cite><strong><strong>新聞、雑誌、ブログ、電子商取引に対応</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><strong><strong><strong><strong><strong>ゼロから始めることを忘れてください</strong></strong></strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>365 を超えるすぐに使用できる ウェブサイト テンプレートを使用して、創造性の世界を探索してください。シックなブログからダイナミックなニュース プラットフォーム、魅力的な雑誌、専門代理店の ウェブサイトまで、完璧なオンライン スペースを見つけてください。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size"><strong><strong><strong><strong><strong>ワンクリックインポート: 面倒なコーディングは不要! 3 つの簡単なステップ</strong></strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>シンプルかつスタイリッシュにウェブサイトの旅に乗り出しましょう。以下の 3 つの簡単な手順に従って、オンラインの傑作を簡単に作成します</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">もっと詳しく見る</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>サイトを選択してください<br></strong>350 を超える事前構築済み ウェブサイトの豊富な選択肢を探索してください。ワンクリックで、あなたのビジョンに共鳴するサイトをインポートします。</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>カスタマイズとパーソナライズ<br></strong>あなたの創造力を解き放ちましょう！選択したサイトを完全に自由にデザインしてカスタマイズします。あらゆる要素をカスタマイズして、思い描いたとおりに ウェブサイトを構築し、パーソナライズします。</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>公開してライブに移行しましょう!</strong><br>編集とカスタマイズが完了したら、いよいよライブを開始します。わずか数分で、あなたのウェブサイトを世界に公開する準備が整います。</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>卓越性と使いやすさを兼ね備えた <a href="https://afthemes.com/">AF Themes</a> ファミリーに加わりましょう。無限の可能性を探求し、今すぐ私たちと一緒にウェブの旅に乗り出しましょう!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>私たちは力を合わせてウェブの未来を形作っています。</p>
+<!-- /wp:paragraph -->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[ワンクリックインポートで数分でウェブサイトを構築 – 面倒なコーディングは不要!
+]]></excerpt:encoded>
+		<wp:post_id>46</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-14 05:43:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-06 09:51:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:43:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:43:56]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[valentino-goes-deliberately-feminine-for-fall-2018]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="%e3%83%88%e3%83%ac%e3%83%b3%e3%83%89"><![CDATA[トレンド]]></category>
+		<category domain="category" nicename="%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9"><![CDATA[ニュース]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[348]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
+		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[reviewnews-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[reviewnews-meta-content-mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single-content-mode-compact]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[51]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-03-06]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1716110754]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[アニメ『範馬刃牙』シーズン2の予告編でさらなるキャストメンバーが明らかに]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/japanese/2024/05/14/meet-jo-jo-body-positive-model-and-cousin-of-gigi-and-bella/</link>
+		<pubDate>Tue, 06 Mar 2018 09:53:50 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=48</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>WordPress のダイナミックな世界において、当社はイノベーションと卓越性の先駆者として浮上します。 <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>、<a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>、<a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>、<a href="https://afthemes.com/products/shopical-pro/">Shopical</a> などの人気製品と、<a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>、<a href="https://blockspare.com/">Blockspare</a>、<a href="https://elespare.com/">Elespare</a> などの強力なプラグインは、デジタル ジャーニーの構成要素として機能します。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;私たちは高品質のコードとエレガントなデザインに情熱を注いでおり、洗練さとシンプルさが融合した ウェブ サイトを簡単に作成できるようにします。当社の専任チームによる揺るぎないサポートにより、あなたは決して孤独ではありません。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><br><a href="Templatespare: 簡単なスターター サイトで夢の ウェブ サイトを作成しましょう!"></a><a href="https://templatespare.com/">Templatespare:</a> 簡単なスターター サイトで夢の ウェブ サイトを作成しましょう!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote {"align":"center"} -->
+<blockquote class="wp-block-quote has-text-align-center"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">ワンクリックですぐにインポートできるスターター サイトの美しいコレクション。モダンでクリエイティブなウェブサイトを数分で作成できます!</p>
+<!-- /wp:paragraph --><cite><strong><strong>新聞、雑誌、ブログ、電子商取引に対応</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><strong><strong><strong><strong><strong>ゼロから始めることを忘れてください</strong></strong></strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>365 を超えるすぐに使用できる ウェブサイト テンプレートを使用して、創造性の世界を探索してください。シックなブログからダイナミックなニュース プラットフォーム、魅力的な雑誌、専門代理店の ウェブサイトまで、完璧なオンライン スペースを見つけてください。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size"><strong><strong><strong><strong><strong>ワンクリックインポート: 面倒なコーディングは不要! 3 つの簡単なステップ</strong></strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>シンプルかつスタイリッシュにウェブサイトの旅に乗り出しましょう。以下の 3 つの簡単な手順に従って、オンラインの傑作を簡単に作成します</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">もっと詳しく見る</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>サイトを選択してください<br></strong>350 を超える事前構築済み ウェブサイトの豊富な選択肢を探索してください。ワンクリックで、あなたのビジョンに共鳴するサイトをインポートします。</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>カスタマイズとパーソナライズ<br></strong>あなたの創造力を解き放ちましょう！選択したサイトを完全に自由にデザインしてカスタマイズします。あらゆる要素をカスタマイズして、思い描いたとおりに ウェブサイトを構築し、パーソナライズします。</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>公開してライブに移行しましょう!</strong><br>編集とカスタマイズが完了したら、いよいよライブを開始します。わずか数分で、あなたのウェブサイトを世界に公開する準備が整います。</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>卓越性と使いやすさを兼ね備えた <a href="https://afthemes.com/">AF Themes</a> ファミリーに加わりましょう。無限の可能性を探求し、今すぐ私たちと一緒にウェブの旅に乗り出しましょう!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>私たちは力を合わせてウェブの未来を形作っています。</p>
+<!-- /wp:paragraph -->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[ワンクリックインポートで数分でウェブサイトを構築 – 面倒なコーディングは不要!
+]]></excerpt:encoded>
+		<wp:post_id>48</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-14 05:43:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-06 09:53:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:43:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:43:56]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[meet-jo-jo-body-positive-model-and-cousin-of-gigi-and-bella]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="%e3%83%88%e3%83%ac%e3%83%b3%e3%83%89"><![CDATA[トレンド]]></category>
+		<category domain="category" nicename="%e5%86%92%e9%99%ba"><![CDATA[冒険]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[344]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
+		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_bj_lazy_load_skip_post]]></wp:meta_key>
+		<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[43]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[60]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[reviewnews-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[reviewnews-meta-content-mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single-content-mode-compact]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[44]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-03-06]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1716110780]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[アンデッド少女殺人茶番小説作家、青崎有吾氏が新作漫画を発表]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/japanese/2024/05/14/finlands-downs-model-maija-mattila-makes-strides-on-catwalk/</link>
+		<pubDate>Mon, 12 Mar 2018 11:25:46 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=82</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>WordPress のダイナミックな世界において、当社はイノベーションと卓越性の先駆者として浮上します。 <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>、<a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>、<a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>、<a href="https://afthemes.com/products/shopical-pro/">Shopical</a> などの人気製品と、<a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>、<a href="https://blockspare.com/">Blockspare</a>、<a href="https://elespare.com/">Elespare</a> などの強力なプラグインは、デジタル ジャーニーの構成要素として機能します。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;私たちは高品質のコードとエレガントなデザインに情熱を注いでおり、洗練さとシンプルさが融合した ウェブ サイトを簡単に作成できるようにします。当社の専任チームによる揺るぎないサポートにより、あなたは決して孤独ではありません。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><br><a href="Templatespare: 簡単なスターター サイトで夢の ウェブ サイトを作成しましょう!"></a><a href="https://templatespare.com/">Templatespare:</a> 簡単なスターター サイトで夢の ウェブ サイトを作成しましょう!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote {"align":"center"} -->
+<blockquote class="wp-block-quote has-text-align-center"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">ワンクリックですぐにインポートできるスターター サイトの美しいコレクション。モダンでクリエイティブなウェブサイトを数分で作成できます!</p>
+<!-- /wp:paragraph --><cite><strong><strong>新聞、雑誌、ブログ、電子商取引に対応</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><strong><strong><strong><strong><strong>ゼロから始めることを忘れてください</strong></strong></strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>365 を超えるすぐに使用できる ウェブサイト テンプレートを使用して、創造性の世界を探索してください。シックなブログからダイナミックなニュース プラットフォーム、魅力的な雑誌、専門代理店の ウェブサイトまで、完璧なオンライン スペースを見つけてください。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size"><strong><strong><strong><strong><strong>ワンクリックインポート: 面倒なコーディングは不要! 3 つの簡単なステップ</strong></strong></strong></strong></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>シンプルかつスタイリッシュにウェブサイトの旅に乗り出しましょう。以下の 3 つの簡単な手順に従って、オンラインの傑作を簡単に作成します</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">もっと詳しく見る</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>サイトを選択してください<br></strong>350 を超える事前構築済み ウェブサイトの豊富な選択肢を探索してください。ワンクリックで、あなたのビジョンに共鳴するサイトをインポートします。</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>カスタマイズとパーソナライズ<br></strong>あなたの創造力を解き放ちましょう！選択したサイトを完全に自由にデザインしてカスタマイズします。あらゆる要素をカスタマイズして、思い描いたとおりに ウェブサイトを構築し、パーソナライズします。</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>公開してライブに移行しましょう!</strong><br>編集とカスタマイズが完了したら、いよいよライブを開始します。わずか数分で、あなたのウェブサイトを世界に公開する準備が整います。</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>卓越性と使いやすさを兼ね備えた <a href="https://afthemes.com/">AF Themes</a> ファミリーに加わりましょう。無限の可能性を探求し、今すぐ私たちと一緒にウェブの旅に乗り出しましょう!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>私たちは力を合わせてウェブの未来を形作っています。</p>
+<!-- /wp:paragraph -->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[ワンクリックインポートで数分でウェブサイトを構築 – 面倒なコーディングは不要!
+]]></excerpt:encoded>
+		<wp:post_id>82</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-14 05:43:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-12 11:25:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:43:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:43:56]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[finlands-downs-model-maija-mattila-makes-strides-on-catwalk]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="%e3%82%b2%e3%83%bc%e3%83%a0"><![CDATA[ゲーム]]></category>
+		<category domain="category" nicename="%e3%83%9b%e3%83%a9%e3%83%bc"><![CDATA[ホラー]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[341]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
+		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[42]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[reviewnews-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[reviewnews-meta-content-mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single-content-mode-compact]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-03-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1716110727]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[藤崎くんの餌食ライフ 著者 わかつきひかる氏が新作漫画を発表]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/japanese/2018/03/12/how-to-create-adjustment-layers-based-on-color-in-capture-one-9/</link>
+		<link>https://demos.afthemes.com/covernews-pro/japanese/2024/05/14/how-to-create-adjustment-layers-based-on-color-in-capture-one-9/</link>
 		<pubDate>Mon, 12 Mar 2018 11:34:08 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=88</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">位于石川县金泽市的国立工艺馆目前正在举办一场别具一格的展览会。展览会以宝可梦游戏中登场的角色为主题，汇集了用日本传统工艺塑造的宝可梦作品。2023年3月21日，展览会首日的参观人数达到了国立工艺馆从东京迁至金泽以来的最高水平，其中许多参观者来自国外。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:cover {"url":"https://demos.afthemes.com/covernews-pro/japanese/wp-content/uploads/sites/28/2018/03/janos-venczak-EmDe2QylecI-unsplash.jpg","id":308,"dimRatio":80,"overlayColor":"black","align":"wide","className":"has-background-dim-NaN"} -->
-<div class="wp-block-cover alignwide has-background-dim-NaN"><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-80 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-308" alt="" src="https://demos.afthemes.com/covernews-pro/japanese/wp-content/uploads/sites/28/2018/03/janos-venczak-EmDe2QylecI-unsplash.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center","textColor":"white"} -->
-<h2 class="wp-block-heading has-text-align-center has-white-color has-text-color" id="lorem-ipsum-dolor-sit-amet">位于石川县金泽市的国立工艺馆目前正在举办</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"align":"center","textColor":"white"} -->
-<p class="has-text-align-center has-white-color has-text-color">位于石川县金泽市的国立工艺馆目前正在举办一场别具一格的展览会。展览会以宝可梦游戏中登场的角色为主题，汇集了用日本传统工艺塑造的宝可梦作品。2023年3月21日，展览会首日的参观人数达到了国立工艺馆从东京迁至金泽以来的最高水平，其中许多参观者来自国外。</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:cover -->
-
-<!-- wp:paragraph {"dropCap":true,"placeholder":"Content…","backgroundColor":"very-dark-gray","textColor":"luminous-vivid-amber"} -->
-<p class="has-drop-cap has-luminous-vivid-amber-color has-very-dark-gray-background-color has-text-color has-background">在江户时代，石川县是一个繁荣昌盛之处。为了让日本传统工艺文化扎根于当地，当地从京都邀请来各行工匠发展传统工艺。在日本，现今很少有地区能使用当地产品配全整套茶道器具，而石川则是为数不多的地区之一。并且，这里至今仍有传授传统工艺的教育机构。这些教育机构定期向社会输送工艺人才。石川是一个充满传统文化底蕴的地区，这也正是国立工艺馆从东京迁址至此的主要原因。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":1108,"sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image size-large"><a href="https://afthemes.com/products/chromenews-pro/" target="_blank" rel="noreferrer noopener"><img src="https://demos.afthemes.com/chromenews/wp-content/uploads/2022/09/content-yellow-1024x109.png" alt="" class="wp-image-1108"/></a></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center" id="phasellus-autem-placeat-laboris-sem-cupiditate-assumenda">在江户时代，石川县是一个繁荣昌盛之处</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"backgroundColor":"vivid-red","textColor":"very-light-gray"} -->
-<p class="has-very-light-gray-color has-vivid-red-background-color has-text-color has-background">在江户时代，石川县是一个繁荣昌盛之处。为了让日本传统工艺文化扎根于当地，当地从京都邀请来各行工匠发展传统工艺。在日本，现今很少有地区能使用当地产品配全整套茶道器具，而石川则是为数不多的地区之一。并且，这里至今仍有传授传统工艺的教育机构。这些教育机构定期向社会输送工艺人才。石川是一个充满传统文化底蕴的地区，这也正是国立工艺馆从东京迁址至此的主要原因。</p>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>WordPress のダイナミックな世界において、当社はイノベーションと卓越性の先駆者として浮上します。 <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>、<a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>、<a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>、<a href="https://afthemes.com/products/shopical-pro/">Shopical</a> などの人気製品と、<a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>、<a href="https://blockspare.com/">Blockspare</a>、<a href="https://elespare.com/">Elespare</a> などの強力なプラグインは、デジタル ジャーニーの構成要素として機能します。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>须藤设计的蕾丝花边还包括蕨类植物、藤蔓植物、叶状植物、蘑菇和花朵等多种花样。她先用线条勾勒出花样图，将其做成剪纸底样。然后，她委托工厂在由石灰成分制成的底布上按剪纸底样机绣花样，再进行冲洗处理去除底布，取留下来的机绣花样制成900条蕾丝花边。</p>
+<p>&nbsp;私たちは高品質のコードとエレガントなデザインに情熱を注いでおり、洗練さとシンプルさが融合した ウェブ サイトを簡単に作成できるようにします。当社の専任チームによる揺るぎないサポートにより、あなたは決して孤独ではありません。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>金工艺术家吉田泰一郎创作了数款伊布家族成员的雕塑作品。其中，作品雷伊布采用了镀金和镀银工艺，作品火伊布采用了传统“绯铜”工艺。</p>
-<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><br><a href="Templatespare: 簡単なスターター サイトで夢の ウェブ サイトを作成しましょう!"></a><a href="https://templatespare.com/">Templatespare:</a> 簡単なスターター サイトで夢の ウェブ サイトを作成しましょう!</h2>
+<!-- /wp:heading -->
 
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>该展览会不仅展出宝可梦精灵，还展出与宝可梦游戏攻略招式有关的作品。玻璃艺术家新实广记试图通过作品表现攻略招式冰柱坠击。</p>
-<!-- /wp:paragraph --><cite>一位金工艺术大师接受了参展提议，他希望通过宝可梦让人们了解他的金工艺术。<br></cite></blockquote>
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote {"align":"center"} -->
+<blockquote class="wp-block-quote has-text-align-center"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">ワンクリックですぐにインポートできるスターター サイトの美しいコレクション。モダンでクリエイティブなウェブサイトを数分で作成できます!</p>
+<!-- /wp:paragraph --><cite><strong><strong>新聞、雑誌、ブログ、電子商取引に対応</strong></strong></cite></blockquote>
 <!-- /wp:quote -->
 
-<!-- wp:image {"align":"full","id":310,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image alignfull size-large"><img src="https://demos.afthemes.com/reviewnews-pro/japanese/wp-content/uploads/sites/10/2023/08/amit-pritam-zGauHvuh2M0-unsplash-1024x563.jpg" alt="" class="wp-image-310"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-<p>国立工艺馆提供英语、汉语、韩语和日语等多种语言的讲解导览服务。参观者可以通过扫二维码获取语音导览服务。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>国立工艺馆馆长唐泽昌宏在谈及对展览会的期盼时表示：“我希望通过闻名于世的宝可梦，让更多的人对辉煌的日本工艺形成认知，了解其深厚的文化底蕴。”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>展览会持续至2023年6月11日。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"textColor":"vivid-red"} -->
-<h2 class="wp-block-heading has-vivid-red-color has-text-color" id="some-useful-links">いくつかの役立つリンク</h2>
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><strong><strong><strong><strong><strong>ゼロから始めることを忘れてください</strong></strong></strong></strong></strong></strong></h2>
 <!-- /wp:heading -->
 
-<!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading" id="totam-elit-laboris-eu-donec-consectetuer-litora-adipisci-praesent-convallis-augue">桂大师表示：“原本在家里用的所有的东西都可称之为工艺品</h4>
-<!-- /wp:heading -->
-
-<!-- wp:preformatted -->
-<pre id="tw-target-text" class="wp-block-preformatted">タグ クラウド</pre>
-<!-- /wp:preformatted -->
-
-<!-- wp:tag-cloud /-->
+<!-- wp:paragraph -->
+<p>365 を超えるすぐに使用できる ウェブサイト テンプレートを使用して、創造性の世界を探索してください。シックなブログからダイナミックなニュース プラットフォーム、魅力的な雑誌、専門代理店の ウェブサイトまで、完璧なオンライン スペースを見つけてください。</p>
+<!-- /wp:paragraph -->
 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="latest-posts">最新の投稿</h3>
-<!-- /wp:heading -->
-
-<!-- wp:latest-posts /--></div>
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:group -->
-<div class="wp-block-group"><!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="categories">カテゴリー</h3>
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size"><strong><strong><strong><strong><strong>ワンクリックインポート: 面倒なコーディングは不要! 3 つの簡単なステップ</strong></strong></strong></strong></strong></h2>
 <!-- /wp:heading -->
 
-<!-- wp:categories {"showPostCounts":true} /--></div>
-<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>シンプルかつスタイリッシュにウェブサイトの旅に乗り出しましょう。以下の 3 つの簡単な手順に従って、オンラインの傑作を簡単に作成します</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">もっと詳しく見る</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>サイトを選択してください<br></strong>350 を超える事前構築済み ウェブサイトの豊富な選択肢を探索してください。ワンクリックで、あなたのビジョンに共鳴するサイトをインポートします。</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>カスタマイズとパーソナライズ<br></strong>あなたの創造力を解き放ちましょう！選択したサイトを完全に自由にデザインしてカスタマイズします。あらゆる要素をカスタマイズして、思い描いたとおりに ウェブサイトを構築し、パーソナライズします。</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>公開してライブに移行しましょう!</strong><br>編集とカスタマイズが完了したら、いよいよライブを開始します。わずか数分で、あなたのウェブサイトを世界に公開する準備が整います。</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[位于石川县金泽市的国立工艺馆目前正在举办一场别具一格的展览会。展览会以宝可梦游戏中登场的角色为主题，汇集了用日本传统工艺塑造的宝可梦作品]]></excerpt:encoded>
+<p>卓越性と使いやすさを兼ね備えた <a href="https://afthemes.com/">AF Themes</a> ファミリーに加わりましょう。無限の可能性を探求し、今すぐ私たちと一緒にウェブの旅に乗り出しましょう!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>私たちは力を合わせてウェブの未来を形作っています。</p>
+<!-- /wp:paragraph -->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[ワンクリックインポートで数分でウェブサイトを構築 – 面倒なコーディングは不要!
+]]></excerpt:encoded>
 		<wp:post_id>88</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-12 11:34:08]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-14 05:43:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 11:34:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-18 05:45:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-18 05:45:38]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:43:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:43:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[how-to-create-adjustment-layers-based-on-color-in-capture-one-9]]></wp:post_name>
@@ -2206,117 +2289,117 @@
 		<wp:meta_key><![CDATA[reviewnews-meta-content-mode]]></wp:meta_key>
 		<wp:meta_value><![CDATA[single-content-mode-compact]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[50]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-03-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1716110640]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[松竹、歌舞伎「鬼滅の刃」全公演中止へ]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/japanese/2018/03/12/if-you-have-5-zendaya-found-the-spring-collection-your-wardrobe-needs/</link>
+		<link>https://demos.afthemes.com/covernews-pro/japanese/2024/05/14/if-you-have-5-zendaya-found-the-spring-collection-your-wardrobe-needs/</link>
 		<pubDate>Mon, 12 Mar 2018 12:34:46 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=103</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">位于石川县金泽市的国立工艺馆目前正在举办一场别具一格的展览会。展览会以宝可梦游戏中登场的角色为主题，汇集了用日本传统工艺塑造的宝可梦作品。2023年3月21日，展览会首日的参观人数达到了国立工艺馆从东京迁至金泽以来的最高水平，其中许多参观者来自国外。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:cover {"url":"https://demos.afthemes.com/reviewnews-pro/japanese/wp-content/uploads/sites/10/2018/03/janos-venczak-EmDe2QylecI-unsplash.jpg","id":308,"dimRatio":80,"overlayColor":"black","align":"wide","className":"has-background-dim-NaN"} -->
-<div class="wp-block-cover alignwide has-background-dim-NaN"><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-80 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-308" alt="" src="https://demos.afthemes.com/reviewnews-pro/japanese/wp-content/uploads/sites/10/2018/03/janos-venczak-EmDe2QylecI-unsplash.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center","textColor":"white"} -->
-<h2 class="wp-block-heading has-text-align-center has-white-color has-text-color" id="lorem-ipsum-dolor-sit-amet">位于石川县金泽市的国立工艺馆目前正在举办</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"align":"center","textColor":"white"} -->
-<p class="has-text-align-center has-white-color has-text-color">位于石川县金泽市的国立工艺馆目前正在举办一场别具一格的展览会。展览会以宝可梦游戏中登场的角色为主题，汇集了用日本传统工艺塑造的宝可梦作品。2023年3月21日，展览会首日的参观人数达到了国立工艺馆从东京迁至金泽以来的最高水平，其中许多参观者来自国外。</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:cover -->
-
-<!-- wp:paragraph {"dropCap":true,"placeholder":"Content…","backgroundColor":"very-dark-gray","textColor":"luminous-vivid-amber"} -->
-<p class="has-drop-cap has-luminous-vivid-amber-color has-very-dark-gray-background-color has-text-color has-background">在江户时代，石川县是一个繁荣昌盛之处。为了让日本传统工艺文化扎根于当地，当地从京都邀请来各行工匠发展传统工艺。在日本，现今很少有地区能使用当地产品配全整套茶道器具，而石川则是为数不多的地区之一。并且，这里至今仍有传授传统工艺的教育机构。这些教育机构定期向社会输送工艺人才。石川是一个充满传统文化底蕴的地区，这也正是国立工艺馆从东京迁址至此的主要原因。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":1108,"sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image size-large"><a href="https://afthemes.com/products/chromenews-pro/" target="_blank" rel="noreferrer noopener"><img src="https://demos.afthemes.com/chromenews/wp-content/uploads/2022/09/content-yellow-1024x109.png" alt="" class="wp-image-1108"/></a></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center" id="phasellus-autem-placeat-laboris-sem-cupiditate-assumenda">在江户时代，石川县是一个繁荣昌盛之处</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"backgroundColor":"vivid-red","textColor":"very-light-gray"} -->
-<p class="has-very-light-gray-color has-vivid-red-background-color has-text-color has-background">在江户时代，石川县是一个繁荣昌盛之处。为了让日本传统工艺文化扎根于当地，当地从京都邀请来各行工匠发展传统工艺。在日本，现今很少有地区能使用当地产品配全整套茶道器具，而石川则是为数不多的地区之一。并且，这里至今仍有传授传统工艺的教育机构。这些教育机构定期向社会输送工艺人才。石川是一个充满传统文化底蕴的地区，这也正是国立工艺馆从东京迁址至此的主要原因。</p>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>WordPress のダイナミックな世界において、当社はイノベーションと卓越性の先駆者として浮上します。 <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>、<a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>、<a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>、<a href="https://afthemes.com/products/shopical-pro/">Shopical</a> などの人気製品と、<a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>、<a href="https://blockspare.com/">Blockspare</a>、<a href="https://elespare.com/">Elespare</a> などの強力なプラグインは、デジタル ジャーニーの構成要素として機能します。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>须藤设计的蕾丝花边还包括蕨类植物、藤蔓植物、叶状植物、蘑菇和花朵等多种花样。她先用线条勾勒出花样图，将其做成剪纸底样。然后，她委托工厂在由石灰成分制成的底布上按剪纸底样机绣花样，再进行冲洗处理去除底布，取留下来的机绣花样制成900条蕾丝花边。</p>
+<p>&nbsp;私たちは高品質のコードとエレガントなデザインに情熱を注いでおり、洗練さとシンプルさが融合した ウェブ サイトを簡単に作成できるようにします。当社の専任チームによる揺るぎないサポートにより、あなたは決して孤独ではありません。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>金工艺术家吉田泰一郎创作了数款伊布家族成员的雕塑作品。其中，作品雷伊布采用了镀金和镀银工艺，作品火伊布采用了传统“绯铜”工艺。</p>
-<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><br><a href="Templatespare: 簡単なスターター サイトで夢の ウェブ サイトを作成しましょう!"></a><a href="https://templatespare.com/">Templatespare:</a> 簡単なスターター サイトで夢の ウェブ サイトを作成しましょう!</h2>
+<!-- /wp:heading -->
 
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>该展览会不仅展出宝可梦精灵，还展出与宝可梦游戏攻略招式有关的作品。玻璃艺术家新实广记试图通过作品表现攻略招式冰柱坠击。</p>
-<!-- /wp:paragraph --><cite>一位金工艺术大师接受了参展提议，他希望通过宝可梦让人们了解他的金工艺术。<br></cite></blockquote>
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote {"align":"center"} -->
+<blockquote class="wp-block-quote has-text-align-center"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">ワンクリックですぐにインポートできるスターター サイトの美しいコレクション。モダンでクリエイティブなウェブサイトを数分で作成できます!</p>
+<!-- /wp:paragraph --><cite><strong><strong>新聞、雑誌、ブログ、電子商取引に対応</strong></strong></cite></blockquote>
 <!-- /wp:quote -->
 
-<!-- wp:image {"align":"full","id":310,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image alignfull size-large"><img src="https://demos.afthemes.com/reviewnews-pro/japanese/wp-content/uploads/sites/10/2023/08/amit-pritam-zGauHvuh2M0-unsplash-1024x563.jpg" alt="" class="wp-image-310"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-<p>国立工艺馆提供英语、汉语、韩语和日语等多种语言的讲解导览服务。参观者可以通过扫二维码获取语音导览服务。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>国立工艺馆馆长唐泽昌宏在谈及对展览会的期盼时表示：“我希望通过闻名于世的宝可梦，让更多的人对辉煌的日本工艺形成认知，了解其深厚的文化底蕴。”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>展览会持续至2023年6月11日。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"textColor":"vivid-red"} -->
-<h2 class="wp-block-heading has-vivid-red-color has-text-color" id="some-useful-links">いくつかの役立つリンク</h2>
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><strong><strong><strong><strong><strong>ゼロから始めることを忘れてください</strong></strong></strong></strong></strong></strong></h2>
 <!-- /wp:heading -->
 
-<!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading" id="totam-elit-laboris-eu-donec-consectetuer-litora-adipisci-praesent-convallis-augue">桂大师表示：“原本在家里用的所有的东西都可称之为工艺品</h4>
-<!-- /wp:heading -->
-
-<!-- wp:preformatted -->
-<pre id="tw-target-text" class="wp-block-preformatted">タグ クラウド</pre>
-<!-- /wp:preformatted -->
-
-<!-- wp:tag-cloud /-->
+<!-- wp:paragraph -->
+<p>365 を超えるすぐに使用できる ウェブサイト テンプレートを使用して、創造性の世界を探索してください。シックなブログからダイナミックなニュース プラットフォーム、魅力的な雑誌、専門代理店の ウェブサイトまで、完璧なオンライン スペースを見つけてください。</p>
+<!-- /wp:paragraph -->
 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="latest-posts">最新の投稿</h3>
-<!-- /wp:heading -->
-
-<!-- wp:latest-posts /--></div>
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:group -->
-<div class="wp-block-group"><!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="categories">カテゴリー</h3>
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size"><strong><strong><strong><strong><strong>ワンクリックインポート: 面倒なコーディングは不要! 3 つの簡単なステップ</strong></strong></strong></strong></strong></h2>
 <!-- /wp:heading -->
 
-<!-- wp:categories {"showPostCounts":true} /--></div>
-<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>シンプルかつスタイリッシュにウェブサイトの旅に乗り出しましょう。以下の 3 つの簡単な手順に従って、オンラインの傑作を簡単に作成します</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">もっと詳しく見る</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>サイトを選択してください<br></strong>350 を超える事前構築済み ウェブサイトの豊富な選択肢を探索してください。ワンクリックで、あなたのビジョンに共鳴するサイトをインポートします。</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>カスタマイズとパーソナライズ<br></strong>あなたの創造力を解き放ちましょう！選択したサイトを完全に自由にデザインしてカスタマイズします。あらゆる要素をカスタマイズして、思い描いたとおりに ウェブサイトを構築し、パーソナライズします。</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>公開してライブに移行しましょう!</strong><br>編集とカスタマイズが完了したら、いよいよライブを開始します。わずか数分で、あなたのウェブサイトを世界に公開する準備が整います。</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[位于石川县金泽市的国立工艺馆目前正在举办一场别具一格的展览会。展览会以宝可梦游戏中登场的角色为主题，汇集了用日本传统工艺塑造的宝可梦作品。]]></excerpt:encoded>
+<p>卓越性と使いやすさを兼ね備えた <a href="https://afthemes.com/">AF Themes</a> ファミリーに加わりましょう。無限の可能性を探求し、今すぐ私たちと一緒にウェブの旅に乗り出しましょう!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>私たちは力を合わせてウェブの未来を形作っています。</p>
+<!-- /wp:paragraph -->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[ワンクリックインポートで数分でウェブサイトを構築 – 面倒なコーディングは不要!
+]]></excerpt:encoded>
 		<wp:post_id>103</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-12 12:34:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-14 05:43:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 12:34:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-03-12 12:34:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-03-12 12:34:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:43:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:43:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[if-you-have-5-zendaya-found-the-spring-collection-your-wardrobe-needs]]></wp:post_name>
@@ -2354,7 +2437,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[48]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[chromenews-meta-content-alignment]]></wp:meta_key>
@@ -2368,117 +2451,113 @@
 		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-03-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1716110614]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[舞台「ブラッククローバー」キービジュアル＆メインキャスト紹介予告編公開]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/japanese/2018/03/12/the-beauty-products-chrissy-teigen-cant-travel-without/</link>
+		<link>https://demos.afthemes.com/covernews-pro/japanese/2024/05/14/the-beauty-products-chrissy-teigen-cant-travel-without/</link>
 		<pubDate>Mon, 12 Mar 2018 12:35:45 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=106</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">位于石川县金泽市的国立工艺馆目前正在举办一场别具一格的展览会。展览会以宝可梦游戏中登场的角色为主题，汇集了用日本传统工艺塑造的宝可梦作品。2023年3月21日，展览会首日的参观人数达到了国立工艺馆从东京迁至金泽以来的最高水平，其中许多参观者来自国外。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:cover {"url":"https://demos.afthemes.com/chromenews-pro/japanese/wp-content/uploads/sites/32/2018/03/janos-venczak-EmDe2QylecI-unsplash.jpg","id":308,"dimRatio":80,"overlayColor":"black","align":"wide","className":"has-background-dim-NaN"} -->
-<div class="wp-block-cover alignwide has-background-dim-NaN"><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-80 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-308" alt="" src="https://demos.afthemes.com/chromenews-pro/japanese/wp-content/uploads/sites/32/2018/03/janos-venczak-EmDe2QylecI-unsplash.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center","textColor":"white"} -->
-<h2 class="wp-block-heading has-text-align-center has-white-color has-text-color" id="lorem-ipsum-dolor-sit-amet">位于石川县金泽市的国立工艺馆目前正在举办</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"align":"center","textColor":"white"} -->
-<p class="has-text-align-center has-white-color has-text-color">位于石川县金泽市的国立工艺馆目前正在举办一场别具一格的展览会。展览会以宝可梦游戏中登场的角色为主题，汇集了用日本传统工艺塑造的宝可梦作品。2023年3月21日，展览会首日的参观人数达到了国立工艺馆从东京迁至金泽以来的最高水平，其中许多参观者来自国外。</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:cover -->
-
-<!-- wp:paragraph {"dropCap":true,"placeholder":"Content…","backgroundColor":"very-dark-gray","textColor":"luminous-vivid-amber"} -->
-<p class="has-drop-cap has-luminous-vivid-amber-color has-very-dark-gray-background-color has-text-color has-background">在江户时代，石川县是一个繁荣昌盛之处。为了让日本传统工艺文化扎根于当地，当地从京都邀请来各行工匠发展传统工艺。在日本，现今很少有地区能使用当地产品配全整套茶道器具，而石川则是为数不多的地区之一。并且，这里至今仍有传授传统工艺的教育机构。这些教育机构定期向社会输送工艺人才。石川是一个充满传统文化底蕴的地区，这也正是国立工艺馆从东京迁址至此的主要原因。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":1108,"sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image size-large"><a href="https://afthemes.com/products/chromenews-pro/" target="_blank" rel="noreferrer noopener"><img src="https://demos.afthemes.com/chromenews/wp-content/uploads/2022/09/content-yellow-1024x109.png" alt="" class="wp-image-1108"/></a></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center" id="phasellus-autem-placeat-laboris-sem-cupiditate-assumenda">在江户时代，石川县是一个繁荣昌盛之处</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"backgroundColor":"vivid-red","textColor":"very-light-gray"} -->
-<p class="has-very-light-gray-color has-vivid-red-background-color has-text-color has-background">在江户时代，石川县是一个繁荣昌盛之处。为了让日本传统工艺文化扎根于当地，当地从京都邀请来各行工匠发展传统工艺。在日本，现今很少有地区能使用当地产品配全整套茶道器具，而石川则是为数不多的地区之一。并且，这里至今仍有传授传统工艺的教育机构。这些教育机构定期向社会输送工艺人才。石川是一个充满传统文化底蕴的地区，这也正是国立工艺馆从东京迁址至此的主要原因。</p>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>WordPress のダイナミックな世界において、当社はイノベーションと卓越性の先駆者として浮上します。 <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>、<a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>、<a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>、<a href="https://afthemes.com/products/shopical-pro/">Shopical</a> などの人気製品と、<a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>、<a href="https://blockspare.com/">Blockspare</a>、<a href="https://elespare.com/">Elespare</a> などの強力なプラグインは、デジタル ジャーニーの構成要素として機能します。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>须藤设计的蕾丝花边还包括蕨类植物、藤蔓植物、叶状植物、蘑菇和花朵等多种花样。她先用线条勾勒出花样图，将其做成剪纸底样。然后，她委托工厂在由石灰成分制成的底布上按剪纸底样机绣花样，再进行冲洗处理去除底布，取留下来的机绣花样制成900条蕾丝花边。</p>
+<p>&nbsp;私たちは高品質のコードとエレガントなデザインに情熱を注いでおり、洗練さとシンプルさが融合した ウェブ サイトを簡単に作成できるようにします。当社の専任チームによる揺るぎないサポートにより、あなたは決して孤独ではありません。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>金工艺术家吉田泰一郎创作了数款伊布家族成员的雕塑作品。其中，作品雷伊布采用了镀金和镀银工艺，作品火伊布采用了传统“绯铜”工艺。</p>
-<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><br><a href="Templatespare: 簡単なスターター サイトで夢の ウェブ サイトを作成しましょう!"></a><a href="https://templatespare.com/">Templatespare:</a> 簡単なスターター サイトで夢の ウェブ サイトを作成しましょう!</h2>
+<!-- /wp:heading -->
 
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>该展览会不仅展出宝可梦精灵，还展出与宝可梦游戏攻略招式有关的作品。玻璃艺术家新实广记试图通过作品表现攻略招式冰柱坠击。</p>
-<!-- /wp:paragraph --><cite>一位金工艺术大师接受了参展提议，他希望通过宝可梦让人们了解他的金工艺术。<br></cite></blockquote>
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote {"align":"center"} -->
+<blockquote class="wp-block-quote has-text-align-center"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">ワンクリックですぐにインポートできるスターター サイトの美しいコレクション。モダンでクリエイティブなウェブサイトを数分で作成できます!</p>
+<!-- /wp:paragraph --><cite><strong><strong>新聞、雑誌、ブログ、電子商取引に対応</strong></strong></cite></blockquote>
 <!-- /wp:quote -->
 
-<!-- wp:image {"align":"full","id":310,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image alignfull size-large"><img src="https://demos.afthemes.com/reviewnews-pro/japanese/wp-content/uploads/sites/10/2023/08/amit-pritam-zGauHvuh2M0-unsplash-1024x563.jpg" alt="" class="wp-image-310"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-<p>国立工艺馆提供英语、汉语、韩语和日语等多种语言的讲解导览服务。参观者可以通过扫二维码获取语音导览服务。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>国立工艺馆馆长唐泽昌宏在谈及对展览会的期盼时表示：“我希望通过闻名于世的宝可梦，让更多的人对辉煌的日本工艺形成认知，了解其深厚的文化底蕴。”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>展览会持续至2023年6月11日。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"textColor":"vivid-red"} -->
-<h2 class="wp-block-heading has-vivid-red-color has-text-color" id="some-useful-links">いくつかの役立つリンク</h2>
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><strong><strong><strong><strong><strong>ゼロから始めることを忘れてください</strong></strong></strong></strong></strong></strong></h2>
 <!-- /wp:heading -->
 
-<!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading" id="totam-elit-laboris-eu-donec-consectetuer-litora-adipisci-praesent-convallis-augue">桂大师表示：“原本在家里用的所有的东西都可称之为工艺品</h4>
-<!-- /wp:heading -->
-
-<!-- wp:preformatted -->
-<pre id="tw-target-text" class="wp-block-preformatted">タグ クラウド</pre>
-<!-- /wp:preformatted -->
-
-<!-- wp:tag-cloud /-->
+<!-- wp:paragraph -->
+<p>365 を超えるすぐに使用できる ウェブサイト テンプレートを使用して、創造性の世界を探索してください。シックなブログからダイナミックなニュース プラットフォーム、魅力的な雑誌、専門代理店の ウェブサイトまで、完璧なオンライン スペースを見つけてください。</p>
+<!-- /wp:paragraph -->
 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="latest-posts">最新の投稿</h3>
-<!-- /wp:heading -->
-
-<!-- wp:latest-posts /--></div>
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:group -->
-<div class="wp-block-group"><!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="categories">カテゴリー</h3>
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size"><strong><strong><strong><strong><strong>ワンクリックインポート: 面倒なコーディングは不要! 3 つの簡単なステップ</strong></strong></strong></strong></strong></h2>
 <!-- /wp:heading -->
 
-<!-- wp:categories {"showPostCounts":true} /--></div>
-<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>シンプルかつスタイリッシュにウェブサイトの旅に乗り出しましょう。以下の 3 つの簡単な手順に従って、オンラインの傑作を簡単に作成します</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">もっと詳しく見る</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>サイトを選択してください<br></strong>350 を超える事前構築済み ウェブサイトの豊富な選択肢を探索してください。ワンクリックで、あなたのビジョンに共鳴するサイトをインポートします。</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>カスタマイズとパーソナライズ<br></strong>あなたの創造力を解き放ちましょう！選択したサイトを完全に自由にデザインしてカスタマイズします。あらゆる要素をカスタマイズして、思い描いたとおりに ウェブサイトを構築し、パーソナライズします。</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>公開してライブに移行しましょう!</strong><br>編集とカスタマイズが完了したら、いよいよライブを開始します。わずか数分で、あなたのウェブサイトを世界に公開する準備が整います。</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[位于石川县金泽市的国立工艺馆目前正在举办一场别具一格的展览会。展览会以宝可梦游戏中登场的角色为主题，汇集了用日本传统工艺塑造的宝可梦作品]]></excerpt:encoded>
+<p>卓越性と使いやすさを兼ね備えた <a href="https://afthemes.com/">AF Themes</a> ファミリーに加わりましょう。無限の可能性を探求し、今すぐ私たちと一緒にウェブの旅に乗り出しましょう!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>私たちは力を合わせてウェブの未来を形作っています。</p>
+<!-- /wp:paragraph -->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[ワンクリックインポートで数分でウェブサイトを構築 – 面倒なコーディングは不要!
+]]></excerpt:encoded>
 		<wp:post_id>106</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-12 12:35:45]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-14 05:43:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 12:35:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-18 06:31:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-18 06:31:50]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:43:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:43:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-beauty-products-chrissy-teigen-cant-travel-without]]></wp:post_name>
@@ -2522,117 +2601,117 @@
 		<wp:meta_key><![CDATA[covernews-meta-content-mode]]></wp:meta_key>
 		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[46]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-03-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1716110511]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[追い越せ！オリジナルアニメが新たなビジュアルで再登場]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/japanese/2018/03/12/gisele-bundchen-cant-stop-wearing-these-retro-jeans-to-the-airport/</link>
+		<link>https://demos.afthemes.com/covernews-pro/japanese/2024/05/14/gisele-bundchen-cant-stop-wearing-these-retro-jeans-to-the-airport/</link>
 		<pubDate>Mon, 12 Mar 2018 12:44:18 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=111</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">位于石川县金泽市的国立工艺馆目前正在举办一场别具一格的展览会。展览会以宝可梦游戏中登场的角色为主题，汇集了用日本传统工艺塑造的宝可梦作品。2023年3月21日，展览会首日的参观人数达到了国立工艺馆从东京迁至金泽以来的最高水平，其中许多参观者来自国外。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:cover {"url":"https://demos.afthemes.com/covernews-pro/japanese/wp-content/uploads/sites/28/2018/03/janos-venczak-EmDe2QylecI-unsplash.jpg","id":308,"dimRatio":80,"overlayColor":"black","align":"wide","className":"has-background-dim-NaN"} -->
-<div class="wp-block-cover alignwide has-background-dim-NaN"><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-80 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-308" alt="" src="https://demos.afthemes.com/covernews-pro/japanese/wp-content/uploads/sites/28/2018/03/janos-venczak-EmDe2QylecI-unsplash.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center","textColor":"white"} -->
-<h2 class="wp-block-heading has-text-align-center has-white-color has-text-color" id="lorem-ipsum-dolor-sit-amet">位于石川县金泽市的国立工艺馆目前正在举办</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"align":"center","textColor":"white"} -->
-<p class="has-text-align-center has-white-color has-text-color">位于石川县金泽市的国立工艺馆目前正在举办一场别具一格的展览会。展览会以宝可梦游戏中登场的角色为主题，汇集了用日本传统工艺塑造的宝可梦作品。2023年3月21日，展览会首日的参观人数达到了国立工艺馆从东京迁至金泽以来的最高水平，其中许多参观者来自国外。</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:cover -->
-
-<!-- wp:paragraph {"dropCap":true,"placeholder":"Content…","backgroundColor":"very-dark-gray","textColor":"luminous-vivid-amber"} -->
-<p class="has-drop-cap has-luminous-vivid-amber-color has-very-dark-gray-background-color has-text-color has-background">在江户时代，石川县是一个繁荣昌盛之处。为了让日本传统工艺文化扎根于当地，当地从京都邀请来各行工匠发展传统工艺。在日本，现今很少有地区能使用当地产品配全整套茶道器具，而石川则是为数不多的地区之一。并且，这里至今仍有传授传统工艺的教育机构。这些教育机构定期向社会输送工艺人才。石川是一个充满传统文化底蕴的地区，这也正是国立工艺馆从东京迁址至此的主要原因。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":1108,"sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image size-large"><a href="https://afthemes.com/products/chromenews-pro/" target="_blank" rel="noreferrer noopener"><img src="https://demos.afthemes.com/chromenews/wp-content/uploads/2022/09/content-yellow-1024x109.png" alt="" class="wp-image-1108"/></a></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center" id="phasellus-autem-placeat-laboris-sem-cupiditate-assumenda">在江户时代，石川县是一个繁荣昌盛之处</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"backgroundColor":"vivid-red","textColor":"very-light-gray"} -->
-<p class="has-very-light-gray-color has-vivid-red-background-color has-text-color has-background">在江户时代，石川县是一个繁荣昌盛之处。为了让日本传统工艺文化扎根于当地，当地从京都邀请来各行工匠发展传统工艺。在日本，现今很少有地区能使用当地产品配全整套茶道器具，而石川则是为数不多的地区之一。并且，这里至今仍有传授传统工艺的教育机构。这些教育机构定期向社会输送工艺人才。石川是一个充满传统文化底蕴的地区，这也正是国立工艺馆从东京迁址至此的主要原因。</p>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>WordPress のダイナミックな世界において、当社はイノベーションと卓越性の先駆者として浮上します。 <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>、<a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>、<a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>、<a href="https://afthemes.com/products/shopical-pro/">Shopical</a> などの人気製品と、<a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>、<a href="https://blockspare.com/">Blockspare</a>、<a href="https://elespare.com/">Elespare</a> などの強力なプラグインは、デジタル ジャーニーの構成要素として機能します。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>须藤设计的蕾丝花边还包括蕨类植物、藤蔓植物、叶状植物、蘑菇和花朵等多种花样。她先用线条勾勒出花样图，将其做成剪纸底样。然后，她委托工厂在由石灰成分制成的底布上按剪纸底样机绣花样，再进行冲洗处理去除底布，取留下来的机绣花样制成900条蕾丝花边。</p>
+<p>&nbsp;私たちは高品質のコードとエレガントなデザインに情熱を注いでおり、洗練さとシンプルさが融合した ウェブ サイトを簡単に作成できるようにします。当社の専任チームによる揺るぎないサポートにより、あなたは決して孤独ではありません。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>金工艺术家吉田泰一郎创作了数款伊布家族成员的雕塑作品。其中，作品雷伊布采用了镀金和镀银工艺，作品火伊布采用了传统“绯铜”工艺。</p>
-<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><br><a href="Templatespare: 簡単なスターター サイトで夢の ウェブ サイトを作成しましょう!"></a><a href="https://templatespare.com/">Templatespare:</a> 簡単なスターター サイトで夢の ウェブ サイトを作成しましょう!</h2>
+<!-- /wp:heading -->
 
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>该展览会不仅展出宝可梦精灵，还展出与宝可梦游戏攻略招式有关的作品。玻璃艺术家新实广记试图通过作品表现攻略招式冰柱坠击。</p>
-<!-- /wp:paragraph --><cite>一位金工艺术大师接受了参展提议，他希望通过宝可梦让人们了解他的金工艺术。<br></cite></blockquote>
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote {"align":"center"} -->
+<blockquote class="wp-block-quote has-text-align-center"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">ワンクリックですぐにインポートできるスターター サイトの美しいコレクション。モダンでクリエイティブなウェブサイトを数分で作成できます!</p>
+<!-- /wp:paragraph --><cite><strong><strong>新聞、雑誌、ブログ、電子商取引に対応</strong></strong></cite></blockquote>
 <!-- /wp:quote -->
 
-<!-- wp:image {"align":"full","id":310,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image alignfull size-large"><img src="https://demos.afthemes.com/reviewnews-pro/japanese/wp-content/uploads/sites/10/2023/08/amit-pritam-zGauHvuh2M0-unsplash-1024x563.jpg" alt="" class="wp-image-310"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-<p>国立工艺馆提供英语、汉语、韩语和日语等多种语言的讲解导览服务。参观者可以通过扫二维码获取语音导览服务。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>国立工艺馆馆长唐泽昌宏在谈及对展览会的期盼时表示：“我希望通过闻名于世的宝可梦，让更多的人对辉煌的日本工艺形成认知，了解其深厚的文化底蕴。”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>展览会持续至2023年6月11日。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"textColor":"vivid-red"} -->
-<h2 class="wp-block-heading has-vivid-red-color has-text-color" id="some-useful-links">いくつかの役立つリンク</h2>
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><strong><strong><strong><strong><strong>ゼロから始めることを忘れてください</strong></strong></strong></strong></strong></strong></h2>
 <!-- /wp:heading -->
 
-<!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading" id="totam-elit-laboris-eu-donec-consectetuer-litora-adipisci-praesent-convallis-augue">桂大师表示：“原本在家里用的所有的东西都可称之为工艺品</h4>
-<!-- /wp:heading -->
-
-<!-- wp:preformatted -->
-<pre id="tw-target-text" class="wp-block-preformatted">タグ クラウド</pre>
-<!-- /wp:preformatted -->
-
-<!-- wp:tag-cloud /-->
+<!-- wp:paragraph -->
+<p>365 を超えるすぐに使用できる ウェブサイト テンプレートを使用して、創造性の世界を探索してください。シックなブログからダイナミックなニュース プラットフォーム、魅力的な雑誌、専門代理店の ウェブサイトまで、完璧なオンライン スペースを見つけてください。</p>
+<!-- /wp:paragraph -->
 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="latest-posts">最新の投稿</h3>
-<!-- /wp:heading -->
-
-<!-- wp:latest-posts /--></div>
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:group -->
-<div class="wp-block-group"><!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="categories">カテゴリー</h3>
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size"><strong><strong><strong><strong><strong>ワンクリックインポート: 面倒なコーディングは不要! 3 つの簡単なステップ</strong></strong></strong></strong></strong></h2>
 <!-- /wp:heading -->
 
-<!-- wp:categories {"showPostCounts":true} /--></div>
-<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>シンプルかつスタイリッシュにウェブサイトの旅に乗り出しましょう。以下の 3 つの簡単な手順に従って、オンラインの傑作を簡単に作成します</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">もっと詳しく見る</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>サイトを選択してください<br></strong>350 を超える事前構築済み ウェブサイトの豊富な選択肢を探索してください。ワンクリックで、あなたのビジョンに共鳴するサイトをインポートします。</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>カスタマイズとパーソナライズ<br></strong>あなたの創造力を解き放ちましょう！選択したサイトを完全に自由にデザインしてカスタマイズします。あらゆる要素をカスタマイズして、思い描いたとおりに ウェブサイトを構築し、パーソナライズします。</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>公開してライブに移行しましょう!</strong><br>編集とカスタマイズが完了したら、いよいよライブを開始します。わずか数分で、あなたのウェブサイトを世界に公開する準備が整います。</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[位于石川县金泽市的国立工艺馆目前正在举办一场别具一格的展览会。展览会以宝可梦游戏中登场的角色为主题，汇集了用日本传统工艺塑造的宝可梦作品]]></excerpt:encoded>
+<p>卓越性と使いやすさを兼ね備えた <a href="https://afthemes.com/">AF Themes</a> ファミリーに加わりましょう。無限の可能性を探求し、今すぐ私たちと一緒にウェブの旅に乗り出しましょう!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>私たちは力を合わせてウェブの未来を形作っています。</p>
+<!-- /wp:paragraph -->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[ワンクリックインポートで数分でウェブサイトを構築 – 面倒なコーディングは不要!
+]]></excerpt:encoded>
 		<wp:post_id>111</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-12 12:44:18]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-14 05:43:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 12:44:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-18 05:45:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-18 05:45:38]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:43:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:43:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[gisele-bundchen-cant-stop-wearing-these-retro-jeans-to-the-airport]]></wp:post_name>
@@ -2669,117 +2748,117 @@
 		<wp:meta_key><![CDATA[reviewnews-meta-content-mode]]></wp:meta_key>
 		<wp:meta_value><![CDATA[single-content-mode-compact]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[45]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-03-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1716110667]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[呪術廻戦ゲーミングチェアで呪術を鍛えよう]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/japanese/2018/03/12/perms-are-coming-back-but-theyre-getting-a-modern-makeover/</link>
+		<link>https://demos.afthemes.com/covernews-pro/japanese/2024/05/14/perms-are-coming-back-but-theyre-getting-a-modern-makeover/</link>
 		<pubDate>Mon, 12 Mar 2018 13:06:53 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=118</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">位于石川县金泽市的国立工艺馆目前正在举办一场别具一格的展览会。展览会以宝可梦游戏中登场的角色为主题，汇集了用日本传统工艺塑造的宝可梦作品。2023年3月21日，展览会首日的参观人数达到了国立工艺馆从东京迁至金泽以来的最高水平，其中许多参观者来自国外。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:cover {"url":"https://demos.afthemes.com/covernews-pro/japanese/wp-content/uploads/sites/28/2018/03/janos-venczak-EmDe2QylecI-unsplash.jpg","id":308,"dimRatio":80,"overlayColor":"black","align":"wide","className":"has-background-dim-NaN"} -->
-<div class="wp-block-cover alignwide has-background-dim-NaN"><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-80 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-308" alt="" src="https://demos.afthemes.com/covernews-pro/japanese/wp-content/uploads/sites/28/2018/03/janos-venczak-EmDe2QylecI-unsplash.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center","textColor":"white"} -->
-<h2 class="wp-block-heading has-text-align-center has-white-color has-text-color" id="lorem-ipsum-dolor-sit-amet">位于石川县金泽市的国立工艺馆目前正在举办</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"align":"center","textColor":"white"} -->
-<p class="has-text-align-center has-white-color has-text-color">位于石川县金泽市的国立工艺馆目前正在举办一场别具一格的展览会。展览会以宝可梦游戏中登场的角色为主题，汇集了用日本传统工艺塑造的宝可梦作品。2023年3月21日，展览会首日的参观人数达到了国立工艺馆从东京迁至金泽以来的最高水平，其中许多参观者来自国外。</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:cover -->
-
-<!-- wp:paragraph {"dropCap":true,"placeholder":"Content…","backgroundColor":"very-dark-gray","textColor":"luminous-vivid-amber"} -->
-<p class="has-drop-cap has-luminous-vivid-amber-color has-very-dark-gray-background-color has-text-color has-background">在江户时代，石川县是一个繁荣昌盛之处。为了让日本传统工艺文化扎根于当地，当地从京都邀请来各行工匠发展传统工艺。在日本，现今很少有地区能使用当地产品配全整套茶道器具，而石川则是为数不多的地区之一。并且，这里至今仍有传授传统工艺的教育机构。这些教育机构定期向社会输送工艺人才。石川是一个充满传统文化底蕴的地区，这也正是国立工艺馆从东京迁址至此的主要原因。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":1108,"sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image size-large"><a href="https://afthemes.com/products/chromenews-pro/" target="_blank" rel="noreferrer noopener"><img src="https://demos.afthemes.com/chromenews/wp-content/uploads/2022/09/content-yellow-1024x109.png" alt="" class="wp-image-1108"/></a></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center" id="phasellus-autem-placeat-laboris-sem-cupiditate-assumenda">在江户时代，石川县是一个繁荣昌盛之处</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"backgroundColor":"vivid-red","textColor":"very-light-gray"} -->
-<p class="has-very-light-gray-color has-vivid-red-background-color has-text-color has-background">在江户时代，石川县是一个繁荣昌盛之处。为了让日本传统工艺文化扎根于当地，当地从京都邀请来各行工匠发展传统工艺。在日本，现今很少有地区能使用当地产品配全整套茶道器具，而石川则是为数不多的地区之一。并且，这里至今仍有传授传统工艺的教育机构。这些教育机构定期向社会输送工艺人才。石川是一个充满传统文化底蕴的地区，这也正是国立工艺馆从东京迁址至此的主要原因。</p>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>WordPress のダイナミックな世界において、当社はイノベーションと卓越性の先駆者として浮上します。 <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>、<a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>、<a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>、<a href="https://afthemes.com/products/shopical-pro/">Shopical</a> などの人気製品と、<a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>、<a href="https://blockspare.com/">Blockspare</a>、<a href="https://elespare.com/">Elespare</a> などの強力なプラグインは、デジタル ジャーニーの構成要素として機能します。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>须藤设计的蕾丝花边还包括蕨类植物、藤蔓植物、叶状植物、蘑菇和花朵等多种花样。她先用线条勾勒出花样图，将其做成剪纸底样。然后，她委托工厂在由石灰成分制成的底布上按剪纸底样机绣花样，再进行冲洗处理去除底布，取留下来的机绣花样制成900条蕾丝花边。</p>
+<p>&nbsp;私たちは高品質のコードとエレガントなデザインに情熱を注いでおり、洗練さとシンプルさが融合した ウェブ サイトを簡単に作成できるようにします。当社の専任チームによる揺るぎないサポートにより、あなたは決して孤独ではありません。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>金工艺术家吉田泰一郎创作了数款伊布家族成员的雕塑作品。其中，作品雷伊布采用了镀金和镀银工艺，作品火伊布采用了传统“绯铜”工艺。</p>
-<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><br><a href="Templatespare: 簡単なスターター サイトで夢の ウェブ サイトを作成しましょう!"></a><a href="https://templatespare.com/">Templatespare:</a> 簡単なスターター サイトで夢の ウェブ サイトを作成しましょう!</h2>
+<!-- /wp:heading -->
 
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>该展览会不仅展出宝可梦精灵，还展出与宝可梦游戏攻略招式有关的作品。玻璃艺术家新实广记试图通过作品表现攻略招式冰柱坠击。</p>
-<!-- /wp:paragraph --><cite>一位金工艺术大师接受了参展提议，他希望通过宝可梦让人们了解他的金工艺术。<br></cite></blockquote>
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote {"align":"center"} -->
+<blockquote class="wp-block-quote has-text-align-center"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">ワンクリックですぐにインポートできるスターター サイトの美しいコレクション。モダンでクリエイティブなウェブサイトを数分で作成できます!</p>
+<!-- /wp:paragraph --><cite><strong><strong>新聞、雑誌、ブログ、電子商取引に対応</strong></strong></cite></blockquote>
 <!-- /wp:quote -->
 
-<!-- wp:image {"align":"full","id":310,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image alignfull size-large"><img src="https://demos.afthemes.com/reviewnews-pro/japanese/wp-content/uploads/sites/10/2023/08/amit-pritam-zGauHvuh2M0-unsplash-1024x563.jpg" alt="" class="wp-image-310"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-<p>国立工艺馆提供英语、汉语、韩语和日语等多种语言的讲解导览服务。参观者可以通过扫二维码获取语音导览服务。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>国立工艺馆馆长唐泽昌宏在谈及对展览会的期盼时表示：“我希望通过闻名于世的宝可梦，让更多的人对辉煌的日本工艺形成认知，了解其深厚的文化底蕴。”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>展览会持续至2023年6月11日。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"textColor":"vivid-red"} -->
-<h2 class="wp-block-heading has-vivid-red-color has-text-color" id="some-useful-links">いくつかの役立つリンク</h2>
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><strong><strong><strong><strong><strong>ゼロから始めることを忘れてください</strong></strong></strong></strong></strong></strong></h2>
 <!-- /wp:heading -->
 
-<!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading" id="totam-elit-laboris-eu-donec-consectetuer-litora-adipisci-praesent-convallis-augue">桂大师表示：“原本在家里用的所有的东西都可称之为工艺品</h4>
-<!-- /wp:heading -->
-
-<!-- wp:preformatted -->
-<pre id="tw-target-text" class="wp-block-preformatted">タグ クラウド</pre>
-<!-- /wp:preformatted -->
-
-<!-- wp:tag-cloud /-->
+<!-- wp:paragraph -->
+<p>365 を超えるすぐに使用できる ウェブサイト テンプレートを使用して、創造性の世界を探索してください。シックなブログからダイナミックなニュース プラットフォーム、魅力的な雑誌、専門代理店の ウェブサイトまで、完璧なオンライン スペースを見つけてください。</p>
+<!-- /wp:paragraph -->
 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="latest-posts">最新の投稿</h3>
-<!-- /wp:heading -->
-
-<!-- wp:latest-posts /--></div>
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:group -->
-<div class="wp-block-group"><!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="categories">カテゴリー</h3>
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size"><strong><strong><strong><strong><strong>ワンクリックインポート: 面倒なコーディングは不要! 3 つの簡単なステップ</strong></strong></strong></strong></strong></h2>
 <!-- /wp:heading -->
 
-<!-- wp:categories {"showPostCounts":true} /--></div>
-<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>シンプルかつスタイリッシュにウェブサイトの旅に乗り出しましょう。以下の 3 つの簡単な手順に従って、オンラインの傑作を簡単に作成します</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">もっと詳しく見る</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>サイトを選択してください<br></strong>350 を超える事前構築済み ウェブサイトの豊富な選択肢を探索してください。ワンクリックで、あなたのビジョンに共鳴するサイトをインポートします。</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>カスタマイズとパーソナライズ<br></strong>あなたの創造力を解き放ちましょう！選択したサイトを完全に自由にデザインしてカスタマイズします。あらゆる要素をカスタマイズして、思い描いたとおりに ウェブサイトを構築し、パーソナライズします。</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>公開してライブに移行しましょう!</strong><br>編集とカスタマイズが完了したら、いよいよライブを開始します。わずか数分で、あなたのウェブサイトを世界に公開する準備が整います。</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[位于石川县金泽市的国立工艺馆目前正在举办一场别具一格的展览会。展览会以宝可梦游戏中登场的角色为主题，汇集了用日本传统工艺塑造的宝可梦作品。]]></excerpt:encoded>
+<p>卓越性と使いやすさを兼ね備えた <a href="https://afthemes.com/">AF Themes</a> ファミリーに加わりましょう。無限の可能性を探求し、今すぐ私たちと一緒にウェブの旅に乗り出しましょう!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>私たちは力を合わせてウェブの未来を形作っています。</p>
+<!-- /wp:paragraph -->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[ワンクリックインポートで数分でウェブサイトを構築 – 面倒なコーディングは不要!
+]]></excerpt:encoded>
 		<wp:post_id>118</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-12 13:06:53]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-14 05:43:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 13:06:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-18 05:45:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-18 05:45:38]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:43:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:43:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[perms-are-coming-back-but-theyre-getting-a-modern-makeover]]></wp:post_name>
@@ -2817,119 +2896,115 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[51]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-03-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1716110577]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[『グランブルーファンタジー ヴァーサス：ライジング』が11月に急上昇]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/japanese/2018/03/12/dont-call-demi-lovato-a-bad-girl-shes-just-speaking-out/</link>
+		<link>https://demos.afthemes.com/covernews-pro/japanese/2024/05/14/dont-call-demi-lovato-a-bad-girl-shes-just-speaking-out/</link>
 		<pubDate>Mon, 12 Mar 2018 13:07:47 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=125</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">位于石川县金泽市的国立工艺馆目前正在举办一场别具一格的展览会。展览会以宝可梦游戏中登场的角色为主题，汇集了用日本传统工艺塑造的宝可梦作品。2023年3月21日，展览会首日的参观人数达到了国立工艺馆从东京迁至金泽以来的最高水平，其中许多参观者来自国外。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:cover {"url":"https://demos.afthemes.com/reviewnews-pro/japanese/wp-content/uploads/sites/10/2018/03/janos-venczak-EmDe2QylecI-unsplash.jpg","id":308,"dimRatio":80,"overlayColor":"black","align":"wide","className":"has-background-dim-NaN"} -->
-<div class="wp-block-cover alignwide has-background-dim-NaN"><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-80 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-308" alt="" src="https://demos.afthemes.com/reviewnews-pro/japanese/wp-content/uploads/sites/10/2018/03/janos-venczak-EmDe2QylecI-unsplash.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center","textColor":"white"} -->
-<h2 class="wp-block-heading has-text-align-center has-white-color has-text-color" id="lorem-ipsum-dolor-sit-amet">位于石川县金泽市的国立工艺馆目前正在举办</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"align":"center","textColor":"white"} -->
-<p class="has-text-align-center has-white-color has-text-color">位于石川县金泽市的国立工艺馆目前正在举办一场别具一格的展览会。展览会以宝可梦游戏中登场的角色为主题，汇集了用日本传统工艺塑造的宝可梦作品。2023年3月21日，展览会首日的参观人数达到了国立工艺馆从东京迁至金泽以来的最高水平，其中许多参观者来自国外。</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:cover -->
-
-<!-- wp:paragraph {"dropCap":true,"placeholder":"Content…","backgroundColor":"very-dark-gray","textColor":"luminous-vivid-amber"} -->
-<p class="has-drop-cap has-luminous-vivid-amber-color has-very-dark-gray-background-color has-text-color has-background">在江户时代，石川县是一个繁荣昌盛之处。为了让日本传统工艺文化扎根于当地，当地从京都邀请来各行工匠发展传统工艺。在日本，现今很少有地区能使用当地产品配全整套茶道器具，而石川则是为数不多的地区之一。并且，这里至今仍有传授传统工艺的教育机构。这些教育机构定期向社会输送工艺人才。石川是一个充满传统文化底蕴的地区，这也正是国立工艺馆从东京迁址至此的主要原因。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":1108,"sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image size-large"><a href="https://afthemes.com/products/chromenews-pro/" target="_blank" rel="noreferrer noopener"><img src="https://demos.afthemes.com/chromenews/wp-content/uploads/2022/09/content-yellow-1024x109.png" alt="" class="wp-image-1108"/></a></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center" id="phasellus-autem-placeat-laboris-sem-cupiditate-assumenda">在江户时代，石川县是一个繁荣昌盛之处</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"backgroundColor":"vivid-red","textColor":"very-light-gray"} -->
-<p class="has-very-light-gray-color has-vivid-red-background-color has-text-color has-background">在江户时代，石川县是一个繁荣昌盛之处。为了让日本传统工艺文化扎根于当地，当地从京都邀请来各行工匠发展传统工艺。在日本，现今很少有地区能使用当地产品配全整套茶道器具，而石川则是为数不多的地区之一。并且，这里至今仍有传授传统工艺的教育机构。这些教育机构定期向社会输送工艺人才。石川是一个充满传统文化底蕴的地区，这也正是国立工艺馆从东京迁址至此的主要原因。</p>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>WordPress のダイナミックな世界において、当社はイノベーションと卓越性の先駆者として浮上します。 <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>、<a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>、<a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>、<a href="https://afthemes.com/products/shopical-pro/">Shopical</a> などの人気製品と、<a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>、<a href="https://blockspare.com/">Blockspare</a>、<a href="https://elespare.com/">Elespare</a> などの強力なプラグインは、デジタル ジャーニーの構成要素として機能します。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>须藤设计的蕾丝花边还包括蕨类植物、藤蔓植物、叶状植物、蘑菇和花朵等多种花样。她先用线条勾勒出花样图，将其做成剪纸底样。然后，她委托工厂在由石灰成分制成的底布上按剪纸底样机绣花样，再进行冲洗处理去除底布，取留下来的机绣花样制成900条蕾丝花边。</p>
+<p>&nbsp;私たちは高品質のコードとエレガントなデザインに情熱を注いでおり、洗練さとシンプルさが融合した ウェブ サイトを簡単に作成できるようにします。当社の専任チームによる揺るぎないサポートにより、あなたは決して孤独ではありません。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>金工艺术家吉田泰一郎创作了数款伊布家族成员的雕塑作品。其中，作品雷伊布采用了镀金和镀银工艺，作品火伊布采用了传统“绯铜”工艺。</p>
-<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><br><a href="Templatespare: 簡単なスターター サイトで夢の ウェブ サイトを作成しましょう!"></a><a href="https://templatespare.com/">Templatespare:</a> 簡単なスターター サイトで夢の ウェブ サイトを作成しましょう!</h2>
+<!-- /wp:heading -->
 
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>该展览会不仅展出宝可梦精灵，还展出与宝可梦游戏攻略招式有关的作品。玻璃艺术家新实广记试图通过作品表现攻略招式冰柱坠击。</p>
-<!-- /wp:paragraph --><cite>一位金工艺术大师接受了参展提议，他希望通过宝可梦让人们了解他的金工艺术。<br></cite></blockquote>
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote {"align":"center"} -->
+<blockquote class="wp-block-quote has-text-align-center"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">ワンクリックですぐにインポートできるスターター サイトの美しいコレクション。モダンでクリエイティブなウェブサイトを数分で作成できます!</p>
+<!-- /wp:paragraph --><cite><strong><strong>新聞、雑誌、ブログ、電子商取引に対応</strong></strong></cite></blockquote>
 <!-- /wp:quote -->
 
-<!-- wp:image {"align":"full","id":310,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image alignfull size-large"><img src="https://demos.afthemes.com/reviewnews-pro/japanese/wp-content/uploads/sites/10/2023/08/amit-pritam-zGauHvuh2M0-unsplash-1024x563.jpg" alt="" class="wp-image-310"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-<p>国立工艺馆提供英语、汉语、韩语和日语等多种语言的讲解导览服务。参观者可以通过扫二维码获取语音导览服务。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>国立工艺馆馆长唐泽昌宏在谈及对展览会的期盼时表示：“我希望通过闻名于世的宝可梦，让更多的人对辉煌的日本工艺形成认知，了解其深厚的文化底蕴。”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>展览会持续至2023年6月11日。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"textColor":"vivid-red"} -->
-<h2 class="wp-block-heading has-vivid-red-color has-text-color" id="some-useful-links">いくつかの役立つリンク</h2>
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><strong><strong><strong><strong><strong>ゼロから始めることを忘れてください</strong></strong></strong></strong></strong></strong></h2>
 <!-- /wp:heading -->
 
-<!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading" id="totam-elit-laboris-eu-donec-consectetuer-litora-adipisci-praesent-convallis-augue">桂大师表示：“原本在家里用的所有的东西都可称之为工艺品</h4>
-<!-- /wp:heading -->
-
-<!-- wp:preformatted -->
-<pre id="tw-target-text" class="wp-block-preformatted">タグ クラウド</pre>
-<!-- /wp:preformatted -->
-
-<!-- wp:tag-cloud /-->
+<!-- wp:paragraph -->
+<p>365 を超えるすぐに使用できる ウェブサイト テンプレートを使用して、創造性の世界を探索してください。シックなブログからダイナミックなニュース プラットフォーム、魅力的な雑誌、専門代理店の ウェブサイトまで、完璧なオンライン スペースを見つけてください。</p>
+<!-- /wp:paragraph -->
 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="latest-posts">最新の投稿</h3>
-<!-- /wp:heading -->
-
-<!-- wp:latest-posts /--></div>
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:group -->
-<div class="wp-block-group"><!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="categories">カテゴリー</h3>
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size"><strong><strong><strong><strong><strong>ワンクリックインポート: 面倒なコーディングは不要! 3 つの簡単なステップ</strong></strong></strong></strong></strong></h2>
 <!-- /wp:heading -->
 
-<!-- wp:categories {"showPostCounts":true} /--></div>
-<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>シンプルかつスタイリッシュにウェブサイトの旅に乗り出しましょう。以下の 3 つの簡単な手順に従って、オンラインの傑作を簡単に作成します</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">もっと詳しく見る</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>サイトを選択してください<br></strong>350 を超える事前構築済み ウェブサイトの豊富な選択肢を探索してください。ワンクリックで、あなたのビジョンに共鳴するサイトをインポートします。</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>カスタマイズとパーソナライズ<br></strong>あなたの創造力を解き放ちましょう！選択したサイトを完全に自由にデザインしてカスタマイズします。あらゆる要素をカスタマイズして、思い描いたとおりに ウェブサイトを構築し、パーソナライズします。</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>公開してライブに移行しましょう!</strong><br>編集とカスタマイズが完了したら、いよいよライブを開始します。わずか数分で、あなたのウェブサイトを世界に公開する準備が整います。</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[位于石川县金泽市的国立工艺馆目前正在举办一场别具一格的展览会。展览会以宝可梦游戏中登场的角色为主题，汇集了用日本传统工艺塑造的宝可梦作品。]]></excerpt:encoded>
+<p>卓越性と使いやすさを兼ね備えた <a href="https://afthemes.com/">AF Themes</a> ファミリーに加わりましょう。無限の可能性を探求し、今すぐ私たちと一緒にウェブの旅に乗り出しましょう!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>私たちは力を合わせてウェブの未来を形作っています。</p>
+<!-- /wp:paragraph -->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[ワンクリックインポートで数分でウェブサイトを構築 – 面倒なコーディングは不要!
+]]></excerpt:encoded>
 		<wp:post_id>125</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-12 13:07:47]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-14 05:43:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 13:07:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-03-12 13:07:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-03-12 13:07:47]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:43:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:43:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[dont-call-demi-lovato-a-bad-girl-shes-just-speaking-out]]></wp:post_name>
@@ -2944,7 +3019,7 @@
 		<category domain="category" nicename="%e3%83%9b%e3%83%a9%e3%83%bc"><![CDATA[ホラー]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[401]]></wp:meta_value>
+		<wp:meta_value><![CDATA[445]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
@@ -2978,117 +3053,125 @@
 		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[54]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[covernews-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[covernews-meta-content-mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-03-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1716110701]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[ゲームアプリ「アイドルランドプリパラ」ついにサービス開始日を発表]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/japanese/2018/03/12/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/</link>
+		<link>https://demos.afthemes.com/covernews-pro/japanese/2024/05/14/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/</link>
 		<pubDate>Mon, 12 Mar 2018 13:10:50 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=127</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">位于石川县金泽市的国立工艺馆目前正在举办一场别具一格的展览会。展览会以宝可梦游戏中登场的角色为主题，汇集了用日本传统工艺塑造的宝可梦作品。2023年3月21日，展览会首日的参观人数达到了国立工艺馆从东京迁至金泽以来的最高水平，其中许多参观者来自国外。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:cover {"url":"https://demos.afthemes.com/chromenews-pro/japanese/wp-content/uploads/sites/32/2018/03/janos-venczak-EmDe2QylecI-unsplash.jpg","id":308,"dimRatio":80,"overlayColor":"black","align":"wide","className":"has-background-dim-NaN"} -->
-<div class="wp-block-cover alignwide has-background-dim-NaN"><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-80 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-308" alt="" src="https://demos.afthemes.com/chromenews-pro/japanese/wp-content/uploads/sites/32/2018/03/janos-venczak-EmDe2QylecI-unsplash.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center","textColor":"white"} -->
-<h2 class="wp-block-heading has-text-align-center has-white-color has-text-color" id="lorem-ipsum-dolor-sit-amet">位于石川县金泽市的国立工艺馆目前正在举办</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"align":"center","textColor":"white"} -->
-<p class="has-text-align-center has-white-color has-text-color">位于石川县金泽市的国立工艺馆目前正在举办一场别具一格的展览会。展览会以宝可梦游戏中登场的角色为主题，汇集了用日本传统工艺塑造的宝可梦作品。2023年3月21日，展览会首日的参观人数达到了国立工艺馆从东京迁至金泽以来的最高水平，其中许多参观者来自国外。</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:cover -->
-
-<!-- wp:paragraph {"dropCap":true,"placeholder":"Content…","backgroundColor":"very-dark-gray","textColor":"luminous-vivid-amber"} -->
-<p class="has-drop-cap has-luminous-vivid-amber-color has-very-dark-gray-background-color has-text-color has-background">在江户时代，石川县是一个繁荣昌盛之处。为了让日本传统工艺文化扎根于当地，当地从京都邀请来各行工匠发展传统工艺。在日本，现今很少有地区能使用当地产品配全整套茶道器具，而石川则是为数不多的地区之一。并且，这里至今仍有传授传统工艺的教育机构。这些教育机构定期向社会输送工艺人才。石川是一个充满传统文化底蕴的地区，这也正是国立工艺馆从东京迁址至此的主要原因。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":1108,"sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image size-large"><a href="https://afthemes.com/products/chromenews-pro/" target="_blank" rel="noreferrer noopener"><img src="https://demos.afthemes.com/chromenews/wp-content/uploads/2022/09/content-yellow-1024x109.png" alt="" class="wp-image-1108"/></a></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center" id="phasellus-autem-placeat-laboris-sem-cupiditate-assumenda">在江户时代，石川县是一个繁荣昌盛之处</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"backgroundColor":"vivid-red","textColor":"very-light-gray"} -->
-<p class="has-very-light-gray-color has-vivid-red-background-color has-text-color has-background">在江户时代，石川县是一个繁荣昌盛之处。为了让日本传统工艺文化扎根于当地，当地从京都邀请来各行工匠发展传统工艺。在日本，现今很少有地区能使用当地产品配全整套茶道器具，而石川则是为数不多的地区之一。并且，这里至今仍有传授传统工艺的教育机构。这些教育机构定期向社会输送工艺人才。石川是一个充满传统文化底蕴的地区，这也正是国立工艺馆从东京迁址至此的主要原因。</p>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>WordPress のダイナミックな世界において、当社はイノベーションと卓越性の先駆者として浮上します。 <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>、<a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>、<a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>、<a href="https://afthemes.com/products/shopical-pro/">Shopical</a> などの人気製品と、<a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>、<a href="https://blockspare.com/">Blockspare</a>、<a href="https://elespare.com/">Elespare</a> などの強力なプラグインは、デジタル ジャーニーの構成要素として機能します。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>须藤设计的蕾丝花边还包括蕨类植物、藤蔓植物、叶状植物、蘑菇和花朵等多种花样。她先用线条勾勒出花样图，将其做成剪纸底样。然后，她委托工厂在由石灰成分制成的底布上按剪纸底样机绣花样，再进行冲洗处理去除底布，取留下来的机绣花样制成900条蕾丝花边。</p>
+<p>&nbsp;私たちは高品質のコードとエレガントなデザインに情熱を注いでおり、洗練さとシンプルさが融合した ウェブ サイトを簡単に作成できるようにします。当社の専任チームによる揺るぎないサポートにより、あなたは決して孤独ではありません。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>金工艺术家吉田泰一郎创作了数款伊布家族成员的雕塑作品。其中，作品雷伊布采用了镀金和镀银工艺，作品火伊布采用了传统“绯铜”工艺。</p>
-<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><br><a href="Templatespare: 簡単なスターター サイトで夢の ウェブ サイトを作成しましょう!"></a><a href="https://templatespare.com/">Templatespare:</a> 簡単なスターター サイトで夢の ウェブ サイトを作成しましょう!</h2>
+<!-- /wp:heading -->
 
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>该展览会不仅展出宝可梦精灵，还展出与宝可梦游戏攻略招式有关的作品。玻璃艺术家新实广记试图通过作品表现攻略招式冰柱坠击。</p>
-<!-- /wp:paragraph --><cite>一位金工艺术大师接受了参展提议，他希望通过宝可梦让人们了解他的金工艺术。<br></cite></blockquote>
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote {"align":"center"} -->
+<blockquote class="wp-block-quote has-text-align-center"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">ワンクリックですぐにインポートできるスターター サイトの美しいコレクション。モダンでクリエイティブなウェブサイトを数分で作成できます!</p>
+<!-- /wp:paragraph --><cite><strong><strong>新聞、雑誌、ブログ、電子商取引に対応</strong></strong></cite></blockquote>
 <!-- /wp:quote -->
 
-<!-- wp:image {"align":"full","id":310,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image alignfull size-large"><img src="https://demos.afthemes.com/reviewnews-pro/japanese/wp-content/uploads/sites/10/2023/08/amit-pritam-zGauHvuh2M0-unsplash-1024x563.jpg" alt="" class="wp-image-310"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-<p>国立工艺馆提供英语、汉语、韩语和日语等多种语言的讲解导览服务。参观者可以通过扫二维码获取语音导览服务。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>国立工艺馆馆长唐泽昌宏在谈及对展览会的期盼时表示：“我希望通过闻名于世的宝可梦，让更多的人对辉煌的日本工艺形成认知，了解其深厚的文化底蕴。”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>展览会持续至2023年6月11日。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"textColor":"vivid-red"} -->
-<h2 class="wp-block-heading has-vivid-red-color has-text-color" id="some-useful-links">いくつかの役立つリンク</h2>
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><strong><strong><strong><strong><strong>ゼロから始めることを忘れてください</strong></strong></strong></strong></strong></strong></h2>
 <!-- /wp:heading -->
 
-<!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading" id="totam-elit-laboris-eu-donec-consectetuer-litora-adipisci-praesent-convallis-augue">桂大师表示：“原本在家里用的所有的东西都可称之为工艺品</h4>
-<!-- /wp:heading -->
-
-<!-- wp:preformatted -->
-<pre id="tw-target-text" class="wp-block-preformatted">タグ クラウド</pre>
-<!-- /wp:preformatted -->
-
-<!-- wp:tag-cloud /-->
+<!-- wp:paragraph -->
+<p>365 を超えるすぐに使用できる ウェブサイト テンプレートを使用して、創造性の世界を探索してください。シックなブログからダイナミックなニュース プラットフォーム、魅力的な雑誌、専門代理店の ウェブサイトまで、完璧なオンライン スペースを見つけてください。</p>
+<!-- /wp:paragraph -->
 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="latest-posts">最新の投稿</h3>
-<!-- /wp:heading -->
-
-<!-- wp:latest-posts /--></div>
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:group -->
-<div class="wp-block-group"><!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="categories">カテゴリー</h3>
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size"><strong><strong><strong><strong><strong>ワンクリックインポート: 面倒なコーディングは不要! 3 つの簡単なステップ</strong></strong></strong></strong></strong></h2>
 <!-- /wp:heading -->
 
-<!-- wp:categories {"showPostCounts":true} /--></div>
-<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>シンプルかつスタイリッシュにウェブサイトの旅に乗り出しましょう。以下の 3 つの簡単な手順に従って、オンラインの傑作を簡単に作成します</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">もっと詳しく見る</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>サイトを選択してください<br></strong>350 を超える事前構築済み ウェブサイトの豊富な選択肢を探索してください。ワンクリックで、あなたのビジョンに共鳴するサイトをインポートします。</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>カスタマイズとパーソナライズ<br></strong>あなたの創造力を解き放ちましょう！選択したサイトを完全に自由にデザインしてカスタマイズします。あらゆる要素をカスタマイズして、思い描いたとおりに ウェブサイトを構築し、パーソナライズします。</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>公開してライブに移行しましょう!</strong><br>編集とカスタマイズが完了したら、いよいよライブを開始します。わずか数分で、あなたのウェブサイトを世界に公開する準備が整います。</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[位于石川县金泽市的国立工艺馆目前正在举办一场别具一格的展览会。展览会以宝可梦游戏中登场的角色为主题，汇集了用日本传统工艺塑造的宝可梦作品。]]></excerpt:encoded>
+<p>卓越性と使いやすさを兼ね備えた <a href="https://afthemes.com/">AF Themes</a> ファミリーに加わりましょう。無限の可能性を探求し、今すぐ私たちと一緒にウェブの旅に乗り出しましょう!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>私たちは力を合わせてウェブの未来を形作っています。</p>
+<!-- /wp:paragraph -->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[ワンクリックインポートで数分でウェブサイトを構築 – 面倒なコーディングは不要!
+]]></excerpt:encoded>
 		<wp:post_id>127</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-12 13:10:50]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-05-14 05:43:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 13:10:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-18 06:29:18]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-18 06:29:18]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:43:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:43:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence]]></wp:post_name>
@@ -3100,8 +3183,8 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_format" nicename="post-format-image"><![CDATA[Image]]></category>
 		<category domain="category" nicename="%e3%82%b2%e3%83%bc%e3%83%a0"><![CDATA[ゲーム]]></category>
-		<category domain="post_tag" nicename="%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9"><![CDATA[ニュース]]></category>
 		<category domain="category" nicename="%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9"><![CDATA[ニュース]]></category>
+		<category domain="post_tag" nicename="%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9"><![CDATA[ニュース]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[305]]></wp:meta_value>
@@ -3116,7 +3199,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10]]></wp:meta_value>
+		<wp:meta_value><![CDATA[61]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -3137,6 +3220,18 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[covernews-meta-content-mode]]></wp:meta_key>
 		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-03-12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1716110548]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
