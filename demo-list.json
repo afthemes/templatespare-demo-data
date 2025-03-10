@@ -3209,6 +3209,165 @@
                         "ecommerce"
                     ],
                     "plugins": "woocommerce,blockspare"
+                },
+                "arabic-culture": {
+                    "slug": "arabic-culture",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Arabic",
+                    "name": "Arabic Culture",
+                    "preview": "https://demos.afthemes.com/morenews-pro/arabic-culture/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "arabic"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "national-news": {
+                    "slug": "national-news",
+                    "theme": "MoreNews Pro",
+                    "main_category": "News & Media",
+                    "catgory": "Gutenberg",
+                    "name": "National News",
+                    "preview": "https://demos.afthemes.com/morenews-pro/national-news/",
+                    "tags": [
+                        "pro",
+                        "news",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "business": {
+                    "slug": "business",
+                    "theme": "MoreNews Pro",
+                    "main_category": "News & Media",
+                    "catgory": "Gutenberg",
+                    "name": "Business",
+                    "preview": "https://demos.afthemes.com/morenews-pro/business/",
+                    "tags": [
+                        "pro",
+                        "news",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "burger-haven": {
+                    "slug": "burger-haven",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "Gutenberg",
+                    "name": "Burger Haven",
+                    "preview": "https://demos.afthemes.com/morenews-pro/burger-haven/",
+                    "tags": [
+                        "pro",
+                        "restaurant",
+                        "ecommerce",
+                        "gutenberg"
+                    ],
+                    "plugins": "woocommerce,blockspare"
+                },
+                "russian-lifestyle": {
+                    "slug": "russian-lifestyle",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Lifestyle & Personal",
+                    "catgory": "Elementor",
+                    "name": "Burger Haven",
+                    "preview": "https://demos.afthemes.com/morenews-pro/russian-lifestyle/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "russian",
+                        "elementor"
+                    ],
+                    "plugins": "elementor, elespare "
+                },
+                "financial-times": {
+                    "slug": "financial-times",
+                    "theme": "MoreNews Pro",
+                    "main_category": "News & Media",
+                    "catgory": "Elementor",
+                    "name": "Financial Times",
+                    "preview": "https://demos.afthemes.com/morenews-pro/financial-times/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "finance",
+                        "elementor"
+                    ],
+                    "plugins": "elementor, elespare "
+                },
+                "padma-healing": {
+                    "slug": "padma-healing",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "Elementor",
+                    "name": "Padma Healing",
+                    "preview": "https://demos.afthemes.com/morenews-pro/padma-healing/",
+                    "tags": [
+                        "pro",
+                        "business",
+                        "health",
+                        "elementor"
+                    ],
+                    "plugins": "elementor, elespare "
+                },
+                "pet-care": {
+                    "slug": "pet-care",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "Elementor",
+                    "name": "Pet Care",
+                    "preview": "https://demos.afthemes.com/morenews-pro/pet-care/",
+                    "tags": [
+                        "pro",
+                        "ecommerce",
+                        "pet",
+                        "elementor"
+                    ],
+                    "plugins": "woocommerce, elementor, elespare, essential-addons-for-elementor-lite "
+                },
+                "personal-portfolio": {
+                    "slug": "personal-portfolio",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "Brizy",
+                    "name": "Personal Portfolio",
+                    "preview": "https://demos.afthemes.com/morenews-pro/personal-portfolio/",
+                    "tags": [
+                        "pro",
+                        "portfolio",
+                        "brizy"
+                    ],
+                    "plugins": "brizy"
+                },
+                "wedding-invitation": {
+                    "slug": "wedding-invitation",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "Site Origin",
+                    "name": "Wedding Invitation",
+                    "preview": "https://demos.afthemes.com/morenews-pro/wedding-invitation/",
+                    "tags": [
+                        "pro",
+                        "wedding",
+                        "site-origin"
+                    ],
+                    "plugins": "siteorigin-panels, so-widgets-bundle"
+                },
+                "influencer": {
+                    "slug": "influencer",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "Visual Composer",
+                    "name": "Influencer",
+                    "preview": "https://demos.afthemes.com/morenews-pro/influencer/",
+                    "tags": [
+                        "pro",
+                        "influencer",
+                        "site-origin"
+                    ],
+                    "plugins": "visualcomposer"
                 }
             }
         },
