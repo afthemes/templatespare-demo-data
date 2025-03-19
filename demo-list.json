@@ -330,20 +330,6 @@
                     ],
                     "plugins": "blockspare"
                 },
-                "courses": {
-                    "slug": "courses",
-                    "theme": "CoverNews Pro",
-                    "main_category": "Education & Non-Profit",
-                    "catgory": "Education",
-                    "name": "Courses Pro",
-                    "preview": "https://demos.afthemes.com/covernews-pro/courses/",
-                    "tags": [
-                        "pro",
-                        "education",
-                        "business"
-                    ],
-                    "plugins": "elementor, elespare, essential-addons-for-elementor-lite "
-                },
                 "general": {
                     "slug": "general",
                     "theme": "CoverNews Pro",
@@ -3385,7 +3371,8 @@
                 "newsical",
                 "blacknews",
                 "newsplace",
-                "sidenews"
+                "sidenews",
+                "newslight"
             ],
             "demodata": {
                 "default": {
@@ -4182,6 +4169,27 @@
                         "ecommerce"
                     ],
                     "plugins": "woocommerce, popup-maker"
+                }
+            }
+        },
+
+        "newslight": {
+            "data": "newslight",
+            "free": "morenews",
+            "premium": "morenews-pro",
+            "demodata": {
+                "default": {
+                    "slug": "newslight",
+                    "theme": "MoreNews",
+                    "main_category": "News & Media",
+                    "catgory": "General",
+                    "name": "NewsLight",
+                    "preview": "https://demos.afthemes.com/morenews/newslight/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "child"
+                    ]
                 }
             }
         },
