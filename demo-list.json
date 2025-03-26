@@ -3354,6 +3354,126 @@
                         "site-origin"
                     ],
                     "plugins": "visualcomposer"
+                },
+                "bollywood-news": {
+                    "slug": "bollywood-news",
+                    "theme": "MoreNews Pro",
+                    "main_category": "News & Media",
+                    "catgory": "Elementor",
+                    "name": "Bollywood News",
+                    "preview": "https://demos.afthemes.com/morenews-pro/bollywood-news/",
+                    "tags": [
+                        "pro",
+                        "entertainment",
+                        "elementor",
+                        "hindi"
+                    ],
+                    "plugins": "elementor, elespare "
+                },
+                "hinduism": {
+                    "slug": "hinduism",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Lifestyle & Personal",
+                    "catgory": "Elementor",
+                    "name": "Hinduism",
+                    "preview": "https://demos.afthemes.com/morenews-pro/hinduism/",
+                    "tags": [
+                        "pro",
+                        "hinduism",
+                        "elementor",
+                        "hindi"
+                    ],
+                    "plugins": "elementor, elespare "
+                },
+                "islamic-prayer": {
+                    "slug": "islamic-prayer",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Lifestyle & Personal",
+                    "catgory": "Elementor",
+                    "name": "Islamic Prayer",
+                    "preview": "https://demos.afthemes.com/morenews-pro/islamic-prayer/",
+                    "tags": [
+                        "pro",
+                        "islamic",
+                        "elementor",
+                        "hindi"
+                    ],
+                    "plugins": "elementor, elespare "
+                },
+                "icc-update": {
+                    "slug": "icc-update",
+                    "theme": "MoreNews Pro",
+                    "main_category": "News & Media",
+                    "catgory": "Elementor",
+                    "name": "ICC Update",
+                    "preview": "https://demos.afthemes.com/morenews-pro/icc-update/",
+                    "tags": [
+                        "pro",
+                        "icc",
+                        "elementor",
+                        "hindi"
+                    ],
+                    "plugins": "elementor, elespare "
+                },
+                "university-blog": {
+                    "slug": "university-blog",
+                    "theme": "MoreNews Pro",
+                    "main_category": "News & Media",
+                    "catgory": "Elementor",
+                    "name": "University Blog",
+                    "preview": "https://demos.afthemes.com/morenews-pro/university-blog/",
+                    "tags": [
+                        "pro",
+                        "education",
+                        "elementor",
+                        "hindi"
+                    ],
+                    "plugins": "elementor, elespare "
+                },
+                "buddhism": {
+                    "slug": "buddhism",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Elementor",
+                    "name": "Buddhism",
+                    "preview": "https://demos.afthemes.com/morenews-pro/buddhism/",
+                    "tags": [
+                        "pro",
+                        "buddhism",
+                        "elementor",
+                        "hindi"
+                    ],
+                    "plugins": "elementor, elespare "
+                },
+                "holidays-inn": {
+                    "slug": "holidays-inn",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Lifestyle & Personal",
+                    "catgory": "Elementor",
+                    "name": "Holidays INN",
+                    "preview": "https://demos.afthemes.com/morenews-pro/holidays-inn/",
+                    "tags": [
+                        "pro",
+                        "travel",
+                        "elementor",
+                        "hindi"
+                    ],
+                    "plugins": "elementor, elespare "
+                },
+                "meditation-blog": {
+                    "slug": "meditation-blog",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Lifestyle & Personal",
+                    "catgory": "Elementor",
+                    "name": "Meditation Blog",
+                    "preview": "https://demos.afthemes.com/morenews-pro/meditation-blog/",
+                    "tags": [
+                        "pro",
+                        "meditation",
+                        "elementor",
+                        "hindi"
+                    ],
+                    "plugins": "elementor, elespare "
                 }
             }
         },
