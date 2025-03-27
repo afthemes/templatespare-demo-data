@@ -3474,6 +3474,64 @@
                         "hindi"
                     ],
                     "plugins": "elementor, elespare "
+                },
+                "content-marketing": {
+                    "slug": "content-marketing",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Education & Non-Profit",
+                    "catgory": "Elementor",
+                    "name": "Content Marketing",
+                    "preview": "https://demos.afthemes.com/morenews-pro/content-marketing/",
+                    "tags": [
+                        "pro",
+                        "education",
+                        "elementor"
+                    ],
+                    "plugins": "elementor, elespare "
+                },
+                "smartphone": {
+                    "slug": "smartphone",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Technology & Innovation",
+                    "catgory": "Elementor",
+                    "name": "Smartphone",
+                    "preview": "https://demos.afthemes.com/morenews-pro/smartphone/",
+                    "tags": [
+                        "pro",
+                        "gadgets",
+                        "elementor"
+                    ],
+                    "plugins": "elementor, elespare "
+                },
+                "turkish-news": {
+                    "slug": "turkish-news",
+                    "theme": "MoreNews Pro",
+                    "main_category": "News & Media",
+                    "catgory": "Elementor",
+                    "name": "Turkish News",
+                    "preview": "https://demos.afthemes.com/morenews-pro/turkish-news/",
+                    "tags": [
+                        "pro",
+                        "news",
+                        "elementor",
+                        "turkish"
+                    ],
+                    "plugins": "elementor, elespare "
+                },
+                "nation-news": {
+                    "slug": "nation-news",
+                    "theme": "MoreNews Pro",
+                    "main_category": "News & Media",
+                    "catgory": "Elementor",
+                    "name": "Nation News",
+                    "preview": "https://demos.afthemes.com/morenews-pro/nation-news/",
+                    "tags": [
+                        "pro",
+                        "news",
+                        "elementor",
+                        "turkish"
+                    ],
+                    "plugins": "elementor, elespare "
                 }
             }
         },
