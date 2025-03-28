@@ -3368,7 +3368,7 @@
                         "elementor",
                         "hindi"
                     ],
-                    "plugins": "elementor, elespare "
+                    "plugins": "elementor, elespare"
                 },
                 "hinduism": {
                     "slug": "hinduism",
@@ -3383,7 +3383,7 @@
                         "elementor",
                         "hindi"
                     ],
-                    "plugins": "elementor, elespare "
+                    "plugins": "elementor, elespare"
                 },
                 "islamic-prayer": {
                     "slug": "islamic-prayer",
@@ -3398,7 +3398,7 @@
                         "elementor",
                         "hindi"
                     ],
-                    "plugins": "elementor, elespare "
+                    "plugins": "elementor, elespare"
                 },
                 "icc-update": {
                     "slug": "icc-update",
@@ -3413,7 +3413,7 @@
                         "elementor",
                         "hindi"
                     ],
-                    "plugins": "elementor, elespare "
+                    "plugins": "elementor, elespare"
                 },
                 "university-blog": {
                     "slug": "university-blog",
@@ -3428,7 +3428,7 @@
                         "elementor",
                         "hindi"
                     ],
-                    "plugins": "elementor, elespare "
+                    "plugins": "elementor, elespare"
                 },
                 "buddhism": {
                     "slug": "buddhism",
@@ -3443,7 +3443,7 @@
                         "elementor",
                         "hindi"
                     ],
-                    "plugins": "elementor, elespare "
+                    "plugins": "elementor, elespare"
                 },
                 "holidays-inn": {
                     "slug": "holidays-inn",
@@ -3458,7 +3458,7 @@
                         "elementor",
                         "hindi"
                     ],
-                    "plugins": "elementor, elespare "
+                    "plugins": "elementor, elespare"
                 },
                 "meditation-blog": {
                     "slug": "meditation-blog",
@@ -3473,7 +3473,7 @@
                         "elementor",
                         "hindi"
                     ],
-                    "plugins": "elementor, elespare "
+                    "plugins": "elementor, elespare"
                 },
                 "content-marketing": {
                     "slug": "content-marketing",
@@ -3487,7 +3487,7 @@
                         "education",
                         "elementor"
                     ],
-                    "plugins": "elementor, elespare "
+                    "plugins": "elementor, elespare"
                 },
                 "smartphone": {
                     "slug": "smartphone",
@@ -3501,7 +3501,7 @@
                         "gadgets",
                         "elementor"
                     ],
-                    "plugins": "elementor, elespare "
+                    "plugins": "elementor, elespare"
                 },
                 "turkish-news": {
                     "slug": "turkish-news",
@@ -3516,7 +3516,7 @@
                         "elementor",
                         "turkish"
                     ],
-                    "plugins": "elementor, elespare "
+                    "plugins": "elementor, elespare"
                 },
                 "nation-news": {
                     "slug": "nation-news",
@@ -3531,7 +3531,7 @@
                         "elementor",
                         "turkish"
                     ],
-                    "plugins": "elementor, elespare "
+                    "plugins": "elementor, elespare"
                 }
             }
         },
