@@ -3532,6 +3532,111 @@
                         "turkish"
                     ],
                     "plugins": "elementor, elespare"
+                },
+                "digital-trends": {
+                    "slug": "digital-trends",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Elementor",
+                    "name": "Digital Trends",
+                    "preview": "https://demos.afthemes.com/morenews-pro/digital-trends/",
+                    "tags": [
+                        "pro",
+                        "gadgets",
+                        "elementor",
+                        "turkish"
+                    ],
+                    "plugins": "elementor, elespare"
+                },
+                "transfer-market": {
+                    "slug": "transfer-market",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Elementor",
+                    "name": "Transfer Market",
+                    "preview": "https://demos.afthemes.com/morenews-pro/transfer-market/",
+                    "tags": [
+                        "pro",
+                        "sport",
+                        "elementor",
+                        "turkish"
+                    ],
+                    "plugins": "elementor, elespare"
+                },
+                "art-and-culture": {
+                    "slug": "art-and-culture",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Elementor",
+                    "name": "Art & Culture",
+                    "preview": "https://demos.afthemes.com/morenews-pro/art-and-culture/",
+                    "tags": [
+                        "pro",
+                        "culture",
+                        "elementor",
+                        "turkish"
+                    ],
+                    "plugins": "elementor, elespare"
+                },
+                "dutch-news": {
+                    "slug": "dutch-news",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Elementor",
+                    "name": "Dutch News",
+                    "preview": "https://demos.afthemes.com/morenews-pro/dutch-news/",
+                    "tags": [
+                        "pro",
+                        "news",
+                        "elementor",
+                        "dutch"
+                    ],
+                    "plugins": "elementor, elespare"
+                },
+                "food-review": {
+                    "slug": "food-review",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Elementor",
+                    "name": "Food Review",
+                    "preview": "https://demos.afthemes.com/morenews-pro/food-review/",
+                    "tags": [
+                        "pro",
+                        "food",
+                        "elementor",
+                        "dutch"
+                    ],
+                    "plugins": "elementor, elespare"
+                },
+                "political-news": {
+                    "slug": "political-news",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Elementor",
+                    "name": "Political News",
+                    "preview": "https://demos.afthemes.com/morenews-pro/political-news/",
+                    "tags": [
+                        "pro",
+                        "news",
+                        "elementor",
+                        "indionsia"
+                    ],
+                    "plugins": "elementor, elespare"
+                },
+                "youth-magazine": {
+                    "slug": "youth-magazine",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Elementor",
+                    "name": "Youth Magazine",
+                    "preview": "https://demos.afthemes.com/morenews-pro/youth-magazine/",
+                    "tags": [
+                        "pro",
+                        "magazine",
+                        "elementor",
+                        "indionsia"
+                    ],
+                    "plugins": "elementor, elespare"
                 }
             }
         },
