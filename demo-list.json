@@ -3373,7 +3373,7 @@
                 "hinduism": {
                     "slug": "hinduism",
                     "theme": "MoreNews Pro",
-                    "main_category": "Lifestyle & Personal",
+                    "main_category": "Regional & Language Specific",
                     "catgory": "Elementor",
                     "name": "Hinduism",
                     "preview": "https://demos.afthemes.com/morenews-pro/hinduism/",
@@ -3388,7 +3388,7 @@
                 "islamic-prayer": {
                     "slug": "islamic-prayer",
                     "theme": "MoreNews Pro",
-                    "main_category": "Lifestyle & Personal",
+                    "main_category": "Regional & Language Specific",
                     "catgory": "Elementor",
                     "name": "Islamic Prayer",
                     "preview": "https://demos.afthemes.com/morenews-pro/islamic-prayer/",
@@ -3441,7 +3441,7 @@
                         "pro",
                         "buddhism",
                         "elementor",
-                        "hindi"
+                        "myanmar"
                     ],
                     "plugins": "elementor, elespare"
                 },
@@ -3455,8 +3455,7 @@
                     "tags": [
                         "pro",
                         "travel",
-                        "elementor",
-                        "hindi"
+                        "elementor"
                     ],
                     "plugins": "elementor, elespare"
                 },
@@ -3470,8 +3469,7 @@
                     "tags": [
                         "pro",
                         "meditation",
-                        "elementor",
-                        "hindi"
+                        "elementor"
                     ],
                     "plugins": "elementor, elespare"
                 },
@@ -3637,6 +3635,81 @@
                         "indionsia"
                     ],
                     "plugins": "elementor, elespare"
+                },
+                "photography-memories": {
+                    "slug": "photography-memories",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "Elementor",
+                    "name": "Photography Memories",
+                    "preview": "https://demos.afthemes.com/morenews-pro/photography-memories/",
+                    "tags": [
+                        "pro",
+                        "magazine",
+                        "elementor",
+                        "photography"
+                    ],
+                    "plugins": "elementor, elespare"
+                },
+                "atlas-escape": {
+                    "slug": "atlas-escape",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "Elementor",
+                    "name": "Atlas Escape",
+                    "preview": "https://demos.afthemes.com/morenews-pro/atlas-escape/",
+                    "tags": [
+                        "pro",
+                        "business",
+                        "elementor",
+                        "travel"
+                    ],
+                    "plugins": "elementor, elespare"
+                },
+                "clear-property": {
+                    "slug": "clear-property",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "Elementor",
+                    "name": "Clear Property",
+                    "preview": "https://demos.afthemes.com/morenews-pro/clear-property/",
+                    "tags": [
+                        "pro",
+                        "business",
+                        "elementor",
+                        "real estate"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "expert-care": {
+                    "slug": "expert-care",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "Elementor",
+                    "name": "Expert Care",
+                    "preview": "https://demos.afthemes.com/morenews-pro/expert-care/",
+                    "tags": [
+                        "pro",
+                        "business",
+                        "elementor",
+                        "automobile"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "om-balance": {
+                    "slug": "om-balance",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "Elementor",
+                    "name": "Om Balance",
+                    "preview": "https://demos.afthemes.com/morenews-pro/om-balance/",
+                    "tags": [
+                        "pro",
+                        "business",
+                        "elementor",
+                        "yoga"
+                    ],
+                    "plugins": "blockspare"
                 }
             }
         },
