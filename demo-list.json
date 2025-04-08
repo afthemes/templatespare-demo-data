@@ -3084,6 +3084,19 @@
                         "general"
                     ]
                 },
+                "onlinemag": {
+                    "slug": "onlinemag",
+                    "theme": "MoreNews Pro",
+                    "main_category": "News & Media",
+                    "catgory": "General",
+                    "name": "Online Mag",
+                    "preview": "https://demos.afthemes.com/morenews-pro/onlinemag/",
+                    "tags": [
+                        "pro",
+                        "magazine",
+                        "general"
+                    ]
+                },
                 "application": {
                     "slug": "application",
                     "theme": "MoreNews Pro",
@@ -3670,13 +3683,13 @@
                     "slug": "clear-property",
                     "theme": "MoreNews Pro",
                     "main_category": "Business & Professional",
-                    "catgory": "Elementor",
+                    "catgory": "Gutenberg",
                     "name": "Clear Property",
                     "preview": "https://demos.afthemes.com/morenews-pro/clear-property/",
                     "tags": [
                         "pro",
                         "business",
-                        "elementor",
+                        "gutenberg",
                         "real estate"
                     ],
                     "plugins": "blockspare"
@@ -3685,13 +3698,13 @@
                     "slug": "expert-care",
                     "theme": "MoreNews Pro",
                     "main_category": "Business & Professional",
-                    "catgory": "Elementor",
+                    "catgory": "Gutenberg",
                     "name": "Expert Care",
                     "preview": "https://demos.afthemes.com/morenews-pro/expert-care/",
                     "tags": [
                         "pro",
                         "business",
-                        "elementor",
+                        "gutenberg",
                         "automobile"
                     ],
                     "plugins": "blockspare"
@@ -3700,14 +3713,59 @@
                     "slug": "om-balance",
                     "theme": "MoreNews Pro",
                     "main_category": "Business & Professional",
-                    "catgory": "Elementor",
+                    "catgory": "Gutenberg",
                     "name": "Om Balance",
                     "preview": "https://demos.afthemes.com/morenews-pro/om-balance/",
                     "tags": [
                         "pro",
                         "business",
-                        "elementor",
+                        "gutenberg",
                         "yoga"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "general": {
+                    "slug": "general",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "Gutenberg",
+                    "name": "General",
+                    "preview": "https://demos.afthemes.com/morenews-pro/general/",
+                    "tags": [
+                        "pro",
+                        "magazine",
+                        "gutenberg",
+                        "general"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "health-horizon": {
+                    "slug": "health-horizon",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "Gutenberg",
+                    "name": "Health Horizon",
+                    "preview": "https://demos.afthemes.com/morenews-pro/health-horizon/",
+                    "tags": [
+                        "pro",
+                        "business",
+                        "gutenberg",
+                        "health"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "pet-palace": {
+                    "slug": "pet-palace",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "Gutenberg",
+                    "name": "Pet Palace",
+                    "preview": "https://demos.afthemes.com/morenews-pro/pet-palace/",
+                    "tags": [
+                        "pro",
+                        "business",
+                        "gutenberg",
+                        "pet"
                     ],
                     "plugins": "blockspare"
                 }
@@ -4315,13 +4373,13 @@
                         "hindi"
                     ]
                 },
-                "visit-bangladesh": {
-                    "slug": "visit-bangladesh",
+                "news-bangladesh": {
+                    "slug": "news-bangladesh",
                     "theme": "morenews",
                     "main_category": "Regional & Language Specific",
                     "catgory": "Bangladesh",
-                    "name": "Visit Bangladesh",
-                    "preview": "https://demos.afthemes.com/morenews/visit-bangladesh/",
+                    "name": "News Bangladesh",
+                    "preview": "https://demos.afthemes.com/morenews/news-bangladesh/",
                     "tags": [
                         "free",
                         "blog",
