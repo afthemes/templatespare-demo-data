@@ -3768,6 +3768,66 @@
                         "pet"
                     ],
                     "plugins": "blockspare"
+                }, 
+                "hindu-religion": {
+                    "slug": "hindu-religion",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Gutenberg",
+                    "name": "Hindu Religion",
+                    "preview": "https://demos.afthemes.com/morenews-pro/hindu-religion/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "gutenberg",
+                        "hindi"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "times-india": {
+                    "slug": "times-india",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Gutenberg",
+                    "name": "Times India",
+                    "preview": "https://demos.afthemes.com/morenews-pro/times-india/",
+                    "tags": [
+                        "pro",
+                        "news",
+                        "gutenberg",
+                        "hindi"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "russian-nova": {
+                    "slug": "russian-nova",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Gutenberg",
+                    "name": "Russian Nova",
+                    "preview": "https://demos.afthemes.com/morenews-pro/russian-nova/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "gutenberg",
+                        "russian"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "memorable-story": {
+                    "slug": "memorable-story",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Gutenberg",
+                    "name": "Memorable Story",
+                    "preview": "https://demos.afthemes.com/morenews-pro/memorable-story/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "gutenberg",
+                        "memory"
+                    ],
+                    "plugins": "blockspare"
                 }
             }
         },
