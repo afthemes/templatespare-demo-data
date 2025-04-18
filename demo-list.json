@@ -3967,7 +3967,7 @@
                         "business",
                         "elementor"
                     ],
-                    "plugins": "elementor,elespare"
+                    "plugins": "elementor,elespare,ninja-tables,happy-elementor-addons"
                 },
                 "china-today": {
                     "slug": "china-today",
@@ -4089,7 +4089,7 @@
                         "blog",
                         "elementor"
                     ],
-                    "plugins": "elementor,elespare"
+                    "plugins": "elementor, elespare, essential-addons-for-elementor-lite,smart-slider-3"
                 },
                 "beauty-studio": {
                     "slug": "beauty-studio",

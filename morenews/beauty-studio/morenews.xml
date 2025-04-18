@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.5.3" created="2024-05-29 11:45" -->
+	
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Beauty Studio</title>
 	<link>https://demos.afthemes.com/morenews/beauty-studio</link>
 	<description>Just another MoreNews Sites site</description>
-	<pubDate>Wed, 29 May 2024 11:45:30 +0000</pubDate>
+	<pubDate>Fri, 18 Apr 2025 08:23:45 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.afthemes.com/morenews/</wp:base_site_url>
@@ -86,6 +86,36 @@
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
 		<wp:category>
+		<wp:term_id>27</wp:term_id>
+		<wp:category_nicename><![CDATA[uncategorized-en-ca]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>31</wp:term_id>
+		<wp:category_nicename><![CDATA[uncategorized-ar]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>35</wp:term_id>
+		<wp:category_nicename><![CDATA[uncategorized-fr]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>39</wp:term_id>
+		<wp:category_nicename><![CDATA[uncategorized-ne]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>43</wp:term_id>
+		<wp:category_nicename><![CDATA[uncategorized-en-nz]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
+	</wp:category>
+		<wp:category>
 		<wp:term_id>9</wp:term_id>
 		<wp:category_nicename><![CDATA[world]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
@@ -135,7 +165,7 @@
 	<wp:term><wp:term_id>20</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Social menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	
 
 <image>
 	<url>https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/05/af-themes-logo-1-150x150-1.png</url>
@@ -450,12 +480,12 @@
 		<wp:meta_value><![CDATA[[{"id":"7686063","elType":"section","settings":[],"elements":[{"id":"ff8aaec","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"d8a452a","elType":"section","settings":{"structure":"20"},"elements":[{"id":"9e58437","elType":"column","settings":{"_column_size":50,"_inline_size":25,"_inline_size_tablet":50,"_inline_size_mobile":80,"content_position":"center","padding":{"unit":"px","top":"10","right":"0","bottom":"10","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true}},"elements":[{"id":"33bbfe2","elType":"widget","settings":{"heading_typography_typography":"custom","heading_typography_font_family":"Abhaya Libre","heading_typography_font_size":{"unit":"px","size":38,"sizes":[]},"heading_typography_font_weight":"600","heading_color":"#FFFFFF"},"elements":[],"widgetType":"elespare-site-title"}],"isInner":true},{"id":"1e3b4ab","elType":"column","settings":{"_column_size":50,"_inline_size":75,"_inline_size_tablet":50,"_inline_size_mobile":20,"content_position":"center","padding":{"unit":"px","top":"10","right":"0","bottom":"10","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":false}},"elements":[{"id":"842f973","elType":"widget","settings":{"menu":"main-menu-items","align":"flex-end","menu_typo_typography":"custom","menu_typo_font_family":"Karla","menucolor":"#FFFFFF","menu_color_hover":"#EC4B46","color_submenu":"#FFFFFF","bgcolor_submenu":"#070707","color_submenu_hover":"#EC4B46","color_submenu_border":"#313131","ham_size":{"unit":"px","size":30,"sizes":[]},"menu_typo_font_weight":"500","color_toggle":"#FFFFFF","color_toggle_hover":"#FFFFFF","color_menu_sidebar_hover":"#EC4B46","menu_item_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"20","isLinked":false}},"elements":[],"widgetType":"elespare-nav-horziontal-menu"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:4:{s:19:"elespare-site-title";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:1:{s:5:"style";a:1:{s:26:"section_heading_typography";a:5:{s:29:"heading_typography_typography";i:1;s:30:"heading_typography_font_family";i:1;s:28:"heading_typography_font_size";i:1;s:30:"heading_typography_font_weight";i:1;s:13:"heading_color";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:12:"_inline_size";i:3;s:16:"content_position";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:2;}}}}s:28:"elespare-nav-horziontal-menu";a:3:{s:5:"count";i:1;s:15:"control_percent";i:7;s:8:"controls";a:2:{s:7:"content";a:2:{s:15:"section_content";a:2:{s:4:"menu";i:1;s:5:"align";i:1;}s:19:"section_mobile_menu";a:1:{s:8:"ham_size";i:1;}}s:5:"style";a:3:{s:10:"menu_style";a:6:{s:20:"menu_typo_typography";i:1;s:21:"menu_typo_font_family";i:1;s:9:"menucolor";i:1;s:16:"menu_color_hover";i:1;s:21:"menu_typo_font_weight";i:1;s:17:"menu_item_padding";i:1;}s:13:"submenu_style";a:4:{s:13:"color_submenu";i:1;s:15:"bgcolor_submenu";i:1;s:19:"color_submenu_hover";i:1;s:20:"color_submenu_border";i:1;}s:18:"menu_sidebar_style";a:3:{s:12:"color_toggle";i:1;s:18:"color_toggle_hover";i:1;s:24:"color_menu_sidebar_hover";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:2;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:6:"layout";a:1:{s:17:"section_structure";a:1:{s:9:"structure";i:1;}}}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{s:7:"scripts";a:1:{i:0;s:23:"elespare-custom-scripts";}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2103,22 +2133,22 @@
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/beauty-studio/elespare-builder/footer/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<p>Copyright © 2021 </p>		
-					<a target="_blank" rel="noopener">
+		<content:encoded><![CDATA[Copyright @ 2025		
+					<a target="_blank">
 						Facebook-f
 											</a>
-					<a target="_blank" rel="noopener">
+					<a target="_blank">
 						Twitter
 											</a>
-					<a target="_blank" rel="noopener">
+					<a target="_blank">
 						Youtube
 											</a>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>980</wp:post_id>
 		<wp:post_date><![CDATA[2021-11-12 07:07:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-11-12 07:07:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-12 07:07:18]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-12 07:07:18]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-04-17 12:15:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-17 12:15:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[footer]]></wp:post_name>
@@ -2146,7 +2176,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.4.7]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.28.3]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -2154,11 +2184,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"70e81c5","elType":"section","settings":[],"elements":[{"id":"4d61bfb","elType":"column","settings":{"_column_size":100,"_inline_size":null,"padding":{"unit":"px","top":"10","right":"0","bottom":"10","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"8006317","elType":"section","settings":{"structure":"20","padding_tablet":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true}},"elements":[{"id":"ce8bbc0","elType":"column","settings":{"_column_size":50,"_inline_size":null,"content_position_tablet":"center","padding_tablet":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true}},"elements":[{"id":"648a993","elType":"widget","settings":{"editor":"<p>Copyright u00a9 2021u00a0</p>","text_color":"#F2F2F2","typography_typography":"custom","typography_font_family":"Karla","typography_font_weight":"400","_margin":{"unit":"px","top":"0","right":"0","bottom":"-12","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"align_mobile":"center","_padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"b529c7f","elType":"column","settings":{"_column_size":50,"_inline_size":null,"content_position_tablet":"center","padding_tablet":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true}},"elements":[{"id":"2c485c0","elType":"widget","settings":{"social_icon_list":[{"social_icon":{"value":"fab fa-facebook-f","library":"fa-brands"},"_id":"e14d1a3"},{"social_icon":{"value":"fab fa-twitter","library":"fa-brands"},"_id":"a160395"},{"social_icon":{"value":"fab fa-youtube","library":"fa-brands"},"_id":"59efae3"}],"align":"right","icon_color":"custom","icon_primary_color":"#00000000","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"align_mobile":"center","icon_secondary_color":"#FFFFFF99","icon_size":{"unit":"px","size":18,"sizes":[]},"icon_padding":{"unit":"em","size":0,"sizes":[]},"icon_spacing":{"unit":"px","size":15,"sizes":[]},"hover_secondary_color":"#FFFFFF","_padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"social-icons"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"1c9270d","elType":"section","settings":{"background_background":"classic","background_color":"#222222"},"elements":[{"id":"d19e5b8","elType":"column","settings":{"_column_size":100,"_inline_size":null,"padding":{"unit":"px","top":"10","right":"0","bottom":"10","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"3247d1f","elType":"section","settings":{"structure":"20","padding_tablet":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"bd7ec2b","elType":"column","settings":{"_column_size":50,"_inline_size":null,"content_position_tablet":"center","padding_tablet":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"content_position":"center"},"elements":[{"id":"43a3559","elType":"widget","settings":{"editor":"Copyright @ 2025","text_color":"#F2F2F2","typography_typography":"custom","typography_font_family":"Karla","typography_font_weight":"400","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"align_mobile":"center","_padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"e2982c3","elType":"column","settings":{"_column_size":50,"_inline_size":null,"content_position_tablet":"center","padding_tablet":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"content_position":"center"},"elements":[{"id":"f4afa8a","elType":"widget","settings":{"social_icon_list":[{"social_icon":{"value":"fab fa-facebook-f","library":"fa-brands"},"_id":"e14d1a3"},{"social_icon":{"value":"fab fa-twitter","library":"fa-brands"},"_id":"a160395"},{"social_icon":{"value":"fab fa-youtube","library":"fa-brands"},"_id":"59efae3"}],"align":"right","icon_color":"custom","icon_primary_color":"#00000000","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"align_mobile":"center","icon_secondary_color":"#FFFFFF99","icon_size":{"unit":"px","size":18,"sizes":[]},"icon_padding":{"unit":"em","size":0,"sizes":[]},"icon_spacing":{"unit":"px","size":15,"sizes":[]},"hover_secondary_color":"#FFFFFF","_padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"social-icons"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -2167,6 +2193,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:4:{s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:4:{s:10:"text_color";i:1;s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:22:"typography_font_weight";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:8:"_padding";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:3;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:1;}}}}s:12:"social-icons";a:3:{s:5:"count";i:1;s:15:"control_percent";i:7;s:8:"controls";a:3:{s:7:"content";a:1:{s:19:"section_social_icon";a:3:{s:16:"social_icon_list";i:1;s:5:"align";i:1;s:12:"align_mobile";i:1;}}s:5:"style";a:2:{s:20:"section_social_style";a:6:{s:10:"icon_color";i:1;s:18:"icon_primary_color";i:1;s:20:"icon_secondary_color";i:1;s:9:"icon_size";i:1;s:12:"icon_padding";i:1;s:12:"icon_spacing";i:1;}s:20:"section_social_hover";a:1:{s:21:"hover_secondary_color";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:8:"_padding";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:2;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:6:"layout";a:1:{s:17:"section_structure";a:1:{s:9:"structure";i:1;}}}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{s:6:"styles";a:2:{i:0;s:19:"widget-social-icons";i:1;s:14:"e-apple-webkit";}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3476,8 +3506,8 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="business"><![CDATA[Business]]></category>
-		<category domain="category" nicename="business"><![CDATA[Business]]></category>
+										<category domain="category" nicename="business"><![CDATA[Business]]></category>
+		<category domain="post_tag" nicename="business"><![CDATA[Business]]></category>
 		<category domain="category" nicename="newsbeat"><![CDATA[Newsbeat]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[estory-meta-content-alignment]]></wp:meta_key>
@@ -3522,6 +3552,10 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1715722040]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3670,6 +3704,10 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1715662768]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[All you need to know about penalty shootouts]]></title>
@@ -3815,6 +3853,10 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1715721476]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>2</wp:comment_id>
@@ -4882,6 +4924,10 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1715722040]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Searching for the forgotten heroes of World War Two]]></title>
@@ -5033,6 +5079,10 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1715717292]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Fisherman swap petrol motors for electric engines]]></title>
@@ -5137,8 +5187,8 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="business"><![CDATA[Business]]></category>
-		<category domain="post_tag" nicename="newsbeat"><![CDATA[Newsbeat]]></category>
 		<category domain="category" nicename="newsbeat"><![CDATA[Newsbeat]]></category>
+		<category domain="post_tag" nicename="newsbeat"><![CDATA[Newsbeat]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[estory-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
@@ -5190,6 +5240,10 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1715721477]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5294,8 +5348,8 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="business"><![CDATA[Business]]></category>
-		<category domain="category" nicename="business"><![CDATA[Business]]></category>
+										<category domain="category" nicename="business"><![CDATA[Business]]></category>
+		<category domain="post_tag" nicename="business"><![CDATA[Business]]></category>
 		<category domain="category" nicename="newsbeat"><![CDATA[Newsbeat]]></category>
 		<category domain="post_tag" nicename="newsbeat"><![CDATA[Newsbeat]]></category>
 						<wp:postmeta>
@@ -5345,6 +5399,10 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5449,8 +5507,8 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="business"><![CDATA[Business]]></category>
-		<category domain="category" nicename="business"><![CDATA[Business]]></category>
+										<category domain="category" nicename="business"><![CDATA[Business]]></category>
+		<category domain="post_tag" nicename="business"><![CDATA[Business]]></category>
 		<category domain="post_tag" nicename="world"><![CDATA[World]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[estory-meta-content-alignment]]></wp:meta_key>
@@ -5515,6 +5573,10 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5619,8 +5681,8 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="newsbeat"><![CDATA[Newsbeat]]></category>
-		<category domain="category" nicename="newsbeat"><![CDATA[Newsbeat]]></category>
+										<category domain="category" nicename="newsbeat"><![CDATA[Newsbeat]]></category>
+		<category domain="post_tag" nicename="newsbeat"><![CDATA[Newsbeat]]></category>
 		<category domain="post_tag" nicename="science"><![CDATA[Science]]></category>
 		<category domain="category" nicename="tech"><![CDATA[Tech]]></category>
 						<wp:postmeta>
@@ -5686,6 +5748,10 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5837,6 +5903,10 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1715662768]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Blog]]></title>
@@ -5881,31 +5951,124 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/beauty-studio/?page_id=943</guid>
 		<description></description>
-		<content:encoded><![CDATA[<style>/*! elementor - v3.8.1 - 13-11-2022 */
-.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2>GET A CLASSY LOOK</h2>		
-			<h2>It's Your Shine Timen</h2>		
-			<a href="#" role="button">
-						Book Appointment 
+		<content:encoded><![CDATA[<a href="https://demos.afthemes.com/morenews/beauty-studio">
+        <h1>
+            Beauty Studio
+        </h1>
+      </a>
+      <nav        aria-label="Primary navigation"
+        data-closeicon="demo-icon elespare-icons-cancel">
+        <ul id="menu-main-menu-items"><li id="menu-item-1156"><a href="https://demos.afthemes.com/morenews/beauty-studio/">Home</a></li>
+<li id="menu-item-1157"><a href="https://demos.afthemes.com/morenews/beauty-studio/blog/">Blog</a></li>
+<li id="menu-item-1158"><a href="https://demos.afthemes.com/morenews/beauty-studio/category/business/">Business</a>
+<ul>
+	<li id="menu-item-1159"><a href="https://demos.afthemes.com/morenews/beauty-studio/category/newsbeat/">Newsbeat</a></li>
+	<li id="menu-item-1160"><a href="https://demos.afthemes.com/morenews/beauty-studio/category/stories/">Stories</a></li>
+</ul>
+</li>
+<li id="menu-item-1161"><a href="https://demos.afthemes.com/morenews/beauty-studio/category/world/">World</a>
+<ul>
+	<li id="menu-item-1162"><a href="https://demos.afthemes.com/morenews/beauty-studio/category/health/">Health</a></li>
+</ul>
+</li>
+<li id="menu-item-1163"><a href="https://demos.afthemes.com/morenews/beauty-studio/category/sports/">Sports</a></li>
+<li id="menu-item-870"><a target="_blank" href="https://afthemes.com/products/morenews/#aft-view-starter-sites">All Demos</a>
+<ul>
+	<li id="menu-item-1164"><a href="https://demos.afthemes.com/morenews">Morenews</a></li>
+	<li id="menu-item-886"><a href="https://demos.afthemes.com/morenews/sport/">Sport</a></li>
+	<li id="menu-item-887"><a href="https://demos.afthemes.com/morenews/fashion/">Fashion</a></li>
+	<li id="menu-item-888"><a href="https://demos.afthemes.com/morenews/classic/">Classic</a></li>
+	<li id="menu-item-889"><a href="https://demos.afthemes.com/morenews/food-recipe/">Food Recipe</a></li>
+	<li id="menu-item-890"><a href="https://demos.afthemes.com/morenews/travel/">Travel</a></li>
+	<li id="menu-item-1165"><a href="https://demos.afthemes.com/morenews/real-estate/">Real Estate</a></li>
+	<li id="menu-item-1166"><a href="https://demos.afthemes.com/morenews/local-business/">Local Business</a></li>
+	<li id="menu-item-1167"><a href="https://demos.afthemes.com/morenews/beauty-studio/">Beauty Studio</a></li>
+	<li id="menu-item-1168"><a href="https://demos.afthemes.com/morenews/architecture-blog/">Architecture Blog</a></li>
+	<li id="menu-item-1169"><a href="https://demos.afthemes.com/morenews/esports/">Esports</a></li>
+	<li id="menu-item-1170"><a href="https://demos.afthemes.com/morenews/crypto-news/">Crypto News</a></li>
+	<li id="menu-item-1171"><a href="https://demos.afthemes.com/morenews/arabic-news/">Arabic News</a></li>
+	<li id="menu-item-1172"><a href="https://demos.afthemes.com/morenews/china-today/">China Today</a></li>
+</ul>
+</li>
+<li id="menu-item-1173"><a target="_blank" href="https://docs.afthemes.com/morenews/">Docs</a>
+<ul>
+	<li id="menu-item-1174"><a target="_blank" href="https://afthemes.com/blog/">Blog</a></li>
+	<li id="menu-item-1175"><a target="_blank" href="https://www.youtube.com/watch?v=Z5MdDCRhxz4&#038;list=PL8nUD79gscmgfXEtuVz1as47b6RcSXPr6">Youtube</a></li>
+	<li id="menu-item-1176"><a target="_blank" href="https://www.youtube.com/@gowithwp">Podcast</a></li>
+</ul>
+</li>
+<li id="menu-item-1114"><a target="_blank" href="https://afthemes.com/products/morenews-pro/">Upgrade</a></li>
+</ul>      </nav>
+          <a href="#" aria-expanded="false">
+      <!-- .menu-toggle-wrapper -->
+      <!-- .menu-toggle-wrapper -->
+      Menu
+    </a><!-- .menu-toggle -->
+                      <a href="#"
+             ></a>
+            <nav              aria-label="Dropdown navigation">
+              <ul id="menu-main-menu-items-1"><li><a href="https://demos.afthemes.com/morenews/beauty-studio/">Home</a></li>
+<li><a href="https://demos.afthemes.com/morenews/beauty-studio/blog/">Blog</a></li>
+<li><a href="https://demos.afthemes.com/morenews/beauty-studio/category/business/">Business</a>
+<ul>
+	<li><a href="https://demos.afthemes.com/morenews/beauty-studio/category/newsbeat/">Newsbeat</a></li>
+	<li><a href="https://demos.afthemes.com/morenews/beauty-studio/category/stories/">Stories</a></li>
+</ul>
+</li>
+<li><a href="https://demos.afthemes.com/morenews/beauty-studio/category/world/">World</a>
+<ul>
+	<li><a href="https://demos.afthemes.com/morenews/beauty-studio/category/health/">Health</a></li>
+</ul>
+</li>
+<li><a href="https://demos.afthemes.com/morenews/beauty-studio/category/sports/">Sports</a></li>
+<li><a target="_blank" href="https://afthemes.com/products/morenews/#aft-view-starter-sites">All Demos</a>
+<ul>
+	<li><a href="https://demos.afthemes.com/morenews">Morenews</a></li>
+	<li><a href="https://demos.afthemes.com/morenews/sport/">Sport</a></li>
+	<li><a href="https://demos.afthemes.com/morenews/fashion/">Fashion</a></li>
+	<li><a href="https://demos.afthemes.com/morenews/classic/">Classic</a></li>
+	<li><a href="https://demos.afthemes.com/morenews/food-recipe/">Food Recipe</a></li>
+	<li><a href="https://demos.afthemes.com/morenews/travel/">Travel</a></li>
+	<li><a href="https://demos.afthemes.com/morenews/real-estate/">Real Estate</a></li>
+	<li><a href="https://demos.afthemes.com/morenews/local-business/">Local Business</a></li>
+	<li><a href="https://demos.afthemes.com/morenews/beauty-studio/">Beauty Studio</a></li>
+	<li><a href="https://demos.afthemes.com/morenews/architecture-blog/">Architecture Blog</a></li>
+	<li><a href="https://demos.afthemes.com/morenews/esports/">Esports</a></li>
+	<li><a href="https://demos.afthemes.com/morenews/crypto-news/">Crypto News</a></li>
+	<li><a href="https://demos.afthemes.com/morenews/arabic-news/">Arabic News</a></li>
+	<li><a href="https://demos.afthemes.com/morenews/china-today/">China Today</a></li>
+</ul>
+</li>
+<li><a target="_blank" href="https://docs.afthemes.com/morenews/">Docs</a>
+<ul>
+	<li><a target="_blank" href="https://afthemes.com/blog/">Blog</a></li>
+	<li><a target="_blank" href="https://www.youtube.com/watch?v=Z5MdDCRhxz4&#038;list=PL8nUD79gscmgfXEtuVz1as47b6RcSXPr6">Youtube</a></li>
+	<li><a target="_blank" href="https://www.youtube.com/@gowithwp">Podcast</a></li>
+</ul>
+</li>
+<li><a target="_blank" href="https://afthemes.com/products/morenews-pro/">Upgrade</a></li>
+</ul>            </nav>
+					<h2>GET A CLASSY LOOK</h2>				
+					<h2>It's Your Shine Timen</h2>				
+					<a href="#">
+									Book Appointment 
 					</a>
-			<h2>Information </h2>		
-			<style>/*! elementor - v3.8.1 - 13-11-2022 */
-.elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#2c2c2c;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px;line-height:1;max-width:95%}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);-ms-flex-negative:0;flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:-webkit-box;display:-ms-flexbox;display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator,.elementor-widget-divider--view-line_text .elementor-divider-separator{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after,.elementor-widget-divider--view-line_icon .elementor-divider-separator:before,.elementor-widget-divider--view-line_text .elementor-divider-separator:after,.elementor-widget-divider--view-line_text .elementor-divider-separator:before{display:block;content:"";border-bottom:0;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-left .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-left .elementor-divider__element{margin-left:0}.elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-right .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-right .elementor-divider__element{margin-right:0}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--separator-type-pattern{--divider-border-style:none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,.elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{width:100%;min-height:var(--divider-pattern-height);-webkit-mask-size:var(--divider-pattern-size) 100%;mask-size:var(--divider-pattern-size) 100%;-webkit-mask-repeat:var(--divider-pattern-repeat);mask-repeat:var(--divider-pattern-repeat);background-color:var(--divider-color);-webkit-mask-image:var(--divider-pattern-url);mask-image:var(--divider-pattern-url)}.elementor-widget-divider--no-spacing{--divider-pattern-size:auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}.e-con-inner>.elementor-widget-divider,.e-con>.elementor-widget-divider{width:var(--container-widget-width,100%)}</style>		
-			<h2>123-456-789</h2>		
-			<h2>contact@example.com</h2>		
-			<h2>Florham Park, New York</h2>		
-			<h2>It's Your Shine Time</h2>		
-			<p>Proin sapien ipsum, porta a, auctor quis, euismod ut, mi. Donec venenatis vulputate lorem. Vestibulum eu odio. In turpis. nCurabitur turpis. Nullam vel sem. Maecenas egestas arcu quis ligula mattis placerat. Pellentesque auctor neque nec urna.</p>		
-			<a href="#" role="button">
-						Learn More
+					<h2>Information </h2>				
+					<h2>123-456-789</h2>				
+					<h2>contact@example.com</h2>				
+					<h2>Florham Park, New York</h2>				
+					<h2>It's Your Shine Time</h2>				
+					<p>Proin sapien ipsum, porta a, auctor quis, euismod ut, mi. Donec venenatis vulputate lorem. Vestibulum eu odio. In turpis. nCurabitur turpis. Nullam vel sem. Maecenas egestas arcu quis ligula mattis placerat. Pellentesque auctor neque nec urna.</p>				
+					<a href="#">
+									Learn More
 					</a>
-			<style>/*! elementor - v3.8.1 - 13-11-2022 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="640" height="803" src="https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-yuri-manei-2924117-816x1024.jpg" alt="" loading="lazy" srcset="https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-yuri-manei-2924117-816x1024.jpg 816w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-yuri-manei-2924117-239x300.jpg 239w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-yuri-manei-2924117-768x964.jpg 768w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-yuri-manei-2924117-1224x1536.jpg 1224w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-yuri-manei-2924117-1024x1285.jpg 1024w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-yuri-manei-2924117.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" />															
-																<a href="https://afthemes.com/products/morenews-pro/" target="_blank" rel="noopener">
-							<img width="1170" height="125" src="https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2022/09/orange-banner.png" alt="" loading="lazy" srcset="https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2022/09/orange-banner.png 1170w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2022/09/orange-banner-300x32.png 300w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2022/09/orange-banner-1024x109.png 1024w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2022/09/orange-banner-768x82.png 768w" sizes="(max-width: 1170px) 100vw, 1170px" />								</a>
-			<h2>All Ours Beauty Tips</h2>		
-                                      <a href="https://demos.afthemes.com/morenews/beauty-studio/2018/07/18/the-man-who-saved-thousands-of-people-from-covid/">
-            <img width="640" height="960" src="https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-marcelo-dias-2010877-768x1152.jpg" alt="" decoding="async" loading="lazy" srcset="https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-marcelo-dias-2010877-768x1152.jpg 768w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-marcelo-dias-2010877-200x300.jpg 200w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-marcelo-dias-2010877-683x1024.jpg 683w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-marcelo-dias-2010877-1024x1536.jpg 1024w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-marcelo-dias-2010877.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" />        </a>
-                                    <ul class='elespare-cat-links solid'><li>
+															<img width="640" height="803" src="https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-yuri-manei-2924117-816x1024.jpg" alt="pexels-yuri-manei-2924117" decoding="async" srcset="https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-yuri-manei-2924117-816x1024.jpg 816w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-yuri-manei-2924117-239x300.jpg 239w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-yuri-manei-2924117-768x964.jpg 768w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-yuri-manei-2924117-1224x1536.jpg 1224w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-yuri-manei-2924117-1024x1285.jpg 1024w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-yuri-manei-2924117.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" loading="lazy" />															
+																<a href="https://afthemes.com/products/morenews-pro/" target="_blank">
+							<img width="1170" height="125" src="https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2022/09/orange-banner.png" alt="orange banner" decoding="async" srcset="https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2022/09/orange-banner.png 1170w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2022/09/orange-banner-300x32.png 300w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2022/09/orange-banner-1024x109.png 1024w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2022/09/orange-banner-768x82.png 768w" sizes="(max-width: 1170px) 100vw, 1170px" loading="lazy" />								</a>
+					<h2>All Ours Beauty Tips</h2>				
+                    <a href="https://demos.afthemes.com/morenews/beauty-studio/2024/05/14/the-man-who-saved-thousands-of-people-from-covid/">
+            <img width="640" height="960" src="https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-marcelo-dias-2010877-768x1152.jpg" alt="pexels-marcelo-dias-2010877" decoding="async" srcset="https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-marcelo-dias-2010877-768x1152.jpg 768w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-marcelo-dias-2010877-200x300.jpg 200w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-marcelo-dias-2010877-683x1024.jpg 683w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-marcelo-dias-2010877-1024x1536.jpg 1024w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-marcelo-dias-2010877.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" loading="lazy" />        </a>
+                <ul class='elespare-cat-links solid'><li>
                                 <a href="https://demos.afthemes.com/morenews/beauty-studio/category/business/">
                                     Business
                                 </a>
@@ -5913,18 +6076,18 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
                                 <a href="https://demos.afthemes.com/morenews/beauty-studio/category/health/">
                                     Health
                                 </a>
-                            </li></ul>                                
+                            </li></ul>              
     <h4>
-        <a href="https://demos.afthemes.com/morenews/beauty-studio/2018/07/18/the-man-who-saved-thousands-of-people-from-covid/"> The man who saved thousands of people from Covid</a>
+        <a href="https://demos.afthemes.com/morenews/beauty-studio/2024/05/14/the-man-who-saved-thousands-of-people-from-covid/"> The man who saved thousands of people from Covid</a>
     </h4>
-                    <a href="https://demos.afthemes.com/morenews/beauty-studio/author/wpafthemesgmail-com/">
-                                                 AF themes                        </a>
-                        <a href="https://demos.afthemes.com/morenews/beauty-studio/2018/">
-                                July 18, 2018                            
-                        </a>
-                                      <a href="https://demos.afthemes.com/morenews/beauty-studio/2018/07/18/searching-for-the-angel-who-held-me-on-westminster-bridge/">
-            <img width="640" height="960" src="https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-rodolfo-quiros-1852300-768x1152.jpg" alt="" decoding="async" loading="lazy" srcset="https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-rodolfo-quiros-1852300-768x1152.jpg 768w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-rodolfo-quiros-1852300-200x300.jpg 200w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-rodolfo-quiros-1852300-683x1024.jpg 683w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-rodolfo-quiros-1852300-1024x1536.jpg 1024w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-rodolfo-quiros-1852300.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" />        </a>
-                                    <ul class='elespare-cat-links solid'><li>
+            <a href="https://demos.afthemes.com/morenews/beauty-studio/author/wpafthemesgmail-com/">
+                            AF themes            </a>
+            <a href="https://demos.afthemes.com/morenews/beauty-studio/2024/">
+              May 14, 2024
+            </a>
+                    <a href="https://demos.afthemes.com/morenews/beauty-studio/2024/05/14/searching-for-the-angel-who-held-me-on-westminster-bridge/">
+            <img width="640" height="960" src="https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-rodolfo-quiros-1852300-768x1152.jpg" alt="pexels-rodolfo-quirós-1852300" decoding="async" srcset="https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-rodolfo-quiros-1852300-768x1152.jpg 768w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-rodolfo-quiros-1852300-200x300.jpg 200w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-rodolfo-quiros-1852300-683x1024.jpg 683w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-rodolfo-quiros-1852300-1024x1536.jpg 1024w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-rodolfo-quiros-1852300.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" loading="lazy" />        </a>
+                <ul class='elespare-cat-links solid'><li>
                                 <a href="https://demos.afthemes.com/morenews/beauty-studio/category/business/">
                                     Business
                                 </a>
@@ -5932,48 +6095,48 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
                                 <a href="https://demos.afthemes.com/morenews/beauty-studio/category/stories/">
                                     Stories
                                 </a>
-                            </li></ul>                                
+                            </li></ul>              
     <h4>
-        <a href="https://demos.afthemes.com/morenews/beauty-studio/2018/07/18/searching-for-the-angel-who-held-me-on-westminster-bridge/"> Searching for the &#8216;angel&#8217; who held me on Westminster Bridge</a>
+        <a href="https://demos.afthemes.com/morenews/beauty-studio/2024/05/14/searching-for-the-angel-who-held-me-on-westminster-bridge/"> Searching for the &#8216;angel&#8217; who held me on Westminster Bridge</a>
     </h4>
-                    <a href="https://demos.afthemes.com/morenews/beauty-studio/author/wpafthemesgmail-com/">
-                                                 AF themes                        </a>
-                        <a href="https://demos.afthemes.com/morenews/beauty-studio/2018/">
-                                July 18, 2018                            
-                        </a>
-                                      <a href="https://demos.afthemes.com/morenews/beauty-studio/2018/07/18/all-you-need-to-know-about-penalty-shootouts/">
-            <img width="640" height="960" src="https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-marcelo-dias-1970482-768x1152.jpg" alt="" decoding="async" loading="lazy" srcset="https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-marcelo-dias-1970482-768x1152.jpg 768w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-marcelo-dias-1970482-200x300.jpg 200w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-marcelo-dias-1970482-683x1024.jpg 683w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-marcelo-dias-1970482-1024x1536.jpg 1024w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-marcelo-dias-1970482.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" />        </a>
-                                    <ul class='elespare-cat-links solid'><li>
+            <a href="https://demos.afthemes.com/morenews/beauty-studio/author/wpafthemesgmail-com/">
+                            AF themes            </a>
+            <a href="https://demos.afthemes.com/morenews/beauty-studio/2024/">
+              May 14, 2024
+            </a>
+                    <a href="https://demos.afthemes.com/morenews/beauty-studio/2024/05/14/all-you-need-to-know-about-penalty-shootouts/">
+            <img width="640" height="960" src="https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-marcelo-dias-1970482-768x1152.jpg" alt="pexels-marcelo-dias-1970482" decoding="async" srcset="https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-marcelo-dias-1970482-768x1152.jpg 768w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-marcelo-dias-1970482-200x300.jpg 200w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-marcelo-dias-1970482-683x1024.jpg 683w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-marcelo-dias-1970482-1024x1536.jpg 1024w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2021/11/pexels-marcelo-dias-1970482.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" loading="lazy" />        </a>
+                <ul class='elespare-cat-links solid'><li>
                                 <a href="https://demos.afthemes.com/morenews/beauty-studio/category/sports/">
                                     Sports
                                 </a>
-                            </li></ul>                                
+                            </li></ul>              
     <h4>
-        <a href="https://demos.afthemes.com/morenews/beauty-studio/2018/07/18/all-you-need-to-know-about-penalty-shootouts/"> All you need to know about penalty shootouts</a>
+        <a href="https://demos.afthemes.com/morenews/beauty-studio/2024/05/14/all-you-need-to-know-about-penalty-shootouts/"> All you need to know about penalty shootouts</a>
     </h4>
-                    <a href="https://demos.afthemes.com/morenews/beauty-studio/author/wpafthemesgmail-com/">
-                                                 AF themes                        </a>
-                        <a href="https://demos.afthemes.com/morenews/beauty-studio/2018/">
-                                July 18, 2018                            
-                        </a>
-                                      <a href="https://demos.afthemes.com/morenews/beauty-studio/2018/07/18/musks-spacex-starship-lands-safely-then-explodes/">
-            <img width="640" height="960" src="https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-alex-dolle-3546604-768x1152.jpg" alt="" decoding="async" loading="lazy" srcset="https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-alex-dolle-3546604-768x1152.jpg 768w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-alex-dolle-3546604-200x300.jpg 200w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-alex-dolle-3546604-683x1024.jpg 683w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-alex-dolle-3546604-1024x1536.jpg 1024w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-alex-dolle-3546604.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" />        </a>
-                                    <ul class='elespare-cat-links solid'><li>
+            <a href="https://demos.afthemes.com/morenews/beauty-studio/author/wpafthemesgmail-com/">
+                            AF themes            </a>
+            <a href="https://demos.afthemes.com/morenews/beauty-studio/2024/">
+              May 14, 2024
+            </a>
+                    <a href="https://demos.afthemes.com/morenews/beauty-studio/2024/05/14/musks-spacex-starship-lands-safely-then-explodes/">
+            <img width="640" height="960" src="https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-alex-dolle-3546604-768x1152.jpg" alt="pexels-alex-dolle-3546604" decoding="async" srcset="https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-alex-dolle-3546604-768x1152.jpg 768w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-alex-dolle-3546604-200x300.jpg 200w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-alex-dolle-3546604-683x1024.jpg 683w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-alex-dolle-3546604-1024x1536.jpg 1024w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-alex-dolle-3546604.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" loading="lazy" />        </a>
+                <ul class='elespare-cat-links solid'><li>
                                 <a href="https://demos.afthemes.com/morenews/beauty-studio/category/business/">
                                     Business
                                 </a>
-                            </li></ul>                                
+                            </li></ul>              
     <h4>
-        <a href="https://demos.afthemes.com/morenews/beauty-studio/2018/07/18/musks-spacex-starship-lands-safely-then-explodes/"> Musk&#8217;s SpaceX: Starship lands safely&#8230; then explodes</a>
+        <a href="https://demos.afthemes.com/morenews/beauty-studio/2024/05/14/musks-spacex-starship-lands-safely-then-explodes/"> Musk&#8217;s SpaceX: Starship lands safely&#8230; then explodes</a>
     </h4>
-                    <a href="https://demos.afthemes.com/morenews/beauty-studio/author/wpafthemesgmail-com/">
-                                                 AF themes                        </a>
-                        <a href="https://demos.afthemes.com/morenews/beauty-studio/2018/">
-                                July 18, 2018                            
-                        </a>
-                                      <a href="https://demos.afthemes.com/morenews/beauty-studio/2018/07/18/google-hit-with-record-eu-fine-over-shopping-service/">
-            <img width="640" height="959" src="https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-jorge-fakhouri-filho-1854129-768x1151.jpg" alt="" decoding="async" loading="lazy" srcset="https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-jorge-fakhouri-filho-1854129-768x1151.jpg 768w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-jorge-fakhouri-filho-1854129-200x300.jpg 200w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-jorge-fakhouri-filho-1854129-683x1024.jpg 683w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-jorge-fakhouri-filho-1854129-1025x1536.jpg 1025w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-jorge-fakhouri-filho-1854129-1024x1535.jpg 1024w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-jorge-fakhouri-filho-1854129.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" />        </a>
-                                    <ul class='elespare-cat-links solid'><li>
+            <a href="https://demos.afthemes.com/morenews/beauty-studio/author/wpafthemesgmail-com/">
+                            AF themes            </a>
+            <a href="https://demos.afthemes.com/morenews/beauty-studio/2024/">
+              May 14, 2024
+            </a>
+                    <a href="https://demos.afthemes.com/morenews/beauty-studio/2024/05/14/google-hit-with-record-eu-fine-over-shopping-service/">
+            <img width="640" height="959" src="https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-jorge-fakhouri-filho-1854129-768x1151.jpg" alt="pexels-jorge-fakhouri-filho-1854129" decoding="async" srcset="https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-jorge-fakhouri-filho-1854129-768x1151.jpg 768w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-jorge-fakhouri-filho-1854129-200x300.jpg 200w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-jorge-fakhouri-filho-1854129-683x1024.jpg 683w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-jorge-fakhouri-filho-1854129-1025x1536.jpg 1025w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-jorge-fakhouri-filho-1854129-1024x1535.jpg 1024w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-jorge-fakhouri-filho-1854129.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" loading="lazy" />        </a>
+                <ul class='elespare-cat-links solid'><li>
                                 <a href="https://demos.afthemes.com/morenews/beauty-studio/category/newsbeat/">
                                     Newsbeat
                                 </a>
@@ -5981,18 +6144,18 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
                                 <a href="https://demos.afthemes.com/morenews/beauty-studio/category/tech/">
                                     Tech
                                 </a>
-                            </li></ul>                                
+                            </li></ul>              
     <h4>
-        <a href="https://demos.afthemes.com/morenews/beauty-studio/2018/07/18/google-hit-with-record-eu-fine-over-shopping-service/"> Google hit with record EU fine over Shopping service</a>
+        <a href="https://demos.afthemes.com/morenews/beauty-studio/2024/05/14/google-hit-with-record-eu-fine-over-shopping-service/"> Google hit with record EU fine over Shopping service</a>
     </h4>
-                    <a href="https://demos.afthemes.com/morenews/beauty-studio/author/wpafthemesgmail-com/">
-                                                 AF themes                        </a>
-                        <a href="https://demos.afthemes.com/morenews/beauty-studio/2018/">
-                                July 18, 2018                            
-                        </a>
-                                      <a href="https://demos.afthemes.com/morenews/beauty-studio/2018/07/18/searching-for-the-forgotten-heroes-of-world-war-two/">
-            <img width="640" height="960" src="https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-athena-1760698-768x1152.jpg" alt="" decoding="async" loading="lazy" srcset="https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-athena-1760698-768x1152.jpg 768w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-athena-1760698-200x300.jpg 200w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-athena-1760698-683x1024.jpg 683w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-athena-1760698-1024x1536.jpg 1024w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-athena-1760698.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" />        </a>
-                                    <ul class='elespare-cat-links solid'><li>
+            <a href="https://demos.afthemes.com/morenews/beauty-studio/author/wpafthemesgmail-com/">
+                            AF themes            </a>
+            <a href="https://demos.afthemes.com/morenews/beauty-studio/2024/">
+              May 14, 2024
+            </a>
+                    <a href="https://demos.afthemes.com/morenews/beauty-studio/2024/05/14/searching-for-the-forgotten-heroes-of-world-war-two/">
+            <img width="640" height="960" src="https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-athena-1760698-768x1152.jpg" alt="pexels-athena-1760698" decoding="async" srcset="https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-athena-1760698-768x1152.jpg 768w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-athena-1760698-200x300.jpg 200w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-athena-1760698-683x1024.jpg 683w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-athena-1760698-1024x1536.jpg 1024w, https://demos.afthemes.com/morenews/beauty-studio/wp-content/uploads/sites/9/2018/07/pexels-athena-1760698.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" loading="lazy" />        </a>
+                <ul class='elespare-cat-links solid'><li>
                                 <a href="https://demos.afthemes.com/morenews/beauty-studio/category/newsbeat/">
                                     Newsbeat
                                 </a>
@@ -6000,26 +6163,36 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
                                 <a href="https://demos.afthemes.com/morenews/beauty-studio/category/world/">
                                     World
                                 </a>
-                            </li></ul>                                
+                            </li></ul>              
     <h4>
-        <a href="https://demos.afthemes.com/morenews/beauty-studio/2018/07/18/searching-for-the-forgotten-heroes-of-world-war-two/"> Searching for the forgotten heroes of World War Two</a>
+        <a href="https://demos.afthemes.com/morenews/beauty-studio/2024/05/14/searching-for-the-forgotten-heroes-of-world-war-two/"> Searching for the forgotten heroes of World War Two</a>
     </h4>
-                    <a href="https://demos.afthemes.com/morenews/beauty-studio/author/wpafthemesgmail-com/">
-                                                 AF themes                        </a>
-                        <a href="https://demos.afthemes.com/morenews/beauty-studio/2018/">
-                                July 18, 2018                            
-                        </a>
-			<h2>GET 10% DISCOUNT ON YOUR FIRST VISIT!</h2>		
+            <a href="https://demos.afthemes.com/morenews/beauty-studio/author/wpafthemesgmail-com/">
+                            AF themes            </a>
+            <a href="https://demos.afthemes.com/morenews/beauty-studio/2024/">
+              May 14, 2024
+            </a>
+					<h2>GET 10% DISCOUNT ON YOUR FIRST VISIT!</h2>				
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
-			<a href="#" role="button">
-						Contact Us 
-					</a>]]></content:encoded>
+					<a href="#">
+									Contact Us 
+					</a>
+		Copyright @ 2025		
+					<a target="_blank">
+						Facebook-f
+											</a>
+					<a target="_blank">
+						Twitter
+											</a>
+					<a target="_blank">
+						Youtube
+											</a>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>943</wp:post_id>
 		<wp:post_date><![CDATA[2021-11-12 05:41:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-11-12 05:41:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-01-25 09:11:12]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-01-25 09:11:12]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-04-17 12:20:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-17 12:20:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -6031,7 +6204,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[elementor_header_footer]]></wp:meta_value>
+		<wp:meta_value><![CDATA[elementor_canvas]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -6055,19 +6228,19 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.8.1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.28.3]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"3b74727","elType":"section","settings":{"background_background":"classic","background_image":{"url":"","id":"","alt":"","source":"library"},"background_position":"center right","background_size":"auto","shape_divider_top_color":"#000000","shape_divider_top_height":{"unit":"px","size":20,"sizes":[]},"shape_divider_top_flip":"yes","shape_divider_top_above_content":"yes","shape_divider_bottom":"wave-brush","shape_divider_bottom_color":"#000000","shape_divider_bottom_height":{"unit":"px","size":60,"sizes":[]},"shape_divider_bottom_above_content":"yes"},"elements":[{"id":"d51707b","elType":"column","settings":{"_column_size":100,"_inline_size":null,"background_background":"classic","background_image":{"url":"https:\/\/demos.afthemes.com\/morenews\/beauty-studio\/wp-content\/uploads\/sites\/9\/2021\/11\/pexels-max-andrey-2669601.jpg","id":953,"alt":"","source":"library"},"background_position":"center left","background_overlay_background":"gradient","background_overlay_color":"#000000","background_overlay_color_stop":{"unit":"%","size":9,"sizes":[]},"background_overlay_color_b":"#FF608752","background_overlay_color_b_stop":{"unit":"%","size":43,"sizes":[]},"background_overlay_opacity":{"unit":"px","size":0.810000000000000053290705182007513940334320068359375,"sizes":[]},"background_repeat":"no-repeat","background_size":"cover"},"elements":[{"id":"b938f9e","elType":"section","settings":{"structure":"20","background_background":"classic"},"elements":[{"id":"9b819d6","elType":"column","settings":{"_column_size":50,"_inline_size":null,"padding":{"unit":"px","top":"180","right":"100","bottom":"180","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"180","right":"80","bottom":"180","left":"10","isLinked":false},"padding_mobile":{"unit":"px","top":"150","right":"50","bottom":"150","left":"50","isLinked":false}},"elements":[{"id":"7f26e66","elType":"widget","settings":{"title":"GET A CLASSY LOOK","title_color":"#FFFFFF","typography_typography":"custom","typography_font_family":"Abhaya Libre","typography_font_weight":"600","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"typography_font_size_tablet":{"unit":"px","size":20,"sizes":[]},"_margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"-10","left":"0","isLinked":false},"typography_font_size":{"unit":"px","size":22,"sizes":[]},"align_mobile":"center"},"elements":[],"widgetType":"heading"},{"id":"68aa4b8","elType":"widget","settings":{"title":"It's Your Shine Timen","title_color":"#FFFFFF","typography_typography":"custom","typography_font_family":"Abhaya Libre","typography_font_size":{"unit":"px","size":60,"sizes":[]},"typography_font_weight":"600","typography_font_size_tablet":{"unit":"px","size":40,"sizes":[]},"align_mobile":"center"},"elements":[],"widgetType":"heading"},{"id":"bd1a4dc","elType":"widget","settings":{"text":"Book Appointment ","typography_typography":"custom","typography_font_family":"Karla","typography_font_size":{"unit":"px","size":17,"sizes":[]},"typography_font_weight":"500","background_color":"#61CE7000","border_border":"solid","border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"align":"left","hover_color":"#FFFFFF","button_background_hover_color":"#EC4B46","button_hover_border_color":"#EC4B46","align_mobile":"center"},"elements":[],"widgetType":"button"}],"isInner":true},{"id":"d093a2e","elType":"column","settings":{"_column_size":50,"_inline_size":null,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"background_background":"classic"},"elements":[],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"560cd7e","elType":"section","settings":{"margin":{"unit":"px","top":"50","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"2361d94","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"4651462","elType":"widget","settings":{"title":"Information ","align":"center","title_color":"#EFEFEF","typography_typography":"custom","typography_font_family":"Abhaya Libre","typography_font_size":{"unit":"px","size":45,"sizes":[]},"typography_font_weight":"600","typography_text_transform":"uppercase","typography_font_size_tablet":{"unit":"px","size":40,"sizes":[]},"typography_font_size_mobile":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"85c22d8","elType":"widget","settings":{"width":{"unit":"%","size":17,"sizes":[]},"align":"center","text":"Divider","color":"#EC4B46","weight":{"unit":"px","size":2.29999999999999982236431605997495353221893310546875,"sizes":[]}},"elements":[],"widgetType":"divider"}],"isInner":false}],"isInner":false},{"id":"8377d4b","elType":"section","settings":{"structure":"30","padding":{"unit":"px","top":"10","right":"0","bottom":"50","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"10","right":"10","bottom":"50","left":"10","isLinked":false},"padding_mobile":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true}},"elements":[{"id":"4c816c3","elType":"column","settings":{"_column_size":33,"_inline_size":32.98100000000000164845914696343243122100830078125},"elements":[{"id":"0c2765c","elType":"section","settings":{"structure":"20"},"elements":[{"id":"2469ab9","elType":"column","settings":{"_column_size":50,"_inline_size":17.48799999999999954525264911353588104248046875,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"content_position_tablet":"center","_inline_size_mobile":30},"elements":[{"id":"72ccae6","elType":"widget","settings":{"selected_icon":{"value":"fas fa-phone-alt","library":"fa-solid"},"primary_color":"#EC4B46","size":{"unit":"px","size":22,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"size_tablet":{"unit":"px","size":14,"sizes":[]},"align_mobile":"right"},"elements":[],"widgetType":"icon"}],"isInner":true},{"id":"63f2c49","elType":"column","settings":{"_column_size":50,"_inline_size":82.5100000000000051159076974727213382720947265625,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"content_position_tablet":"center","_inline_size_mobile":70},"elements":[{"id":"e56ad98","elType":"widget","settings":{"title":"123-456-789","title_color":"#E7E7E7","typography_typography":"custom","typography_font_family":"Karla","typography_font_size":{"unit":"px","size":22,"sizes":[]},"typography_font_weight":"500","typography_font_size_tablet":{"unit":"px","size":14,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true}],"isInner":false},{"id":"e604d21","elType":"column","settings":{"_column_size":33,"_inline_size":33.70100000000000051159076974727213382720947265625},"elements":[{"id":"5b37195","elType":"section","settings":{"structure":"20"},"elements":[{"id":"48135c2","elType":"column","settings":{"_column_size":50,"_inline_size":17.48799999999999954525264911353588104248046875,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"content_position_tablet":"center","_inline_size_mobile":30},"elements":[{"id":"171c107","elType":"widget","settings":{"selected_icon":{"value":"fas fa-envelope","library":"fa-solid"},"primary_color":"#EC4B46","size":{"unit":"px","size":22,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"size_tablet":{"unit":"px","size":14,"sizes":[]},"align_mobile":"right"},"elements":[],"widgetType":"icon"}],"isInner":true},{"id":"00b486b","elType":"column","settings":{"_column_size":50,"_inline_size":82.5100000000000051159076974727213382720947265625,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"content_position_tablet":"center","_inline_size_mobile":70},"elements":[{"id":"ab64237","elType":"widget","settings":{"title":"contact@example.com","title_color":"#E7E7E7","typography_typography":"custom","typography_font_family":"Karla","typography_font_size":{"unit":"px","size":22,"sizes":[]},"typography_font_weight":"500","typography_font_size_tablet":{"unit":"px","size":14,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true}],"isInner":false},{"id":"b08e6db","elType":"column","settings":{"_column_size":33,"_inline_size":32.981999999999999317878973670303821563720703125},"elements":[{"id":"f8e1e16","elType":"section","settings":{"structure":"20"},"elements":[{"id":"912cbdb","elType":"column","settings":{"_column_size":50,"_inline_size":17.48799999999999954525264911353588104248046875,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"content_position_tablet":"center","_inline_size_mobile":30},"elements":[{"id":"804b21d","elType":"widget","settings":{"selected_icon":{"value":"fas fa-location-arrow","library":"fa-solid"},"primary_color":"#EC4B46","size":{"unit":"px","size":22,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"size_tablet":{"unit":"px","size":14,"sizes":[]},"align_mobile":"right"},"elements":[],"widgetType":"icon"}],"isInner":true},{"id":"694c90f","elType":"column","settings":{"_column_size":50,"_inline_size":82.5100000000000051159076974727213382720947265625,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"content_position_tablet":"center","_inline_size_mobile":70},"elements":[{"id":"815ab4d","elType":"widget","settings":{"title":"Florham Park, New York","title_color":"#E7E7E7","typography_typography":"custom","typography_font_family":"Karla","typography_font_size":{"unit":"px","size":22,"sizes":[]},"typography_font_weight":"500","typography_font_size_tablet":{"unit":"px","size":14,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"747e73d","elType":"section","settings":{"structure":"20","padding_tablet":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true}},"elements":[{"id":"93348b5","elType":"column","settings":{"_column_size":50,"_inline_size":null,"padding":{"unit":"px","top":"10","right":"100","bottom":"10","left":"10","isLinked":false},"content_position":"center","padding_mobile":{"unit":"px","top":"10","right":"50","bottom":"10","left":"50","isLinked":false}},"elements":[{"id":"ea0b914","elType":"widget","settings":{"title":"It's Your Shine Time","title_color":"#EC4B46","typography_typography":"custom","typography_font_family":"Abhaya Libre","typography_font_size":{"unit":"px","size":60,"sizes":[]},"typography_font_weight":"600","typography_font_size_tablet":{"unit":"px","size":40,"sizes":[]},"align_mobile":"center","typography_font_size_mobile":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"ed62655","elType":"widget","settings":{"title":"Proin sapien ipsum, porta a, auctor quis, euismod ut, mi. Donec venenatis vulputate lorem. Vestibulum eu odio. In turpis. nCurabitur turpis. Nullam vel sem. Maecenas egestas arcu quis ligula mattis placerat. Pellentesque auctor neque nec urna.","title_color":"#FFFFFF","typography_typography":"custom","typography_font_family":"Karla","typography_font_weight":"400","_margin":{"unit":"px","top":"10","right":"0","bottom":"25","left":"0","isLinked":false},"typography_font_size":{"unit":"px","size":20,"sizes":[]},"header_size":"p","typography_line_height":{"unit":"em","size":1.5,"sizes":[]},"typography_font_size_tablet":{"unit":"px","size":14,"sizes":[]},"align_mobile":"center"},"elements":[],"widgetType":"heading"},{"id":"513be49","elType":"widget","settings":{"text":"Learn More","typography_typography":"custom","typography_font_family":"Karla","typography_font_size":{"unit":"px","size":17,"sizes":[]},"typography_font_weight":"500","background_color":"#61CE7000","border_border":"solid","border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"align":"left","hover_color":"#FFFFFF","button_background_hover_color":"#EC4B46","button_hover_border_color":"#EC4B46","align_mobile":"center"},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"254d3f1","elType":"column","settings":{"_column_size":50,"_inline_size":null,"content_position":"center","content_position_tablet":"center","padding":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true}},"elements":[{"id":"e80b882","elType":"widget","settings":{"image":{"url":"https:\/\/demo.afthemes.com\/morenews\/beauty-studio\/wp-content\/uploads\/sites\/9\/2021\/11\/pexels-yuri-manei-2924117.jpg","id":972,"alt":"","source":"library"}},"elements":[],"widgetType":"image"}],"isInner":false}],"isInner":false},{"id":"dfd6af3","elType":"section","settings":[],"elements":[{"id":"53fbf28","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"05f0db8","elType":"widget","settings":{"image":{"url":"https:\/\/demos.afthemes.com\/morenews\/beauty-studio\/wp-content\/uploads\/sites\/9\/2022\/09\/orange-banner.png","id":1127,"alt":"","source":"library"},"image_size":"full","link_to":"custom","link":{"url":"https:\/\/afthemes.com\/products\/morenews-pro\/","is_external":"on","nofollow":"","custom_attributes":""}},"elements":[],"widgetType":"image"}],"isInner":false}],"isInner":false},{"id":"f0c2296","elType":"section","settings":{"margin":{"unit":"px","top":"30","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"ecf3d96","elType":"column","settings":{"_column_size":100,"_inline_size":null,"padding":{"unit":"px","top":"10","right":"0","bottom":"10","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true}},"elements":[{"id":"e00e994","elType":"widget","settings":{"title":"All Ours Beauty Tips","align":"center","title_color":"#EFEFEF","typography_typography":"custom","typography_font_family":"Abhaya Libre","typography_font_size":{"unit":"px","size":45,"sizes":[]},"typography_font_weight":"600","typography_text_transform":"uppercase","typography_font_size_tablet":{"unit":"px","size":40,"sizes":[]},"typography_font_size_mobile":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"a10e535","elType":"widget","settings":{"width":{"unit":"%","size":30,"sizes":[]},"align":"center","text":"Divider","color":"#EC4B46","weight":{"unit":"px","size":2.29999999999999982236431605997495353221893310546875,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"751795f","elType":"section","settings":{"structure":"30","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"79e4b17","elType":"column","settings":{"_column_size":33,"_inline_size":null,"padding":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":false}},"elements":[{"id":"f6976d0","elType":"widget","settings":{"title":"","columns":"1","read_more_text":"Read More u00bb","posts_category":"3","posts_per_page":1,"image_size":"","post_thumbnail_size":"medium_large","posts_background_color_1":"#EC4B46","posts_title_style_typography_typography":"custom","posts_title_style_typography_font_family":"Abhaya Libre","posts_title_style_typography_font_size":{"unit":"px","size":33,"sizes":[]},"posts_title_style_color":"#FFFFFF","posts_title_style_hover_color":"#FFFFFF","posts_category_style_typography_typography":"custom","posts_category_style_typography_font_family":"Karla","posts_category_style_typography_font_size":{"unit":"px","size":15,"sizes":[]},"posts_category_style_typography_font_weight":"400","posts_category_solid_color":"#EC4B46","posts_meta_style_typography_typography":"custom","posts_meta_style_typography_font_family":"Karla","posts_meta_style_typography_font_size":{"unit":"px","size":13,"sizes":[]},"posts_meta_style_typography_font_weight":"400","posts_meta_style_color":"#FFFFFF","posts_meta_style_hover_color":"#FFFFFF","posts_format_bg_style_color":"#EC4B46","columns_tablet":"1","show_comment_count":"","posts_title_style_typography_font_size_tablet":{"unit":"px","size":20,"sizes":[]},"posts_title_style_typography_line_height_tablet":{"unit":"em","size":1,"sizes":[]}},"elements":[],"widgetType":"post-grid"}],"isInner":true},{"id":"7859242","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"49f61bb","elType":"widget","settings":{"title":"","layout_posts_style":"grid-style-2","columns":"1","read_more_text":"Read More u00bb","posts_category":"7","posts_per_page":1,"image_size":"","post_thumbnail_size":"medium_large","posts_background_color_1":"#F59D6A","posts_title_style_typography_typography":"custom","posts_title_style_typography_font_family":"Abhaya Libre","posts_title_style_typography_font_size":{"unit":"px","size":33,"sizes":[]},"posts_title_style_color":"#FFFFFF","posts_title_style_hover_color":"#FFFFFF","posts_category_style_typography_typography":"custom","posts_category_style_typography_font_family":"Karla","posts_category_style_typography_font_size":{"unit":"px","size":15,"sizes":[]},"posts_category_style_typography_font_weight":"400","posts_category_solid_color":"#F59D6A","posts_meta_style_typography_typography":"custom","posts_meta_style_typography_font_family":"Karla","posts_meta_style_typography_font_size":{"unit":"px","size":13,"sizes":[]},"posts_meta_style_typography_font_weight":"400","posts_meta_style_color":"#FFFFFF","posts_meta_style_hover_color":"#FFFFFF","posts_format_bg_style_color":"#F59D6A","columns_tablet":"1","show_comment_count":"","posts_title_style_typography_font_size_tablet":{"unit":"px","size":20,"sizes":[]},"posts_title_style_typography_line_height_tablet":{"unit":"em","size":1,"sizes":[]}},"elements":[],"widgetType":"post-grid"}],"isInner":true},{"id":"c917977","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"65cfe78","elType":"widget","settings":{"title":"","columns":"1","read_more_text":"Read More u00bb","posts_category":"6","posts_per_page":1,"image_size":"","post_thumbnail_size":"medium_large","posts_background_color_1":"#EC4B46","posts_title_style_typography_typography":"custom","posts_title_style_typography_font_family":"Abhaya Libre","posts_title_style_typography_font_size":{"unit":"px","size":33,"sizes":[]},"posts_title_style_color":"#FFFFFF","posts_title_style_hover_color":"#FFFFFF","posts_category_style_typography_typography":"custom","posts_category_style_typography_font_family":"Karla","posts_category_style_typography_font_size":{"unit":"px","size":15,"sizes":[]},"posts_category_style_typography_font_weight":"400","posts_category_solid_color":"#EC4B46","posts_meta_style_typography_typography":"custom","posts_meta_style_typography_font_family":"Karla","posts_meta_style_typography_font_size":{"unit":"px","size":13,"sizes":[]},"posts_meta_style_typography_font_weight":"400","posts_meta_style_color":"#FFFFFF","posts_meta_style_hover_color":"#FFFFFF","posts_format_bg_style_color":"#EC4B46","columns_tablet":"1","show_comment_count":"","posts_title_style_typography_font_size_tablet":{"unit":"px","size":20,"sizes":[]},"posts_title_style_typography_line_height_tablet":{"unit":"em","size":1,"sizes":[]}},"elements":[],"widgetType":"post-grid"}],"isInner":true}],"isInner":true},{"id":"ac510f8","elType":"section","settings":{"structure":"30","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"0cd3b5e","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"7488297","elType":"widget","settings":{"title":"","columns":"1","read_more_text":"Read More u00bb","posts_category":"2","posts_per_page":1,"layout_posts_style":"grid-style-2","image_size":"","post_thumbnail_size":"medium_large","posts_background_color_1":"#F59D6A","posts_title_style_typography_typography":"custom","posts_title_style_typography_font_family":"Abhaya Libre","posts_title_style_typography_font_size":{"unit":"px","size":33,"sizes":[]},"posts_title_style_color":"#FFFFFF","posts_title_style_hover_color":"#FFFFFF","posts_category_style_typography_typography":"custom","posts_category_style_typography_font_family":"Karla","posts_category_style_typography_font_size":{"unit":"px","size":15,"sizes":[]},"posts_category_style_typography_font_weight":"400","posts_category_solid_color":"#F59D6A","posts_meta_style_typography_typography":"custom","posts_meta_style_typography_font_family":"Karla","posts_meta_style_typography_font_size":{"unit":"px","size":13,"sizes":[]},"posts_meta_style_typography_font_weight":"400","posts_meta_style_color":"#FFFFFF","posts_meta_style_hover_color":"#FFFFFF","posts_format_bg_style_color":"#F59D6A","columns_tablet":"1","show_comment_count":"","posts_title_style_typography_font_size_tablet":{"unit":"px","size":20,"sizes":[]},"posts_title_style_typography_line_height_tablet":{"unit":"em","size":1,"sizes":[]}},"elements":[],"widgetType":"post-grid"}],"isInner":true},{"id":"cb2094d","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"b360580","elType":"widget","settings":{"title":"","columns":"1","read_more_text":"Read More u00bb","posts_category":"4","posts_per_page":1,"image_size":"","post_thumbnail_size":"medium_large","posts_background_color_1":"#EC4B46","posts_title_style_typography_typography":"custom","posts_title_style_typography_font_family":"Abhaya Libre","posts_title_style_typography_font_size":{"unit":"px","size":33,"sizes":[]},"posts_title_style_color":"#FFFFFF","posts_title_style_hover_color":"#FFFFFF","posts_category_style_typography_typography":"custom","posts_category_style_typography_font_family":"Karla","posts_category_style_typography_font_size":{"unit":"px","size":15,"sizes":[]},"posts_category_style_typography_font_weight":"400","posts_category_solid_color":"#EC4B46","posts_meta_style_typography_typography":"custom","posts_meta_style_typography_font_family":"Karla","posts_meta_style_typography_font_size":{"unit":"px","size":13,"sizes":[]},"posts_meta_style_typography_font_weight":"400","posts_meta_style_color":"#FFFFFF","posts_meta_style_hover_color":"#FFFFFF","posts_format_bg_style_color":"#EC4B46","columns_tablet":"1","show_comment_count":"","posts_title_style_typography_font_size_tablet":{"unit":"px","size":20,"sizes":[]},"posts_title_style_typography_line_height_tablet":{"unit":"em","size":1,"sizes":[]}},"elements":[],"widgetType":"post-grid"}],"isInner":true},{"id":"5028377","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"6b53d99","elType":"widget","settings":{"title":"","columns":"1","read_more_text":"Read More u00bb","posts_category":"9","posts_per_page":1,"layout_posts_style":"grid-style-2","image_size":"","post_thumbnail_size":"medium_large","posts_background_color_1":"#F59D6A","posts_title_style_typography_typography":"custom","posts_title_style_typography_font_family":"Abhaya Libre","posts_title_style_typography_font_size":{"unit":"px","size":33,"sizes":[]},"posts_title_style_color":"#FFFFFF","posts_title_style_hover_color":"#FFFFFF","posts_category_style_typography_typography":"custom","posts_category_style_typography_font_family":"Karla","posts_category_style_typography_font_size":{"unit":"px","size":15,"sizes":[]},"posts_category_style_typography_font_weight":"400","posts_category_solid_color":"#F59D6A","posts_meta_style_typography_typography":"custom","posts_meta_style_typography_font_family":"Karla","posts_meta_style_typography_font_size":{"unit":"px","size":13,"sizes":[]},"posts_meta_style_typography_font_weight":"400","posts_meta_style_color":"#FFFFFF","posts_meta_style_hover_color":"#FFFFFF","posts_format_bg_style_color":"#F59D6A","columns_tablet":"1","show_comment_count":"","posts_title_style_typography_font_size_tablet":{"unit":"px","size":20,"sizes":[]},"posts_title_style_typography_line_height_tablet":{"unit":"em","size":1,"sizes":[]}},"elements":[],"widgetType":"post-grid"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"f380bf1","elType":"section","settings":{"margin":{"unit":"px","top":"30","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"shape_divider_top_height":{"unit":"px","size":60,"sizes":[]},"background_background":"classic","background_image":{"url":"https:\/\/demos.afthemes.com\/morenews\/beauty-studio\/wp-content\/uploads\/sites\/9\/2021\/11\/pexels-matheus-bertelli-573299.jpg","id":949,"alt":"","source":"library"},"background_position":"center center","background_overlay_background":"classic","background_overlay_color":"#000000","background_overlay_opacity":{"unit":"px","size":0.34999999999999997779553950749686919152736663818359375,"sizes":[]}},"elements":[{"id":"da78f98","elType":"column","settings":{"_column_size":100,"_inline_size":null,"background_background":"classic","background_image":{"url":"https:\/\/demo.afthemes.com\/morenews\/beauty-studio\/wp-content\/uploads\/sites\/9\/2021\/11\/pexels-matheus-bertelli-573299.jpg","id":949,"alt":"","source":"library"},"background_position":"center center","background_overlay_background":"classic","background_overlay_color":"#000000","background_overlay_opacity":{"unit":"px","size":0.6999999999999999555910790149937383830547332763671875,"sizes":[]},"padding":{"unit":"%","top":"10","right":"20","bottom":"10","left":"20","isLinked":false},"padding_mobile":{"unit":"%","top":"10","right":"10","bottom":"10","left":"10","isLinked":true}},"elements":[{"id":"dc3699e","elType":"widget","settings":{"title":"GET 10% DISCOUNT ON YOUR FIRST VISIT!","align":"center","title_color":"#EFEFEF","typography_typography":"custom","typography_font_family":"Abhaya Libre","typography_font_size":{"unit":"px","size":45,"sizes":[]},"typography_font_weight":"600","typography_text_transform":"uppercase","typography_font_size_tablet":{"unit":"px","size":40,"sizes":[]},"typography_font_size_mobile":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"827a2f7","elType":"widget","settings":{"align":"center","text_color":"#FFFFFF","typography_typography":"custom","typography_font_family":"Karla","typography_font_weight":"400","typography_font_size_tablet":{"unit":"px","size":14,"sizes":[]}},"elements":[],"widgetType":"text-editor"},{"id":"ce8a927","elType":"widget","settings":{"text":"Contact Us ","align":"center","typography_typography":"custom","typography_font_family":"Karla","typography_font_size":{"unit":"px","size":17,"sizes":[]},"typography_font_weight":"500","background_color":"#61CE7000","border_border":"solid","border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"hover_color":"#FFFFFF","button_background_hover_color":"#EC4B46","button_hover_border_color":"#EC4B46"},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"e9b4b50","elType":"section","settings":[],"elements":[{"id":"ddc83d3","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"350a3c0","elType":"section","settings":{"structure":"20"},"elements":[{"id":"6a22df0","elType":"column","settings":{"_column_size":50,"_inline_size":25,"_inline_size_tablet":50,"_inline_size_mobile":80,"content_position":"center","padding":{"unit":"px","top":"10","right":"0","bottom":"10","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true}},"elements":[{"id":"e05ef17","elType":"widget","settings":{"heading_typography_typography":"custom","heading_typography_font_family":"Abhaya Libre","heading_typography_font_size":{"unit":"px","size":38,"sizes":[]},"heading_typography_font_weight":"600","heading_color":"#FFFFFF"},"elements":[],"widgetType":"elespare-site-title"}],"isInner":true},{"id":"562ebdb","elType":"column","settings":{"_column_size":50,"_inline_size":75,"_inline_size_tablet":50,"_inline_size_mobile":20,"content_position":"center","padding":{"unit":"px","top":"10","right":"0","bottom":"10","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":false}},"elements":[{"id":"786d119","elType":"widget","settings":{"menu":"main-menu-items","align":"flex-end","menu_typo_typography":"custom","menu_typo_font_family":"Karla","menucolor":"#FFFFFF","menu_color_hover":"#EC4B46","color_submenu":"#FFFFFF","bgcolor_submenu":"#070707","color_submenu_hover":"#EC4B46","color_submenu_border":"#313131","ham_size":{"unit":"px","size":30,"sizes":[]},"menu_typo_font_weight":"500","color_toggle":"#FFFFFF","color_toggle_hover":"#FFFFFF","color_menu_sidebar_hover":"#EC4B46","menu_item_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"20","isLinked":false}},"elements":[],"widgetType":"elespare-nav-horziontal-menu"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"3b74727","elType":"section","settings":{"background_background":"classic","background_image":{"url":"","id":"","alt":"","source":"library"},"background_position":"center right","background_size":"auto","shape_divider_top_color":"#000000","shape_divider_top_height":{"unit":"px","size":20,"sizes":[]},"shape_divider_top_flip":"yes","shape_divider_top_above_content":"yes","shape_divider_bottom":"wave-brush","shape_divider_bottom_color":"#000000","shape_divider_bottom_height":{"unit":"px","size":60,"sizes":[]},"shape_divider_bottom_above_content":"yes","layout":"full_width"},"elements":[{"id":"d51707b","elType":"column","settings":{"_column_size":100,"_inline_size":null,"background_background":"classic","background_image":{"url":"https:\/\/demos.afthemes.com\/morenews\/beauty-studio\/wp-content\/uploads\/sites\/9\/2021\/11\/pexels-max-andrey-2669601.jpg","id":953,"alt":"","source":"library"},"background_position":"center left","background_overlay_background":"gradient","background_overlay_color":"#000000","background_overlay_color_stop":{"unit":"%","size":9,"sizes":[]},"background_overlay_color_b":"#FF608752","background_overlay_color_b_stop":{"unit":"%","size":43,"sizes":[]},"background_overlay_opacity":{"unit":"px","size":0.810000000000000053290705182007513940334320068359375,"sizes":[]},"background_repeat":"no-repeat","background_size":"cover"},"elements":[{"id":"b938f9e","elType":"section","settings":{"structure":"20","background_background":"classic"},"elements":[{"id":"9b819d6","elType":"column","settings":{"_column_size":50,"_inline_size":null,"padding":{"unit":"px","top":"180","right":"100","bottom":"180","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"180","right":"80","bottom":"180","left":"10","isLinked":false},"padding_mobile":{"unit":"px","top":"150","right":"50","bottom":"150","left":"50","isLinked":false}},"elements":[{"id":"7f26e66","elType":"widget","settings":{"title":"GET A CLASSY LOOK","title_color":"#FFFFFF","typography_typography":"custom","typography_font_family":"Abhaya Libre","typography_font_weight":"600","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"typography_font_size_tablet":{"unit":"px","size":20,"sizes":[]},"_margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"-10","left":"0","isLinked":false},"typography_font_size":{"unit":"px","size":22,"sizes":[]},"align_mobile":"center"},"elements":[],"widgetType":"heading"},{"id":"68aa4b8","elType":"widget","settings":{"title":"It's Your Shine Timen","title_color":"#FFFFFF","typography_typography":"custom","typography_font_family":"Abhaya Libre","typography_font_size":{"unit":"px","size":60,"sizes":[]},"typography_font_weight":"600","typography_font_size_tablet":{"unit":"px","size":40,"sizes":[]},"align_mobile":"center"},"elements":[],"widgetType":"heading"},{"id":"bd1a4dc","elType":"widget","settings":{"text":"Book Appointment ","typography_typography":"custom","typography_font_family":"Karla","typography_font_size":{"unit":"px","size":17,"sizes":[]},"typography_font_weight":"500","background_color":"#61CE7000","border_border":"solid","border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"align":"left","hover_color":"#FFFFFF","button_background_hover_color":"#EC4B46","button_hover_border_color":"#EC4B46","align_mobile":"center"},"elements":[],"widgetType":"button"}],"isInner":true},{"id":"d093a2e","elType":"column","settings":{"_column_size":50,"_inline_size":null,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"background_background":"classic"},"elements":[],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"560cd7e","elType":"section","settings":{"margin":{"unit":"px","top":"50","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"2361d94","elType":"column","settings":{"_column_size":100,"_inline_size":null,"space_between_widgets":0},"elements":[{"id":"4651462","elType":"widget","settings":{"title":"Information ","align":"center","title_color":"#EFEFEF","typography_typography":"custom","typography_font_family":"Abhaya Libre","typography_font_size":{"unit":"px","size":45,"sizes":[]},"typography_font_weight":"600","typography_text_transform":"uppercase","typography_font_size_tablet":{"unit":"px","size":40,"sizes":[]},"typography_font_size_mobile":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"85c22d8","elType":"widget","settings":{"width":{"unit":"%","size":17,"sizes":[]},"align":"center","text":"Divider","color":"#EC4B46","weight":{"unit":"px","size":2.29999999999999982236431605997495353221893310546875,"sizes":[]}},"elements":[],"widgetType":"divider"}],"isInner":false}],"isInner":false},{"id":"8377d4b","elType":"section","settings":{"structure":"30","padding":{"unit":"px","top":"10","right":"0","bottom":"50","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"10","right":"10","bottom":"50","left":"10","isLinked":false},"padding_mobile":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true}},"elements":[{"id":"4c816c3","elType":"column","settings":{"_column_size":33,"_inline_size":32.98100000000000164845914696343243122100830078125},"elements":[{"id":"0c2765c","elType":"section","settings":{"structure":"20"},"elements":[{"id":"2469ab9","elType":"column","settings":{"_column_size":50,"_inline_size":17.48799999999999954525264911353588104248046875,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"content_position_tablet":"center","_inline_size_mobile":30},"elements":[{"id":"72ccae6","elType":"widget","settings":{"selected_icon":{"value":"fas fa-phone-alt","library":"fa-solid"},"primary_color":"#EC4B46","size":{"unit":"px","size":22,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"size_tablet":{"unit":"px","size":14,"sizes":[]},"align_mobile":"right"},"elements":[],"widgetType":"icon"}],"isInner":true},{"id":"63f2c49","elType":"column","settings":{"_column_size":50,"_inline_size":82.5100000000000051159076974727213382720947265625,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"content_position_tablet":"center","_inline_size_mobile":70},"elements":[{"id":"e56ad98","elType":"widget","settings":{"title":"123-456-789","title_color":"#E7E7E7","typography_typography":"custom","typography_font_family":"Karla","typography_font_size":{"unit":"px","size":22,"sizes":[]},"typography_font_weight":"500","typography_font_size_tablet":{"unit":"px","size":14,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true}],"isInner":false},{"id":"e604d21","elType":"column","settings":{"_column_size":33,"_inline_size":33.70100000000000051159076974727213382720947265625},"elements":[{"id":"5b37195","elType":"section","settings":{"structure":"20"},"elements":[{"id":"48135c2","elType":"column","settings":{"_column_size":50,"_inline_size":17.48799999999999954525264911353588104248046875,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"content_position_tablet":"center","_inline_size_mobile":30},"elements":[{"id":"171c107","elType":"widget","settings":{"selected_icon":{"value":"fas fa-envelope","library":"fa-solid"},"primary_color":"#EC4B46","size":{"unit":"px","size":22,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"size_tablet":{"unit":"px","size":14,"sizes":[]},"align_mobile":"right"},"elements":[],"widgetType":"icon"}],"isInner":true},{"id":"00b486b","elType":"column","settings":{"_column_size":50,"_inline_size":82.5100000000000051159076974727213382720947265625,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"content_position_tablet":"center","_inline_size_mobile":70},"elements":[{"id":"ab64237","elType":"widget","settings":{"title":"contact@example.com","title_color":"#E7E7E7","typography_typography":"custom","typography_font_family":"Karla","typography_font_size":{"unit":"px","size":22,"sizes":[]},"typography_font_weight":"500","typography_font_size_tablet":{"unit":"px","size":14,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true}],"isInner":false},{"id":"b08e6db","elType":"column","settings":{"_column_size":33,"_inline_size":32.981999999999999317878973670303821563720703125},"elements":[{"id":"f8e1e16","elType":"section","settings":{"structure":"20"},"elements":[{"id":"912cbdb","elType":"column","settings":{"_column_size":50,"_inline_size":17.48799999999999954525264911353588104248046875,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"content_position_tablet":"center","_inline_size_mobile":30},"elements":[{"id":"804b21d","elType":"widget","settings":{"selected_icon":{"value":"fas fa-location-arrow","library":"fa-solid"},"primary_color":"#EC4B46","size":{"unit":"px","size":22,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"size_tablet":{"unit":"px","size":14,"sizes":[]},"align_mobile":"right"},"elements":[],"widgetType":"icon"}],"isInner":true},{"id":"694c90f","elType":"column","settings":{"_column_size":50,"_inline_size":82.5100000000000051159076974727213382720947265625,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"content_position_tablet":"center","_inline_size_mobile":70},"elements":[{"id":"815ab4d","elType":"widget","settings":{"title":"Florham Park, New York","title_color":"#E7E7E7","typography_typography":"custom","typography_font_family":"Karla","typography_font_size":{"unit":"px","size":22,"sizes":[]},"typography_font_weight":"500","typography_font_size_tablet":{"unit":"px","size":14,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"747e73d","elType":"section","settings":{"structure":"20","padding_tablet":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true}},"elements":[{"id":"93348b5","elType":"column","settings":{"_column_size":50,"_inline_size":null,"padding":{"unit":"px","top":"10","right":"100","bottom":"10","left":"10","isLinked":false},"content_position":"center","padding_mobile":{"unit":"px","top":"10","right":"30","bottom":"10","left":"30","isLinked":false}},"elements":[{"id":"ea0b914","elType":"widget","settings":{"title":"It's Your Shine Time","title_color":"#EC4B46","typography_typography":"custom","typography_font_family":"Abhaya Libre","typography_font_size":{"unit":"px","size":60,"sizes":[]},"typography_font_weight":"600","typography_font_size_tablet":{"unit":"px","size":40,"sizes":[]},"align_mobile":"center","typography_font_size_mobile":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"ed62655","elType":"widget","settings":{"title":"Proin sapien ipsum, porta a, auctor quis, euismod ut, mi. Donec venenatis vulputate lorem. Vestibulum eu odio. In turpis. nCurabitur turpis. Nullam vel sem. Maecenas egestas arcu quis ligula mattis placerat. Pellentesque auctor neque nec urna.","title_color":"#FFFFFF","typography_typography":"custom","typography_font_family":"Karla","typography_font_weight":"400","_margin":{"unit":"px","top":"10","right":"0","bottom":"25","left":"0","isLinked":false},"typography_font_size":{"unit":"px","size":20,"sizes":[]},"header_size":"p","typography_line_height":{"unit":"em","size":1.5,"sizes":[]},"typography_font_size_tablet":{"unit":"px","size":14,"sizes":[]},"align_mobile":"center","_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"513be49","elType":"widget","settings":{"text":"Learn More","typography_typography":"custom","typography_font_family":"Karla","typography_font_size":{"unit":"px","size":17,"sizes":[]},"typography_font_weight":"500","background_color":"#61CE7000","border_border":"solid","border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"align":"left","hover_color":"#FFFFFF","button_background_hover_color":"#EC4B46","button_hover_border_color":"#EC4B46","align_mobile":"center"},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"254d3f1","elType":"column","settings":{"_column_size":50,"_inline_size":null,"content_position":"center","content_position_tablet":"center","padding":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true}},"elements":[{"id":"e80b882","elType":"widget","settings":{"image":{"url":"https:\/\/demo.afthemes.com\/morenews\/beauty-studio\/wp-content\/uploads\/sites\/9\/2021\/11\/pexels-yuri-manei-2924117.jpg","id":972,"alt":"","source":"library"},"_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"image"}],"isInner":false}],"isInner":false},{"id":"dfd6af3","elType":"section","settings":{"margin":{"unit":"px","top":"30","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"53fbf28","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"05f0db8","elType":"widget","settings":{"image":{"url":"https:\/\/demos.afthemes.com\/morenews\/beauty-studio\/wp-content\/uploads\/sites\/9\/2022\/09\/orange-banner.png","id":1127,"alt":"","source":"library"},"image_size":"full","link_to":"custom","link":{"url":"https:\/\/afthemes.com\/products\/morenews-pro\/","is_external":"on","nofollow":"","custom_attributes":""},"_padding_mobile":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true}},"elements":[],"widgetType":"image"}],"isInner":false}],"isInner":false},{"id":"f0c2296","elType":"section","settings":{"margin":{"unit":"px","top":"30","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"ecf3d96","elType":"column","settings":{"_column_size":100,"_inline_size":null,"padding":{"unit":"px","top":"10","right":"0","bottom":"10","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"space_between_widgets":0},"elements":[{"id":"e00e994","elType":"widget","settings":{"title":"All Ours Beauty Tips","align":"center","title_color":"#EFEFEF","typography_typography":"custom","typography_font_family":"Abhaya Libre","typography_font_size":{"unit":"px","size":45,"sizes":[]},"typography_font_weight":"600","typography_text_transform":"uppercase","typography_font_size_tablet":{"unit":"px","size":40,"sizes":[]},"typography_font_size_mobile":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"a10e535","elType":"widget","settings":{"width":{"unit":"%","size":30,"sizes":[]},"align":"center","text":"Divider","color":"#EC4B46","weight":{"unit":"px","size":2.29999999999999982236431605997495353221893310546875,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"751795f","elType":"section","settings":{"structure":"30","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"79e4b17","elType":"column","settings":{"_column_size":33,"_inline_size":null,"padding":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":false}},"elements":[{"id":"f6976d0","elType":"widget","settings":{"title":"","columns":"1","read_more_text":"Read More u00bb","posts_category":"3","posts_per_page":1,"image_size":"","post_thumbnail_size":"medium_large","posts_background_color_1":"#EC4B46","posts_title_style_typography_typography":"custom","posts_title_style_typography_font_family":"Abhaya Libre","posts_title_style_typography_font_size":{"unit":"px","size":33,"sizes":[]},"posts_title_style_color":"#FFFFFF","posts_title_style_hover_color":"#FFFFFF","posts_category_style_typography_typography":"custom","posts_category_style_typography_font_family":"Karla","posts_category_style_typography_font_size":{"unit":"px","size":15,"sizes":[]},"posts_category_style_typography_font_weight":"400","posts_category_solid_color":"#EC4B46","posts_meta_style_typography_typography":"custom","posts_meta_style_typography_font_family":"Karla","posts_meta_style_typography_font_size":{"unit":"px","size":13,"sizes":[]},"posts_meta_style_color":"#FFFFFF","posts_meta_style_hover_color":"#FFFFFF","posts_format_bg_style_color":"#EC4B46","columns_tablet":"1","show_comment_count":"","posts_title_style_typography_font_size_tablet":{"unit":"px","size":20,"sizes":[]},"posts_title_style_typography_line_height_tablet":{"unit":"em","size":1,"sizes":[]},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"post-grid"}],"isInner":true},{"id":"7859242","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"49f61bb","elType":"widget","settings":{"title":"","layout_posts_style":"grid-style-2","columns":"1","read_more_text":"Read More u00bb","posts_category":"7","posts_per_page":1,"image_size":"","post_thumbnail_size":"medium_large","posts_background_color_1":"#F59D6A","posts_title_style_typography_typography":"custom","posts_title_style_typography_font_family":"Abhaya Libre","posts_title_style_typography_font_size":{"unit":"px","size":33,"sizes":[]},"posts_title_style_color":"#FFFFFF","posts_title_style_hover_color":"#FFFFFF","posts_category_style_typography_typography":"custom","posts_category_style_typography_font_family":"Karla","posts_category_style_typography_font_size":{"unit":"px","size":15,"sizes":[]},"posts_category_style_typography_font_weight":"400","posts_category_solid_color":"#F59D6A","posts_meta_style_typography_typography":"custom","posts_meta_style_typography_font_family":"Karla","posts_meta_style_typography_font_size":{"unit":"px","size":13,"sizes":[]},"posts_meta_style_color":"#FFFFFF","posts_meta_style_hover_color":"#FFFFFF","posts_format_bg_style_color":"#F59D6A","columns_tablet":"1","show_comment_count":"","posts_title_style_typography_font_size_tablet":{"unit":"px","size":20,"sizes":[]},"posts_title_style_typography_line_height_tablet":{"unit":"em","size":1,"sizes":[]}},"elements":[],"widgetType":"post-grid"}],"isInner":true},{"id":"c917977","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"65cfe78","elType":"widget","settings":{"title":"","columns":"1","read_more_text":"Read More u00bb","posts_category":"6","posts_per_page":1,"image_size":"","post_thumbnail_size":"medium_large","posts_background_color_1":"#EC4B46","posts_title_style_typography_typography":"custom","posts_title_style_typography_font_family":"Abhaya Libre","posts_title_style_typography_font_size":{"unit":"px","size":33,"sizes":[]},"posts_title_style_color":"#FFFFFF","posts_title_style_hover_color":"#FFFFFF","posts_category_style_typography_typography":"custom","posts_category_style_typography_font_family":"Karla","posts_category_style_typography_font_size":{"unit":"px","size":15,"sizes":[]},"posts_category_style_typography_font_weight":"400","posts_category_solid_color":"#EC4B46","posts_meta_style_typography_typography":"custom","posts_meta_style_typography_font_family":"Karla","posts_meta_style_typography_font_size":{"unit":"px","size":13,"sizes":[]},"posts_meta_style_color":"#FFFFFF","posts_meta_style_hover_color":"#FFFFFF","posts_format_bg_style_color":"#EC4B46","columns_tablet":"1","show_comment_count":"","posts_title_style_typography_font_size_tablet":{"unit":"px","size":20,"sizes":[]},"posts_title_style_typography_line_height_tablet":{"unit":"em","size":1,"sizes":[]}},"elements":[],"widgetType":"post-grid"}],"isInner":true}],"isInner":true},{"id":"ac510f8","elType":"section","settings":{"structure":"30","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"0cd3b5e","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"7488297","elType":"widget","settings":{"title":"","columns":"1","read_more_text":"Read More u00bb","posts_category":"2","posts_per_page":1,"layout_posts_style":"grid-style-2","image_size":"","post_thumbnail_size":"medium_large","posts_background_color_1":"#F59D6A","posts_title_style_typography_typography":"custom","posts_title_style_typography_font_family":"Abhaya Libre","posts_title_style_typography_font_size":{"unit":"px","size":33,"sizes":[]},"posts_title_style_color":"#FFFFFF","posts_title_style_hover_color":"#FFFFFF","posts_category_style_typography_typography":"custom","posts_category_style_typography_font_family":"Karla","posts_category_style_typography_font_size":{"unit":"px","size":15,"sizes":[]},"posts_category_style_typography_font_weight":"400","posts_category_solid_color":"#F59D6A","posts_meta_style_typography_typography":"custom","posts_meta_style_typography_font_family":"Karla","posts_meta_style_typography_font_size":{"unit":"px","size":13,"sizes":[]},"posts_meta_style_color":"#FFFFFF","posts_meta_style_hover_color":"#FFFFFF","posts_format_bg_style_color":"#F59D6A","columns_tablet":"1","show_comment_count":"","posts_title_style_typography_font_size_tablet":{"unit":"px","size":20,"sizes":[]},"posts_title_style_typography_line_height_tablet":{"unit":"em","size":1,"sizes":[]}},"elements":[],"widgetType":"post-grid"}],"isInner":true},{"id":"cb2094d","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"b360580","elType":"widget","settings":{"title":"","columns":"1","read_more_text":"Read More u00bb","posts_category":"4","posts_per_page":1,"image_size":"","post_thumbnail_size":"medium_large","posts_background_color_1":"#EC4B46","posts_title_style_typography_typography":"custom","posts_title_style_typography_font_family":"Abhaya Libre","posts_title_style_typography_font_size":{"unit":"px","size":33,"sizes":[]},"posts_title_style_color":"#FFFFFF","posts_title_style_hover_color":"#FFFFFF","posts_category_style_typography_typography":"custom","posts_category_style_typography_font_family":"Karla","posts_category_style_typography_font_size":{"unit":"px","size":15,"sizes":[]},"posts_category_style_typography_font_weight":"400","posts_category_solid_color":"#EC4B46","posts_meta_style_typography_typography":"custom","posts_meta_style_typography_font_family":"Karla","posts_meta_style_typography_font_size":{"unit":"px","size":13,"sizes":[]},"posts_meta_style_color":"#FFFFFF","posts_meta_style_hover_color":"#FFFFFF","posts_format_bg_style_color":"#EC4B46","columns_tablet":"1","show_comment_count":"","posts_title_style_typography_font_size_tablet":{"unit":"px","size":20,"sizes":[]},"posts_title_style_typography_line_height_tablet":{"unit":"em","size":1,"sizes":[]}},"elements":[],"widgetType":"post-grid"}],"isInner":true},{"id":"5028377","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"6b53d99","elType":"widget","settings":{"title":"","columns":"1","read_more_text":"Read More u00bb","posts_category":"9","posts_per_page":1,"layout_posts_style":"grid-style-2","image_size":"","post_thumbnail_size":"medium_large","posts_background_color_1":"#F59D6A","posts_title_style_typography_typography":"custom","posts_title_style_typography_font_family":"Abhaya Libre","posts_title_style_typography_font_size":{"unit":"px","size":33,"sizes":[]},"posts_title_style_color":"#FFFFFF","posts_title_style_hover_color":"#FFFFFF","posts_category_style_typography_typography":"custom","posts_category_style_typography_font_family":"Karla","posts_category_style_typography_font_size":{"unit":"px","size":15,"sizes":[]},"posts_category_style_typography_font_weight":"400","posts_category_solid_color":"#F59D6A","posts_meta_style_typography_typography":"custom","posts_meta_style_typography_font_family":"Karla","posts_meta_style_typography_font_size":{"unit":"px","size":13,"sizes":[]},"posts_meta_style_color":"#FFFFFF","posts_meta_style_hover_color":"#FFFFFF","posts_format_bg_style_color":"#F59D6A","columns_tablet":"1","show_comment_count":"","posts_title_style_typography_font_size_tablet":{"unit":"px","size":20,"sizes":[]},"posts_title_style_typography_line_height_tablet":{"unit":"em","size":1,"sizes":[]}},"elements":[],"widgetType":"post-grid"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"f380bf1","elType":"section","settings":{"margin":{"unit":"px","top":"30","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"shape_divider_top_height":{"unit":"px","size":60,"sizes":[]},"background_background":"classic","background_image":{"url":"https:\/\/demos.afthemes.com\/morenews\/beauty-studio\/wp-content\/uploads\/sites\/9\/2021\/11\/pexels-matheus-bertelli-573299.jpg","id":949,"alt":"","source":"library"},"background_position":"center center","background_overlay_background":"classic","background_overlay_color":"#000000","background_repeat":"no-repeat","background_size":"cover"},"elements":[{"id":"da78f98","elType":"column","settings":{"_column_size":100,"_inline_size":null,"background_background":"classic","background_image":{"url":"","id":"","alt":"","source":"library"},"background_position":"center center","background_overlay_background":"classic","background_overlay_opacity":{"unit":"px","size":0,"sizes":[]},"padding":{"unit":"%","top":"7","right":"20","bottom":"7","left":"20","isLinked":false},"padding_mobile":{"unit":"%","top":"10","right":"10","bottom":"10","left":"10","isLinked":true}},"elements":[{"id":"dc3699e","elType":"widget","settings":{"title":"GET 10% DISCOUNT ON YOUR FIRST VISIT!","align":"center","title_color":"#EFEFEF","typography_typography":"custom","typography_font_family":"Abhaya Libre","typography_font_size":{"unit":"px","size":45,"sizes":[]},"typography_font_weight":"600","typography_text_transform":"uppercase","typography_font_size_tablet":{"unit":"px","size":40,"sizes":[]},"typography_font_size_mobile":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"827a2f7","elType":"widget","settings":{"align":"center","text_color":"#FFFFFF","typography_typography":"custom","typography_font_family":"Karla","typography_font_weight":"400","typography_font_size_tablet":{"unit":"px","size":14,"sizes":[]}},"elements":[],"widgetType":"text-editor"},{"id":"ce8a927","elType":"widget","settings":{"text":"Contact Us ","align":"center","typography_typography":"custom","typography_font_family":"Karla","typography_font_size":{"unit":"px","size":17,"sizes":[]},"typography_font_weight":"500","background_color":"#61CE7000","border_border":"solid","border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"hover_color":"#FFFFFF","button_background_hover_color":"#EC4B46","button_hover_border_color":"#EC4B46"},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"7bf5de9","elType":"section","settings":{"background_background":"classic","background_color":"#222222"},"elements":[{"id":"424e127","elType":"column","settings":{"_column_size":100,"_inline_size":null,"padding":{"unit":"px","top":"10","right":"0","bottom":"10","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"679fdcb","elType":"section","settings":{"structure":"20","padding_tablet":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"eb49939","elType":"column","settings":{"_column_size":50,"_inline_size":null,"content_position_tablet":"center","padding_tablet":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"content_position":"center"},"elements":[{"id":"875ee41","elType":"widget","settings":{"editor":"Copyright @ 2025","text_color":"#F2F2F2","typography_typography":"custom","typography_font_family":"Karla","typography_font_weight":"400","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"align_mobile":"center","_padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"916dd7f","elType":"column","settings":{"_column_size":50,"_inline_size":null,"content_position_tablet":"center","padding_tablet":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"content_position":"center"},"elements":[{"id":"9b7e8d1","elType":"widget","settings":{"social_icon_list":[{"social_icon":{"value":"fab fa-facebook-f","library":"fa-brands"},"_id":"e14d1a3"},{"social_icon":{"value":"fab fa-twitter","library":"fa-brands"},"_id":"a160395"},{"social_icon":{"value":"fab fa-youtube","library":"fa-brands"},"_id":"59efae3"}],"align":"right","icon_color":"custom","icon_primary_color":"#00000000","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"align_mobile":"center","icon_secondary_color":"#FFFFFF99","icon_size":{"unit":"px","size":18,"sizes":[]},"icon_padding":{"unit":"em","size":0,"sizes":[]},"icon_spacing":{"unit":"px","size":15,"sizes":[]},"hover_secondary_color":"#FFFFFF","_padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"social-icons"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:9:{s:7:"heading";a:3:{s:5:"count";i:10;s:15:"control_percent";i:5;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:10;s:5:"align";i:3;s:11:"header_size";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:7:{s:11:"title_color";i:10;s:21:"typography_typography";i:10;s:22:"typography_font_family";i:10;s:22:"typography_font_weight";i:10;s:20:"typography_font_size";i:10;s:25:"typography_text_transform";i:3;s:22:"typography_line_height";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:2;}}}}s:6:"button";a:3:{s:5:"count";i:3;s:15:"control_percent";i:5;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:3:{s:4:"text";i:3;s:5:"align";i:3;s:12:"align_mobile";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:11:{s:21:"typography_typography";i:3;s:22:"typography_font_family";i:3;s:20:"typography_font_size";i:3;s:22:"typography_font_weight";i:3;s:16:"background_color";i:3;s:13:"border_border";i:3;s:12:"border_width";i:3;s:13:"border_radius";i:3;s:11:"hover_color";i:3;s:29:"button_background_hover_color";i:3;s:25:"button_hover_border_color";i:3;}}}}s:6:"column";a:3:{s:5:"count";i:23;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:12:"_inline_size";i:23;s:16:"content_position";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:7:"padding";i:7;s:6:"margin";i:6;}}s:5:"style";a:2:{s:13:"section_style";a:5:{s:21:"background_background";i:2;s:16:"background_image";i:2;s:19:"background_position";i:2;s:17:"background_repeat";i:1;s:15:"background_size";i:1;}s:26:"section_background_overlay";a:6:{s:29:"background_overlay_background";i:2;s:24:"background_overlay_color";i:2;s:29:"background_overlay_color_stop";i:1;s:26:"background_overlay_color_b";i:1;s:31:"background_overlay_color_b_stop";i:1;s:26:"background_overlay_opacity";i:2;}}}}s:7:"section";a:3:{s:5:"count";i:12;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:17:"section_structure";a:1:{s:9:"structure";i:8;}}s:5:"style";a:2:{s:18:"section_background";a:4:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:15:"background_size";i:1;}s:21:"section_shape_divider";a:8:{s:23:"shape_divider_top_color";i:1;s:24:"shape_divider_top_height";i:2;s:22:"shape_divider_top_flip";i:1;s:31:"shape_divider_top_above_content";i:1;s:20:"shape_divider_bottom";i:1;s:26:"shape_divider_bottom_color";i:1;s:27:"shape_divider_bottom_height";i:1;s:34:"shape_divider_bottom_above_content";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:6:"margin";i:3;s:7:"padding";i:4;}}}}s:7:"divider";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:15:"section_divider";a:2:{s:5:"width";i:2;s:5:"align";i:2;}}s:5:"style";a:1:{s:21:"section_divider_style";a:2:{s:5:"color";i:2;s:6:"weight";i:2;}}}}s:4:"icon";a:3:{s:5:"count";i:3;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:12:"section_icon";a:1:{s:13:"selected_icon";i:3;}}s:5:"style";a:1:{s:18:"section_style_icon";a:2:{s:13:"primary_color";i:3;s:4:"size";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:3;s:8:"_padding";i:2;}}}}s:5:"image";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:13:"section_image";a:1:{s:5:"image";i:1;}}}}s:9:"post-grid";a:3:{s:5:"count";i:6;s:15:"control_percent";i:10;s:8:"controls";a:2:{s:7:"content";a:4:{s:14:"section_layout";a:4:{s:5:"title";i:6;s:7:"columns";i:6;s:14:"columns_tablet";i:6;s:18:"layout_posts_style";i:3;}s:13:"section_query";a:2:{s:14:"posts_category";i:6;s:14:"posts_per_page";i:6;}s:19:"post_image_settings";a:2:{s:10:"image_size";i:6;s:19:"post_thumbnail_size";i:6;}s:21:"section_post_settings";a:1:{s:18:"show_comment_count";i:6;}}s:5:"style";a:5:{s:31:"section_layout_content_bg_style";a:1:{s:24:"posts_background_color_1";i:6;}s:13:"section_title";a:5:{s:39:"posts_title_style_typography_typography";i:6;s:40:"posts_title_style_typography_font_family";i:6;s:38:"posts_title_style_typography_font_size";i:6;s:23:"posts_title_style_color";i:6;s:29:"posts_title_style_hover_color";i:6;}s:16:"section_category";a:5:{s:42:"posts_category_style_typography_typography";i:6;s:43:"posts_category_style_typography_font_family";i:6;s:41:"posts_category_style_typography_font_size";i:6;s:43:"posts_category_style_typography_font_weight";i:6;s:26:"posts_category_solid_color";i:6;}s:12:"section_meta";a:6:{s:38:"posts_meta_style_typography_typography";i:6;s:39:"posts_meta_style_typography_font_family";i:6;s:37:"posts_meta_style_typography_font_size";i:6;s:39:"posts_meta_style_typography_font_weight";i:6;s:22:"posts_meta_style_color";i:6;s:28:"posts_meta_style_hover_color";i:6;}s:20:"_section_post_format";a:1:{s:27:"posts_format_bg_style_color";i:6;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:1:{s:5:"style";a:1:{s:13:"section_style";a:5:{s:5:"align";i:1;s:10:"text_color";i:1;s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:22:"typography_font_weight";i:1;}}}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:7:"scripts";a:1:{i:0;s:23:"elespare-custom-scripts";}s:6:"styles";a:6:{i:0;s:14:"widget-heading";i:1;s:8:"e-shapes";i:2;s:14:"widget-divider";i:3;s:12:"widget-image";i:4;s:19:"widget-social-icons";i:5;s:14:"e-apple-webkit";}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6150,6 +6323,174 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://www.youtube.com/@gowithwp]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Home - English]]></title>
+		<link>https://demos.afthemes.com/morenews/beauty-studio/home-english/</link>
+		<pubDate>Wed, 18 Sep 2024 04:17:28 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/morenews/beauty-studio/home-english/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1189</wp:post_id>
+		<wp:post_date><![CDATA[2024-09-18 04:17:28]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-09-18 04:17:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-09-18 04:17:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-09-18 04:17:28]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home-english]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Home - English]]></title>
+		<link>https://demos.afthemes.com/morenews/beauty-studio/home-english-2/</link>
+		<pubDate>Wed, 18 Sep 2024 04:17:38 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/morenews/beauty-studio/home-english-2/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1190</wp:post_id>
+		<wp:post_date><![CDATA[2024-09-18 04:17:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-09-18 04:17:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-09-18 04:17:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-09-18 04:17:38]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home-english-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Home - العربية]]></title>
+		<link>https://demos.afthemes.com/morenews/beauty-studio/home-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9/</link>
+		<pubDate>Wed, 18 Sep 2024 04:17:42 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/morenews/beauty-studio/home-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1191</wp:post_id>
+		<wp:post_date><![CDATA[2024-09-18 04:17:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-09-18 04:17:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-09-18 04:17:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-09-18 04:17:42]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Home - Français]]></title>
+		<link>https://demos.afthemes.com/morenews/beauty-studio/home-francais/</link>
+		<pubDate>Wed, 18 Sep 2024 04:17:46 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/morenews/beauty-studio/home-francais/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1192</wp:post_id>
+		<wp:post_date><![CDATA[2024-09-18 04:17:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-09-18 04:17:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-09-18 04:17:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-09-18 04:17:46]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home-francais]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Home - नेपाली]]></title>
+		<link>https://demos.afthemes.com/morenews/beauty-studio/home-%e0%a4%a8%e0%a5%87%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a5%80/</link>
+		<pubDate>Wed, 18 Sep 2024 04:17:50 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/morenews/beauty-studio/home-%e0%a4%a8%e0%a5%87%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a5%80/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1193</wp:post_id>
+		<wp:post_date><![CDATA[2024-09-18 04:17:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-09-18 04:17:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-09-18 04:17:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-09-18 04:17:50]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home-%e0%a4%a8%e0%a5%87%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a5%80]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Elementor #1196]]></title>
+		<link>https://demos.afthemes.com/morenews/beauty-studio/?page_id=1196</link>
+		<pubDate></pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/morenews/beauty-studio/?page_id=1196</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1196</wp:post_id>
+		<wp:post_date><![CDATA[2024-12-12 05:16:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-12-12 05:16:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-12-12 05:16:47]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[morenews-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[morenews-meta-content-mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3.25.10]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
