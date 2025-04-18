@@ -342,7 +342,7 @@
                         "news",
                         "general"
                     ],
-                    "plugins": "elementor, elespare "
+                    "plugins": "elementor,elespare "
                 },
                 "music": {
                     "slug": "music",
@@ -356,7 +356,7 @@
                         "blog",
                         "music"
                     ],
-                    "plugins": "elementor, elespare "
+                    "plugins": "elementor,elespare "
                 },
                 "vegetables": {
                     "slug": "vegetables",
@@ -370,7 +370,7 @@
                         "blog",
                         "vegetables"
                     ],
-                    "plugins": "elementor, elespare "
+                    "plugins": "elementor,elespare "
                 },
                 "ornament": {
                     "slug": "ornament",
@@ -384,7 +384,7 @@
                         "blog",
                         "ornament"
                     ],
-                    "plugins": "elementor, elespare "
+                    "plugins": "elementor,elespare "
                 },
                 "covid": {
                     "slug": "covid",
@@ -398,7 +398,7 @@
                         "blog",
                         "covid"
                     ],
-                    "plugins": "elementor, elespare "
+                    "plugins": "elementor,elespare "
                 },
                 "hybridnews-dark": {
                     "slug": "hybridnews-dark",
@@ -538,7 +538,7 @@
                         "fashion",
                         "blog"
                     ],
-                    "plugins": "elementor, elespare "
+                    "plugins": "elementor,elespare "
                 },
                 "24hrs-news": {
                     "slug": "24hrs-news",
@@ -874,7 +874,7 @@
                         "education",
                         "business"
                     ],
-                    "plugins": "elementor, elespare "
+                    "plugins": "elementor,elespare "
                 },
                 "educose-dark": {
                     "slug": "educose-dark",
@@ -888,7 +888,7 @@
                         "education",
                         "business"
                     ],
-                    "plugins": "elementor, elespare "
+                    "plugins": "elementor,elespare "
                 },
                 "herbal-nepal": {
                     "slug": "herbal-nepal",
@@ -916,7 +916,7 @@
                         "perfume",
                         "arabic"
                     ],
-                    "plugins": "elementor, elespare "
+                    "plugins": "elementor,elespare "
                 },
                 "industry-blog": {
                     "slug": "industry-blog",
@@ -944,7 +944,7 @@
                         "food",
                         "spanish"
                     ],
-                    "plugins": "elementor, elespare "
+                    "plugins": "elementor,elespare "
                 },
                 "germany-tour": {
                     "slug": "germany-tour",
@@ -972,7 +972,7 @@
                         "news",
                         "russian"
                     ],
-                    "plugins": "elementor, elespare "
+                    "plugins": "elementor,elespare "
                 },
                 "wildlife-adventures": {
                     "slug": "wildlife-adventures",
@@ -1000,7 +1000,7 @@
                         "bangladesh",
                         "education"
                     ],
-                    "plugins": "elementor, elespare "
+                    "plugins": "elementor,elespare "
                 },
                 "explore-outdoors": {
                     "slug": "explore-outdoors",
@@ -1042,7 +1042,7 @@
                         "africa",
                         "food"
                     ],
-                    "plugins": "elementor, elespare "
+                    "plugins": "elementor,elespare "
                 },
                 "carnival-culture": {
                     "slug": "carnival-culture",
@@ -3279,7 +3279,7 @@
                         "russian",
                         "elementor"
                     ],
-                    "plugins": "elementor, elespare "
+                    "plugins": "elementor,elespare "
                 },
                 "financial-times": {
                     "slug": "financial-times",
@@ -3294,7 +3294,7 @@
                         "finance",
                         "elementor"
                     ],
-                    "plugins": "elementor, elespare "
+                    "plugins": "elementor,elespare "
                 },
                 "padma-healing": {
                     "slug": "padma-healing",
@@ -3309,7 +3309,7 @@
                         "health",
                         "elementor"
                     ],
-                    "plugins": "elementor, elespare "
+                    "plugins": "elementor,elespare "
                 },
                 "pet-care": {
                     "slug": "pet-care",
@@ -3324,7 +3324,7 @@
                         "pet",
                         "elementor"
                     ],
-                    "plugins": "woocommerce, elementor, elespare, essential-addons-for-elementor-lite "
+                    "plugins": "woocommerce,elementor,elespare,essential-addons-for-elementor-lite "
                 },
                 "personal-portfolio": {
                     "slug": "personal-portfolio",
@@ -3352,7 +3352,7 @@
                         "wedding",
                         "site-origin"
                     ],
-                    "plugins": "siteorigin-panels, so-widgets-bundle"
+                    "plugins": "siteorigin-panels,so-widgets-bundle"
                 },
                 "influencer": {
                     "slug": "influencer",
@@ -3381,7 +3381,7 @@
                         "elementor",
                         "hindi"
                     ],
-                    "plugins": "elementor, elespare"
+                    "plugins": "elementor,elespare"
                 },
                 "hinduism": {
                     "slug": "hinduism",
@@ -3396,7 +3396,7 @@
                         "elementor",
                         "hindi"
                     ],
-                    "plugins": "elementor, elespare"
+                    "plugins": "elementor,elespare"
                 },
                 "islamic-prayer": {
                     "slug": "islamic-prayer",
@@ -3411,7 +3411,7 @@
                         "elementor",
                         "hindi"
                     ],
-                    "plugins": "elementor, elespare"
+                    "plugins": "elementor,elespare"
                 },
                 "icc-update": {
                     "slug": "icc-update",
@@ -3426,7 +3426,7 @@
                         "elementor",
                         "hindi"
                     ],
-                    "plugins": "elementor, elespare"
+                    "plugins": "elementor,elespare"
                 },
                 "university-blog": {
                     "slug": "university-blog",
@@ -3441,7 +3441,7 @@
                         "elementor",
                         "hindi"
                     ],
-                    "plugins": "elementor, elespare"
+                    "plugins": "elementor,elespare"
                 },
                 "buddhism": {
                     "slug": "buddhism",
@@ -3456,7 +3456,7 @@
                         "elementor",
                         "myanmar"
                     ],
-                    "plugins": "elementor, elespare"
+                    "plugins": "elementor,elespare"
                 },
                 "holidays-inn": {
                     "slug": "holidays-inn",
@@ -3470,7 +3470,7 @@
                         "travel",
                         "elementor"
                     ],
-                    "plugins": "elementor, elespare"
+                    "plugins": "elementor,elespare"
                 },
                 "meditation-blog": {
                     "slug": "meditation-blog",
@@ -3484,7 +3484,7 @@
                         "meditation",
                         "elementor"
                     ],
-                    "plugins": "elementor, elespare"
+                    "plugins": "elementor,elespare"
                 },
                 "content-marketing": {
                     "slug": "content-marketing",
@@ -3498,7 +3498,7 @@
                         "education",
                         "elementor"
                     ],
-                    "plugins": "elementor, elespare"
+                    "plugins": "elementor,elespare"
                 },
                 "smartphone": {
                     "slug": "smartphone",
@@ -3512,7 +3512,7 @@
                         "gadgets",
                         "elementor"
                     ],
-                    "plugins": "elementor, elespare"
+                    "plugins": "elementor,elespare"
                 },
                 "turkish-news": {
                     "slug": "turkish-news",
@@ -3527,7 +3527,7 @@
                         "elementor",
                         "turkish"
                     ],
-                    "plugins": "elementor, elespare"
+                    "plugins": "elementor,elespare"
                 },
                 "nation-news": {
                     "slug": "nation-news",
@@ -3542,7 +3542,7 @@
                         "elementor",
                         "turkish"
                     ],
-                    "plugins": "elementor, elespare"
+                    "plugins": "elementor,elespare"
                 },
                 "digital-trends": {
                     "slug": "digital-trends",
@@ -3557,7 +3557,7 @@
                         "elementor",
                         "turkish"
                     ],
-                    "plugins": "elementor, elespare"
+                    "plugins": "elementor,elespare"
                 },
                 "transfer-market": {
                     "slug": "transfer-market",
@@ -3572,7 +3572,7 @@
                         "elementor",
                         "turkish"
                     ],
-                    "plugins": "elementor, elespare"
+                    "plugins": "elementor,elespare"
                 },
                 "art-and-culture": {
                     "slug": "art-and-culture",
@@ -3587,7 +3587,7 @@
                         "elementor",
                         "turkish"
                     ],
-                    "plugins": "elementor, elespare"
+                    "plugins": "elementor,elespare"
                 },
                 "dutch-news": {
                     "slug": "dutch-news",
@@ -3602,7 +3602,7 @@
                         "elementor",
                         "dutch"
                     ],
-                    "plugins": "elementor, elespare"
+                    "plugins": "elementor,elespare"
                 },
                 "food-review": {
                     "slug": "food-review",
@@ -3617,7 +3617,7 @@
                         "elementor",
                         "dutch"
                     ],
-                    "plugins": "elementor, elespare"
+                    "plugins": "elementor,elespare"
                 },
                 "political-news": {
                     "slug": "political-news",
@@ -3632,7 +3632,7 @@
                         "elementor",
                         "indionsia"
                     ],
-                    "plugins": "elementor, elespare"
+                    "plugins": "elementor,elespare"
                 },
                 "youth-magazine": {
                     "slug": "youth-magazine",
@@ -3647,7 +3647,7 @@
                         "elementor",
                         "indionsia"
                     ],
-                    "plugins": "elementor, elespare"
+                    "plugins": "elementor,elespare"
                 },
                 "photography-memories": {
                     "slug": "photography-memories",
@@ -3662,7 +3662,7 @@
                         "elementor",
                         "photography"
                     ],
-                    "plugins": "elementor, elespare"
+                    "plugins": "elementor,elespare"
                 },
                 "atlas-escape": {
                     "slug": "atlas-escape",
@@ -3677,7 +3677,7 @@
                         "elementor",
                         "travel"
                     ],
-                    "plugins": "elementor, elespare"
+                    "plugins": "elementor,elespare"
                 },
                 "clear-property": {
                     "slug": "clear-property",
@@ -3768,7 +3768,7 @@
                         "pet"
                     ],
                     "plugins": "blockspare"
-                }, 
+                },
                 "hindu-religion": {
                     "slug": "hindu-religion",
                     "theme": "MoreNews Pro",
@@ -4089,7 +4089,7 @@
                         "blog",
                         "elementor"
                     ],
-                    "plugins": "elementor, elespare, essential-addons-for-elementor-lite,smart-slider-3"
+                    "plugins": "elementor,elespare,essential-addons-for-elementor-lite,smart-slider-3"
                 },
                 "beauty-studio": {
                     "slug": "beauty-studio",
@@ -4597,7 +4597,7 @@
                         "gadgets",
                         "ecommerce"
                     ],
-                    "plugins": "woocommerce, woo-variation-swatches, yith-woocommerce-product-bundles,elementor, elespare,essential-addons-for-elementor-lite "
+                    "plugins": "woocommerce,woo-variation-swatches,yith-woocommerce-product-bundles,elementor,elespare,essential-addons-for-elementor-lite "
                 },
                 "beauty-product": {
                     "slug": "beauty-product",
@@ -4612,7 +4612,7 @@
                         "beauty",
                         "ecommerce"
                     ],
-                    "plugins": "woocommerce, elementor, elespare, essential-addons-for-elementor-lite "
+                    "plugins": "woocommerce,elementor,elespare,essential-addons-for-elementor-lite "
                 },
                 "book-store": {
                     "slug": "book-store",
@@ -4627,7 +4627,7 @@
                         "education",
                         "ecommerce"
                     ],
-                    "plugins": "woocommerce, elementor, elespare, essential-addons-for-elementor-lite "
+                    "plugins": "woocommerce,elementor,elespare,essential-addons-for-elementor-lite "
                 },
                 "gadgetsnews": {
                     "slug": "gadgetsnews",
@@ -4642,7 +4642,7 @@
                         "gadgets",
                         "ecommerce"
                     ],
-                    "plugins": "woocommerce, popup-maker"
+                    "plugins": "woocommerce,popup-maker"
                 }
             }
         },
