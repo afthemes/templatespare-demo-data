@@ -3817,7 +3817,7 @@
                 "memorable-story": {
                     "slug": "memorable-story",
                     "theme": "MoreNews Pro",
-                    "main_category": "Regional & Language Specific",
+                    "main_category": "Lifestyle & Personal",
                     "catgory": "Gutenberg",
                     "name": "Memorable Story",
                     "preview": "https://demos.afthemes.com/morenews-pro/memorable-story/",
@@ -3826,6 +3826,126 @@
                         "blog",
                         "gutenberg",
                         "memory"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "spanish-news": {
+                    "slug": "spanish-news",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Gutenberg",
+                    "name": "Spanish News",
+                    "preview": "https://demos.afthemes.com/morenews-pro/spanish-news/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "gutenberg",
+                        "spanish"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "german-cars": {
+                    "slug": "german-cars",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Gutenberg",
+                    "name": "German Cars",
+                    "preview": "https://demos.afthemes.com/morenews-pro/german-cars/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "gutenberg",
+                        "german"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "french-news": {
+                    "slug": "french-news",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Gutenberg",
+                    "name": "French News",
+                    "preview": "https://demos.afthemes.com/morenews-pro/french-news/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "gutenberg",
+                        "french"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "anime-cosplay": {
+                    "slug": "anime-cosplay",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Gutenberg",
+                    "name": "Anime Cosplay",
+                    "preview": "https://demos.afthemes.com/morenews-pro/anime-cosplay/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "gutenberg",
+                        "japanese"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "korean-drama": {
+                    "slug": "korean-drama",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Gutenberg",
+                    "name": "Korean Drama",
+                    "preview": "https://demos.afthemes.com/morenews-pro/korean-drama/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "gutenberg",
+                        "korean"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "myanmar-news": {
+                    "slug": "myanmar-news",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Gutenberg",
+                    "name": "Myanmar News",
+                    "preview": "https://demos.afthemes.com/morenews-pro/myanmar-news/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "gutenberg",
+                        "myanmar"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "brazil-news": {
+                    "slug": "brazil-news",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Gutenberg",
+                    "name": "Brazil News",
+                    "preview": "https://demos.afthemes.com/morenews-pro/brazil-news/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "gutenberg",
+                        "brazil"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "romanian-news": {
+                    "slug": "romanian-news",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Gutenberg",
+                    "name": "Romanian News",
+                    "preview": "https://demos.afthemes.com/morenews-pro/romanian-news/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "gutenberg",
+                        "romanian"
                     ],
                     "plugins": "blockspare"
                 }
