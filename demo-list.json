@@ -3443,6 +3443,51 @@
                     ],
                     "plugins": "elementor,elespare"
                 },
+                "loreal": {
+                    "slug": "loreal",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "Elementor",
+                    "name": "Loreal",
+                    "preview": "https://demos.afthemes.com/morenews-pro/loreal/",
+                    "tags": [
+                        "pro",
+                        "business",
+                        "elementor",
+                        "shop"
+                    ],
+                    "plugins": "woocommerce,elementor,elespare,essential-addons-for-elementor-lite"
+                },
+                "our-gadgets": {
+                    "slug": "our-gadgets",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "Elementor",
+                    "name": "Our Gadgets",
+                    "preview": "https://demos.afthemes.com/morenews-pro/our-gadgets/",
+                    "tags": [
+                        "pro",
+                        "gadgets",
+                        "elementor",
+                        "shop"
+                    ],
+                    "plugins": "woocommerce,elementor,elespare,essential-addons-for-elementor-lite"
+                },
+                "zara-collection": {
+                    "slug": "zara-collection",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "Elementor",
+                    "name": "Zara Collection",
+                    "preview": "https://demos.afthemes.com/morenews-pro/zara-collection/",
+                    "tags": [
+                        "pro",
+                        "gadgets",
+                        "elementor",
+                        "shop"
+                    ],
+                    "plugins": "woocommerce,elementor,elespare,essential-addons-for-elementor-lite"
+                },
                 "buddhism": {
                     "slug": "buddhism",
                     "theme": "MoreNews Pro",
@@ -3946,6 +3991,188 @@
                         "blog",
                         "gutenberg",
                         "romanian"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "daily-scope": {
+                    "slug": "daily-scope",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Gutenberg",
+                    "name": "Daily Scope",
+                    "preview": "https://demos.afthemes.com/morenews-pro/daily-scope/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "global-gazette": {
+                    "slug": "global-gazette",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Gutenberg",
+                    "name": "Global Gazette",
+                    "preview": "https://demos.afthemes.com/morenews-pro/global-gazette/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "pulse-press": {
+                    "slug": "pulse-press",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Gutenberg",
+                    "name": "Pulse Press",
+                    "preview": "https://demos.afthemes.com/morenews-pro/pulse-press/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "headliner-hub": {
+                    "slug": "headliner-hub",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Gutenberg",
+                    "name": "Headliner Hub",
+                    "preview": "https://demos.afthemes.com/morenews-pro/headliner-hub/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "morning-brief": {
+                    "slug": "morning-brief",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Gutenberg",
+                    "name": "Morning Brief",
+                    "preview": "https://demos.afthemes.com/morenews-pro/morning-brief/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "news-scope": {
+                    "slug": "news-scope",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Gutenberg",
+                    "name": "News Scope",
+                    "preview": "https://demos.afthemes.com/morenews-pro/news-scope/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "frontline-reports": {
+                    "slug": "frontline-reports",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Gutenberg",
+                    "name": "Frontline Reports",
+                    "preview": "https://demos.afthemes.com/morenews-pro/frontline-reports/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "metro-newsline": {
+                    "slug": "metro-newsline",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Gutenberg",
+                    "name": "Metro Newsline",
+                    "preview": "https://demos.afthemes.com/morenews-pro/metro-newsline/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "info-post": {
+                    "slug": "info-post",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Gutenberg",
+                    "name": "Info Post",
+                    "preview": "https://demos.afthemes.com/morenews-pro/info-post/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "daily-outlook": {
+                    "slug": "daily-outlook",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Gutenberg",
+                    "name": "Daily Outlook",
+                    "preview": "https://demos.afthemes.com/morenews-pro/daily-outlook/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "news-network": {
+                    "slug": "news-network",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Gutenberg",
+                    "name": "News Network",
+                    "preview": "https://demos.afthemes.com/morenews-pro/news-network/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "news-nova": {
+                    "slug": "news-nova",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Gutenberg",
+                    "name": "News Nova",
+                    "preview": "https://demos.afthemes.com/morenews-pro/news-nova/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "frame-news": {
+                    "slug": "frame-news",
+                    "theme": "MoreNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Gutenberg",
+                    "name": "Frame News",
+                    "preview": "https://demos.afthemes.com/morenews-pro/frame-news/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "gutenberg"
                     ],
                     "plugins": "blockspare"
                 }
