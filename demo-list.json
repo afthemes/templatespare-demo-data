@@ -4194,7 +4194,8 @@
                 "newsplace",
                 "sidenews",
                 "newslight",
-                "gamernews"
+                "gamernews",
+                "newscorp"
             ],
             "demodata": {
                 "default": {
@@ -5011,6 +5012,28 @@
                         "free",
                         "magazine",
                         "game",
+                        "child"
+                    ]
+                }
+            }
+        },
+
+        "newscorp": {
+            "data": "newscorp",
+            "free": "morenews",
+            "premium": "morenews-pro",
+            "demodata": {
+                "default": {
+                    "slug": "newscorp",
+                    "theme": "MoreNews",
+                    "main_category": "News & Media",
+                    "catgory": "General",
+                    "name": "NewsCorp",
+                    "preview": "https://demos.afthemes.com/morenews/newscorp/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "general",
                         "child"
                     ]
                 }
@@ -10024,52 +10047,6 @@
                     ]
                 }
             }
-        },
-        "reviewnews-pro": {
-            "data": "reviewnews-pro",
-            "free": "reviewnews",
-            "premium": "",
-            "demodata": {
-                "default": {
-                    "slug": "reviewnews",
-                    "theme": "ReviewNews Pro",
-                    "main_category": "News & Media",
-                    "catgory": "General",
-                    "name": "ReviewNews Pro",
-                    "preview": "https://demos.afthemes.com/reviewnews-pro/",
-                    "tags": [
-                        "pro",
-                        "magazine",
-                        "general"
-                    ]
-                },
-                "sport": {
-                    "slug": "sport",
-                    "theme": "ReviewNews Pro",
-                    "main_category": "News & Media",
-                    "catgory": "Sport",
-                    "name": "Sport Pro",
-                    "preview": "https://demos.afthemes.com/reviewnews-pro/sport/",
-                    "tags": [
-                        "pro",
-                        "magazine",
-                        "sport"
-                    ]
-                },
-                "recipe": {
-                    "slug": "recipe",
-                    "theme": "ReviewNews Pro",
-                    "main_category": "Lifestyle & Personal",
-                    "catgory": "Recipe",
-                    "name": "Recipe Pro",
-                    "preview": "https://demos.afthemes.com/reviewnews-pro/recipe/",
-                    "tags": [
-                        "pro",
-                        "magazine",
-                        "gadgets"
-                    ]
-                }
-            }
-        }        
+        }
     }
 } 
