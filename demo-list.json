@@ -62,6 +62,7 @@
                     "main_category": "Lifestyle & Personal",
                     "catgory": "Blog",
                     "name": "Travel Pro",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/covernews-pro/travel/",
                     "tags": [
                         "pro",
@@ -88,6 +89,7 @@
                     "main_category": "Design & Creative",
                     "catgory": "Blog",
                     "name": "Minimal Pro",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/covernews-pro/minimal/",
                     "tags": [
                         "pro",
@@ -2337,6 +2339,7 @@
                     "main_category": "Design & Creative",
                     "catgory": "Blog",
                     "name": "Masonry Pro",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/chromenews-pro/masonry/",
                     "tags": [
                         "pro",
@@ -2350,6 +2353,7 @@
                     "main_category": "Lifestyle & Personal",
                     "catgory": "Blog",
                     "name": "Feminine Pro",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/chromenews-pro/feminine-blog/",
                     "tags": [
                         "pro",
@@ -2362,7 +2366,8 @@
                     "theme": "ChromeNews Pro",
                     "main_category": "Design & Creative",
                     "catgory": "Blog",
-                    "name": "Feminine Pro",
+                    "name": "Minimal Pro",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/chromenews-pro/minimal-blog/",
                     "tags": [
                         "pro",
@@ -2585,6 +2590,7 @@
                     "main_category": "Lifestyle & Personal",
                     "catgory": "Blog",
                     "name": "Travel",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/chromenews/travel/",
                     "tags": [
                         "free",
@@ -2598,6 +2604,7 @@
                     "main_category": "News & Media",
                     "catgory": "Blog",
                     "name": "Online News",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/chromenews/online-news/",
                     "tags": [
                         "free",
@@ -2610,6 +2617,7 @@
                     "main_category": "Lifestyle & Personal",
                     "catgory": "Blog",
                     "name": "Feminine Blog",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/chromenews/feminine-blog/",
                     "tags": [
                         "free",
@@ -2623,6 +2631,7 @@
                     "main_category": "Design & Creative",
                     "catgory": "Blog",
                     "name": "Minimal Blog",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/chromenews/minimal-blog/",
                     "tags": [
                         "free",
@@ -3037,6 +3046,7 @@
                     "main_category": "Lifestyle & Personal",
                     "catgory": "Blog",
                     "name": "Travel Pro",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/morenews-pro/travel/",
                     "tags": [
                         "pro",
@@ -3090,6 +3100,7 @@
                     "main_category": "News & Media",
                     "catgory": "General",
                     "name": "Online Mag",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/morenews-pro/onlinemag/",
                     "tags": [
                         "pro",
@@ -4406,6 +4417,7 @@
                     "main_category": "Lifestyle & Personal",
                     "catgory": "Blog",
                     "name": "Travel",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/morenews/travel/",
                     "tags": [
                         "free",
@@ -4749,6 +4761,7 @@
                     "main_category": "Regional & Language Specific",
                     "catgory": "Russian",
                     "name": "Russian Cuisine",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/morenews/russian-cuisine/",
                     "tags": [
                         "free",
@@ -5320,6 +5333,7 @@
                     "main_category": "Design & Creative",
                     "catgory": "General",
                     "name": "Masonry Pro",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/newsphere-pro/masonry/",
                     "tags": [
                         "pro",
@@ -5346,6 +5360,7 @@
                     "main_category": "Lifestyle & Personal",
                     "catgory": "Blog",
                     "name": "Travel Pro",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/newsphere-pro/travel/",
                     "tags": [
                         "pro",
@@ -5359,6 +5374,7 @@
                     "main_category": "Design & Creative",
                     "catgory": "Blog",
                     "name": "Minimal Pro",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/newsphere-pro/minimal/",
                     "tags": [
                         "pro",
@@ -5742,6 +5758,7 @@
                     "main_category": "Lifestyle & Personal",
                     "catgory": "Blog",
                     "name": "Travel Pro",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/darknews-pro/travel/",
                     "tags": [
                         "pro",
@@ -6521,6 +6538,7 @@
                     "main_category": "Regional & Language Specific",
                     "catgory": "Blog",
                     "name": "Travel Blog Pro",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/elegant-magazine-pro/travel-blog",
                     "tags": [
                         "pro",
@@ -6585,6 +6603,7 @@
                     "main_category": "Design & Creative",
                     "catgory": "Blog",
                     "name": "Minimal Magazine",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/elegant-magazine/minimal",
                     "tags": [
                         "free",
@@ -6611,6 +6630,7 @@
                     "main_category": "Lifestyle & Personal",
                     "catgory": "Blog",
                     "name": "Travel Blog",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/elegant-magazine/travel-blog",
                     "tags": [
                         "free",
@@ -7046,6 +7066,7 @@
                     "main_category": "Lifestyle & Personal",
                     "catgory": "Blog",
                     "name": "Travel Pro",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/enternews-pro/travel/",
                     "tags": [
                         "pro",
@@ -7984,6 +8005,7 @@
                     "main_category": "Design & Creative",
                     "catgory": "Blog",
                     "name": "Masonry Pro",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/newsever-pro/masonry/",
                     "tags": [
                         "pro",
@@ -8493,6 +8515,7 @@
                     "main_category": "Regional & Language Specific",
                     "catgory": "Blog",
                     "name": "Weddery Blog",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/magazine-7/betting-blog",
                     "tags": [
                         "free",
@@ -9094,6 +9117,7 @@
                     "main_category": "Regional & Language Specific",
                     "catgory": "Spanish",
                     "name": "deporte español",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/magnitude/spanish-sport/",
                     "tags": [
                         "free",
@@ -9694,6 +9718,7 @@
                     "main_category": "News & Media",
                     "catgory": "General",
                     "name": "General",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/broadnews/general/",
                     "tags": [
                         "free",
@@ -9707,6 +9732,7 @@
                     "main_category": "News & Media",
                     "catgory": "Sport",
                     "name": "Spotlight",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/broadnews/spotlight/",
                     "tags": [
                         "free",
@@ -9720,6 +9746,7 @@
                     "main_category": "News & Media",
                     "catgory": "Fashion",
                     "name": "Large",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/broadnews/large/",
                     "tags": [
                         "free",
@@ -9819,6 +9846,7 @@
                     "main_category": "News & Media",
                     "catgory": "General",
                     "name": "General",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/broadnews-pro/general/",
                     "tags": [
                         "pro",
@@ -9832,6 +9860,7 @@
                     "main_category": "News & Media",
                     "catgory": "Sport",
                     "name": "Spotlight",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/broadnews-pro/spotlight/",
                     "tags": [
                         "pro",
@@ -9845,6 +9874,7 @@
                     "main_category": "News & Media",
                     "catgory": "Fashion",
                     "name": "Large",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/broadnews-pro/large/",
                     "tags": [
                         "pro",
@@ -9916,6 +9946,7 @@
                     "main_category": "Lifestyle & Personal",
                     "catgory": "Blog",
                     "name": "Travel",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/kreeti/travel/",
                     "tags": [
                         "pro",
