@@ -298,6 +298,7 @@
                     "main_category": "Regional & Language Specific",
                     "catgory": "Blog",
                     "name": "Deutsch Pro",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/covernews-pro/german/",
                     "tags": [
                         "pro",
@@ -1286,6 +1287,7 @@
                     "main_category": "Regional & Language Specific",
                     "catgory": "Blog",
                     "name": "Deutsch",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/covernews/german",
                     "tags": [
                         "free",
@@ -2088,6 +2090,7 @@
                     "main_category": "Regional & Language Specific",
                     "catgory": "Blog",
                     "name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/chromenews-pro/russian/",
                     "tags": [
                         "pro",
@@ -2140,6 +2143,7 @@
                     "main_category": "Lifestyle & Personal",
                     "catgory": "Blog",
                     "name": "Recipe Pro",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/chromenews-pro/recipe/",
                     "tags": [
                         "pro",
@@ -2486,6 +2490,7 @@
                     "main_category": "Regional & Language Specific",
                     "catgory": "Blog",
                     "name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/chromenews/russian/",
                     "tags": [
                         "free",
@@ -2577,6 +2582,7 @@
                     "main_category": "Lifestyle & Personal",
                     "catgory": "Blog",
                     "name": "Recipe",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/chromenews/recipe/",
                     "tags": [
                         "free",
@@ -2905,6 +2911,7 @@
                     "main_category": "News & Media",
                     "catgory": "General",
                     "name": "ChromeBlog",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/chromenews/chromeblog/",
                     "tags": [
                         "free",
@@ -3282,7 +3289,7 @@
                     "theme": "MoreNews Pro",
                     "main_category": "Lifestyle & Personal",
                     "catgory": "Elementor",
-                    "name": "Burger Haven",
+                    "name": "Russian Lifestyle",
                     "preview": "https://demos.afthemes.com/morenews-pro/russian-lifestyle/",
                     "tags": [
                         "pro",
@@ -4431,6 +4438,7 @@
                     "main_category": "Regional & Language Specific",
                     "catgory": "Blog",
                     "name": "Indian News",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/morenews/indian/",
                     "tags": [
                         "free",
@@ -4997,6 +5005,7 @@
                     "main_category": "Business & Professional",
                     "catgory": "Ecommerce",
                     "name": "Gadgets News",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/morenews/gadgetsnews/",
                     "tags": [
                         "free",
@@ -8419,6 +8428,7 @@
                     "main_category": "Lifestyle & Personal",
                     "catgory": "Blog",
                     "name": "Clean Blog",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/magazine-7/clean-blog",
                     "tags": [
                         "free",
@@ -8502,6 +8512,7 @@
                     "main_category": "Regional & Language Specific",
                     "catgory": "Blog",
                     "name": "বাংলাদেশ উদ্ভাবন",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/magazine-7/bangladesh-innovation",
                     "tags": [
                         "free",
@@ -8529,6 +8540,7 @@
                     "main_category": "Regional & Language Specific",
                     "catgory": "Blog",
                     "name": "Comida Brasileira",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/magazine-7/brazilian-food",
                     "tags": [
                         "free",
@@ -8568,6 +8580,7 @@
                     "main_category": "Regional & Language Specific",
                     "catgory": "Blog",
                     "name": "Sports français",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/magazine-7/french-sports",
                     "tags": [
                         "free",
@@ -8594,6 +8607,7 @@
                     "main_category": "Regional & Language Specific",
                     "catgory": "Blog",
                     "name": "भारतीय संस्कृति",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/magazine-7/indian-culture",
                     "tags": [
                         "free",
@@ -8813,6 +8827,7 @@
                     "main_category": "Technology & Innovation",
                     "catgory": "Business",
                     "name": "Magnitude Dark",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/magnitude-pro/dark/",
                     "tags": [
                         "pro",
@@ -8987,6 +9002,7 @@
                     "main_category": "Regional & Language Specific",
                     "catgory": "Africa",
                     "name": "Donasie blog",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/magnitude/donation-blog/",
                     "tags": [
                         "free",
@@ -9052,6 +9068,7 @@
                     "main_category": "Regional & Language Specific",
                     "catgory": "Japanese",
                     "name": "日本のアニメ",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/magnitude/japanese-anime/",
                     "tags": [
                         "free",
@@ -9104,6 +9121,7 @@
                     "main_category": "Regional & Language Specific",
                     "catgory": "Russian",
                     "name": "Русская Музыка",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/magnitude/russian-music/",
                     "tags": [
                         "free",
@@ -9960,6 +9978,7 @@
                     "main_category": "Lifestyle & Personal",
                     "catgory": "Blog",
                     "name": "Wedding",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/kreeti/wedding/",
                     "tags": [
                         "pro",
@@ -10070,6 +10089,7 @@
                     "main_category": "Lifestyle & Personal",
                     "catgory": "Blog",
                     "name": "Wedding",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/kreeti-lite/wedding/",
                     "tags": [
                         "free",
