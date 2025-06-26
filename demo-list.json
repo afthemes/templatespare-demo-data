@@ -4256,39 +4256,39 @@
                 },
                 "food-recipe": {
                     "slug": "food-recipe",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "Lifestyle & Personal",
                     "catgory": "Blog",
                     "name": "Food and Recipe",
                     "preview": "https://demos.afthemes.com/morenews/food-recipe/",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "food"
                     ]
                 },
                 "crypto-news": {
                     "slug": "crypto-news",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "Technology & Innovation",
                     "catgory": "Business",
                     "name": "Crypto News",
                     "preview": "https://demos.afthemes.com/morenews/crypto-news/",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "crypto"
                     ]
                 },
                 "esport": {
                     "slug": "esport",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "Technology & Innovation",
                     "catgory": "Elementor",
                     "name": "Esports",
                     "preview": "https://demos.afthemes.com/morenews/esports/",
                     "tags": [
-                        "free",
+                        "pro",
                         "blog",
                         "elementor"
                     ],
@@ -4296,13 +4296,13 @@
                 },
                 "trending-now": {
                     "slug": "trending-now",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "Lifestyle & Personal",
                     "catgory": "Elementor",
                     "name": "Trending Now",
                     "preview": "https://demos.afthemes.com/morenews/trending-now/",
                     "tags": [
-                        "free",
+                        "pro",
                         "blog",
                         "elementor"
                     ],
@@ -4324,13 +4324,13 @@
                 },
                 "local-business": {
                     "slug": "local-business",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "Business & Professional",
                     "catgory": "Elementor",
                     "name": "Local Business",
                     "preview": "https://demos.afthemes.com/morenews/local-business/",
                     "tags": [
-                        "free",
+                        "pro",
                         "business",
                         "elementor"
                     ],
@@ -4338,13 +4338,13 @@
                 },
                 "china-today": {
                     "slug": "china-today",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "Regional & Language Specific",
                     "catgory": "General",
                     "name": "China Today",
                     "preview": "https://demos.afthemes.com/morenews/china-today/",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "general"
                     ]
@@ -4365,13 +4365,13 @@
                 },
                 "moreblock-dark": {
                     "slug": "moreblock-dark",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "News & Media",
                     "catgory": "Gutenberg",
                     "name": "Moreblock Dark",
                     "preview": "https://demos.afthemes.com/morenews/moreblock-dark/",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "gutenberg"
                     ],
@@ -4379,13 +4379,13 @@
                 },
                 "child-centered-education": {
                     "slug": "child-centered-education",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "Education & Non-Profit",
                     "catgory": "Gutenberg",
                     "name": "Child Centered Education",
                     "preview": "https://demos.afthemes.com/morenews/child-centered-education/",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "gutenberg"
                     ],
@@ -4393,13 +4393,13 @@
                 },
                 "space-aesthetics": {
                     "slug": "space-aesthetics",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "Design & Creative",
                     "catgory": "Gutenberg",
                     "name": "Space Aesthetics",
                     "preview": "https://demos.afthemes.com/morenews/space-aesthetics/",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "gutenberg"
                     ],
@@ -4407,54 +4407,54 @@
                 },
                 "fashion": {
                     "slug": "fashion",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "News & Media",
                     "catgory": "Fashion",
                     "name": "Fashion",
                     "preview": "https://demos.afthemes.com/morenews/fashion/",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "fashion"
                     ]
                 },
                 "travel": {
                     "slug": "travel",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "Lifestyle & Personal",
                     "catgory": "Blog",
                     "name": "Travel",
                     "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/morenews/travel/",
                     "tags": [
-                        "free",
+                        "pro",
                         "blog",
                         "travel"
                     ]
                 },
                 "indian": {
                     "slug": "indian",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "Regional & Language Specific",
                     "catgory": "Blog",
                     "name": "Indian News",
                     "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/morenews/indian/",
                     "tags": [
-                        "free",
+                        "pro",
                         "blog",
                         "indian"
                     ]
                 },
                 "real-estate": {
                     "slug": "real-estate",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "Business & Professional",
                     "catgory": "Elementor",
                     "name": "Real Estate",
                     "preview": "https://demos.afthemes.com/morenews/real-estate/",
                     "tags": [
-                        "free",
+                        "pro",
                         "blog",
                         "elementor"
                     ],
@@ -4462,13 +4462,13 @@
                 },
                 "beauty-studio": {
                     "slug": "beauty-studio",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "Business & Professional",
                     "catgory": "Elementor",
                     "name": "Beauty Studio",
                     "preview": "https://demos.afthemes.com/morenews/beauty-studio/",
                     "tags": [
-                        "free",
+                        "pro",
                         "fashion",
                         "elementor"
                     ],
@@ -4532,13 +4532,13 @@
                 },
                 "horizon-times": {
                     "slug": "horizon-times",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "News & Media",
                     "catgory": "Gutenberg",
                     "name": "Horizon Times",
                     "preview": "https://demos.afthemes.com/morenews/horizon-times/",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "gutenberg"
                     ],
@@ -4546,13 +4546,13 @@
                 },
                 "hot-topic": {
                     "slug": "hot-topic",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "News & Media",
                     "catgory": "Gutenberg",
                     "name": "Hot Topic",
                     "preview": "https://demos.afthemes.com/morenews/hot-topic/",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "gutenberg"
                     ],
@@ -4560,13 +4560,13 @@
                 },
                 "info-update": {
                     "slug": "info-update",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "News & Media",
                     "catgory": "Gutenberg",
                     "name": "Info Update",
                     "preview": "https://demos.afthemes.com/morenews/info-update/",
                     "tags": [
-                        "free",
+                        "Pro",
                         "magazine",
                         "gutenberg"
                     ],
@@ -4588,13 +4588,13 @@
                 },
                 "prime-headlines": {
                     "slug": "prime-headlines",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "News & Media",
                     "catgory": "Gutenberg",
                     "name": "Prime Headlines",
                     "preview": "https://demos.afthemes.com/morenews/prime-headlines/",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "gutenberg"
                     ],
@@ -4602,13 +4602,13 @@
                 },
                 "rapid-update": {
                     "slug": "rapid-update",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "News & Media",
                     "catgory": "Gutenberg",
                     "name": "Rapid Update",
                     "preview": "https://demos.afthemes.com/morenews/rapid-update/",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "gutenberg"
                     ],
@@ -4616,13 +4616,13 @@
                 },
                 "trusted-times": {
                     "slug": "trusted-times",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "News & Media",
                     "catgory": "Gutenberg",
                     "name": "Trusted Times",
                     "preview": "https://demos.afthemes.com/morenews/trusted-times/",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "gutenberg"
                     ],
@@ -4672,13 +4672,13 @@
                 },
                 "news-town": {
                     "slug": "news-town",
-                    "theme": "morenews",
+                    "theme": "MOreNews Pro",
                     "main_category": "News & Media",
                     "catgory": "Elementor",
                     "name": "News Town",
                     "preview": "https://demos.afthemes.com/morenews/news-town/",
                     "tags": [
-                        "free",
+                        "pro",
                         "blog",
                         "elementor"
                     ],
@@ -4686,13 +4686,13 @@
                 },
                 "news-up": {
                     "slug": "news-up",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "News & Media",
                     "catgory": "Elementor",
                     "name": "News Elementor",
                     "preview": "https://demos.afthemes.com/morenews/news-up/",
                     "tags": [
-                        "free",
+                        "pro",
                         "blog",
                         "elementor"
                     ],
@@ -4700,196 +4700,196 @@
                 },
                 "nepali-handicrafts": {
                     "slug": "nepali-handicrafts",
-                    "theme": "morenews",
+                    "theme": "Morenews Pro",
                     "main_category": "Regional & Language Specific",
                     "catgory": "Nepali",
                     "name": "Nepali Handicrafts",
                     "preview": "https://demos.afthemes.com/morenews/nepali-handicrafts/",
                     "tags": [
-                        "free",
+                        "pro",
                         "blog",
                         "nepali"
                     ]
                 },
                 "arabic-calligraphy": {
                     "slug": "arabic-calligraphy",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "Regional & Language Specific",
                     "catgory": "Arabic",
                     "name": "Arabic Calligraphy",
                     "preview": "https://demos.afthemes.com/morenews/arabic-calligraphy/",
                     "tags": [
-                        "free",
+                        "pro",
                         "blog",
                         "arabic"
                     ]
                 },
                 "chinese-festivals": {
                     "slug": "chinese-festivals",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "Regional & Language Specific",
                     "catgory": "Chinese",
                     "name": "Chinese Festivals",
                     "preview": "https://demos.afthemes.com/morenews/chinese-festivals/",
                     "tags": [
-                        "free",
+                        "pro",
                         "blog",
                         "chinese"
                     ]
                 },
                 "spanish-news": {
                     "slug": "spanish-news",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "Regional & Language Specific",
                     "catgory": "Spanish",
                     "name": "Spanish News",
                     "preview": "https://demos.afthemes.com/morenews/spanish-news/",
                     "tags": [
-                        "free",
+                        "pro",
                         "blog",
                         "spanish"
                     ]
                 },
                 "play-sports": {
                     "slug": "play-sports",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "Regional & Language Specific",
                     "catgory": "German",
                     "name": "Play Sports",
                     "preview": "https://demos.afthemes.com/morenews/play-sports/",
                     "tags": [
-                        "free",
+                        "pro",
                         "blog",
                         "german"
                     ]
                 },
                 "russian-cuisine": {
                     "slug": "russian-cuisine",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "Regional & Language Specific",
                     "catgory": "Russian",
                     "name": "Russian Cuisine",
                     "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/morenews/russian-cuisine/",
                     "tags": [
-                        "free",
+                        "pro",
                         "blog",
                         "russian"
                     ]
                 },
                 "news-japan": {
                     "slug": "news-japan",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "Regional & Language Specific",
                     "catgory": "Japanese",
                     "name": "News Japan",
                     "preview": "https://demos.afthemes.com/morenews/news-japan/",
                     "tags": [
-                        "free",
+                        "pro",
                         "blog",
                         "japanese"
                     ]
                 },
                 "discover-wildlife": {
                     "slug": "discover-wildlife",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "Regional & Language Specific",
                     "catgory": "Hindi",
                     "name": "Discover Wildlife",
                     "preview": "https://demos.afthemes.com/morenews/discover-wildlife/",
                     "tags": [
-                        "free",
+                        "pro",
                         "blog",
                         "hindi"
                     ]
                 },
                 "news-bangladesh": {
                     "slug": "news-bangladesh",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "Regional & Language Specific",
                     "catgory": "Bangladesh",
                     "name": "News Bangladesh",
                     "preview": "https://demos.afthemes.com/morenews/news-bangladesh/",
                     "tags": [
-                        "free",
+                        "pro",
                         "blog",
                         "bangladesh"
                     ]
                 },
                 "korean-bbq": {
                     "slug": "korean-bbq",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "Regional & Language Specific",
                     "catgory": "Korean",
                     "name": "Korean Bbq",
                     "preview": "https://demos.afthemes.com/morenews/korean-bbq/",
                     "tags": [
-                        "free",
+                        "pro",
                         "blog",
                         "korean"
                     ]
                 },
                 "france-news": {
                     "slug": "france-news",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "Regional & Language Specific",
                     "catgory": "French",
                     "name": "France News",
                     "preview": "https://demos.afthemes.com/morenews/france-news/",
                     "tags": [
-                        "free",
+                        "pro",
                         "blog",
                         "french"
                     ]
                 },
                 "music-dance": {
                     "slug": "music-dance",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "Regional & Language Specific",
                     "catgory": "Africa",
                     "name": "Music Dance",
                     "preview": "https://demos.afthemes.com/morenews/music-dance/",
                     "tags": [
-                        "free",
+                        "pro",
                         "blog",
                         "africa"
                     ]
                 },
                 "romanian-festivals": {
                     "slug": "romanian-festivals",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "Regional & Language Specific",
                     "catgory": "Romanian",
                     "name": "Romanian Festivals",
                     "preview": "https://demos.afthemes.com/morenews/romanian-festivals/",
                     "tags": [
-                        "free",
+                        "pro",
                         "blog",
                         "romanian"
                     ]
                 },
                 "innovation-brazil": {
                     "slug": "innovation-brazil",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "Regional & Language Specific",
                     "catgory": "Brazil",
                     "name": "Innovation Brazil",
                     "preview": "https://demos.afthemes.com/morenews/innovation-brazil/",
                     "tags": [
-                        "free",
+                        "pro",
                         "blog",
                         "brazil"
                     ]
                 },
                 "sport-myanmar": {
                     "slug": "sport-myanmar",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "Regional & Language Specific",
                     "catgory": "Myanamar",
                     "name": "Sport Myanmar",
                     "preview": "https://demos.afthemes.com/morenews/sport-myanmar/",
                     "tags": [
-                        "free",
+                        "pro",
                         "blog",
                         "myanmar"
                     ]
@@ -4911,13 +4911,13 @@
                 },
                 "food-hub": {
                     "slug": "food-hub",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "Business & Professional",
                     "catgory": "Ecommerce",
                     "name": "Food Hub",
                     "preview": "https://demos.afthemes.com/morenews/food-hub/",
                     "tags": [
-                        "free",
+                        "pro",
                         "shop",
                         "food",
                         "ecommerce"
@@ -4926,13 +4926,13 @@
                 },
                 "gravity-fitness": {
                     "slug": "gravity-fitness",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "Business & Professional",
                     "catgory": "Ecommerce",
                     "name": "Gravity Fitness",
                     "preview": "https://demos.afthemes.com/morenews/gravity-fitness/",
                     "tags": [
-                        "free",
+                        "pro",
                         "shop",
                         "fitness",
                         "ecommerce"
@@ -4941,13 +4941,13 @@
                 },
                 "fashion-store": {
                     "slug": "fashion-store",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "Business & Professional",
                     "catgory": "Ecommerce",
                     "name": "Fashion Store",
                     "preview": "https://demos.afthemes.com/morenews/fashion-store/",
                     "tags": [
-                        "free",
+                        "pro",
                         "shop",
                         "fashion",
                         "ecommerce"
@@ -4956,13 +4956,13 @@
                 },
                 "mobile-hub": {
                     "slug": "mobile-hub",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "Business & Professional",
                     "catgory": "Ecommerce",
                     "name": "Mobile Hub",
                     "preview": "https://demos.afthemes.com/morenews/mobile-hub/",
                     "tags": [
-                        "free",
+                        "pro",
                         "shop",
                         "gadgets",
                         "ecommerce"
@@ -4986,13 +4986,13 @@
                 },
                 "book-store": {
                     "slug": "book-store",
-                    "theme": "morenews",
+                    "theme": "MoreNews Pro",
                     "main_category": "Business & Professional",
                     "catgory": "Ecommerce",
                     "name": "Book Store",
                     "preview": "https://demos.afthemes.com/morenews/book-store/",
                     "tags": [
-                        "free",
+                        "pro",
                         "shop",
                         "education",
                         "ecommerce"
