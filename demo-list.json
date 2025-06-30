@@ -4700,7 +4700,7 @@
                 },
                 "nepali-handicrafts": {
                     "slug": "nepali-handicrafts",
-                    "theme": "Morenews Pro",
+                    "theme": "MoreNews Pro",
                     "main_category": "Regional & Language Specific",
                     "catgory": "Nepali",
                     "name": "Nepali Handicrafts",
@@ -5034,6 +5034,28 @@
                         "free",
                         "magazine",
                         "game",
+                        "child"
+                    ]
+                }
+            }
+        },
+
+        "celebnews": {
+            "data": "celebnews",
+            "free": "morenews",
+            "premium": "morenews-pro",
+            "demodata": {
+                "default": {
+                    "slug": "celebnews",
+                    "theme": "MoreNews",
+                    "main_category": "News & Media",
+                    "catgory": "General",
+                    "name": "CelebNews",
+                    "preview": "https://demos.afthemes.com/morenews/celebnews/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "general",
                         "child"
                     ]
                 }
