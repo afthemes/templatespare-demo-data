@@ -541,7 +541,7 @@
                         "fashion",
                         "blog"
                     ],
-                    "plugins": "elementor,elespare "
+                    "plugins": "elementor,elespare"
                 },
                 "24hrs-news": {
                     "slug": "24hrs-news",
@@ -877,7 +877,7 @@
                         "education",
                         "business"
                     ],
-                    "plugins": "elementor,elespare "
+                    "plugins": "elementor,elespare"
                 },
                 "educose-dark": {
                     "slug": "educose-dark",
@@ -891,7 +891,7 @@
                         "education",
                         "business"
                     ],
-                    "plugins": "elementor,elespare "
+                    "plugins": "elementor,elespare"
                 },
                 "herbal-nepal": {
                     "slug": "herbal-nepal",
@@ -919,7 +919,7 @@
                         "perfume",
                         "arabic"
                     ],
-                    "plugins": "elementor,elespare "
+                    "plugins": "elementor,elespare"
                 },
                 "industry-blog": {
                     "slug": "industry-blog",
@@ -947,7 +947,7 @@
                         "food",
                         "spanish"
                     ],
-                    "plugins": "elementor,elespare "
+                    "plugins": "elementor,elespare"
                 },
                 "germany-tour": {
                     "slug": "germany-tour",
@@ -975,7 +975,7 @@
                         "news",
                         "russian"
                     ],
-                    "plugins": "elementor,elespare "
+                    "plugins": "elementor,elespare"
                 },
                 "wildlife-adventures": {
                     "slug": "wildlife-adventures",
@@ -1003,7 +1003,7 @@
                         "bangladesh",
                         "education"
                     ],
-                    "plugins": "elementor,elespare "
+                    "plugins": "elementor,elespare"
                 },
                 "explore-outdoors": {
                     "slug": "explore-outdoors",
@@ -1045,7 +1045,7 @@
                         "africa",
                         "food"
                     ],
-                    "plugins": "elementor,elespare "
+                    "plugins": "elementor,elespare"
                 },
                 "carnival-culture": {
                     "slug": "carnival-culture",
@@ -1113,9 +1113,184 @@
                     "tags": [
                         "pro",
                         "health",
-                        "business"
+                        "shop",
+                        "gutenberg"
                     ],
                     "plugins": "woocommerce,blockspare"
+                },
+                "enterprise-solutions": {
+                    "slug": "enterprise-solutions",
+                    "theme": "CoverNews Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "Health",
+                    "name": "Enterprise Solutions Pro",
+                    "preview": "https://demos.afthemes.com/covernews-pro/enterprise-solutions/",
+                    "tags": [
+                        "pro",
+                        "enterprise",
+                        "business",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "foodinn": {
+                    "slug": "foodinn",
+                    "theme": "CoverNews Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "food",
+                    "name": "Foodinn Pro",
+                    "preview": "https://demos.afthemes.com/covernews-pro/foodinn/",
+                    "tags": [
+                        "pro",
+                        "food",
+                        "shop",
+                        "gutenberg"
+                    ],
+                    "plugins": "woocommerce,blockspare"
+                },
+                "yogakit": {
+                    "slug": "yogakit",
+                    "theme": "CoverNews Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "Meditation",
+                    "name": "Yogakit Pro",
+                    "preview": "https://demos.afthemes.com/covernews-pro/yogakit/",
+                    "tags": [
+                        "pro",
+                        "meditation",
+                        "business",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
+                }, 
+                "pupikit": {
+                    "slug": "pupikit",
+                    "theme": "CoverNews Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "Pet",
+                    "name": "Pupikit Pro",
+                    "preview": "https://demos.afthemes.com/covernews-pro/pupikit/",
+                    "tags": [
+                        "pro",
+                        "pet",
+                        "shop",
+                        "gutenberg"
+                    ],
+                    "plugins": "woocommerce,elementor,elespare,essential-addons-for-elementor-lite"
+                }, 
+                "newsarab": {
+                    "slug": "newsarab",
+                    "theme": "CoverNews Pro",
+                    "main_category": "News & Media",
+                    "catgory": "Arabic",
+                    "name": "NewsArab Pro",
+                    "preview": "https://demos.afthemes.com/covernews-pro/newsarab/",
+                    "tags": [
+                        "pro",
+                        "arabic",
+                        "news",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "moscow-times": {
+                    "slug": "moscow-times",
+                    "theme": "CoverNews Pro",
+                    "main_category": "News & Media",
+                    "catgory": "Russian",
+                    "name": "Moscow Times Pro",
+                    "preview": "https://demos.afthemes.com/covernews-pro/moscow-times/",
+                    "tags": [
+                        "pro",
+                        "russian",
+                        "news",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "nationwide-news": {
+                    "slug": "nationwide-news",
+                    "theme": "CoverNews Pro",
+                    "main_category": "News & Media",
+                    "catgory": "News",
+                    "name": "Nationwide News Pro",
+                    "preview": "https://demos.afthemes.com/covernews-pro/nationwide-news/",
+                    "tags": [
+                        "pro",
+                        "gutenberg",
+                        "news"
+                    ],
+                    "plugins": "blockspare"
+                }, 
+                "the-money-daily": {
+                    "slug": "the-money-daily",
+                    "theme": "CoverNews Pro",
+                    "main_category": "News & Media",
+                    "catgory": "News",
+                    "name": "The Money Daily Pro",
+                    "preview": "https://demos.afthemes.com/covernews-pro/the-money-daily/",
+                    "tags": [
+                        "pro",
+                        "elementor",
+                        "news"
+                    ],
+                    "plugins": "elementor,elespare"
+                }, 
+                "professional-profile": {
+                    "slug": "professional-profile",
+                    "theme": "CoverNews Pro",
+                    "main_category": "Lifestyle & Personal",
+                    "catgory": "Portfolio",
+                    "name": "Professional Profile Pro",
+                    "preview": "https://demos.afthemes.com/covernews-pro/professional-profile/",
+                    "tags": [
+                        "pro",
+                        "portfolio",
+                        "business"
+                    ],
+                    "plugins": "brizy"
+                },
+                "eternal-vows": {
+                    "slug": "eternal-vows",
+                    "theme": "CoverNews Pro",
+                    "main_category": "Design & Creative",
+                    "catgory": "Wedding",
+                    "name": "Eternal Vows Pro",
+                    "preview": "https://demos.afthemes.com/covernews-pro/eternal-vows/",
+                    "tags": [
+                        "pro",
+                        "wedding",
+                        "business"
+                    ],
+                    "plugins": "siteorigin-panels,so-widgets-bundle"
+                }, 
+                "inspirehub": {
+                    "slug": "inspirehub",
+                    "theme": "CoverNews Pro",
+                    "main_category": "Technology & Innovation",
+                    "catgory": "Tech",
+                    "name": "Inspirehub Pro",
+                    "preview": "https://demos.afthemes.com/covernews-pro/inspirehub/",
+                    "tags": [
+                        "pro",
+                        "tech",
+                        "business"
+                    ],
+                    "plugins": "visualcomposer"
+                },
+                "buildsmart": {
+                    "slug": "buildsmart",
+                    "theme": "CoverNews Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "Tech",
+                    "name": "Buildsmart Pro",
+                    "preview": "https://demos.afthemes.com/covernews-pro/buildsmart/",
+                    "tags": [
+                        "pro",
+                        "construction",
+                        "business"
+                    ],
+                    "plugins": "beaver-builder-lite-version"
                 } 
             }
         },
@@ -3297,7 +3472,7 @@
                         "russian",
                         "elementor"
                     ],
-                    "plugins": "elementor,elespare "
+                    "plugins": "elementor,elespare"
                 },
                 "financial-times": {
                     "slug": "financial-times",
@@ -3312,7 +3487,7 @@
                         "finance",
                         "elementor"
                     ],
-                    "plugins": "elementor,elespare "
+                    "plugins": "elementor,elespare"
                 },
                 "padma-healing": {
                     "slug": "padma-healing",
@@ -3327,7 +3502,7 @@
                         "health",
                         "elementor"
                     ],
-                    "plugins": "elementor,elespare "
+                    "plugins": "elementor,elespare"
                 },
                 "pet-care": {
                     "slug": "pet-care",
@@ -3342,7 +3517,7 @@
                         "pet",
                         "elementor"
                     ],
-                    "plugins": "woocommerce,elementor,elespare,essential-addons-for-elementor-lite "
+                    "plugins": "woocommerce,elementor,elespare,essential-addons-for-elementor-lite"
                 },
                 "personal-portfolio": {
                     "slug": "personal-portfolio",
@@ -4967,7 +5142,7 @@
                         "gadgets",
                         "ecommerce"
                     ],
-                    "plugins": "woocommerce,woo-variation-swatches,yith-woocommerce-product-bundles,elementor,elespare,essential-addons-for-elementor-lite "
+                    "plugins": "woocommerce,woo-variation-swatches,yith-woocommerce-product-bundles,elementor,elespare,essential-addons-for-elementor-lite"
                 },
                 "beauty-product": {
                     "slug": "beauty-product",
@@ -4982,7 +5157,7 @@
                         "beauty",
                         "ecommerce"
                     ],
-                    "plugins": "woocommerce,elementor,elespare,essential-addons-for-elementor-lite "
+                    "plugins": "woocommerce,elementor,elespare,essential-addons-for-elementor-lite"
                 },
                 "book-store": {
                     "slug": "book-store",
@@ -4997,7 +5172,7 @@
                         "education",
                         "ecommerce"
                     ],
-                    "plugins": "woocommerce,elementor,elespare,essential-addons-for-elementor-lite "
+                    "plugins": "woocommerce,elementor,elespare,essential-addons-for-elementor-lite"
                 },
                 "gadgetsnews": {
                     "slug": "gadgetsnews",
