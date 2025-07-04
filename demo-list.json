@@ -1474,14 +1474,16 @@
                     "slug": "business",
                     "theme": "CoverNews",
                     "main_category": "Business & Professional",
-                    "catgory": "Blog",
+                    "catgory": "Gutenberg",
                     "name": "Business",
                     "preview": "https://demos.afthemes.com/covernews/business",
                     "tags": [
                         "free",
                         "magazine",
-                        "business"
-                    ]
+                        "business",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
                 },
                 "wedding": {
                     "slug": "wedding",
@@ -1901,6 +1903,170 @@
                         "elementor"
                     ],
                     "plugins": "elementor,elespare"
+                },
+                "arabic-culture": {
+                    "slug": "arabic-culture",
+                    "theme": "CoverNews",
+                    "main_category": "News & Media",
+                    "catgory": "Gutenberg",
+                    "name": "Arabic Culture",
+                    "preview": "https://demos.afthemes.com/covernews/arabic-culture/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "general",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "national-news": {
+                    "slug": "national-news",
+                    "theme": "CoverNews",
+                    "main_category": "News & Media",
+                    "catgory": "Gutenberg",
+                    "name": "National News",
+                    "preview": "https://demos.afthemes.com/covernews/national-news/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "general",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "russian-lifestyle": {
+                    "slug": "russian-lifestyle",
+                    "theme": "CoverNews",
+                    "main_category": "News & Media",
+                    "catgory": "Elementor",
+                    "name": "Russian Lifestyle",
+                    "preview": "https://demos.afthemes.com/covernews/russian-lifestyle/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "general",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "financial-times": {
+                    "slug": "financial-times",
+                    "theme": "CoverNews",
+                    "main_category": "News & Media",
+                    "catgory": "Elementor",
+                    "name": "Financial Times",
+                    "preview": "https://demos.afthemes.com/covernews/financial-times/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "general",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "utpala-yoga": {
+                    "slug": "utpala-yoga",
+                    "theme": "CoverNews",
+                    "main_category": "Business & Professional",
+                    "catgory": "Elementor",
+                    "name": "Utpala Yoga",
+                    "preview": "https://demos.afthemes.com/covernews/utpala-yoga/",
+                    "tags": [
+                        "free",
+                        "business",
+                        "meditation",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "pet-service": {
+                    "slug": "pet-service",
+                    "theme": "CoverNews",
+                    "main_category": "Business & Professional",
+                    "catgory": "Elementor",
+                    "name": "Pet Service",
+                    "preview": "https://demos.afthemes.com/covernews/pet-service/",
+                    "tags": [
+                        "free",
+                        "shop",
+                        "pet",
+                        "elementor"
+                    ],
+                    "plugins": "woocommerce,elementor,elespare,essential-addons-for-elementor-lite"
+                },
+                "personal-portfolio": {
+                    "slug": "personal-portfolio",
+                    "theme": "CoverNews",
+                    "main_category": "Lifestyle & Personal",
+                    "catgory": "Brizy",
+                    "name": "Personal Portfolio",
+                    "preview": "https://demos.afthemes.com/covernews/personal-portfolio/",
+                    "tags": [
+                        "free",
+                        "business",
+                        "portfolio",
+                        "brizy"
+                    ],
+                    "plugins": "brizy"
+                },
+                "event-planner": {
+                    "slug": "event-planner",
+                    "theme": "CoverNews",
+                    "main_category": "Design & Creative",
+                    "catgory": "Site Origin",
+                    "name": "Event Planner",
+                    "preview": "https://demos.afthemes.com/covernews/event-planner/",
+                    "tags": [
+                        "free",
+                        "business",
+                        "event",
+                        "site-origin"
+                    ],
+                    "plugins": "siteorigin-panels,so-widgets-bundle"
+                },
+                "influencer": {
+                    "slug": "influencer",
+                    "theme": "CoverNews",
+                    "main_category": "Lifestyle & Personal",
+                    "catgory": "Visual Composer",
+                    "name": "Influencer",
+                    "preview": "https://demos.afthemes.com/covernews/influencer/",
+                    "tags": [
+                        "free",
+                        "business",
+                        "influencer",
+                        "visual-composer"
+                    ],
+                    "plugins": "visualcomposer"
+                },
+                "startup": {
+                    "slug": "startup",
+                    "theme": "CoverNews",
+                    "main_category": "Lifestyle & Personal",
+                    "catgory": "Beaver Builder",
+                    "name": "Influencer",
+                    "preview": "https://demos.afthemes.com/covernews/startup/",
+                    "tags": [
+                        "free",
+                        "business",
+                        "beaver-builder"
+                    ],
+                    "plugins": "beaver-builder-lite-version"
+                },
+                "pizzaworld": {
+                    "slug": "pizzaworld",
+                    "theme": "CoverNews",
+                    "main_category": "Lifestyle & Personal",
+                    "catgory": "Gutenberg",
+                    "name": "Pizza World",
+                    "preview": "https://demos.afthemes.com/covernews/pizzaworld/",
+                    "tags": [
+                        "free",
+                        "business",
+                        "shop",
+                        "gutenberg"
+                    ],
+                    "plugins": "woocommerce,blockspare"
                 }
             }
         },
