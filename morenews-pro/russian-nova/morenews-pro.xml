@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.7.2" created="2025-04-16 07:42" -->
+	<!-- generator="WordPress/6.8.1" created="2025-07-10 08:46" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Русская Нова</title>
 	<link>https://demos.afthemes.com/morenews-pro/russian-nova</link>
 	<description></description>
-	<pubDate>Wed, 16 Apr 2025 07:42:00 +0000</pubDate>
+	<pubDate>Thu, 10 Jul 2025 08:46:43 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.afthemes.com/morenews-pro/</wp:base_site_url>
@@ -463,7 +463,7 @@
 	<wp:term><wp:term_id>34</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Social menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
 
 		<item>
 		<title><![CDATA[StockSnap_MMG80ENFN7]]></title>
@@ -1994,34 +1994,34 @@
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/morenews-pro/russian-nova/?page_id=1072</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:blockspare/blockspare-container {"marginTop":20,"marginBottom":0,"align":"wide","uniqueClass":"blockspare-013cab61-b071-4","imgURL":"https://demos.afthemes.com/morenews/prime-headlines/wp-content/uploads/sites/24/2024/06/purple-beautiful-bloom-blooming-blossom-blur-1423627-pxhere.com_.jpg","imgID":1165,"imgAlt":"","opacityRatio":70,"backGroundColor":"#000000"} -->
-<div class="wp-block-blockspare-blockspare-container alignwide blockspare-013cab61-b071-4" blockspare-animation=""><style>.blockspare-013cab61-b071-4 > .blockspare-block-container-wrapper{background-color:#000000;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px;margin-top:20px;margin-right:0px;margin-bottom:0px;margin-left:0px;border-radius:0}.blockspare-013cab61-b071-4 .blockspare-image-wrap{background-image:url(https://demos.afthemes.com/morenews/prime-headlines/wp-content/uploads/sites/24/2024/06/purple-beautiful-bloom-blooming-blossom-blur-1423627-pxhere.com_.jpg)}</style><div class="blockspare-block-container-wrapper blockspare-hover-item"><div class="blockspare-container-background blockspare-image-wrap has-background-opacity-70 has-background-opacity"></div><div class="blockspare-container"><div class="blockspare-inner-blocks blockspare-inner-wrapper-blocks"><!-- wp:group {"align":"wide","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignwide"><!-- wp:blockspare/latest-posts-flash {"align":"full","uniqueClass":"blockspare-be9d60c7-6588-4","postTitleColor":"#ffffff","postTitleFontSize":15,"titleFontSizeMobile":15,"titleFontSizeTablet":15,"exclusiveColor":"#ffffff","exclusiveBgColor":"#4db2ec","backGroundColor":"#00000012","titleOnHoverColor":"#ffffff","animation":"AFTfadeInUp","exclusiveText":"ЗАГОЛОВКИ","exclusiveSubtitleText":"LIVE","exclusiveFontSize":14,"exclusiveFontWeight":"700","newsBgColor":"#cf2e2e","exclusiveSubtitleFontWeight":"700"} /-->
+		<content:encoded><![CDATA[<!-- wp:blockspare/blockspare-container {"marginTop":20,"marginBottom":0,"align":"wide","uniqueClass":"blockspare-b4ac22e2-29a4-4","imgURL":"https://demos.afthemes.com/morenews/prime-headlines/wp-content/uploads/sites/24/2024/06/purple-beautiful-bloom-blooming-blossom-blur-1423627-pxhere.com_.jpg","imgID":1165,"imgAlt":"","opacityRatio":70,"backGroundColor":"#000000"} -->
+<div class="wp-block-blockspare-blockspare-container alignwide blockspare-b4ac22e2-29a4-4" blockspare-animation=""><style>.blockspare-b4ac22e2-29a4-4 > .blockspare-block-container-wrapper{background-color:#000000;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px;margin-top:20px;margin-right:0px;margin-bottom:0px;margin-left:0px;border-radius:0}.blockspare-b4ac22e2-29a4-4 .blockspare-image-wrap{background-image:url(https://demos.afthemes.com/morenews/prime-headlines/wp-content/uploads/sites/24/2024/06/purple-beautiful-bloom-blooming-blossom-blur-1423627-pxhere.com_.jpg)}</style><div class="blockspare-block-container-wrapper blockspare-hover-item"><div class="blockspare-container-background blockspare-image-wrap has-background-opacity-70 has-background-opacity"></div><div class="blockspare-container"><div class="blockspare-inner-blocks blockspare-inner-wrapper-blocks"><!-- wp:group {"align":"wide","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide"><!-- wp:blockspare/latest-posts-flash {"align":"full","uniqueClass":"blockspare-689e6899-ce62-4","postTitleColor":"#ffffff","postTitleFontSize":16,"titleFontSizeMobile":16,"titleFontSizeTablet":16,"exclusiveColor":"#ffffff","exclusiveBgColor":"#4db2ec","backGroundColor":"#00000012","titleOnHoverColor":"#ffffff","animation":"AFTfadeInUp","exclusiveText":"ЗАГОЛОВКИ","exclusiveSubtitleText":"LIVE","exclusiveFontSize":14,"exclusiveFontWeight":"700","newsBgColor":"#cf2e2e","exclusiveSubtitleFontWeight":"700"} /-->
 
-<!-- wp:blockspare/blockspare-banner-9 {"align":"full","uniqueClass":"blockspare-6e629470-4b0d-4","bannerNineLayout":"banner-style-4 has-bg-layout","bannerNineTrendingBg":"#b12082","sliderCategoryBackgroundColor":"#b12082","sliderPostGeneralColor":"#ffffffab","sliderPostLinkColor":"#ffffffab","sliderMetaFontSize":12,"sliderMetaFontSizeMobile":12,"sliderMetaFontSizeTablet":12,"sliderTitleMarginTop":2,"editorCategoryBackgroundColor":"#b12082","editorTitleFontSize":18,"editorTitleFontSizeMobile":16,"editorTitleFontSizeTablet":18,"trendingPostTitleColor":"#ffffff","trendingTitleFontSize":15,"trendingTitleFontSizeMobile":15,"trendingTitleFontSizeTablet":15,"trendingNavigationColor":"#ffffff","trendingTitleOnHoverColor":"#ffffff","animation":"AFTfadeInDown","marginTop":20,"marginBottom":0,"gutter":15} /--></div>
+<!-- wp:blockspare/blockspare-banner-9 {"align":"full","uniqueClass":"blockspare-279ba4f5-5d5a-4","bannerNineLayout":"banner-style-4 has-bg-layout","bannerNineTrendingBg":"#b12082","sliderCategoryBackgroundColor":"#b12082","sliderPostGeneralColor":"#ffffffab","sliderPostLinkColor":"#ffffffab","sliderTitleFontSize":32,"sliderTitleFontSizeTablet":32,"sliderMetaFontSize":12,"sliderMetaFontSizeMobile":12,"sliderMetaFontSizeTablet":12,"sliderCategoryFontSize":12,"sliderCategoryFontSizeMobile":12,"sliderCategoryFontSizeTablet":12,"sliderTitleMarginTop":2,"editorCategoryBackgroundColor":"#b12082","editorTitleFontSize":20,"editorTitleFontSizeMobile":18,"editorTitleFontSizeTablet":20,"editorCategoryFontSize":12,"editorCategoryFontSizeMobile":12,"editorCategoryFontSizeTablet":12,"trendingPostTitleColor":"#ffffff","trendingTitleFontSize":18,"trendingTitleFontSizeMobile":16,"trendingTitleFontSizeTablet":18,"trendingNavigationColor":"#ffffff","trendingTitleOnHoverColor":"#ffffff","animation":"AFTfadeInDown","marginTop":20,"marginBottom":0,"gutter":15} /--></div>
 <!-- /wp:group --></div></div></div></div>
 <!-- /wp:blockspare/blockspare-container -->
 
-<!-- wp:blockspare/blockspare-container {"paddingTop":0,"paddingRight":0,"paddingBottom":0,"paddingLeft":0,"marginTop":20,"marginBottom":0,"align":"wide","uniqueClass":"blockspare-33316d91-24eb-4","backGroundColor":"#ffffff00"} -->
-<div class="wp-block-blockspare-blockspare-container alignwide blockspare-33316d91-24eb-4" blockspare-animation=""><style>.blockspare-33316d91-24eb-4 > .blockspare-block-container-wrapper{background-color:#ffffff00;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:20px;margin-right:0px;margin-bottom:0px;margin-left:0px;border-radius:0}.blockspare-33316d91-24eb-4 .blockspare-image-wrap{background-image:none}</style><div class="blockspare-block-container-wrapper blockspare-hover-item"><div class="blockspare-container-background blockspare-image-wrap has-background-opacity-100 has-background-opacity"></div><div class="blockspare-container"><div class="blockspare-inner-blocks blockspare-inner-wrapper-blocks"><!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
+<!-- wp:blockspare/blockspare-container {"paddingTop":0,"paddingRight":0,"paddingBottom":0,"paddingLeft":0,"marginTop":20,"marginBottom":0,"align":"wide","uniqueClass":"blockspare-fac46299-421b-4","backGroundColor":"#ffffff00"} -->
+<div class="wp-block-blockspare-blockspare-container alignwide blockspare-fac46299-421b-4" blockspare-animation=""><style>.blockspare-fac46299-421b-4 > .blockspare-block-container-wrapper{background-color:#ffffff00;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:20px;margin-right:0px;margin-bottom:0px;margin-left:0px;border-radius:0}.blockspare-fac46299-421b-4 .blockspare-image-wrap{background-image:none}</style><div class="blockspare-block-container-wrapper blockspare-hover-item"><div class="blockspare-container-background blockspare-image-wrap has-background-opacity-100 has-background-opacity"></div><div class="blockspare-container"><div class="blockspare-inner-blocks blockspare-inner-wrapper-blocks"><!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
 <div class="wp-block-group alignwide"><!-- wp:heading {"align":"full"} -->
 <h2 class="wp-block-heading alignfull">избранные новости</h2>
 <!-- /wp:heading -->
 
-<!-- wp:blockspare/blockspare-latest-posts-grid {"uniqueClass":"blockspare-814b752a-bd2c-4","postTitleColor":"#404040","postTitleFontSize":18,"titleFontSizeTablet":18,"linkColor":"#000000ab","generalColor":"#000000ab","columns":4,"align":"full","imageSize":"medium","marginTop":20,"marginBottom":0,"backGroundColor":"#ffffff","categoryBackgroundColor":"#b12082","titleOnHoverColor":"#b12082","animation":"AFTfadeInUp","loadMoreStyle":"bs-loadmore-border","loadMoreAlignment":"center","gutterSpace":15,"postMetaFontSize":12,"postMetaFontSizeMobile":12,"postMetaFontSizeTablet":12} /--></div>
+<!-- wp:blockspare/blockspare-latest-posts-grid {"uniqueClass":"blockspare-40b9687a-e22a-4","postTitleColor":"#404040","postTitleFontSize":18,"titleFontSizeMobile":18,"titleFontSizeTablet":18,"linkColor":"#000000ab","generalColor":"#000000ab","columns":4,"align":"full","imageSize":"medium","marginTop":20,"marginBottom":0,"backGroundColor":"#ffffff","categoryBackgroundColor":"#b12082","titleOnHoverColor":"#b12082","animation":"AFTfadeInUp","loadMoreStyle":"bs-loadmore-border","loadMoreAlignment":"center","gutterSpace":15,"postCategoryFontSize":12,"postCategoryFontSizeMobile":12,"postCategoryFontSizeTablet":12,"postMetaFontSize":12,"postMetaFontSizeMobile":12,"postMetaFontSizeTablet":12} /--></div>
 <!-- /wp:group --></div></div></div></div>
 <!-- /wp:blockspare/blockspare-container -->
 
 <!-- wp:columns {"align":"wide","style":{"spacing":{"margin":{"top":"30px"}}}} -->
 <div class="wp-block-columns alignwide" style="margin-top:30px"><!-- wp:column {"width":"33.33%"} -->
 <div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:group {"style":{"spacing":{"padding":{"top":"10px","bottom":"10px","left":"10px","right":"10px"}}},"backgroundColor":"black","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-black-background-color has-background" style="padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px"><!-- wp:blockspare/blockspare-tabs {"uniqueClass":"blockspare-f14c1ffc-fbd3-4","uniqueID":"_8b475a-4a","align":"full","tabCount":2,"titles":[{"text":"ПОСЛЕДНИЙ","icon":"","iconSide":"right","onlyIcon":false,"subText":"","anchor":""},{"text":"ПОПУЛЯРНЫЕ","icon":"","iconSide":"right","onlyIcon":false,"subText":"","anchor":""}],"tabBackGroundColor":"#000000","activeTabBackgroundColor":"#b12082","tabFontWeight":"700","marginTop":0,"marginBottom":0,"contentPaddingTop":15,"contentPaddingLeft":15,"contentPaddingBottom":15,"contentPaddingRight":15} -->
-<div class="wp-block-blockspare-blockspare-tabs alignfull blockspare-f14c1ffc-fbd3-4 alignnone" blockspare-animation=""><style>.blockspare-f14c1ffc-fbd3-4 .bs-tabs-title-list .bs-title-item .bs-title-text{font-size:16px;font-weight:700;color:#fff}.blockspare-f14c1ffc-fbd3-4 .bs-tabs-content-wrap{border-width:1px;border-style:solid;border-color:#dee2e6;background-color:transparent;padding-top:15px;padding-right:15px;padding-bottom:15px;padding-left:15px}.blockspare-f14c1ffc-fbd3-4 .bs-tabs-title-list .bs-tab-title-inactive .bs-tab-title:visited{background-color:#000000}.blockspare-f14c1ffc-fbd3-4 .bs-tabs-title-list .bs-tab-title-inactive .bs-tab-title{background-color:#000000}.blockspare-f14c1ffc-fbd3-4 li.bs-tab-title-active .bs-tab-title:visited{background-color:#b12082}.blockspare-f14c1ffc-fbd3-4 li.bs-tab-title-active .bs-tab-title:focus{background-color:#b12082}.blockspare-f14c1ffc-fbd3-4 li.bs-tab-title-active .bs-tab-title{background-color:#b12082}.blockspare-f14c1ffc-fbd3-4 li.bs-tab-title-active .bs-tab-title .bs-title-text{color:#fff}.blockspare-f14c1ffc-fbd3-4 .bs-tabs-wrap{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px}@media screen and (max-width:1025px){.blockspare-f14c1ffc-fbd3-4 .bs-tabs-title-list .bs-title-item .bs-title-text{font-size:14px}}@media screen and (max-width:768px){.blockspare-f14c1ffc-fbd3-4 .bs-tabs-title-list .bs-title-item .bs-title-text{font-size:14px}}</style><div class="blockspare-layout1 blockspare-horizontal bs-tabs-wrap bs-tabs-id_8b475a-4a bs-tabs-has-2-tabs bs-active-tab-1 bs-tabs-layout-blockspare-layout1  bs-tab-alignment-blockspare-left"><ul class="bs-tabs-title-list"><li id="tab-" class="bs-title-item bs-title-item-1 bs-tabs-svg-show-always bs-tabs-icon-side-right bs-tab-title-active"><a href="#tab-" data-tab="1" class="bs-tab-title bs-tab-title-1 "><span class="bs-title-text">ПОСЛЕДНИЙ</span></a></li><li id="tab-" class="bs-title-item bs-title-item-2 bs-tabs-svg-show-always bs-tabs-icon-side-right bs-tab-title-inactive"><a href="#tab-" data-tab="2" class="bs-tab-title bs-tab-title-2 "><span class="bs-title-text">ПОПУЛЯРНЫЕ</span></a></li></ul><div class="bs-tabs-content-wrap blockspare-hover-item"><!-- wp:blockspare/inner-tab {"uniqueID":"_4a37bf-7c"} -->
-<div class="wp-block-blockspare-inner-tab bs-tab-inner-content bs-inner-tab-1 bs-inner-tab_4a37bf-7c"><div class="bs-tab-inner-content-inner"><!-- wp:blockspare/blockspare-latest-posts-list {"uniqueClass":"blockspare-e76d8e3e-e8e9-4","postsToShow":3,"displayPostAuthor":false,"postTitleColor":"#ffffff","linkColor":"#ffffffab","generalColor":"#ffffffab","displayPostCategory":false,"align":"wide","imageSize":"thumbnail","marginTop":0,"marginBottom":0,"backGroundColor":"#b12082","contentPaddingTop":0,"contentPaddingBottom":0,"enableComment":false,"titleOnHoverColor":"#ffffff","gutterSpace":15,"postMetaFontSize":12,"postMetaFontSizeMobile":12,"postMetaFontSizeTablet":12} /--></div></div>
+<div class="wp-block-group has-black-background-color has-background" style="padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px"><!-- wp:blockspare/blockspare-tabs {"uniqueClass":"blockspare-9e392c59-b973-4","uniqueID":"_8b475a-4a","align":"full","tabCount":2,"titles":[{"text":"ПОСЛЕДНИЙ","icon":"","iconSide":"right","onlyIcon":false,"subText":"","anchor":""},{"text":"ПОПУЛЯРНЫЕ","icon":"","iconSide":"right","onlyIcon":false,"subText":"","anchor":""}],"tabBackGroundColor":"#000000","activeTabBackgroundColor":"#b12082","tabFontWeight":"700","marginTop":0,"marginBottom":0,"contentPaddingTop":15,"contentPaddingLeft":15,"contentPaddingBottom":15,"contentPaddingRight":15} -->
+<div class="wp-block-blockspare-blockspare-tabs alignfull blockspare-9e392c59-b973-4 alignnone" blockspare-animation=""><style>.blockspare-9e392c59-b973-4 .bs-tabs-title-list .bs-title-item .bs-title-text{font-size:16px;font-weight:700;color:#fff}.blockspare-9e392c59-b973-4 .bs-tabs-content-wrap{border-width:1px;border-style:solid;border-color:#dee2e6;background-color:transparent;padding-top:15px;padding-right:15px;padding-bottom:15px;padding-left:15px}.blockspare-9e392c59-b973-4 .bs-tabs-title-list .bs-tab-title-inactive .bs-tab-title:visited{background-color:#000000}.blockspare-9e392c59-b973-4 .bs-tabs-title-list .bs-tab-title-inactive .bs-tab-title{background-color:#000000}.blockspare-9e392c59-b973-4 li.bs-tab-title-active .bs-tab-title:visited{background-color:#b12082}.blockspare-9e392c59-b973-4 li.bs-tab-title-active .bs-tab-title:focus{background-color:#b12082}.blockspare-9e392c59-b973-4 li.bs-tab-title-active .bs-tab-title{background-color:#b12082}.blockspare-9e392c59-b973-4 li.bs-tab-title-active .bs-tab-title .bs-title-text{color:#fff}.blockspare-9e392c59-b973-4 .bs-tabs-wrap{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px}@media screen and (max-width:1025px){.blockspare-9e392c59-b973-4 .bs-tabs-title-list .bs-title-item .bs-title-text{font-size:14px}}@media screen and (max-width:768px){.blockspare-9e392c59-b973-4 .bs-tabs-title-list .bs-title-item .bs-title-text{font-size:14px}}</style><div class="blockspare-layout1 blockspare-horizontal bs-tabs-wrap bs-tabs-id_8b475a-4a bs-tabs-has-2-tabs bs-active-tab-1 bs-tabs-layout-blockspare-layout1  bs-tab-alignment-blockspare-left"><ul class="bs-tabs-title-list"><li id="tab-" class="bs-title-item bs-title-item-1 bs-tabs-svg-show-always bs-tabs-icon-side-right bs-tab-title-active"><a href="#tab-" data-tab="1" class="bs-tab-title bs-tab-title-1 "><span class="bs-title-text">ПОСЛЕДНИЙ</span></a></li><li id="tab-" class="bs-title-item bs-title-item-2 bs-tabs-svg-show-always bs-tabs-icon-side-right bs-tab-title-inactive"><a href="#tab-" data-tab="2" class="bs-tab-title bs-tab-title-2 "><span class="bs-title-text">ПОПУЛЯРНЫЕ</span></a></li></ul><div class="bs-tabs-content-wrap blockspare-hover-item"><!-- wp:blockspare/inner-tab {"uniqueID":"_4a37bf-7c"} -->
+<div class="wp-block-blockspare-inner-tab bs-tab-inner-content bs-inner-tab-1 bs-inner-tab_4a37bf-7c"><div class="bs-tab-inner-content-inner"><!-- wp:blockspare/blockspare-latest-posts-list {"uniqueClass":"blockspare-96f40ca4-8f32-4","postsToShow":3,"displayPostAuthor":false,"postTitleColor":"#ffffff","linkColor":"#ffffffab","generalColor":"#ffffffab","displayPostCategory":false,"align":"wide","imageSize":"thumbnail","marginTop":0,"marginBottom":0,"backGroundColor":"#b12082","contentPaddingTop":0,"contentPaddingBottom":0,"enableComment":false,"titleOnHoverColor":"#ffffff","gutterSpace":15,"postMetaFontSize":12,"postMetaFontSizeMobile":12,"postMetaFontSizeTablet":12} /--></div></div>
 <!-- /wp:blockspare/inner-tab -->
 
 <!-- wp:blockspare/inner-tab {"id":2,"uniqueID":"_76d61e-03"} -->
-<div class="wp-block-blockspare-inner-tab bs-tab-inner-content bs-inner-tab-2 bs-inner-tab_76d61e-03"><div class="bs-tab-inner-content-inner"><!-- wp:blockspare/blockspare-latest-posts-list {"uniqueClass":"blockspare-7bc56996-8e85-4","postsToShow":3,"displayPostAuthor":false,"postTitleColor":"#ffffff","linkColor":"#ffffffab","generalColor":"#ffffffab","displayPostCategory":false,"align":"wide","imageSize":"thumbnail","marginTop":0,"marginBottom":0,"backGroundColor":"#b12082","contentPaddingTop":0,"contentPaddingBottom":0,"enableComment":false,"titleOnHoverColor":"#ffffff","gutterSpace":15,"postMetaFontSize":12,"postMetaFontSizeMobile":12,"postMetaFontSizeTablet":12} /--></div></div>
+<div class="wp-block-blockspare-inner-tab bs-tab-inner-content bs-inner-tab-2 bs-inner-tab_76d61e-03"><div class="bs-tab-inner-content-inner"><!-- wp:blockspare/blockspare-latest-posts-list {"uniqueClass":"blockspare-7c7b3ff4-9b56-4","postsToShow":3,"displayPostAuthor":false,"postTitleColor":"#ffffff","linkColor":"#ffffffab","generalColor":"#ffffffab","displayPostCategory":false,"align":"wide","imageSize":"thumbnail","marginTop":0,"marginBottom":0,"backGroundColor":"#b12082","contentPaddingTop":0,"contentPaddingBottom":0,"enableComment":false,"titleOnHoverColor":"#ffffff","gutterSpace":15,"postMetaFontSize":12,"postMetaFontSizeMobile":12,"postMetaFontSizeTablet":12} /--></div></div>
 <!-- /wp:blockspare/inner-tab --></div></div></div>
 <!-- /wp:blockspare/blockspare-tabs -->
 
@@ -2030,13 +2030,13 @@
 <h2 class="wp-block-heading alignfull has-white-color has-text-color has-link-color">Оставайтесь на связи</h2>
 <!-- /wp:heading -->
 
-<!-- wp:blockspare/blockspare-social-links {"sectionAlignment":"left","uniqueClass":"blockspare-819ebe2e-296e-4","animation":"AFTfadeInUp","youtubeUrl":"youtube.com","linkedinUrl":"linkedin.com","pinterestUrl":"pinterest.com","buttonOptions":"blockspare-icon-with-texts","marginTop":0,"marginBottom":0} -->
-<div class="wp-block-blockspare-blockspare-social-links blockspare-819ebe2e-296e-4 blockspare-socaillink-block blockspare-block-animation blockspare-sociallinks-left" blockspare-animation="AFTfadeInUp"><style>.blockspare-819ebe2e-296e-4 .blockspare-social-wrapper{text-align:left;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px}.blockspare-819ebe2e-296e-4 .blockspare-social-wrapper .blockspare-social-icons > span{font-size:16px}@media screen and (max-width:1025px){.blockspare-819ebe2e-296e-4 .blockspare-social-wrapper .blockspare-social-icons > span{font-size:16px}}@media screen and (max-width:768px){.blockspare-819ebe2e-296e-4 .blockspare-social-wrapper .blockspare-social-icons > span{font-size:14px}}</style><div class="blockspare-social-wrapper"><ul class="blockspare-social-links blockspare-default-official-color blockspare-social-icon-square blockspare-social-icon-small blockspare-icon-with-texts blockspare-social-icon-solid blockspare-social-links-horizontal"><li class="blockspare-hover-item"><a href="https://facebook.com" class="bs-social-facebook" target="_blank" rel="noopener noreferrer"><span class="blockspare-social-icons"><i class="fab fa-facebook-f"></i> <span class="screen-reader-text">Facebook</span></span></a></li><li class="blockspare-hover-item"><a href="https://twitter.com" class="bs-social-twitter" target="_blank" rel="noopener noreferrer"><span class="blockspare-social-icons"><i class="fab fa-twitter"></i><span class="screen-reader-text">Twitter</span></span></a></li><li class="blockspare-hover-item"><a href="https://instagram.com" class="bs-social-instagram" target="_blank" rel="noopener noreferrer"><span class="blockspare-social-icons"><i class="fab fa-instagram"></i><span class="screen-reader-text">Instagram</span></span></a></li><li class="blockspare-hover-item"><a href="youtube.com" class="bs-social-youtube" target="_blank" rel="noopener noreferrer"><span class="blockspare-social-icons"><i class="fab fa-youtube"></i><span class="screen-reader-text">YouTube</span></span></a></li><li class="blockspare-hover-item"><a href="linkedin.com" class="bs-social-linkedin" target="_blank" rel="noopener noreferrer"><span class="blockspare-social-icons"><i class="fab fa-linkedin"></i><span class="screen-reader-text">LinkedIn</span></span></a></li><li class="blockspare-hover-item"><a href="pinterest.com" class="bs-social-pinterest" target="_blank" rel="noopener noreferrer"><span class="blockspare-social-icons"><i class="fab fa-pinterest"></i><span class="screen-reader-text">Pinterest</span></span></a></li></ul></div></div>
+<!-- wp:blockspare/blockspare-social-links {"sectionAlignment":"left","uniqueClass":"blockspare-8f9ab5cd-f06e-4","animation":"AFTfadeInUp","youtubeUrl":"youtube.com","linkedinUrl":"linkedin.com","pinterestUrl":"pinterest.com","buttonOptions":"blockspare-icon-with-texts","marginTop":0,"marginBottom":0} -->
+<div class="wp-block-blockspare-blockspare-social-links blockspare-8f9ab5cd-f06e-4 blockspare-socaillink-block blockspare-block-animation blockspare-sociallinks-left" blockspare-animation="AFTfadeInUp"><style>.blockspare-8f9ab5cd-f06e-4 .blockspare-social-wrapper{text-align:left;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px}.blockspare-8f9ab5cd-f06e-4 .blockspare-social-wrapper .blockspare-social-icons > span{font-size:16px}@media screen and (max-width:1025px){.blockspare-8f9ab5cd-f06e-4 .blockspare-social-wrapper .blockspare-social-icons > span{font-size:16px}}@media screen and (max-width:768px){.blockspare-8f9ab5cd-f06e-4 .blockspare-social-wrapper .blockspare-social-icons > span{font-size:14px}}</style><div class="blockspare-social-wrapper"><ul class="blockspare-social-links blockspare-default-official-color blockspare-social-icon-square blockspare-social-icon-small blockspare-icon-with-texts blockspare-social-icon-solid blockspare-social-links-horizontal"><li class="blockspare-hover-item"><a href="https://facebook.com" class="bs-social-facebook" target="_blank" rel="noopener noreferrer"><span class="blockspare-social-icons"><i class="fab fa-facebook-f"></i> <span class="screen-reader-text">Facebook</span></span></a></li><li class="blockspare-hover-item"><a href="https://twitter.com" class="bs-social-twitter" target="_blank" rel="noopener noreferrer"><span class="blockspare-social-icons"><i class="fab fa-twitter"></i><span class="screen-reader-text">Twitter</span></span></a></li><li class="blockspare-hover-item"><a href="https://instagram.com" class="bs-social-instagram" target="_blank" rel="noopener noreferrer"><span class="blockspare-social-icons"><i class="fab fa-instagram"></i><span class="screen-reader-text">Instagram</span></span></a></li><li class="blockspare-hover-item"><a href="youtube.com" class="bs-social-youtube" target="_blank" rel="noopener noreferrer"><span class="blockspare-social-icons"><i class="fab fa-youtube"></i><span class="screen-reader-text">YouTube</span></span></a></li><li class="blockspare-hover-item"><a href="linkedin.com" class="bs-social-linkedin" target="_blank" rel="noopener noreferrer"><span class="blockspare-social-icons"><i class="fab fa-linkedin"></i><span class="screen-reader-text">LinkedIn</span></span></a></li><li class="blockspare-hover-item"><a href="pinterest.com" class="bs-social-pinterest" target="_blank" rel="noopener noreferrer"><span class="blockspare-social-icons"><i class="fab fa-pinterest"></i><span class="screen-reader-text">Pinterest</span></span></a></li></ul></div></div>
 <!-- /wp:blockspare/blockspare-social-links --></div>
 <!-- /wp:group -->
 
-<!-- wp:blockspare/blockspare-call-to-action {"uniqueClass":"blockspare-beccf684-6b69-4","align":"full","sectionAlignment":"left","headerTitle":"Build Your Blog, News, Magazine, and Agency Websites with Expert-Designed Templates","titleFontSize":20,"headerSubTitle":"\u003cstrong\u003eEasy Website Building: No Coding Skills Required!\u003c/strong\u003e","headersubtitleColor":"#ffffffab","subtitlePaddingTop":10,"subtitlePaddingBottom":10,"subTitleFontWeight":"300","animation":"AFTzoomIn","imgURL":"https://demos.afthemes.com/chromenews/newschrome/wp-content/uploads/sites/23/2023/12/blockspare-design-library-1-scaled.jpg","imgID":1249,"imgAlt":"","opacityRatio":30,"buttonText":"Get Blockspare!","buttonBackgroundColor":"#b12082","buttonShape":"blockspare-button-shape-square","buttonTarget":true,"buttonFontWeight":"700","marginTop":35,"marginBottom":0} -->
-<div class="wp-block-blockspare-blockspare-call-to-action blockspare-beccf684-6b69-4 alignfull blockspare-calltoaction blockspare-block-animation" blockspare-animation="AFTzoomIn"><style>.blockspare-beccf684-6b69-4 .blockspare-cta-wrapper{background-color:#0e0e0e;text-align:left;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px;margin-top:35px;margin-right:0px;margin-bottom:0px;margin-left:0px;border-radius:null}.blockspare-beccf684-6b69-4 .blockspare-block-button a.blockspare-button{padding-top:12px;padding-right:22px;padding-bottom:12px;padding-left:22px;margin-top:10px;margin-right:0px;margin-bottom:0px;margin-left:0px;color:#fff;border-width:2px;font-size:16px;font-weight:700}.blockspare-beccf684-6b69-4.wp-block-blockspare-blockspare-call-to-action .blockspare-block-button .blockspare-button{background-color:#b12082}.blockspare-beccf684-6b69-4.wp-block-blockspare-blockspare-call-to-action .blockspare-block-button .blockspare-button:visited{background-color:#b12082}.blockspare-beccf684-6b69-4.wp-block-blockspare-blockspare-call-to-action .blockspare-block-button .blockspare-button:focus{background-color:#b12082}.blockspare-beccf684-6b69-4 .blockspare-section-head-wrap{background-color:transparent;text-align:left;margin-top:5px;margin-right:0px;margin-bottom:5px;margin-left:0px}.blockspare-beccf684-6b69-4 .blockspare-section-head-wrap .blockspare-title{color:#fff;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:20px}.blockspare-beccf684-6b69-4 .blockspare-section-head-wrap .blockspare-subtitle{color:#ffffffab;font-size:14px;font-weight:300;padding-top:10px;padding-right:0px;padding-bottom:10px;padding-left:0px}@media screen and (max-width:1025px){.blockspare-beccf684-6b69-4 .blockspare-block-button a.blockspare-button{font-size:14px}.blockspare-beccf684-6b69-4 .blockspare-section-head-wrap .blockspare-title{font-size:22px}.blockspare-beccf684-6b69-4 .blockspare-section-head-wrap .blockspare-subtitle{font-size:14px}}@media screen and (max-width:768px){.blockspare-beccf684-6b69-4 .blockspare-block-button a.blockspare-button{font-size:14px}.blockspare-beccf684-6b69-4 .blockspare-section-head-wrap .blockspare-title{font-size:20px}.blockspare-beccf684-6b69-4 .blockspare-section-head-wrap .blockspare-subtitle{font-size:14px}}</style><div class="blockspare-cta-wrapper blockspare-blocks blockspare-hover-item"><div class="blockspare-image-wrap blockspare-cta-background has-background-opacity-30 has-background-opacity" style="background-image:url(https://demos.afthemes.com/chromenews/newschrome/wp-content/uploads/sites/23/2023/12/blockspare-design-library-1-scaled.jpg)"></div><div class="blockspare-section-header-wrapper blockspare-blocks"><div class="blockspare-section-head-wrap blockspare-style1 blockspare-left"><div class="blockspare-title-wrapper"><span class="blockspare-title-dash blockspare-upper-dash"></span><h2 class="blockspare-title">Build Your Blog, News, Magazine, and Agency Websites with Expert-Designed Templates</h2><span class="blockspare-title-dash blockspare-lower-dash"></span></div><div class="blockspare-subtitle-wrapper"><span class="blockspare-title-dash blockspare-upper-dash"></span><p class="blockspare-subtitle"><strong>Easy Website Building: No Coding Skills Required!</strong></p><span class="blockspare-title-dash blockspare-lower-dash"></span></div></div></div><div class="blockspare-block-button"><a href="https://www.blockspare.com/" target="_blank" rel="noopener noreferrer" class="blockspare-button blockspare-button-shape-square blockspare-button-size-small"><span>Get Blockspare!</span></a></div></div></div>
+<!-- wp:blockspare/blockspare-call-to-action {"uniqueClass":"blockspare-13871216-0e59-4","align":"full","sectionAlignment":"left","headerTitle":"Build Your Blog, News, Magazine, and Agency Websites with Expert-Designed Templates","titleFontSize":20,"headerSubTitle":"\u003cstrong\u003eEasy Website Building: No Coding Skills Required!\u003c/strong\u003e","headersubtitleColor":"#ffffffab","subtitlePaddingTop":10,"subtitlePaddingBottom":10,"subTitleFontWeight":"300","animation":"AFTzoomIn","imgURL":"https://demos.afthemes.com/chromenews/newschrome/wp-content/uploads/sites/23/2023/12/blockspare-design-library-1-scaled.jpg","imgID":1249,"imgAlt":"","opacityRatio":30,"buttonText":"Get Blockspare!","buttonBackgroundColor":"#b12082","buttonShape":"blockspare-button-shape-square","buttonTarget":true,"buttonFontWeight":"700","marginTop":35,"marginBottom":0} -->
+<div class="wp-block-blockspare-blockspare-call-to-action blockspare-13871216-0e59-4 alignfull blockspare-calltoaction blockspare-block-animation" blockspare-animation="AFTzoomIn"><style>.blockspare-13871216-0e59-4 .blockspare-cta-wrapper{background-color:#0e0e0e;text-align:left;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px;margin-top:35px;margin-right:0px;margin-bottom:0px;margin-left:0px;border-radius:null}.blockspare-13871216-0e59-4 .blockspare-block-button a.blockspare-button{padding-top:12px;padding-right:22px;padding-bottom:12px;padding-left:22px;margin-top:10px;margin-right:0px;margin-bottom:0px;margin-left:0px;color:#fff;border-width:2px;font-size:16px;font-weight:700}.blockspare-13871216-0e59-4.wp-block-blockspare-blockspare-call-to-action .blockspare-block-button .blockspare-button{background-color:#b12082}.blockspare-13871216-0e59-4.wp-block-blockspare-blockspare-call-to-action .blockspare-block-button .blockspare-button:visited{background-color:#b12082}.blockspare-13871216-0e59-4.wp-block-blockspare-blockspare-call-to-action .blockspare-block-button .blockspare-button:focus{background-color:#b12082}.blockspare-13871216-0e59-4 .blockspare-section-head-wrap{background-color:transparent;text-align:left;margin-top:5px;margin-right:0px;margin-bottom:5px;margin-left:0px}.blockspare-13871216-0e59-4 .blockspare-section-head-wrap .blockspare-title{color:#fff;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:20px}.blockspare-13871216-0e59-4 .blockspare-section-head-wrap .blockspare-subtitle{color:#ffffffab;font-size:14px;font-weight:300;padding-top:10px;padding-right:0px;padding-bottom:10px;padding-left:0px}@media screen and (max-width:1025px){.blockspare-13871216-0e59-4 .blockspare-block-button a.blockspare-button{font-size:14px}.blockspare-13871216-0e59-4 .blockspare-section-head-wrap .blockspare-title{font-size:22px}.blockspare-13871216-0e59-4 .blockspare-section-head-wrap .blockspare-subtitle{font-size:14px}}@media screen and (max-width:768px){.blockspare-13871216-0e59-4 .blockspare-block-button a.blockspare-button{font-size:14px}.blockspare-13871216-0e59-4 .blockspare-section-head-wrap .blockspare-title{font-size:20px}.blockspare-13871216-0e59-4 .blockspare-section-head-wrap .blockspare-subtitle{font-size:14px}}</style><div class="blockspare-cta-wrapper blockspare-blocks blockspare-hover-item"><div class="blockspare-image-wrap blockspare-cta-background has-background-opacity-30 has-background-opacity" style="background-image:url(https://demos.afthemes.com/chromenews/newschrome/wp-content/uploads/sites/23/2023/12/blockspare-design-library-1-scaled.jpg)"></div><div class="blockspare-section-header-wrapper blockspare-blocks"><div class="blockspare-section-head-wrap blockspare-style1 blockspare-left"><div class="blockspare-title-wrapper"><span class="blockspare-title-dash blockspare-upper-dash"></span><h2 class="blockspare-title">Build Your Blog, News, Magazine, and Agency Websites with Expert-Designed Templates</h2><span class="blockspare-title-dash blockspare-lower-dash"></span></div><div class="blockspare-subtitle-wrapper"><span class="blockspare-title-dash blockspare-upper-dash"></span><p class="blockspare-subtitle"><strong>Easy Website Building: No Coding Skills Required!</strong></p><span class="blockspare-title-dash blockspare-lower-dash"></span></div></div></div><div class="blockspare-block-button"><a href="https://www.blockspare.com/" target="_blank" rel="noopener noreferrer" class="blockspare-button blockspare-button-shape-square blockspare-button-size-small"><span>Get Blockspare!</span></a></div></div></div>
 <!-- /wp:blockspare/blockspare-call-to-action -->
 
 <!-- wp:image {"id":932,"sizeSlug":"full","linkDestination":"none","align":"full","style":{"color":{"duotone":"unset"}}} -->
@@ -2048,7 +2048,7 @@
 <h2 class="wp-block-heading alignfull has-white-color has-text-color has-link-color">Список сообщений</h2>
 <!-- /wp:heading -->
 
-<!-- wp:blockspare/blockspare-latest-posts-list {"uniqueClass":"blockspare-19a367a4-5fd9-4","displayPostAuthor":false,"postTitleColor":"#000000","linkColor":"#000000ab","generalColor":"#000000ab","displayPostCategory":false,"align":"full","imageSize":"thumbnail","marginTop":10,"marginBottom":0,"backGroundColor":"#ffffff","contentPaddingTop":0,"contentPaddingBottom":0,"enableComment":false,"postMetaFontSize":12,"postMetaFontSizeMobile":12,"postMetaFontSizeTablet":12} /--></div>
+<!-- wp:blockspare/blockspare-latest-posts-list {"uniqueClass":"blockspare-bf654b89-c178-4","displayPostAuthor":false,"postTitleColor":"#000000","linkColor":"#000000ab","generalColor":"#000000ab","displayPostCategory":false,"align":"full","imageSize":"thumbnail","marginTop":10,"marginBottom":0,"backGroundColor":"#ffffff","contentPaddingTop":0,"contentPaddingBottom":0,"enableComment":false,"postMetaFontSize":12,"postMetaFontSizeMobile":12,"postMetaFontSizeTablet":12} /--></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
@@ -2059,7 +2059,7 @@
 <h2 class="wp-block-heading alignfull">пост-слайдер</h2>
 <!-- /wp:heading -->
 
-<!-- wp:blockspare/blockspare-posts-block-slider {"uniqueClass":"blockspare-2a87b531-c91d-4","slider":"blockspare-posts-block-full-layout-4","fullPostLinkColor":"#ffffffab","fullPostGeneralColor":"#ffffffab","align":"full","marginTop":10,"marginBottom":0,"tileCategoryBackgroundColor":"#b12082","animation":"AFTfadeInUp","postMetaFontSize":12,"postMetaFontSizeMobile":12,"postMetaFontSizeTablet":12} /--></div>
+<!-- wp:blockspare/blockspare-posts-block-slider {"uniqueClass":"blockspare-b8ce2c5d-ad46-4","slider":"blockspare-posts-block-full-layout-4","fullPostLinkColor":"#ffffffab","fullPostGeneralColor":"#ffffffab","align":"full","marginTop":10,"marginBottom":0,"tileCategoryBackgroundColor":"#b12082","animation":"AFTfadeInUp","postCategoryFontSize":12,"postCategoryFontSizeMobile":12,"postCategoryFontSizeTablet":12,"postMetaFontSize":12,"postMetaFontSizeMobile":12,"postMetaFontSizeTablet":12} /--></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"align":"wide","layout":{"type":"constrained"}} -->
@@ -2067,7 +2067,7 @@
 <h2 class="wp-block-heading alignfull">Экспресс Сетка</h2>
 <!-- /wp:heading -->
 
-<!-- wp:blockspare/blockspare-banner-1 {"align":"full","uniqueClass":"blockspare-1648842c-a666-4","sliderCategoryBackgroundColor":"#b12082","sliderPostGeneralColor":"#ffffffab","sliderPostLinkColor":"#ffffffab","sliderMetaFontSize":12,"sliderMetaFontSizeMobile":12,"sliderMetaFontSizeTablet":12,"editorCategoryBackgroundColor":"#b12082","editorDisplayPostCategory":false,"animation":"AFTfadeInUp","marginTop":10,"marginBottom":0,"gutter":15} /--></div>
+<!-- wp:blockspare/blockspare-banner-1 {"align":"full","uniqueClass":"blockspare-711be04d-0dd9-4","sliderCategoryBackgroundColor":"#b12082","sliderPostGeneralColor":"#ffffffab","sliderPostLinkColor":"#ffffffab","sliderMetaFontSize":12,"sliderMetaFontSizeMobile":12,"sliderMetaFontSizeTablet":12,"sliderCategoryFontSize":12,"sliderCategoryFontSizeMobile":12,"sliderCategoryFontSizeTablet":12,"editorCategoryBackgroundColor":"#b12082","editorTitleFontSizeMobile":16,"editorTitleFontSizeTablet":16,"editorDisplayPostCategory":false,"animation":"AFTfadeInUp","marginTop":10,"marginBottom":0,"gutter":15} /--></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"align":"full","layout":{"type":"constrained"}} -->
@@ -2081,7 +2081,7 @@
 <h2 class="wp-block-heading alignfull">Список сообщений</h2>
 <!-- /wp:heading -->
 
-<!-- wp:blockspare/blockspare-latest-posts-list {"uniqueClass":"blockspare-9ee87547-1b5b-4","postsToShow":6,"displayPostAuthor":false,"postTitleColor":"#ffffff","linkColor":"#ffffffab","generalColor":"#ffffffab","displayPostCategory":false,"columns":"list-col-2","align":"full","imageSize":"thumbnail","marginTop":10,"marginBottom":0,"backGroundColor":"#b12082","enableComment":false,"titleOnHoverColor":"#ffffff","animation":"AFTfadeInUp","gutterSpace":15,"postMetaFontSize":12,"postMetaFontSizeMobile":12,"postMetaFontSizeTablet":12} /--></div>
+<!-- wp:blockspare/blockspare-latest-posts-list {"uniqueClass":"blockspare-6fb7606e-8f73-4","postsToShow":6,"displayPostAuthor":false,"postTitleColor":"#ffffff","linkColor":"#ffffffab","generalColor":"#ffffffab","displayPostCategory":false,"columns":"list-col-2","align":"full","imageSize":"thumbnail","marginTop":10,"marginBottom":0,"backGroundColor":"#b12082","enableComment":false,"titleOnHoverColor":"#ffffff","animation":"AFTfadeInUp","gutterSpace":15,"postMetaFontSize":12,"postMetaFontSizeMobile":12,"postMetaFontSizeTablet":12} /--></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"align":"wide","layout":{"type":"constrained"}} -->
@@ -2089,26 +2089,26 @@
 <h2 class="wp-block-heading alignfull">Сообщение сетки</h2>
 <!-- /wp:heading -->
 
-<!-- wp:blockspare/blockspare-latest-posts-grid {"uniqueClass":"blockspare-c773590e-0adc-4","postsToShow":6,"postTitleColor":"#ffffff","postTitleFontSize":18,"titleFontSizeTablet":18,"linkColor":"#ffffffab","generalColor":"#ffffffab","columns":3,"align":"full","imageSize":"medium","marginTop":10,"marginBottom":0,"backGroundColor":"#000000","categoryBackgroundColor":"#b12082","enableComment":false,"titleOnHoverColor":"#ffffff","animation":"AFTfadeInUp","loadMoreStyle":"bs-loadmore-border","loadMoreAlignment":"center","gutterSpace":15,"postMetaFontSize":12,"postMetaFontSizeMobile":12,"postMetaFontSizeTablet":12} /--></div>
+<!-- wp:blockspare/blockspare-latest-posts-grid {"uniqueClass":"blockspare-a058c275-579c-4","postsToShow":6,"postTitleColor":"#ffffff","postTitleFontSize":18,"titleFontSizeMobile":18,"titleFontSizeTablet":18,"linkColor":"#ffffffab","generalColor":"#ffffffab","columns":3,"align":"full","imageSize":"medium","marginTop":10,"marginBottom":0,"backGroundColor":"#000000","categoryBackgroundColor":"#b12082","enableComment":false,"titleOnHoverColor":"#ffffff","animation":"AFTfadeInUp","loadMoreStyle":"bs-loadmore-border","loadMoreAlignment":"center","gutterSpace":15,"postCategoryFontSize":12,"postCategoryFontSizeMobile":12,"postCategoryFontSizeTablet":12,"postMetaFontSize":12,"postMetaFontSizeMobile":12,"postMetaFontSizeTablet":12} /--></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:blockspare/blockspare-container {"paddingTop":0,"paddingRight":0,"paddingBottom":0,"paddingLeft":0,"marginTop":0,"marginBottom":0,"align":"wide","uniqueClass":"blockspare-ff718472-f0a6-4","backGroundColor":"#ffffff00"} -->
-<div class="wp-block-blockspare-blockspare-container alignwide blockspare-ff718472-f0a6-4" blockspare-animation=""><style>.blockspare-ff718472-f0a6-4 > .blockspare-block-container-wrapper{background-color:#ffffff00;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;border-radius:0}.blockspare-ff718472-f0a6-4 .blockspare-image-wrap{background-image:none}</style><div class="blockspare-block-container-wrapper blockspare-hover-item"><div class="blockspare-container-background blockspare-image-wrap has-background-opacity-100 has-background-opacity"></div><div class="blockspare-container"><div class="blockspare-inner-blocks blockspare-inner-wrapper-blocks"><!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
+<!-- wp:blockspare/blockspare-container {"paddingTop":0,"paddingRight":0,"paddingBottom":0,"paddingLeft":0,"marginTop":0,"marginBottom":0,"align":"wide","uniqueClass":"blockspare-fecae39f-2f4b-4","backGroundColor":"#ffffff00"} -->
+<div class="wp-block-blockspare-blockspare-container alignwide blockspare-fecae39f-2f4b-4" blockspare-animation=""><style>.blockspare-fecae39f-2f4b-4 > .blockspare-block-container-wrapper{background-color:#ffffff00;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;border-radius:0}.blockspare-fecae39f-2f4b-4 .blockspare-image-wrap{background-image:none}</style><div class="blockspare-block-container-wrapper blockspare-hover-item"><div class="blockspare-container-background blockspare-image-wrap has-background-opacity-100 has-background-opacity"></div><div class="blockspare-container"><div class="blockspare-inner-blocks blockspare-inner-wrapper-blocks"><!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
 <div class="wp-block-group alignwide"><!-- wp:heading {"align":"full"} -->
 <h2 class="wp-block-heading alignfull">Возможно, вы пропустили</h2>
 <!-- /wp:heading -->
 
-<!-- wp:blockspare/blockspare-latest-posts-grid {"uniqueClass":"blockspare-f959cac2-8859-4","postTitleColor":"#404040","postTitleFontSize":18,"titleFontSizeTablet":18,"linkColor":"#000000ab","generalColor":"#000000ab","columns":4,"align":"full","imageSize":"medium","marginTop":20,"marginBottom":20,"backGroundColor":"#ffffff","categoryBackgroundColor":"#b12082","titleOnHoverColor":"#b12082","animation":"AFTfadeInUp","loadMoreStyle":"bs-loadmore-border","loadMoreAlignment":"center","gutterSpace":15,"postMetaFontSize":12,"postMetaFontSizeMobile":12,"postMetaFontSizeTablet":12} /--></div>
+<!-- wp:blockspare/blockspare-latest-posts-grid {"uniqueClass":"blockspare-fd09c0d8-0f0c-4","postTitleColor":"#404040","postTitleFontSize":18,"titleFontSizeMobile":18,"titleFontSizeTablet":18,"linkColor":"#000000ab","generalColor":"#000000ab","columns":4,"align":"full","imageSize":"medium","marginTop":20,"marginBottom":20,"backGroundColor":"#ffffff","categoryBackgroundColor":"#b12082","titleOnHoverColor":"#b12082","animation":"AFTfadeInUp","loadMoreStyle":"bs-loadmore-border","loadMoreAlignment":"center","gutterSpace":15,"postCategoryFontSize":12,"postCategoryFontSizeMobile":12,"postCategoryFontSizeTablet":12,"postMetaFontSize":12,"postMetaFontSizeMobile":12,"postMetaFontSizeTablet":12} /--></div>
 <!-- /wp:group --></div></div></div></div>
 <!-- /wp:blockspare/blockspare-container -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1072</wp:post_id>
 		<wp:post_date><![CDATA[2025-04-10 06:25:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-04-10 06:25:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-15 11:52:31]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-15 11:52:31]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-04-22 09:44:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-22 09:44:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -2253,7 +2253,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[259]]></wp:meta_value>
+		<wp:meta_value><![CDATA[273]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -2357,7 +2357,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[295]]></wp:meta_value>
+		<wp:meta_value><![CDATA[304]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -2457,7 +2457,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[271]]></wp:meta_value>
+		<wp:meta_value><![CDATA[281]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
@@ -2559,7 +2559,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[304]]></wp:meta_value>
+		<wp:meta_value><![CDATA[318]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -2661,7 +2661,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[306]]></wp:meta_value>
+		<wp:meta_value><![CDATA[317]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -2768,7 +2768,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[317]]></wp:meta_value>
+		<wp:meta_value><![CDATA[328]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
@@ -2872,7 +2872,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[351]]></wp:meta_value>
+		<wp:meta_value><![CDATA[362]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -2975,7 +2975,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[317]]></wp:meta_value>
+		<wp:meta_value><![CDATA[328]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
@@ -3081,7 +3081,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[349]]></wp:meta_value>
+		<wp:meta_value><![CDATA[360]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
@@ -3192,7 +3192,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[429]]></wp:meta_value>
+		<wp:meta_value><![CDATA[440]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>

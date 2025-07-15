@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.8" created="2025-04-28 06:57" -->
+	<!-- generator="WordPress/6.8.1" created="2025-07-10 08:58" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Deutsches Auto</title>
 	<link>https://demos.afthemes.com/morenews-pro/german-cars</link>
 	<description></description>
-	<pubDate>Mon, 28 Apr 2025 06:57:39 +0000</pubDate>
+	<pubDate>Thu, 10 Jul 2025 08:58:44 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.afthemes.com/morenews-pro/</wp:base_site_url>
@@ -261,7 +261,7 @@
 	<wp:term><wp:term_id>18</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Top menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.8</generator>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
 
 		<item>
 		<title><![CDATA[Facebook]]></title>
@@ -1306,7 +1306,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[149]]></wp:meta_value>
+		<wp:meta_value><![CDATA[151]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[darknews-meta-content-alignment]]></wp:meta_key>
@@ -3293,7 +3293,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[162]]></wp:meta_value>
+		<wp:meta_value><![CDATA[163]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -3476,7 +3476,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[170]]></wp:meta_value>
+		<wp:meta_value><![CDATA[171]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[darknews-meta-content-alignment]]></wp:meta_key>

@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.7.2" created="2025-03-07 06:48" -->
+	<!-- generator="WordPress/6.8.1" created="2025-07-09 11:09" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>National News </title>
 	<link>https://demos.afthemes.com/morenews-pro/national-news</link>
 	<description></description>
-	<pubDate>Fri, 07 Mar 2025 06:48:23 +0000</pubDate>
+	<pubDate>Wed, 09 Jul 2025 11:09:15 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.afthemes.com/morenews-pro/</wp:base_site_url>
@@ -347,7 +347,7 @@
 	<wp:term><wp:term_id>27</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Social menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
 
 		<item>
 		<title><![CDATA[af-themes-logo-1-150x150]]></title>
@@ -387,6 +387,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -430,6 +438,14 @@
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[black-and-white-photography-vintage-hollywood-model-romance-950332-pxhere.com]]></title>
@@ -469,6 +485,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -512,6 +536,14 @@
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[nature-wilderness-black-and-white-structure-white-texture-674354-pxhere.com]]></title>
@@ -551,6 +583,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -594,6 +634,14 @@
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[technology-camera-vintage-old-nostalgia-photograph-832051-pxhere.com]]></title>
@@ -633,6 +681,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -676,6 +732,14 @@
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Chromenews-sidebar]]></title>
@@ -717,6 +781,14 @@
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[blockspare-design-library (1)]]></title>
@@ -749,6 +821,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2560;s:6:"height";i:1440;s:4:"file";s:48:"2023/12/blockspare-design-library-1-scaled-1.jpg";s:8:"filesize";i:538077;s:5:"sizes";a:11:{s:6:"medium";a:5:{s:4:"file";s:48:"blockspare-design-library-1-scaled-1-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18683;}s:5:"large";a:5:{s:4:"file";s:49:"blockspare-design-library-1-scaled-1-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:128983;}s:9:"thumbnail";a:5:{s:4:"file";s:48:"blockspare-design-library-1-scaled-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8876;}s:12:"medium_large";a:5:{s:4:"file";s:48:"blockspare-design-library-1-scaled-1-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:81830;}s:9:"1536x1536";a:5:{s:4:"file";s:49:"blockspare-design-library-1-scaled-1-1536x864.jpg";s:5:"width";i:1536;s:6:"height";i:864;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:237448;}s:9:"2048x2048";a:5:{s:4:"file";s:50:"blockspare-design-library-1-scaled-1-2048x1152.jpg";s:5:"width";i:2048;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:356792;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:49:"blockspare-design-library-1-scaled-1-1115x715.jpg";s:5:"width";i:1115;s:6:"height";i:715;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:166794;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:48:"blockspare-design-library-1-scaled-1-800x500.jpg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:98603;}s:18:"covernews-featured";a:5:{s:4:"file";s:49:"blockspare-design-library-1-scaled-1-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:128983;}s:16:"covernews-medium";a:5:{s:4:"file";s:48:"blockspare-design-library-1-scaled-1-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:53944;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:48:"blockspare-design-library-1-scaled-1-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:33072;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -783,6 +863,14 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1062;s:6:"height";i:708;s:4:"file";s:73:"2022/01/negative-space-classic-fiat-5-yellow-car-ilya-yakover-thumb-1.jpg";s:8:"filesize";i:112960;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:73:"negative-space-classic-fiat-5-yellow-car-ilya-yakover-thumb-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13126;}s:5:"large";a:5:{s:4:"file";s:74:"negative-space-classic-fiat-5-yellow-car-ilya-yakover-thumb-1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:98624;}s:9:"thumbnail";a:5:{s:4:"file";s:73:"negative-space-classic-fiat-5-yellow-car-ilya-yakover-thumb-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6139;}s:12:"medium_large";a:5:{s:4:"file";s:73:"negative-space-classic-fiat-5-yellow-car-ilya-yakover-thumb-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:60869;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:73:"negative-space-classic-fiat-5-yellow-car-ilya-yakover-thumb-1-800x500.jpg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:61778;}s:18:"covernews-featured";a:5:{s:4:"file";s:74:"negative-space-classic-fiat-5-yellow-car-ilya-yakover-thumb-1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:98624;}s:16:"covernews-medium";a:5:{s:4:"file";s:73:"negative-space-classic-fiat-5-yellow-car-ilya-yakover-thumb-1-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:32829;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:73:"negative-space-classic-fiat-5-yellow-car-ilya-yakover-thumb-1-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19885;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[negative-space-vintage-desk-typewriter-man-hands-rawpixel-thumb-1]]></title>
@@ -815,6 +903,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1062;s:6:"height";i:708;s:4:"file";s:77:"2022/01/negative-space-vintage-desk-typewriter-man-hands-rawpixel-thumb-1.jpg";s:8:"filesize";i:175849;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:77:"negative-space-vintage-desk-typewriter-man-hands-rawpixel-thumb-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18275;}s:5:"large";a:5:{s:4:"file";s:78:"negative-space-vintage-desk-typewriter-man-hands-rawpixel-thumb-1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:112714;}s:9:"thumbnail";a:5:{s:4:"file";s:77:"negative-space-vintage-desk-typewriter-man-hands-rawpixel-thumb-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8450;}s:12:"medium_large";a:5:{s:4:"file";s:77:"negative-space-vintage-desk-typewriter-man-hands-rawpixel-thumb-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:74416;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:77:"negative-space-vintage-desk-typewriter-man-hands-rawpixel-thumb-1-800x500.jpg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:75457;}s:18:"covernews-featured";a:5:{s:4:"file";s:78:"negative-space-vintage-desk-typewriter-man-hands-rawpixel-thumb-1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:112714;}s:16:"covernews-medium";a:5:{s:4:"file";s:77:"negative-space-vintage-desk-typewriter-man-hands-rawpixel-thumb-1-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:42823;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:77:"negative-space-vintage-desk-typewriter-man-hands-rawpixel-thumb-1-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:27000;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -849,6 +945,14 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1062;s:6:"height";i:708;s:4:"file";s:60:"2022/01/negative-space-ingredients-food-barbeque-thumb-1.jpg";s:8:"filesize";i:253070;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:60:"negative-space-ingredients-food-barbeque-thumb-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:23896;}s:5:"large";a:5:{s:4:"file";s:61:"negative-space-ingredients-food-barbeque-thumb-1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:209555;}s:9:"thumbnail";a:5:{s:4:"file";s:60:"negative-space-ingredients-food-barbeque-thumb-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10627;}s:12:"medium_large";a:5:{s:4:"file";s:60:"negative-space-ingredients-food-barbeque-thumb-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:126915;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:60:"negative-space-ingredients-food-barbeque-thumb-1-800x500.jpg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:129980;}s:18:"covernews-featured";a:5:{s:4:"file";s:61:"negative-space-ingredients-food-barbeque-thumb-1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:209555;}s:16:"covernews-medium";a:5:{s:4:"file";s:60:"negative-space-ingredients-food-barbeque-thumb-1-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:65960;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:60:"negative-space-ingredients-food-barbeque-thumb-1-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:38271;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[negative-space-american-flag-interior-building]]></title>
@@ -881,6 +985,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:58:"2022/01/negative-space-american-flag-interior-building.jpg";s:8:"filesize";i:798151;s:5:"sizes";a:9:{s:6:"medium";a:5:{s:4:"file";s:58:"negative-space-american-flag-interior-building-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20529;}s:5:"large";a:5:{s:4:"file";s:59:"negative-space-american-flag-interior-building-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:130755;}s:9:"thumbnail";a:5:{s:4:"file";s:58:"negative-space-american-flag-interior-building-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9671;}s:12:"medium_large";a:5:{s:4:"file";s:58:"negative-space-american-flag-interior-building-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:84592;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:59:"negative-space-american-flag-interior-building-1115x715.jpg";s:5:"width";i:1115;s:6:"height";i:715;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:143400;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:58:"negative-space-american-flag-interior-building-800x500.jpg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:86474;}s:18:"covernews-featured";a:5:{s:4:"file";s:59:"negative-space-american-flag-interior-building-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:130755;}s:16:"covernews-medium";a:5:{s:4:"file";s:58:"negative-space-american-flag-interior-building-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47858;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:58:"negative-space-american-flag-interior-building-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:30522;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -915,6 +1027,14 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:930;s:6:"height";i:110;s:4:"file";s:40:"2024/01/banner-promo-full-newschrome.png";s:8:"filesize";i:26109;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:39:"banner-promo-full-newschrome-300x35.png";s:5:"width";i:300;s:6:"height";i:35;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:10043;}s:9:"thumbnail";a:5:{s:4:"file";s:40:"banner-promo-full-newschrome-150x110.png";s:5:"width";i:150;s:6:"height";i:110;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:4901;}s:12:"medium_large";a:5:{s:4:"file";s:39:"banner-promo-full-newschrome-768x91.png";s:5:"width";i:768;s:6:"height";i:91;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:29187;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:40:"banner-promo-full-newschrome-800x110.png";s:5:"width";i:800;s:6:"height";i:110;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:23479;}s:16:"covernews-medium";a:5:{s:4:"file";s:40:"banner-promo-full-newschrome-540x110.png";s:5:"width";i:540;s:6:"height";i:110;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:17352;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:40:"banner-promo-full-newschrome-400x110.png";s:5:"width";i:400;s:6:"height";i:110;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:13862;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[banner-promo-full-newschrome-new]]></title>
@@ -947,6 +1067,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:930;s:6:"height";i:110;s:4:"file";s:44:"2024/01/banner-promo-full-newschrome-new.png";s:8:"filesize";i:26782;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:43:"banner-promo-full-newschrome-new-300x35.png";s:5:"width";i:300;s:6:"height";i:35;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:10233;}s:9:"thumbnail";a:5:{s:4:"file";s:44:"banner-promo-full-newschrome-new-150x110.png";s:5:"width";i:150;s:6:"height";i:110;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:3423;}s:12:"medium_large";a:5:{s:4:"file";s:43:"banner-promo-full-newschrome-new-768x91.png";s:5:"width";i:768;s:6:"height";i:91;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:29885;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:44:"banner-promo-full-newschrome-new-800x110.png";s:5:"width";i:800;s:6:"height";i:110;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:23153;}s:16:"covernews-medium";a:5:{s:4:"file";s:44:"banner-promo-full-newschrome-new-540x110.png";s:5:"width";i:540;s:6:"height";i:110;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:15387;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:44:"banner-promo-full-newschrome-new-400x110.png";s:5:"width";i:400;s:6:"height";i:110;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:10513;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -981,6 +1109,14 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:930;s:6:"height";i:110;s:4:"file";s:44:"2024/01/banner-promo-full-newschrome-red.png";s:8:"filesize";i:25211;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:43:"banner-promo-full-newschrome-red-300x35.png";s:5:"width";i:300;s:6:"height";i:35;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:9708;}s:9:"thumbnail";a:5:{s:4:"file";s:44:"banner-promo-full-newschrome-red-150x110.png";s:5:"width";i:150;s:6:"height";i:110;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:2759;}s:12:"medium_large";a:5:{s:4:"file";s:43:"banner-promo-full-newschrome-red-768x91.png";s:5:"width";i:768;s:6:"height";i:91;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:27748;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:44:"banner-promo-full-newschrome-red-800x110.png";s:5:"width";i:800;s:6:"height";i:110;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:21581;}s:16:"covernews-medium";a:5:{s:4:"file";s:44:"banner-promo-full-newschrome-red-540x110.png";s:5:"width";i:540;s:6:"height";i:110;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:13800;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:44:"banner-promo-full-newschrome-red-400x110.png";s:5:"width";i:400;s:6:"height";i:110;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:9074;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[banner-promo-full-yellowish-black]]></title>
@@ -1013,6 +1149,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:930;s:6:"height";i:110;s:4:"file";s:45:"2024/01/banner-promo-full-yellowish-black.png";s:8:"filesize";i:24840;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:44:"banner-promo-full-yellowish-black-300x35.png";s:5:"width";i:300;s:6:"height";i:35;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:9902;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"banner-promo-full-yellowish-black-150x110.png";s:5:"width";i:150;s:6:"height";i:110;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:2744;}s:12:"medium_large";a:5:{s:4:"file";s:44:"banner-promo-full-yellowish-black-768x91.png";s:5:"width";i:768;s:6:"height";i:91;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:28218;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:45:"banner-promo-full-yellowish-black-800x110.png";s:5:"width";i:800;s:6:"height";i:110;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:21591;}s:16:"covernews-medium";a:5:{s:4:"file";s:45:"banner-promo-full-yellowish-black-540x110.png";s:5:"width";i:540;s:6:"height";i:110;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:14184;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:45:"banner-promo-full-yellowish-black-400x110.png";s:5:"width";i:400;s:6:"height";i:110;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:9612;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1047,6 +1191,14 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:930;s:6:"height";i:110;s:4:"file";s:26:"2024/01/banner-promo-1.jpg";s:8:"filesize";i:105994;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:25:"banner-promo-1-300x35.jpg";s:5:"width";i:300;s:6:"height";i:35;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5093;}s:9:"thumbnail";a:5:{s:4:"file";s:26:"banner-promo-1-150x110.jpg";s:5:"width";i:150;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4855;}s:12:"medium_large";a:5:{s:4:"file";s:25:"banner-promo-1-768x91.jpg";s:5:"width";i:768;s:6:"height";i:91;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17930;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:26:"banner-promo-1-800x110.jpg";s:5:"width";i:800;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:22502;}s:16:"covernews-medium";a:5:{s:4:"file";s:26:"banner-promo-1-540x110.jpg";s:5:"width";i:540;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16118;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:26:"banner-promo-1-400x110.jpg";s:5:"width";i:400;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11788;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[banner-promo-2]]></title>
@@ -1079,6 +1231,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:930;s:6:"height";i:110;s:4:"file";s:26:"2024/01/banner-promo-2.jpg";s:8:"filesize";i:114716;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:25:"banner-promo-2-300x35.jpg";s:5:"width";i:300;s:6:"height";i:35;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5200;}s:9:"thumbnail";a:5:{s:4:"file";s:26:"banner-promo-2-150x110.jpg";s:5:"width";i:150;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5608;}s:12:"medium_large";a:5:{s:4:"file";s:25:"banner-promo-2-768x91.jpg";s:5:"width";i:768;s:6:"height";i:91;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19097;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:26:"banner-promo-2-800x110.jpg";s:5:"width";i:800;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:24208;}s:16:"covernews-medium";a:5:{s:4:"file";s:26:"banner-promo-2-540x110.jpg";s:5:"width";i:540;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17359;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:26:"banner-promo-2-400x110.jpg";s:5:"width";i:400;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13030;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1657,6 +1817,14 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:930;s:6:"height";i:110;s:4:"file";s:26:"2024/01/banner-promo-3.jpg";s:8:"filesize";i:86875;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:25:"banner-promo-3-300x35.jpg";s:5:"width";i:300;s:6:"height";i:35;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4736;}s:9:"thumbnail";a:5:{s:4:"file";s:26:"banner-promo-3-150x110.jpg";s:5:"width";i:150;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4418;}s:12:"medium_large";a:5:{s:4:"file";s:25:"banner-promo-3-768x91.jpg";s:5:"width";i:768;s:6:"height";i:91;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15606;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:26:"banner-promo-3-800x110.jpg";s:5:"width";i:800;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19690;}s:16:"covernews-medium";a:5:{s:4:"file";s:26:"banner-promo-3-540x110.jpg";s:5:"width";i:540;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14219;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:26:"banner-promo-3-400x110.jpg";s:5:"width";i:400;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10352;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[banner-promo-4]]></title>
@@ -1689,6 +1857,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:930;s:6:"height";i:110;s:4:"file";s:26:"2024/01/banner-promo-4.jpg";s:8:"filesize";i:112547;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:25:"banner-promo-4-300x35.jpg";s:5:"width";i:300;s:6:"height";i:35;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5200;}s:9:"thumbnail";a:5:{s:4:"file";s:26:"banner-promo-4-150x110.jpg";s:5:"width";i:150;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5841;}s:12:"medium_large";a:5:{s:4:"file";s:25:"banner-promo-4-768x91.jpg";s:5:"width";i:768;s:6:"height";i:91;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18699;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:26:"banner-promo-4-800x110.jpg";s:5:"width";i:800;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:23550;}s:16:"covernews-medium";a:5:{s:4:"file";s:26:"banner-promo-4-540x110.jpg";s:5:"width";i:540;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17515;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:26:"banner-promo-4-400x110.jpg";s:5:"width";i:400;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13400;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1723,6 +1899,14 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:930;s:6:"height";i:110;s:4:"file";s:26:"2024/01/banner-promo-5.jpg";s:8:"filesize";i:113757;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:25:"banner-promo-5-300x35.jpg";s:5:"width";i:300;s:6:"height";i:35;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5227;}s:9:"thumbnail";a:5:{s:4:"file";s:26:"banner-promo-5-150x110.jpg";s:5:"width";i:150;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5980;}s:12:"medium_large";a:5:{s:4:"file";s:25:"banner-promo-5-768x91.jpg";s:5:"width";i:768;s:6:"height";i:91;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19063;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:26:"banner-promo-5-800x110.jpg";s:5:"width";i:800;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:24393;}s:16:"covernews-medium";a:5:{s:4:"file";s:26:"banner-promo-5-540x110.jpg";s:5:"width";i:540;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17980;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:26:"banner-promo-5-400x110.jpg";s:5:"width";i:400;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13717;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[banner-promo-6]]></title>
@@ -1755,6 +1939,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:930;s:6:"height";i:110;s:4:"file";s:26:"2024/01/banner-promo-6.jpg";s:8:"filesize";i:115070;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:25:"banner-promo-6-300x35.jpg";s:5:"width";i:300;s:6:"height";i:35;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5260;}s:9:"thumbnail";a:5:{s:4:"file";s:26:"banner-promo-6-150x110.jpg";s:5:"width";i:150;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5584;}s:12:"medium_large";a:5:{s:4:"file";s:25:"banner-promo-6-768x91.jpg";s:5:"width";i:768;s:6:"height";i:91;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19158;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:26:"banner-promo-6-800x110.jpg";s:5:"width";i:800;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:24702;}s:16:"covernews-medium";a:5:{s:4:"file";s:26:"banner-promo-6-540x110.jpg";s:5:"width";i:540;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17702;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:26:"banner-promo-6-400x110.jpg";s:5:"width";i:400;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13173;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1789,6 +1981,14 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:930;s:6:"height";i:110;s:4:"file";s:26:"2024/01/banner-promo-7.jpg";s:8:"filesize";i:115522;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:25:"banner-promo-7-300x35.jpg";s:5:"width";i:300;s:6:"height";i:35;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5302;}s:9:"thumbnail";a:5:{s:4:"file";s:26:"banner-promo-7-150x110.jpg";s:5:"width";i:150;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5491;}s:12:"medium_large";a:5:{s:4:"file";s:25:"banner-promo-7-768x91.jpg";s:5:"width";i:768;s:6:"height";i:91;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18918;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:26:"banner-promo-7-800x110.jpg";s:5:"width";i:800;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:24014;}s:16:"covernews-medium";a:5:{s:4:"file";s:26:"banner-promo-7-540x110.jpg";s:5:"width";i:540;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17539;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:26:"banner-promo-7-400x110.jpg";s:5:"width";i:400;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13257;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pawel-czerwinski-fPN1w7bIuNU-unsplash]]></title>
@@ -1821,6 +2021,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:49:"2024/02/pawel-czerwinski-fPN1w7bIuNU-unsplash.jpg";s:8:"filesize";i:681488;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:49:"pawel-czerwinski-fPN1w7bIuNU-unsplash-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12130;}s:5:"large";a:5:{s:4:"file";s:50:"pawel-czerwinski-fPN1w7bIuNU-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:146533;}s:9:"thumbnail";a:5:{s:4:"file";s:49:"pawel-czerwinski-fPN1w7bIuNU-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4558;}s:12:"medium_large";a:5:{s:4:"file";s:49:"pawel-czerwinski-fPN1w7bIuNU-unsplash-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:84244;}s:9:"1536x1536";a:5:{s:4:"file";s:51:"pawel-czerwinski-fPN1w7bIuNU-unsplash-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:310582;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:50:"pawel-czerwinski-fPN1w7bIuNU-unsplash-1115x715.jpg";s:5:"width";i:1115;s:6:"height";i:715;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:166699;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:49:"pawel-czerwinski-fPN1w7bIuNU-unsplash-800x500.jpg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:85236;}s:18:"covernews-featured";a:5:{s:4:"file";s:50:"pawel-czerwinski-fPN1w7bIuNU-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:146533;}s:16:"covernews-medium";a:5:{s:4:"file";s:49:"pawel-czerwinski-fPN1w7bIuNU-unsplash-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:38815;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:49:"pawel-czerwinski-fPN1w7bIuNU-unsplash-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20536;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1863,6 +2071,14 @@
 		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_newschrome]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1708943594]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[cropped-pawel-czerwinski-fPN1w7bIuNU-unsplash]]></title>
@@ -1903,6 +2119,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_morenews-pro]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1741255065]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4425,7 +4649,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[16]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -4596,7 +4820,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[11]]></wp:meta_value>
+		<wp:meta_value><![CDATA[21]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[chromenews-meta-content-alignment]]></wp:meta_key>
@@ -4758,7 +4982,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		<wp:meta_value><![CDATA[23]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[chromenews-meta-content-alignment]]></wp:meta_key>
@@ -4925,7 +5149,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[12]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -5101,7 +5325,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		<wp:meta_value><![CDATA[16]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[chromenews-meta-content-alignment]]></wp:meta_key>
@@ -5280,7 +5504,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[28]]></wp:meta_value>
+		<wp:meta_value><![CDATA[37]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[morenews-meta-content-alignment]]></wp:meta_key>
@@ -5471,7 +5695,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[8]]></wp:meta_value>
+		<wp:meta_value><![CDATA[19]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[chromenews-meta-content-alignment]]></wp:meta_key>
@@ -5670,7 +5894,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[15]]></wp:meta_value>
+		<wp:meta_value><![CDATA[27]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[chromenews-meta-content-alignment]]></wp:meta_key>
@@ -5854,7 +6078,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[32]]></wp:meta_value>
+		<wp:meta_value><![CDATA[43]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[morenews-meta-content-alignment]]></wp:meta_key>
@@ -6077,7 +6301,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[12]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>

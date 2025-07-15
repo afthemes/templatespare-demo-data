@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.8.1" created="2025-05-09 08:59" -->
+	<!-- generator="WordPress/6.8.1" created="2025-07-11 11:35" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>News Network</title>
 	<link>https://demos.afthemes.com/morenews-pro/news-network</link>
 	<description>One more site from blockspare</description>
-	<pubDate>Fri, 09 May 2025 08:59:46 +0000</pubDate>
+	<pubDate>Fri, 11 Jul 2025 11:35:15 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.afthemes.com/morenews-pro/</wp:base_site_url>
@@ -2183,6 +2183,10 @@
 		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
 		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Meet Jo Jo, Body Positive Model and Cousin of Gigi]]></title>
@@ -2349,6 +2353,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
 		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3226,6 +3234,10 @@
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[The Beauty Products Chrissy Teigen Can’t Travel Without]]></title>
@@ -3264,6 +3276,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
 		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>4</wp:comment_id>
@@ -3339,6 +3355,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_term]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:3:{s:8:"taxonomy";s:11:"post_format";s:4:"slug";s:19:"post-format-gallery";s:4:"name";s:7:"Gallery";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>5</wp:comment_id>
@@ -3473,6 +3493,10 @@ like human, just search in google:  miftolo\'s tools]]></wp:comment_content>
 		<wp:meta_key><![CDATA[wpma_author]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>9</wp:comment_id>
 			<wp:comment_author><![CDATA[ASDF]]></wp:comment_author>
@@ -3601,6 +3625,10 @@ like human, just search in google:  miftolo\'s tools]]></wp:comment_content>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_term]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:3:{s:8:"taxonomy";s:11:"post_format";s:4:"slug";s:17:"post-format-video";s:4:"name";s:5:"Video";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>12</wp:comment_id>
@@ -5089,6 +5117,10 @@ I\'ll check back later and see if the problem still exists.]]></wp:comment_conte
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_term]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:3:{s:8:"taxonomy";s:11:"post_format";s:4:"slug";s:17:"post-format-image";s:4:"name";s:5:"Image";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>71</wp:comment_id>

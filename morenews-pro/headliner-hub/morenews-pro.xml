@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.8.1" created="2025-05-01 10:49" -->
+	<!-- generator="WordPress/6.8.1" created="2025-07-11 05:13" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Headliner Hub</title>
 	<link>https://demos.afthemes.com/morenews-pro/headliner-hub</link>
 	<description>One more site from blockspare</description>
-	<pubDate>Thu, 01 May 2025 10:49:04 +0000</pubDate>
+	<pubDate>Fri, 11 Jul 2025 05:13:48 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.afthemes.com/morenews-pro/</wp:base_site_url>
@@ -1768,6 +1768,10 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[9]]></wp:meta_value>
+		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>2</wp:comment_id>
 			<wp:comment_author><![CDATA[Fulloaded]]></wp:comment_author>
@@ -1833,6 +1837,10 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:meta_key><![CDATA[_wxr_import_term]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:3:{s:8:"taxonomy";s:11:"post_format";s:4:"slug";s:17:"post-format-image";s:4:"name";s:5:"Image";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[10]]></wp:meta_value>
+		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>3</wp:comment_id>
 			<wp:comment_author><![CDATA[Armand Witherow]]></wp:comment_author>
@@ -1896,6 +1904,10 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[10]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>4</wp:comment_id>
@@ -1962,6 +1974,10 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:meta_key><![CDATA[_wxr_import_term]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:3:{s:8:"taxonomy";s:11:"post_format";s:4:"slug";s:19:"post-format-gallery";s:4:"name";s:7:"Gallery";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[11]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Explaining Boston Uprising's fall from grace]]></title>
@@ -2007,6 +2023,10 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[10]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>5</wp:comment_id>
@@ -2085,6 +2105,10 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_term]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:3:{s:8:"taxonomy";s:11:"post_format";s:4:"slug";s:17:"post-format-video";s:4:"name";s:5:"Video";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[11]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2315,6 +2339,10 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[125]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[LCK legend PraY announces retirement]]></title>
@@ -2362,6 +2390,10 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[122]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[10]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>7</wp:comment_id>
@@ -2424,6 +2456,10 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[126]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[10]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>8</wp:comment_id>
@@ -2530,6 +2566,10 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_term]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:3:{s:8:"taxonomy";s:11:"post_format";s:4:"slug";s:17:"post-format-video";s:4:"name";s:5:"Video";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[9]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>

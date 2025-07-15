@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.7.2" created="2025-04-09 07:23" -->
+	<!-- generator="WordPress/6.8.1" created="2025-07-09 07:21" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>أخبار عربية</title>
 	<link>https://demos.afthemes.com/morenews-pro/arabic-news</link>
 	<description></description>
-	<pubDate>Wed, 09 Apr 2025 07:23:18 +0000</pubDate>
+	<pubDate>Wed, 09 Jul 2025 07:21:26 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.afthemes.com/morenews-pro/</wp:base_site_url>
@@ -173,7 +173,7 @@
 	<wp:term><wp:term_id>11</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social]]></wp:term_slug><wp:term_name><![CDATA[Social]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
 
 		<item>
 		<title><![CDATA[pexels-cdc-3992933]]></title>
@@ -214,6 +214,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -256,6 +260,10 @@
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-quang-nguyen-vinh-2150362]]></title>
@@ -296,6 +304,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -338,6 +350,10 @@
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-patrick-case-3746005]]></title>
@@ -378,6 +394,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -420,6 +440,10 @@
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-pixabay-46148]]></title>
@@ -460,6 +484,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -502,6 +530,10 @@
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-karolina-grabowska-7876503]]></title>
@@ -542,6 +574,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -584,6 +620,10 @@
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-mikhail-nilov-8939096]]></title>
@@ -624,6 +664,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -669,6 +713,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -723,6 +771,10 @@
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-snapwire-670061]]></title>
@@ -764,6 +816,10 @@
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-konevi-2236674]]></title>
@@ -803,6 +859,10 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -846,6 +906,10 @@
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-łukasz-martenka-3207527]]></title>
@@ -886,6 +950,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -940,6 +1008,10 @@
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[banner-promo-1120-wu-1-1-3-1024x82]]></title>
@@ -980,6 +1052,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1025,6 +1101,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2010,7 +2090,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[295]]></wp:meta_value>
+		<wp:meta_value><![CDATA[328]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
@@ -2164,7 +2244,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[298]]></wp:meta_value>
+		<wp:meta_value><![CDATA[327]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
@@ -2315,7 +2395,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[301]]></wp:meta_value>
+		<wp:meta_value><![CDATA[332]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
@@ -2474,7 +2554,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[302]]></wp:meta_value>
+		<wp:meta_value><![CDATA[331]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
@@ -2628,7 +2708,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[314]]></wp:meta_value>
+		<wp:meta_value><![CDATA[344]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
@@ -2782,7 +2862,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[307]]></wp:meta_value>
+		<wp:meta_value><![CDATA[338]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
@@ -2936,7 +3016,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[305]]></wp:meta_value>
+		<wp:meta_value><![CDATA[342]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
@@ -3090,7 +3170,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[285]]></wp:meta_value>
+		<wp:meta_value><![CDATA[320]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
@@ -3241,7 +3321,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[323]]></wp:meta_value>
+		<wp:meta_value><![CDATA[355]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
@@ -3395,7 +3475,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[315]]></wp:meta_value>
+		<wp:meta_value><![CDATA[347]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>

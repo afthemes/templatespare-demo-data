@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.8.1" created="2025-05-09 08:51" -->
+	<!-- generator="WordPress/6.8.1" created="2025-07-11 11:02" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Metro Newsline</title>
 	<link>https://demos.afthemes.com/morenews-pro/metro-newsline</link>
 	<description>One more site from blockspare</description>
-	<pubDate>Fri, 09 May 2025 08:51:32 +0000</pubDate>
+	<pubDate>Fri, 11 Jul 2025 11:02:48 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.afthemes.com/morenews-pro/</wp:base_site_url>
@@ -1055,52 +1055,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Sample Page]]></title>
-		<link>https://demos.afthemes.com/morenews-pro/metro-newsline/sample-page/</link>
-		<pubDate>Thu, 24 Apr 2025 07:02:34 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demos.afthemes.com/morenews-pro/metro-newsline/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="https://demos.afthemes.com/morenews-pro/metro-newsline/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-24 07:02:34]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-04-24 07:02:34]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-24 07:02:34]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-24 07:02:34]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[London Spitfire punches ticket to Overwatch League finals]]></title>
 		<link>https://demos.afthemes.com/morenews-pro/metro-newsline/2018/07/30/london-spitfire-punches-ticket-to-overwatch-league-finals/</link>
 		<pubDate>Mon, 30 Jul 2018 15:28:21 +0000</pubDate>
@@ -1135,7 +1089,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[113]]></wp:meta_value>
+		<wp:meta_value><![CDATA[117]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
@@ -1196,7 +1150,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[116]]></wp:meta_value>
+		<wp:meta_value><![CDATA[120]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -1251,7 +1205,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[95]]></wp:meta_value>
+		<wp:meta_value><![CDATA[99]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -1309,7 +1263,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[138]]></wp:meta_value>
+		<wp:meta_value><![CDATA[142]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -1372,7 +1326,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[124]]></wp:meta_value>
+		<wp:meta_value><![CDATA[128]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -1467,7 +1421,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[150]]></wp:meta_value>
+		<wp:meta_value><![CDATA[154]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
@@ -1488,6 +1442,70 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[250]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[United Talent Agency acquires two esports agencies]]></title>
+		<link>https://demos.afthemes.com/morenews-pro/metro-newsline/2018/07/30/united-talent-agency-acquires-two-esports-agencies/</link>
+		<pubDate>Mon, 30 Jul 2018 15:47:02 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?p=25</guid>
+		<description></description>
+		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua. Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
+
+Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>25</wp:post_id>
+		<wp:post_date><![CDATA[2018-07-30 15:47:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-07-30 15:47:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-30 15:47:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-30 15:47:02]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[united-talent-agency-acquires-two-esports-agencies]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="formula-1"><![CDATA[Formula 1]]></category>
+		<category domain="category" nicename="trending"><![CDATA[Trending]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[storymag-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[162]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[darknews-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[233]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[morenews-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[morenews-meta-content-mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_term]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{s:8:"taxonomy";s:11:"post_format";s:4:"slug";s:17:"post-format-video";s:4:"name";s:5:"Video";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2182,161 +2200,58 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Sample Page]]></title>
-		<link>https://demos.afthemes.com/morenews-pro/metro-newsline/sample-page-2/</link>
-		<pubDate>Fri, 12 Jan 2024 08:40:43 +0000</pubDate>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://demos.afthemes.com/morenews-pro/metro-newsline/2024/01/12/wp-global-styles-twentytwentyfour/</link>
+		<pubDate>Fri, 12 Jan 2024 08:42:46 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://blockspare.com/demo/default/morenews-dark/?page_id=2</guid>
+		<guid isPermaLink="false">https://blockspare.com/demo/default/morenews-dark/2024/01/12/wp-global-styles-twentytwentyfour/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="https://blockspare.com/demo/default/morenews-dark/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
+		<content:encoded><![CDATA[{"settings":{"color":{"duotone":{"theme":[{"colors":["#272727","#f9f9f9"],"slug":"duotone-1","name":"Dark gray and white"},{"colors":["#272727","#5F584F"],"slug":"duotone-2","name":"Dark gray and walnut"},{"colors":["#272727","#973C20"],"slug":"duotone-3","name":"Dark gray and cinnamon"},{"colors":["#272727","#4D5B48"],"slug":"duotone-4","name":"Dark gray and olive"},{"colors":["#272727","#4F5959"],"slug":"duotone-5","name":"Dark gray and steel"}]},"gradients":{"theme":[{"slug":"gradient-1","gradient":"linear-gradient(to bottom, #5F584F 0%, #272727 100%)","name":"Vertical soft driftwood to dark gray"},{"slug":"gradient-2","gradient":"linear-gradient(to bottom, #6D533C 0%, #272727 100%)","name":"Vertical soft walnut to dark gray"},{"slug":"gradient-3","gradient":"linear-gradient(to bottom, #973C20 0%, #272727 100%)","name":"Vertical soft cinnamon to dark gray"},{"slug":"gradient-4","gradient":"linear-gradient(to bottom, #4D5B48 0%, #272727 100%)","name":"Vertical soft olive to dark gray"},{"slug":"gradient-5","gradient":"linear-gradient(to bottom, #4F5959 0%, #272727 100%)","name":"Vertical soft steel to dark gray"},{"slug":"gradient-6","gradient":"linear-gradient(to bottom, #909090 0%, #272727 100%)","name":"Vertical soft pewter to dark gray"},{"slug":"gradient-7","gradient":"linear-gradient(to bottom, #5F584F 50%, #272727 50%)","name":"Vertical hard beige to dark gray"},{"slug":"gradient-8","gradient":"linear-gradient(to bottom, #6D533C 50%, #272727 50%)","name":"Vertical hard walnut to dark gray"},{"slug":"gradient-9","gradient":"linear-gradient(to bottom, #973C20 50%, #272727 50%)","name":"Vertical hard cinnamon to dark gray"},{"slug":"gradient-10","gradient":"linear-gradient(to bottom, #4D5B48 50%, #272727 50%)","name":"Vertical hard olive to dark gray"},{"slug":"gradient-11","gradient":"linear-gradient(to bottom, #4F5959 50%, #272727 50%)","name":"Vertical hard steel to dark gray"},{"slug":"gradient-12","gradient":"linear-gradient(to bottom, #A4A4A4 50%, #272727 50%)","name":"Vertical hard pewter to dark gray"}]},"palette":{"theme":[{"color":"#272727","name":"Base","slug":"base"},{"color":"#303030","name":"Base / Two","slug":"base-2"},{"color":"#f9f9f9","name":"Contrast","slug":"contrast"},{"color":"#B7B7B7","name":"Contrast / Two","slug":"contrast-2"},{"color":"#909090","name":"Contrast / Three","slug":"contrast-3"},{"color":"#5F584F","name":"Accent","slug":"accent"},{"color":"#6D533C","name":"Accent / Two","slug":"accent-2"},{"color":"#973C20","name":"Accent / Three","slug":"accent-3"},{"color":"#4D5B48","name":"Accent / Four","slug":"accent-4"},{"color":"#4F5959","name":"Accent / Five","slug":"accent-5"}]}}},"isGlobalStylesUserThemeJSON":true,"version":2}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>288</wp:post_id>
-		<wp:post_date><![CDATA[2024-01-12 08:40:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-01-12 08:40:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-01-12 08:40:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-01-12 08:40:43]]></wp:post_modified_gmt>
+		<wp:post_id>291</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-12 08:42:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-12 08:42:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-01-12 08:42:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-01-12 08:42:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page-2]]></wp:post_name>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-twentytwentyfour]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Sample Page]]></title>
-		<link>https://demos.afthemes.com/morenews-pro/metro-newsline/sample-page-2-2/</link>
-		<pubDate>Tue, 09 Jan 2024 09:00:31 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demos.afthemes.com/morenews/moreblock-dark/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="https://demos.afthemes.com/morenews/moreblock-dark/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>289</wp:post_id>
-		<wp:post_date><![CDATA[2024-01-09 09:00:31]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-01-09 09:00:31]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-01-09 09:00:31]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-01-09 09:00:31]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page-2-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[United Talent Agency acquires two esports agencies]]></title>
-		<link>https://demos.afthemes.com/morenews-pro/metro-newsline/2018/07/30/united-talent-agency-acquires-two-esports-agencies/</link>
-		<pubDate>Mon, 30 Jul 2018 15:47:02 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?p=25</guid>
-		<description></description>
-		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua. Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
-
-Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>25</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-30 15:47:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-07-30 15:47:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-07-30 15:47:02]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-07-30 15:47:02]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[united-talent-agency-acquires-two-esports-agencies]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="formula-1"><![CDATA[Formula 1]]></category>
-		<category domain="category" nicename="trending"><![CDATA[Trending]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[storymag-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[157]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[darknews-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[233]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[morenews-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[morenews-meta-content-mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_term]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:3:{s:8:"taxonomy";s:11:"post_format";s:4:"slug";s:17:"post-format-video";s:4:"name";s:5:"Video";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:3:{s:8:"taxonomy";s:8:"wp_theme";s:4:"slug";s:16:"twentytwentyfour";s:4:"name";s:16:"twentytwentyfour";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://demos.afthemes.com/morenews-pro/metro-newsline/2025/04/24/wp-global-styles-morenews-pro/</link>
+		<pubDate>Thu, 24 Apr 2025 07:21:54 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/morenews-pro/metro-newsline/2025/04/24/wp-global-styles-morenews-pro/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 3, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>372</wp:post_id>
+		<wp:post_date><![CDATA[2025-04-24 07:21:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-04-24 07:21:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-24 07:21:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-24 07:21:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-morenews-pro]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="morenews-pro"><![CDATA[morenews-pro]]></category>
+						</item>
 					<item>
 		<title><![CDATA[Navigation]]></title>
 		<link>https://demos.afthemes.com/morenews-pro/metro-newsline/2024/01/09/navigation/</link>
@@ -2375,34 +2290,6 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
-					<item>
-		<title><![CDATA[Custom Styles]]></title>
-		<link>https://demos.afthemes.com/morenews-pro/metro-newsline/2024/01/12/wp-global-styles-twentytwentyfour/</link>
-		<pubDate>Fri, 12 Jan 2024 08:42:46 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://blockspare.com/demo/default/morenews-dark/2024/01/12/wp-global-styles-twentytwentyfour/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"settings":{"color":{"duotone":{"theme":[{"colors":["#272727","#f9f9f9"],"slug":"duotone-1","name":"Dark gray and white"},{"colors":["#272727","#5F584F"],"slug":"duotone-2","name":"Dark gray and walnut"},{"colors":["#272727","#973C20"],"slug":"duotone-3","name":"Dark gray and cinnamon"},{"colors":["#272727","#4D5B48"],"slug":"duotone-4","name":"Dark gray and olive"},{"colors":["#272727","#4F5959"],"slug":"duotone-5","name":"Dark gray and steel"}]},"gradients":{"theme":[{"slug":"gradient-1","gradient":"linear-gradient(to bottom, #5F584F 0%, #272727 100%)","name":"Vertical soft driftwood to dark gray"},{"slug":"gradient-2","gradient":"linear-gradient(to bottom, #6D533C 0%, #272727 100%)","name":"Vertical soft walnut to dark gray"},{"slug":"gradient-3","gradient":"linear-gradient(to bottom, #973C20 0%, #272727 100%)","name":"Vertical soft cinnamon to dark gray"},{"slug":"gradient-4","gradient":"linear-gradient(to bottom, #4D5B48 0%, #272727 100%)","name":"Vertical soft olive to dark gray"},{"slug":"gradient-5","gradient":"linear-gradient(to bottom, #4F5959 0%, #272727 100%)","name":"Vertical soft steel to dark gray"},{"slug":"gradient-6","gradient":"linear-gradient(to bottom, #909090 0%, #272727 100%)","name":"Vertical soft pewter to dark gray"},{"slug":"gradient-7","gradient":"linear-gradient(to bottom, #5F584F 50%, #272727 50%)","name":"Vertical hard beige to dark gray"},{"slug":"gradient-8","gradient":"linear-gradient(to bottom, #6D533C 50%, #272727 50%)","name":"Vertical hard walnut to dark gray"},{"slug":"gradient-9","gradient":"linear-gradient(to bottom, #973C20 50%, #272727 50%)","name":"Vertical hard cinnamon to dark gray"},{"slug":"gradient-10","gradient":"linear-gradient(to bottom, #4D5B48 50%, #272727 50%)","name":"Vertical hard olive to dark gray"},{"slug":"gradient-11","gradient":"linear-gradient(to bottom, #4F5959 50%, #272727 50%)","name":"Vertical hard steel to dark gray"},{"slug":"gradient-12","gradient":"linear-gradient(to bottom, #A4A4A4 50%, #272727 50%)","name":"Vertical hard pewter to dark gray"}]},"palette":{"theme":[{"color":"#272727","name":"Base","slug":"base"},{"color":"#303030","name":"Base / Two","slug":"base-2"},{"color":"#f9f9f9","name":"Contrast","slug":"contrast"},{"color":"#B7B7B7","name":"Contrast / Two","slug":"contrast-2"},{"color":"#909090","name":"Contrast / Three","slug":"contrast-3"},{"color":"#5F584F","name":"Accent","slug":"accent"},{"color":"#6D533C","name":"Accent / Two","slug":"accent-2"},{"color":"#973C20","name":"Accent / Three","slug":"accent-3"},{"color":"#4D5B48","name":"Accent / Four","slug":"accent-4"},{"color":"#4F5959","name":"Accent / Five","slug":"accent-5"}]}}},"isGlobalStylesUserThemeJSON":true,"version":2}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>291</wp:post_id>
-		<wp:post_date><![CDATA[2024-01-12 08:42:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-01-12 08:42:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-01-12 08:42:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-01-12 08:42:46]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[wp-global-styles-twentytwentyfour]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_term]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:3:{s:8:"taxonomy";s:8:"wp_theme";s:4:"slug";s:16:"twentytwentyfour";s:4:"name";s:16:"twentytwentyfour";}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
 					<item>
 		<title><![CDATA[Navigation 2]]></title>
 		<link>https://demos.afthemes.com/morenews-pro/metro-newsline/2024/01/12/navigation-2/</link>
@@ -3023,31 +2910,6 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:meta_value><![CDATA[a:3:{s:8:"taxonomy";s:8:"wp_theme";s:4:"slug";s:16:"twentytwentyfour";s:4:"name";s:16:"twentytwentyfour";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
-					<item>
-		<title><![CDATA[Custom Styles]]></title>
-		<link>https://demos.afthemes.com/morenews-pro/metro-newsline/2025/04/24/wp-global-styles-morenews-pro/</link>
-		<pubDate>Thu, 24 Apr 2025 07:21:54 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demos.afthemes.com/morenews-pro/metro-newsline/2025/04/24/wp-global-styles-morenews-pro/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"version": 3, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>372</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-24 07:21:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-04-24 07:21:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-24 07:21:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-24 07:21:54]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[wp-global-styles-morenews-pro]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_theme" nicename="morenews-pro"><![CDATA[morenews-pro]]></category>
-						</item>
 				</channel>
 </rss>
 	
