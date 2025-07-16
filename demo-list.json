@@ -1353,26 +1353,26 @@
                 },
                 "gadgets": {
                     "slug": "gadgets",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "Technology & Innovation",
                     "catgory": "Gadgets",
                     "name": "Gadgets",
                     "preview": "https://demos.afthemes.com/covernews/gadgets/",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "gadgets"
                     ]
                 },
                 "arabic-news": {
                     "slug": "arabic-news",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "Regional & Language Specific",
                     "name": "Arabic News",
                     "catgory": "General",
                     "preview": "https://demos.afthemes.com/covernews/arabic-news/",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "general",
                         "rtl"
@@ -1380,105 +1380,105 @@
                 },
                 "china-news": {
                     "slug": "china-news",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "Regional & Language Specific",
                     "name": "China News",
                     "catgory": "General",
                     "preview": "https://demos.afthemes.com/covernews/china-news/",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "chinese"
                     ]
                 },
                 "indian": {
                     "slug": "indian",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "Regional & Language Specific",
                     "catgory": "General",
                     "name": "भारतीय",
                     "preview": "https://demos.afthemes.com/covernews/hindi-news",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "indian"
                     ]
                 },
                 "spanish": {
                     "slug": "spanish",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "Regional & Language Specific",
                     "catgory": "Blog",
                     "name": "Espanol",
                     "preview": "https://demos.afthemes.com/covernews/spanish",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "spanish"
                     ]
                 },
                 "russian": {
                     "slug": "russian",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "Regional & Language Specific",
                     "catgory": "Blog",
                     "name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
                     "preview": "https://demos.afthemes.com/covernews/russian",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "russian"
                     ]
                 },
                 "japanese": {
                     "slug": "japanese",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "Regional & Language Specific",
                     "catgory": "Blog",
                     "name": "日本語",
                     "preview": "https://demos.afthemes.com/covernews/japanese",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "japanese"
                     ]
                 },
                 "nepali": {
                     "slug": "nepali",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "Regional & Language Specific",
                     "catgory": "Blog",
                     "name": "नेपाली",
                     "preview": "https://demos.afthemes.com/covernews/nepali",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "nepali"
                     ]
                 },
                 "german": {
                     "slug": "german",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "Regional & Language Specific",
                     "catgory": "Blog",
                     "name": "Deutsch",
                     "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/covernews/german",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "german"
                     ]
                 },
                 "business": {
                     "slug": "business",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "Business & Professional",
                     "catgory": "Gutenberg",
                     "name": "Business",
                     "preview": "https://demos.afthemes.com/covernews/business",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "business",
                         "gutenberg"
@@ -1487,26 +1487,26 @@
                 },
                 "wedding": {
                     "slug": "wedding",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "Lifestyle & Personal",
                     "catgory": "Blog",
                     "name": "Wedding",
                     "preview": "https://demos.afthemes.com/covernews/wedding",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "wedding"
                     ]
                 },
                 "general": {
                     "slug": "general",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "News & Media",
                     "catgory": "Elementor",
                     "name": "General",
                     "preview": "https://demos.afthemes.com/covernews/general/",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "general",
                         "elementor"
@@ -1515,13 +1515,13 @@
                 },
                 "music": {
                     "slug": "music",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "Design & Creative",
                     "catgory": "Elementor",
                     "name": "Music",
                     "preview": "https://demos.afthemes.com/covernews/music/",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "blog",
                         "elementor"
@@ -1530,13 +1530,13 @@
                 },
                 "vegetables": {
                     "slug": "vegetables",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "Lifestyle & Personal",
                     "catgory": "Elementor",
                     "name": "Vegetables",
                     "preview": "https://demos.afthemes.com/covernews/vegetables/",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "blog",
                         "elementor"
@@ -1545,13 +1545,13 @@
                 },
                 "ornament": {
                     "slug": "ornament",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "Lifestyle & Personal",
                     "catgory": "Elementor",
                     "name": "Ornament",
                     "preview": "https://demos.afthemes.com/covernews/ornament/",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "blog",
                         "elementor"
@@ -1560,13 +1560,13 @@
                 },
                 "covid": {
                     "slug": "covid",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "Specialty & Niche",
                     "catgory": "Elementor",
                     "name": "Covid",
                     "preview": "https://demos.afthemes.com/covernews/covid/",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "covid",
                         "elementor"
@@ -1575,27 +1575,27 @@
                 },
                 "crypto-news": {
                     "slug": "crypto-news",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "Technology & Innovation",
                     "catgory": "Business",
                     "name": "Crypto News",
                     "preview": "https://demos.afthemes.com/covernews/crypto-news/",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "crypto"
                     ]
                 },
                 "hybridnews-dark": {
                     "slug": "hybridnews-dark",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "News & Media",
                     "catgory": "Gutenberg",
                     "name": "Hybridnews Dark",
                     "preview": "https://demos.afthemes.com/covernews/hybridnews-dark/",
                     "plugins": "blockspare",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "dark",
                         "gutenberg"
@@ -1603,14 +1603,14 @@
                 },
                 "cover-chrome": {
                     "slug": "cover-chrome",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "News & Media",
                     "catgory": "Gutenberg",
                     "name": "CoverChrome",
                     "preview": "https://demos.afthemes.com/covernews/cover-chrome/",
                     "plugins": "blockspare",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "dark",
                         "gutenberg"
@@ -1618,28 +1618,28 @@
                 },
                 "newschrome-dark": {
                     "slug": "newschrome-dark",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "News & Media",
                     "catgory": "Gutenberg",
                     "name": "CoverChrome Dark",
                     "preview": "https://demos.afthemes.com/covernews/newschrome-dark/",
                     "plugins": "blockspare",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "gutenberg"
                     ]
                 },
                 "coverdark-block": {
                     "slug": "coverdark-block",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "News & Media",
                     "catgory": "Gutenberg",
                     "name": "CoverDark Block",
                     "preview": "https://demos.afthemes.com/covernews/darkblock/",
                     "plugins": "blockspare",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "dark",
                         "gutenberg"
@@ -1647,28 +1647,28 @@
                 },
                 "coverenter-block": {
                     "slug": "coverenter-block",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "News & Media",
                     "catgory": "Gutenberg",
                     "name": "CoverEnter Block",
                     "preview": "https://demos.afthemes.com/covernews/enterblock/",
                     "plugins": "blockspare",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "gutenberg"
                     ]
                 },
                 "coverever-block": {
                     "slug": "coverever-block",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "News & Media",
                     "catgory": "Gutenberg",
                     "name": "CoverEver Block",
                     "preview": "https://demos.afthemes.com/covernews/everblock/",
                     "plugins": "blockspare",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "dark",
                         "gutenberg"
@@ -1677,13 +1677,13 @@
                 "more-block": {
                     "slug": "more-block",
                     "main_category": "News & Media",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "catgory": "Gutenberg",
                     "name": "More Block",
                     "preview": "https://demos.afthemes.com/covernews/cover-more/",
                     "plugins": "blockspare",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "gutenberg"
                     ]
@@ -1691,138 +1691,138 @@
                 "academic-study": {
                     "slug": "academic-study",
                     "main_category": "Education & Non-Profit",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "catgory": "Gutenberg",
                     "name": "Academic Study",
                     "preview": "https://demos.afthemes.com/covernews/academic-study/",
                     "plugins": "blockspare",
                     "tags": [
-                        "free",
+                        "pro",
                         "education",
                         "gutenberg"
                     ]
                 },
                 "agency": {
                     "slug": "agency",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "Business & Professional",
                     "catgory": "Gutenberg",
                     "name": "Agency",
                     "preview": "https://demos.afthemes.com/covernews/agency/",
                     "plugins": "blockspare",
                     "tags": [
-                        "free",
+                        "pro",
                         "business",
                         "gutenberg"
                     ]
                 },
                 "apps": {
                     "slug": "apps",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "Technology & Innovation",
                     "catgory": "Gutenberg",
                     "name": "Apps",
                     "preview": "https://demos.afthemes.com/covernews/apps/",
                     "plugins": "blockspare",
                     "tags": [
-                        "free",
+                        "pro",
                         "gadgets",
                         "gutenberg"
                     ]
                 },
                 "auto-deal": {
                     "slug": "auto-deal",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "Specialty & Niche",
                     "catgory": "Gutenberg",
                     "name": "Auto Deal",
                     "preview": "https://demos.afthemes.com/covernews/auto-deal/",
                     "plugins": "blockspare",
                     "tags": [
-                        "free",
+                        "pro",
                         "automobile",
                         "gutenberg"
                     ]
                 },
                 "fitness": {
                     "slug": "fitness",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "Lifestyle & Personal",
                     "catgory": "Gutenberg",
                     "name": "Fitness",
                     "preview": "https://demos.afthemes.com/covernews/fitness/",
                     "plugins": "blockspare",
                     "tags": [
-                        "free",
+                        "pro",
                         "fitness",
                         "gutenberg"
                     ]
                 },
                 "green-house": {
                     "slug": "green-house",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "Specialty & Niche",
                     "catgory": "Gutenberg",
                     "name": "Green House",
                     "preview": "https://demos.afthemes.com/covernews/green-house/",
                     "plugins": "blockspare",
                     "tags": [
-                        "free",
+                        "pro",
                         "plant",
                         "gutenberg"
                     ]
                 },
                 "real-estate": {
                     "slug": "real-estate",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "Specialty & Niche",
                     "catgory": "Gutenberg",
                     "name": "Real Estate",
                     "preview": "https://demos.afthemes.com/covernews/real-estate/",
                     "plugins": "blockspare",
                     "tags": [
-                        "free",
+                        "pro",
                         "real estate",
                         "gutenberg"
                     ]
                 },
                 "my-portfolio": {
                     "slug": "my-portfolio",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "Business & Professional",
                     "catgory": "Gutenberg",
                     "name": "My Portfolio",
                     "preview": "https://demos.afthemes.com/covernews/my-portfolio/",
                     "plugins": "blockspare",
                     "tags": [
-                        "free",
+                        "pro",
                         "portfolio",
                         "gutenberg"
                     ]
                 },
                 "news-block": {
                     "slug": "news-block",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "News & Media",
                     "catgory": "Gutenberg",
                     "name": "News Block",
                     "preview": "https://demos.afthemes.com/covernews/cover-sphere/",
                     "plugins": "blockspare",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "gutenberg"
                     ]
                 },
                 "decoration-blog": {
                     "slug": "decoration-blog",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "Specialty & Niche",
                     "catgory": "Elementor",
                     "name": "Decoration Blog",
                     "preview": "https://demos.afthemes.com/covernews/decoration-blog/",
                     "tags": [
-                        "free",
+                        "pro",
                         "blog",
                         "construction",
                         "elementor"
@@ -1831,13 +1831,13 @@
                 },
                 "health-tips": {
                     "slug": "health-tips",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "Specialty & Niche",
                     "catgory": "Elementor",
                     "name": "Health tips",
                     "preview": "https://demos.afthemes.com/covernews/health-tips/",
                     "tags": [
-                        "free",
+                        "pro",
                         "blog",
                         "education",
                         "elementor"
@@ -1846,13 +1846,13 @@
                 },
                 "photography-blog": {
                     "slug": "photography-blog",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "Design & Creative",
                     "catgory": "Elementor",
                     "name": "Photography Blog",
                     "preview": "https://demos.afthemes.com/covernews/photography-blog/",
                     "tags": [
-                        "free",
+                        "pro",
                         "blog",
                         "photography",
                         "elementor"
@@ -1861,13 +1861,13 @@
                 },
                 "tasty-blog": {
                     "slug": "tasty-blog",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "Lifestyle & Personal",
                     "catgory": "Elementor",
                     "name": "Tasty Blog",
                     "preview": "https://demos.afthemes.com/covernews/tasty-blog/",
                     "tags": [
-                        "free",
+                        "pro",
                         "blog",
                         "food",
                         "elementor"
@@ -1876,13 +1876,13 @@
                 },
                 "trekking-school": {
                     "slug": "trekking-school",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "Education & Non-Profit",
                     "catgory": "Elementor",
                     "name": "Trekking School",
                     "preview": "https://demos.afthemes.com/covernews/trekking-school/",
                     "tags": [
-                        "free",
+                        "pro",
                         "blog",
                         "travel",
                         "elementor"
@@ -1891,13 +1891,13 @@
                 },
                 "newshub": {
                     "slug": "newshub",
-                    "theme": "CoverNews",
+                    "theme": "CoverNews Pro",
                     "main_category": "News & Media",
                     "catgory": "Elementor",
                     "name": "NewsHub",
                     "preview": "https://demos.afthemes.com/covernews/newshub/",
                     "tags": [
-                        "free",
+                        "pro",
                         "magazine",
                         "general",
                         "elementor"
