@@ -5360,6 +5360,29 @@
             }
         },
 
+        "moreblog": {
+            "data": "moreblog",
+            "free": "morenews",
+            "premium": "morenews-pro",
+            "demodata": {
+                "default": {
+                    "slug": "moreblog",
+                    "theme": "MoreNews",
+                    "main_category": "News & Media",
+                    "catgory": "General",
+                    "homepage_type":"blog",
+                    "name": "MoreBlog",
+                    "preview": "https://demos.afthemes.com/morenews/moreblog/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "blog",
+                        "child"
+                    ]
+                }
+            }
+        },
+
         "gamernews": {
             "data": "gamernews",
             "free": "morenews",
