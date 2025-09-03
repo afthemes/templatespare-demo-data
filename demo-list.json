@@ -4555,7 +4555,8 @@
                 "newslight",
                 "gamernews",
                 "newscorp",
-                "newsday"
+                "newsday",
+                "newsgamer"
             ],
             "demodata": {
                 "default": {
@@ -5356,6 +5357,29 @@
                         "ecommerce"
                     ],
                     "plugins": "woocommerce,popup-maker"
+                }
+            }
+        },
+
+        "newsgamer": {
+            "data": "newsgamer",
+            "free": "morenews",
+            "premium": "morenews-pro",
+            "demodata": {
+                "default": {
+                    "slug": "newsgamer",
+                    "theme": "MoreNews",
+                    "main_category": "Lifestyle & Personal",
+                    "catgory": "General",
+                    "homepage_type":"blog",
+                    "name": "NewsGamer",
+                    "preview": "https://demos.afthemes.com/morenews/newsgamer/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "blog",
+                        "child"
+                    ]
                 }
             }
         },
