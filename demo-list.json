@@ -4556,7 +4556,8 @@
                 "gamernews",
                 "newscorp",
                 "newsday",
-                "newsgame"
+                "newsgame",
+                "corpnews"
             ],
             "demodata": {
                 "default": {
@@ -5357,6 +5358,29 @@
                         "ecommerce"
                     ],
                     "plugins": "woocommerce,popup-maker"
+                }
+            }
+        },
+
+        "corpnews": {
+            "data": "corpnews",
+            "free": "morenews",
+            "premium": "morenews-pro",
+            "demodata": {
+                "default": {
+                    "slug": "corpnews",
+                    "theme": "MoreNews",
+                    "main_category": "News & Media",
+                    "catgory": "General",
+                    "homepage_type":"blog",
+                    "name": "CorpNews",
+                    "preview": "https://demos.afthemes.com/morenews/corpnews/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "blog",
+                        "child"
+                    ]
                 }
             }
         },
@@ -10528,6 +10552,474 @@
                         "blog",
                         "general"
                     ]
+                }
+            }
+        },
+        "reviewnews": {
+            "data": "reviewnews",
+            "free": "",
+            "premium": "reviewnews-pro",
+            "demodata": {
+                "default": {
+                    "slug": "reviewnews",
+                    "theme": "ReviewNews",
+                    "main_category": "News & Media",
+                    "catgory": "General",
+                    "name": "ReviewNews",
+                    "preview": "https://demos.afthemes.com/reviewnews/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "general"
+                    ]
+                },
+                "sport": {
+                    "slug": "sport",
+                    "theme": "ReviewNews",
+                    "main_category": "News & Media",
+                    "catgory": "Sport",
+                    "name": "Sport",
+                    "preview": "https://demos.afthemes.com/reviewnews/sport/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "sport"
+                    ]
+                },
+                "recipe": {
+                    "slug": "recipe",
+                    "theme": "ReviewNews",
+                    "main_category": "Lifestyle & Personal",
+                    "catgory": "Recipe",
+                    "name": "Recipe",
+                    "homepage_type":"blog",
+                    "preview": "https://demos.afthemes.com/reviewnews/recipe/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "recipe"
+                    ]
+                },
+                "chinese": {
+                    "slug": "chinese",
+                    "theme": "ReviewNews",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Chinese",
+                    "name": "Chinese",
+                    "preview": "https://demos.afthemes.com/reviewnews/chinese/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "chinese"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+
+                "spanish": {
+                    "slug": "spanish",
+                    "theme": "ReviewNews",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Spanish",
+                    "name": "Spanish",
+                    "preview": "https://demos.afthemes.com/reviewnews/spanish/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "spanish"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "arabic": {
+                    "slug": "arabic",
+                    "theme": "ReviewNews",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Arabic",
+                    "name": "Arabic",
+                    "preview": "https://demos.afthemes.com/reviewnews/arabic/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "arabic"
+                    ]
+                },
+                "indian": {
+                    "slug": "indian",
+                    "theme": "ReviewNews",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Indian",
+                    "name": "Indian",
+                    "preview": "https://demos.afthemes.com/reviewnews/indian/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "indian"
+                    ]
+                },
+                "elementor": {
+                    "slug": "elementor",
+                    "theme": "ReviewNews",
+                    "main_category": "News & Media",
+                    "catgory": "Elementor",
+                    "name": "Elementor",
+                    "preview": "https://demos.afthemes.com/reviewnews/elementor/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "elementor"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "gutenberg": {
+                    "slug": "gutenberg",
+                    "theme": "ReviewNews",
+                    "main_category": "News & Media",
+                    "catgory": "Gutenberg",
+                    "name": "Gutenberg",
+                    "preview": "https://demos.afthemes.com/reviewnews/gutenberg/",
+                    "tags": [
+                        "free",
+                        "blog",
+                        "gutenberg"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "ministry-of-culture": {
+                    "slug": "ministry-of-culture",
+                    "theme": "ReviewNews",
+                    "main_category": "Business & Professional",
+                    "catgory": "Gutenberg",
+                    "name": "Ministry of Culture",
+                    "preview": "https://demos.afthemes.com/reviewnews/ministry-of-culture/",
+                    "tags": [
+                        "free",
+                        "business",
+                        "gutenberg",
+                        "culture",
+                        "ministry"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "green-house": {
+                    "slug": "green-house",
+                    "theme": "ReviewNews",
+                    "main_category": "Business & Professional",
+                    "catgory": "Gutenberg",
+                    "name": "Green House",
+                    "preview": "https://demos.afthemes.com/reviewnews/green-house/",
+                    "tags": [
+                        "free",
+                        "business",
+                        "gutenberg",
+                        "plant"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "peace-church": {
+                    "slug": "peace-church",
+                    "theme": "ReviewNews",
+                    "main_category": "Specialty & Niche",
+                    "catgory": "Elementor",
+                    "name": "Peace Church",
+                    "preview": "https://demos.afthemes.com/reviewnews/peace-church/",
+                    "tags": [
+                        "free",
+                        "business",
+                        "elementor",
+                        "church"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "gadget-craze": {
+                    "slug": "gadget-craze",
+                    "theme": "ReviewNews",
+                    "main_category": "Technology & Innovation",
+                    "catgory": "Elementor",
+                    "name": "Gadget Craze",
+                    "preview": "https://demos.afthemes.com/reviewnews/gadget-craze/",
+                    "tags": [
+                        "free",
+                        "business",
+                        "elementor",
+                        "gadgets"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "atlas-escape": {
+                    "slug": "atlas-escape",
+                    "theme": "ReviewNews",
+                    "main_category": "Lifestyle & Personal",
+                    "catgory": "Elementor",
+                    "name": "Atlas Escape",
+                    "preview": "https://demos.afthemes.com/reviewnews/atlas-escape/",
+                    "tags": [
+                        "free",
+                        "business",
+                        "elementor",
+                        "travel"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "central-edu": {
+                    "slug": "central-edu",
+                    "theme": "ReviewNews",
+                    "main_category": "Education & Non-Profit",
+                    "catgory": "Elementor",
+                    "name": "Central Edu",
+                    "preview": "https://demos.afthemes.com/reviewnews/central-edu/",
+                    "tags": [
+                        "free",
+                        "business",
+                        "elementor",
+                        "education"
+                    ],
+                    "plugins": "elementor,elespare"
+                }
+            }
+        },
+        "reviewnews-pro": {
+            "data": "reviewnews-pro",
+            "free": "reviewnews",
+            "premium": "",
+            "demodata": {
+                "default": {
+                    "slug": "reviewnews",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "News & Media",
+                    "catgory": "General",
+                    "name": "ReviewsNews Pro",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/",
+                    "tags": [
+                        "pro",
+                        "magazine",
+                        "general"
+                    ]
+                },
+                "sport": {
+                    "slug": "sport",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "News & Media",
+                    "catgory": "Sport",
+                    "name": "Sport Pro",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/sport/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "sport"
+                    ]
+                },
+                "recipe": {
+                    "slug": "recipe",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "News & Media",
+                    "catgory": "Recipe",
+                    "name": "Recipe Pro",
+                    "homepage_type":"blog",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/recipe/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "recipe"
+                    ]
+                },
+                "chinese": {
+                    "slug": "chinese",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Chinese",
+                    "name": "Chinese Pro",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/chinese/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "chinese"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "spanish": {
+                    "slug": "spanish",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Spanish",
+                    "name": "Spanish Pro",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/spanish/",
+                    "tags": [
+                        "pro",
+                        "sport",
+                        "spanish"
+                    ],
+                    "plugins": "bzscore-live-score"
+                },
+                "arabic": {
+                    "slug": "arabic",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Arabic",
+                    "name": "Arabic Pro",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/arabic/",
+                    "tags": [
+                        "pro",
+                        "news",
+                        "arabic"
+                    ]
+                },
+                "general": {
+                    "slug": "general",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "Lifestyle & Personal",
+                    "catgory": "General",
+                    "name": "General Blog Pro",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/general/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "general"
+                    ]
+                },
+                "fashion": {
+                    "slug": "fashion",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Fashion",
+                    "name": "Fashion Pro",
+                    "homepage_type":"blog",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/fashion/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "fashion",
+                        "russian"
+                    ],
+                    "plugins": "popup-maker"
+                },
+                "books": {
+                    "slug": "books",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "Education & Non-Profit",
+                    "catgory": "Books",
+                    "name": "Books Pro",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/books/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "books"
+                    ],
+                    "plugins": "3d-flipbook-dflip-lite"
+                },
+                "japanese": {
+                    "slug": "japanese",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Japanese",
+                    "name": "Japanese Pro",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/japanese/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "japanese"
+                    ]
+                },
+                "automobile": {
+                    "slug": "automobile",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Automobile",
+                    "name": "Automobile Pro",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/automobile/",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "automobile",
+                        "german"
+                    ],
+                    "plugins":"blockspare"
+                },
+                "real-estate": {
+                    "slug": "real-estate",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "Design & Creative",
+                    "catgory": "Real Estate",
+                    "name": "Real Estate Pro",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/real-estate",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "estate",
+                        "elementor"
+                    ],
+                    "plugins":"elementor,elespare,wp-google-maps"
+                },
+                "blockspare": {
+                    "slug": "blockspare",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "News & Media",
+                    "catgory": "Blockspare",
+                    "name": "Blockspare Pro",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/blockspare",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "blockspare"
+                    ],
+                    "plugins":"blockspare"
+                },
+                "indian": {
+                    "slug": "indian",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Indian",
+                    "name": "Indian Pro",
+                    "homepage_type":"blog",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/indian",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "indian"
+                    ]
+                },
+                "gadgets": {
+                    "slug": "gadgets",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "Technology & Innovation",
+                    "catgory": "Gadgets",
+                    "name": "Gadgets Pro",
+                    "homepage_type":"blog",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/gadgets",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "gadgets"
+                    ],
+                    "plugins":"elementor,elespare"
+                },
+                "the-daily-bloom": {
+                    "slug": "the-daily-bloom",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "Specialty & Niche",
+                    "catgory": "Plant",
+                    "name": "The Daily Bloom Pro",
+                    "homepage_type":"blog",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/the-daily-bloom",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "plant"
+                    ],
+                    "plugins":"blockspare"
+                },
+                "the-beatboulevard": {
+                    "slug": "the-beatboulevard",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "Specialty & Niche",
+                    "catgory": "Music",
+                    "name": "The Beatboulevard Pro",
+                    "homepage_type":"blog",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/the-beatboulevard",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "music"
+                    ],
+                    "plugins":"blockspare"
                 }
             }
         }
