@@ -11020,6 +11020,82 @@
                         "music"
                     ],
                     "plugins":"blockspare"
+                },
+                "ministry-of-culture": {
+                    "slug": "ministry-of-culture",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "Gutenberg",
+                    "name": "Ministry of Culture Pro",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/culture-ministry/",
+                    "tags": [
+                        "pro",
+                        "business",
+                        "gutenberg",
+                        "culture",
+                        "ministry"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "peace-church": {
+                    "slug": "peace-church",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "Specialty & Niche",
+                    "catgory": "Elementor",
+                    "name": "Peace Church Pro",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/peace-church/",
+                    "tags": [
+                        "pro",
+                        "business",
+                        "elementor",
+                        "church"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "digital-brand": {
+                    "slug": "digital-brand",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "Technology & Innovation",
+                    "catgory": "Elementor",
+                    "name": "Digital Brand Pro",
+                    "preview": "https://demos.afthemes.com/reviewnews/digital-brand/",
+                    "tags": [
+                        "pro",
+                        "business",
+                        "elementor",
+                        "gadgets"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "atlas-escape": {
+                    "slug": "atlas-escape",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "Lifestyle & Personal",
+                    "catgory": "Elementor",
+                    "name": "Atlas Escape Pro",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/atlas-escape/",
+                    "tags": [
+                        "pro",
+                        "business",
+                        "elementor",
+                        "travel"
+                    ],
+                    "plugins": "elementor,elespare"
+                },
+                "central-edu": {
+                    "slug": "central-edu",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "Education & Non-Profit",
+                    "catgory": "Elementor",
+                    "name": "Central Edu Pro",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/central-edu/",
+                    "tags": [
+                        "pro",
+                        "business",
+                        "elementor",
+                        "education"
+                    ],
+                    "plugins": "elementor,elespare"
                 }
             }
         }
