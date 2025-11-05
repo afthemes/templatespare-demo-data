@@ -10805,7 +10805,8 @@
                         "pro",
                         "blog",
                         "sport"
-                    ]
+                    ],
+                    "plugins": "bzscore-live-score"
                 },
                 "recipe": {
                     "slug": "recipe",
