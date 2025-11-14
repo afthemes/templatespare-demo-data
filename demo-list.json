@@ -10912,6 +10912,7 @@
                     "main_category": "Regional & Language Specific",
                     "catgory": "Japanese",
                     "name": "Japanese Pro",
+                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/reviewnews-pro/japanese/",
                     "tags": [
                         "pro",
@@ -10923,7 +10924,7 @@
                     "slug": "automobile",
                     "theme": "ReviewNews Pro",
                     "main_category": "Regional & Language Specific",
-                    "catgory": "Automobile",
+                    "catgory": "Gutenberg",
                     "name": "Automobile Pro",
                     "preview": "https://demos.afthemes.com/reviewnews-pro/automobile/",
                     "tags": [
@@ -10938,7 +10939,7 @@
                     "slug": "real-estate",
                     "theme": "ReviewNews Pro",
                     "main_category": "Design & Creative",
-                    "catgory": "Real Estate",
+                    "catgory": "Elementor",
                     "name": "Real Estate Pro",
                     "preview": "https://demos.afthemes.com/reviewnews-pro/real-estate",
                     "tags": [
@@ -10953,13 +10954,13 @@
                     "slug": "blockspare",
                     "theme": "ReviewNews Pro",
                     "main_category": "News & Media",
-                    "catgory": "Blockspare",
+                    "catgory": "Gutenberg",
                     "name": "Blockspare Pro",
                     "preview": "https://demos.afthemes.com/reviewnews-pro/blockspare",
                     "tags": [
                         "pro",
                         "blog",
-                        "blockspare"
+                        "gutenberg"
                     ],
                     "plugins":"blockspare"
                 },
@@ -10969,7 +10970,6 @@
                     "main_category": "Regional & Language Specific",
                     "catgory": "Indian",
                     "name": "Indian Pro",
-                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/reviewnews-pro/indian",
                     "tags": [
                         "pro",
@@ -10977,13 +10977,25 @@
                         "indian"
                     ]
                 },
+                "nepali": {
+                    "slug": "nepali",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "Regional & Language Specific",
+                    "catgory": "Nepali",
+                    "name": "Nepali Pro",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/nepali",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "nepali"
+                    ]
+                },
                 "gadgets": {
                     "slug": "gadgets",
                     "theme": "ReviewNews Pro",
                     "main_category": "Technology & Innovation",
-                    "catgory": "Gadgets",
+                    "catgory": "Elementor",
                     "name": "Gadgets Pro",
-                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/reviewnews-pro/gadgets",
                     "tags": [
                         "pro",
@@ -10996,14 +11008,14 @@
                     "slug": "the-daily-bloom",
                     "theme": "ReviewNews Pro",
                     "main_category": "Specialty & Niche",
-                    "catgory": "Plant",
+                    "catgory": "Gutenberg",
                     "name": "The Daily Bloom Pro",
-                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/reviewnews-pro/the-daily-bloom",
                     "tags": [
                         "pro",
                         "blog",
-                        "plant"
+                        "plant",
+                        "gutenberg"
                     ],
                     "plugins":"blockspare"
                 },
@@ -11011,16 +11023,250 @@
                     "slug": "the-beatboulevard",
                     "theme": "ReviewNews Pro",
                     "main_category": "Specialty & Niche",
-                    "catgory": "Music",
+                    "catgory": "Gutenberg",
                     "name": "The Beatboulevard Pro",
-                    "homepage_type":"blog",
                     "preview": "https://demos.afthemes.com/reviewnews-pro/the-beatboulevard",
                     "tags": [
                         "pro",
                         "blog",
-                        "music"
+                        "music",
+                        "gutenberg"
                     ],
                     "plugins":"blockspare"
+                },
+                "the-vacation-hub": {
+                    "slug": "the-vacation-hub",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "Lifestyle & Personal",
+                    "catgory": "Gutenberg",
+                    "name": "The Vacation Hub",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/the-vacation-hub",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "travel",
+                        "gutenberg"
+                    ],
+                    "plugins":"blockspare,ninja-tables"
+                },
+                "the-racerunner": {
+                    "slug": "the-racerunner",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "Lifestyle & Personal",
+                    "catgory": "Gutenberg",
+                    "name": "The Racerunner",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/the-racerunner",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "automobile",
+                        "gutenberg"
+                    ],
+                    "plugins":"blockspare,smart-slider-3"
+                },
+                "the-current-report": {
+                    "slug": "the-current-report",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "News & Media",
+                    "catgory": "Gutenberg",
+                    "name": "The Current Report",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/the-current-report",
+                    "tags": [
+                        "pro",
+                        "news",
+                        "general",
+                        "gutenberg"
+                    ],
+                    "plugins":"blockspare,chart-builder"
+                },
+                "the-inside-story": {
+                    "slug": "the-inside-story",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "News & Media",
+                    "catgory": "Gutenberg",
+                    "name": "The Inside Story",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/the-inside-story",
+                    "tags": [
+                        "pro",
+                        "news",
+                        "general",
+                        "gutenberg"
+                    ],
+                    "plugins":"blockspare,formidable"
+                },
+                "the-arabic-culture": {
+                    "slug": "the-arabic-culture",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "News & Media",
+                    "catgory": "Gutenberg",
+                    "name": "The Arabic Culture",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/the-arabic-culture",
+                    "tags": [
+                        "pro",
+                        "news",
+                        "general",
+                        "gutenberg"
+                    ],
+                    "plugins":"blockspare"
+                },
+                "the-news-frontier": {
+                    "slug": "the-news-frontier",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "News & Media",
+                    "catgory": "Gutenberg",
+                    "name": "The News Frontier",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/the-news-frontier",
+                    "tags": [
+                        "pro",
+                        "news",
+                        "general",
+                        "gutenberg"
+                    ],
+                    "plugins":"blockspare"
+                },
+                "health-magazine": {
+                    "slug": "health-magazine",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "Specialty & Niche",
+                    "catgory": "Gutenberg",
+                    "name": "Health Magazine",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/health-magazine",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "health",
+                        "gutenberg"
+                    ],
+                    "plugins":"blockspare"
+                },
+                "beauty-elixirs": {
+                    "slug": "beauty-elixirs",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "Specialty & Niche",
+                    "catgory": "Gutenberg",
+                    "name": "Beauty Elixirs",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/beauty-elixirs",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "beauty",
+                        "gutenberg"
+                    ],
+                    "plugins":"blockspare"
+                },
+                "flights-daily": {
+                    "slug": "flights-daily",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "Specialty & Niche",
+                    "catgory": "Gutenberg",
+                    "name": "Flights Daily",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/flights-daily",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "flight",
+                        "gutenberg"
+                    ],
+                    "plugins":"blockspare"
+                },
+                "daily-yoga-story": {
+                    "slug": "daily-yoga-story",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "Specialty & Niche",
+                    "catgory": "Gutenberg",
+                    "name": "Daily Yoga Story",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/daily-yoga-story",
+                    "tags": [
+                        "pro",
+                        "blog",
+                        "yoga",
+                        "gutenberg"
+                    ],
+                    "plugins":"blockspare"
+                },
+                "prime-news": {
+                    "slug": "prime-news",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "News & Media",
+                    "catgory": "Elementor",
+                    "name": "Prime News",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/prime-news",
+                    "tags": [
+                        "pro",
+                        "news",
+                        "elementor"
+                    ],
+                    "plugins":"elementor,elespare"
+                },
+                "super-mag": {
+                    "slug": "super-mag",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "News & Media",
+                    "catgory": "Elementor",
+                    "name": "Super Mag",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/super-mag",
+                    "tags": [
+                        "pro",
+                        "news",
+                        "elementor"
+                    ],
+                    "plugins":"elementor,elespare"
+                },
+                "clean-blog": {
+                    "slug": "clean-blog",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "News & Media",
+                    "catgory": "Elementor",
+                    "name": "Clean Blog",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/clean-blog",
+                    "tags": [
+                        "pro",
+                        "news",
+                        "elementor"
+                    ],
+                    "plugins":"elementor,elespare"
+                },
+                "blog-time": {
+                    "slug": "blog-time",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "News & Media",
+                    "catgory": "Elementor",
+                    "name": "Blog Time",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/blog-time",
+                    "tags": [
+                        "pro",
+                        "news",
+                        "elementor"
+                    ],
+                    "plugins":"elementor,elespare"
+                },
+                "city-mag": {
+                    "slug": "city-mag",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "News & Media",
+                    "catgory": "Elementor",
+                    "name": "City Mag",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/city-mag",
+                    "tags": [
+                        "pro",
+                        "news",
+                        "elementor"
+                    ],
+                    "plugins":"elementor,elespare"
+                },
+                "pharmacy-news": {
+                    "slug": "pharmacy-news",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "News & Media",
+                    "catgory": "Elementor",
+                    "name": "Pharmacy News",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/pharmacy-news",
+                    "tags": [
+                        "pro",
+                        "news",
+                        "elementor"
+                    ],
+                    "plugins":"elementor,elespare"
                 },
                 "ministry-of-culture": {
                     "slug": "ministry-of-culture",
