@@ -10699,6 +10699,21 @@
                     ],
                     "plugins": "blockspare"
                 },
+                "generic": {
+                    "slug": "generic",
+                    "theme": "ReviewNews",
+                    "main_category": "Business & Professional",
+                    "catgory": "Gutenberg",
+                    "name": "Generic",
+                    "preview": "https://demos.afthemes.com/reviewnews/generic/",
+                    "tags": [
+                        "free",
+                        "business",
+                        "gutenberg",
+                        "generic"
+                    ],
+                    "plugins": "blockspare"
+                },
                 "green-house": {
                     "slug": "green-house",
                     "theme": "ReviewNews",
@@ -11281,6 +11296,21 @@
                         "gutenberg",
                         "culture",
                         "ministry"
+                    ],
+                    "plugins": "blockspare"
+                },
+                "generic": {
+                    "slug": "generic",
+                    "theme": "ReviewNews Pro",
+                    "main_category": "Business & Professional",
+                    "catgory": "Gutenberg",
+                    "name": "Generic Pro",
+                    "preview": "https://demos.afthemes.com/reviewnews-pro/generic/",
+                    "tags": [
+                        "pro",
+                        "business",
+                        "gutenberg",
+                        "generic"
                     ],
                     "plugins": "blockspare"
                 },

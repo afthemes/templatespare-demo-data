@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.8.3" created="2025-10-28 09:58" -->
+	<!-- generator="WordPress/6.8.3" created="2025-11-17 10:19" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>हिन्दी समाचार</title>
 	<link>https://demos.afthemes.com/reviewnews/indian</link>
 	<description>बड़ी ख़बरें - लाइव अपडेट - विजुअल स्टोरीज़</description>
-	<pubDate>Tue, 28 Oct 2025 09:58:26 +0000</pubDate>
+	<pubDate>Mon, 17 Nov 2025 10:19:44 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.afthemes.com/reviewnews/</wp:base_site_url>
