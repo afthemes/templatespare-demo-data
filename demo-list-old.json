@@ -10559,6 +10559,9 @@
             "data": "reviewnews",
             "free": "",
             "premium": "reviewnews-pro",
+            "child": [
+                "newsreview"
+            ],
             "demodata": {
                 "default": {
                     "slug": "reviewnews",
@@ -10791,6 +10794,28 @@
                 }
             }
         },
+
+        "newsreview": {
+            "data": "newsreview",
+            "free": "reviewnews",
+            "premium": "reviewnews-pro",
+            "demodata": {
+                "default": {
+                    "slug": "newsreview",
+                    "theme": "CoverNews",
+                    "main_category": "News & Media",
+                    "catgory": "General",
+                    "name": "NewsReview",
+                    "preview": "https://demos.afthemes.com/reviewnews/newsreview/",
+                    "tags": [
+                        "free",
+                        "magazine",
+                        "child"
+                    ]
+                }
+            }
+        },
+
         "reviewnews-pro": {
             "data": "reviewnews-pro",
             "free": "reviewnews",
@@ -10820,8 +10845,7 @@
                         "pro",
                         "blog",
                         "sport"
-                    ],
-                    "plugins": "bzscore-live-score"
+                    ]
                 },
                 "recipe": {
                     "slug": "recipe",
@@ -10862,8 +10886,7 @@
                         "pro",
                         "sport",
                         "spanish"
-                    ],
-                    "plugins": "bzscore-live-score"
+                    ]
                 },
                 "arabic": {
                     "slug": "arabic",
@@ -10904,8 +10927,7 @@
                         "blog",
                         "fashion",
                         "russian"
-                    ],
-                    "plugins": "popup-maker"
+                    ]
                 },
                 "books": {
                     "slug": "books",
@@ -10918,8 +10940,7 @@
                         "pro",
                         "blog",
                         "books"
-                    ],
-                    "plugins": "3d-flipbook-dflip-lite"
+                    ]
                 },
                 "japanese": {
                     "slug": "japanese",
@@ -10963,7 +10984,7 @@
                         "estate",
                         "elementor"
                     ],
-                    "plugins":"elementor,elespare,wp-google-maps"
+                    "plugins":"elementor,elespare"
                 },
                 "blockspare": {
                     "slug": "blockspare",
@@ -11062,7 +11083,7 @@
                         "travel",
                         "gutenberg"
                     ],
-                    "plugins":"blockspare,ninja-tables"
+                    "plugins":"blockspare"
                 },
                 "the-racerunner": {
                     "slug": "the-racerunner",
@@ -11077,7 +11098,7 @@
                         "automobile",
                         "gutenberg"
                     ],
-                    "plugins":"blockspare,smart-slider-3"
+                    "plugins":"blockspare"
                 },
                 "the-current-report": {
                     "slug": "the-current-report",
@@ -11092,7 +11113,7 @@
                         "general",
                         "gutenberg"
                     ],
-                    "plugins":"blockspare,chart-builder"
+                    "plugins":"blockspare"
                 },
                 "the-inside-story": {
                     "slug": "the-inside-story",
@@ -11107,7 +11128,7 @@
                         "general",
                         "gutenberg"
                     ],
-                    "plugins":"blockspare,formidable"
+                    "plugins":"blockspare"
                 },
                 "the-arabic-culture": {
                     "slug": "the-arabic-culture",
