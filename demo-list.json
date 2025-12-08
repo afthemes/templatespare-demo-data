@@ -13118,6 +13118,9 @@
         "data": "reviewnews",
         "free": "",
         "premium": "reviewnews-pro",
+        "child": [
+          "newsreview"
+        ],
         "demodata": {
           "default": {
             "slug": "reviewnews",
@@ -13413,6 +13416,29 @@
           }
         }
       },
+      "newsreview": {
+        "data": "newsreview",
+        "free": "reviewnews",
+        "premium": "reviewnews-pro",
+        "demodata": {
+            "default": {
+                "slug": "newsreview",
+                "theme": "CoverNews",
+                "main_category": "News & Media",
+                "catgory": "General",
+                "name": "NewsReview",
+                "preview": "https://demos.afthemes.com/reviewnews/newsreview/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "child"
+                ],
+                "main_categories": [
+                  "News & Media"
+                ]
+            }
+        }
+    },
       "reviewnews-pro": {
         "data": "reviewnews-pro",
         "free": "reviewnews",
