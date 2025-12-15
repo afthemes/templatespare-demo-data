@@ -13746,18 +13746,20 @@
             "theme": "ReviewNews Pro",
             "main_category": "Specialty & Niche",
             "catgory": "Gutenberg",
-            "name": "The Beatboulevard Pro",
+            "name": "Le BeatBoulevard",
             "preview": "https://demos.afthemes.com/reviewnews-pro/the-beatboulevard",
             "tags": [
               "pro",
               "blog",
               "music",
+              "french",
               "gutenberg"
             ],
             "main_categories": [
               "Lifestyle & Personal",
               "Specialty & Niche",
-              "Design & Creative"
+              "Design & Creative",
+              "Regional & Local News"
             ],
             "plugins": "blockspare"
           },
@@ -13766,19 +13768,21 @@
             "theme": "ReviewNews Pro",
             "main_category": "Lifestyle & Personal",
             "catgory": "Gutenberg",
-            "name": "The Vacation Hub",
+            "name": "مركز العطلات",
             "preview": "https://demos.afthemes.com/reviewnews-pro/the-vacation-hub",
             "tags": [
               "pro",
               "blog",
               "travel",
+              "arabic",
               "gutenberg"
             ],
             "main_categories": [
               "Lifestyle & Personal",
-              "Design & Creative"
+              "Design & Creative",
+              "Regional & Local News"
             ],
-            "plugins": "blockspare,ninja-tables"
+            "plugins": "blockspare"
           },
           "the-racerunner": {
             "slug": "the-racerunner",
@@ -13804,17 +13808,19 @@
             "theme": "ReviewNews Pro",
             "main_category": "News & Media",
             "catgory": "Gutenberg",
-            "name": "The Current Report",
+            "name": "हालको रिपोर्ट",
             "preview": "https://demos.afthemes.com/reviewnews-pro/the-current-report",
             "tags": [
               "pro",
               "news",
               "general",
+              "nepali",
               "gutenberg"
             ],
             "main_categories": [
               "News & Media",
-              "Design & Creative"
+              "Design & Creative",
+              "Regional & Local News"
             ],
             "plugins": "blockspare,chart-builder"
           },
@@ -13823,17 +13829,19 @@
             "theme": "ReviewNews Pro",
             "main_category": "News & Media",
             "catgory": "Gutenberg",
-            "name": "The Inside Story",
+            "name": "भीतरी कहानी",
             "preview": "https://demos.afthemes.com/reviewnews-pro/the-inside-story",
             "tags": [
               "pro",
               "news",
+              "indian",
               "general",
               "gutenberg"
             ],
             "main_categories": [
               "News & Media",
-              "Design & Creative"
+              "Design & Creative",
+              "Regional & Local News"
             ],
             "plugins": "blockspare,formidable"
           },
@@ -13856,43 +13864,46 @@
             ],
             "plugins": "blockspare"
           },
-          "the-news-frontier": {
-            "slug": "the-news-frontier",
+          "computer-hub": {
+            "slug": "computer-hub",
             "theme": "ReviewNews Pro",
-            "main_category": "News & Media",
+            "main_category": "Technology & Innovation",
             "catgory": "Gutenberg",
-            "name": "The News Frontier",
-            "preview": "https://demos.afthemes.com/reviewnews-pro/the-news-frontier",
+            "name": "Компьютерный хаб",
+            "preview": "https://demos.afthemes.com/reviewnews-pro/computer-hub",
             "tags": [
               "pro",
               "news",
+              "russian",
               "general",
               "gutenberg"
             ],
             "main_categories": [
               "News & Media",
-              "Design & Creative"
+              "Technology & Innovation",
+              "Regional & Local News"
             ],
             "plugins": "blockspare"
           },
-          "health-magazine": {
-            "slug": "health-magazine",
+          "city-stories": {
+            "slug": "city-stories",
             "theme": "ReviewNews Pro",
-            "main_category": "Specialty & Niche",
+            "main_category": "Lifestyle & Personal",
             "catgory": "Gutenberg",
-            "name": "Health Magazine",
-            "preview": "https://demos.afthemes.com/reviewnews-pro/health-magazine",
+            "name": "シティストーリー",
+            "preview": "https://demos.afthemes.com/reviewnews-pro/city-stories",
             "tags": [
               "pro",
               "blog",
-              "health",
+              "japanese",
+              "city",
               "gutenberg"
             ],
             "main_categories": [
               "News & Media",
               "Lifestyle & Personal",
-              "Specialty & Niche",
-              "Design & Creative"
+              "Design & Creative",
+              "Regional & Local News"
             ],
             "plugins": "blockspare"
           },
@@ -13901,12 +13912,13 @@
             "theme": "ReviewNews Pro",
             "main_category": "Specialty & Niche",
             "catgory": "Gutenberg",
-            "name": "Beauty Elixirs",
+            "name": "美容灵药",
             "preview": "https://demos.afthemes.com/reviewnews-pro/beauty-elixirs",
             "tags": [
               "pro",
               "blog",
               "beauty",
+              "chinese",
               "gutenberg"
             ],
             "main_categories": [
@@ -13921,18 +13933,20 @@
             "theme": "ReviewNews Pro",
             "main_category": "Specialty & Niche",
             "catgory": "Gutenberg",
-            "name": "Flights Daily",
+            "name": "Uçuşlar Günlük",
             "preview": "https://demos.afthemes.com/reviewnews-pro/flights-daily",
             "tags": [
               "pro",
               "blog",
               "flight",
+              "turkish",
               "gutenberg"
             ],
             "main_categories": [
               "Lifestyle & Personal",
               "Specialty & Niche",
-              "Design & Creative"
+              "Design & Creative",
+              "Regional & Local News"
             ],
             "plugins": "blockspare"
           },
@@ -14063,6 +14077,194 @@
             "main_categories": [
               "News & Media",
               "Design & Creative"
+            ],
+            "plugins": "elementor,elespare"
+          },
+          "diy-and-craft": {
+            "slug": "diy-and-craft",
+            "theme": "ReviewNews Pro",
+            "main_category": "News & Media",
+            "catgory": "Elementor",
+            "name": "Bricolage et artisanat",
+            "preview": "https://demos.afthemes.com/reviewnews-pro/diy-and-craft",
+            "tags": [
+              "pro",
+              "news",
+              "french",
+              "elementor"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Design & Creative",
+              "Lifestyle & Personal",
+              "Regional & Local News"
+            ],
+            "plugins": "elementor,elespare"
+          },
+          "photography-blog": {
+            "slug": "photography-blog",
+            "theme": "ReviewNews Pro",
+            "main_category": "News & Media",
+            "catgory": "Elementor",
+            "name": "Blog de fotografía",
+            "preview": "https://demos.afthemes.com/reviewnews-pro/photography-blog",
+            "tags": [
+              "pro",
+              "news",
+              "spanish",
+              "elementor"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Design & Creative",
+              "Lifestyle & Personal",
+              "Regional & Local News"
+            ],
+            "plugins": "elementor,elespare"
+          },
+          "architecture-news": {
+            "slug": "architecture-news",
+            "theme": "ReviewNews Pro",
+            "main_category": "News & Media",
+            "catgory": "Elementor",
+            "name": "أخبار الهندسة المعمارية",
+            "preview": "https://demos.afthemes.com/reviewnews-pro/architecture-news",
+            "tags": [
+              "pro",
+              "news",
+              "arabic",
+              "elementor"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Design & Creative",
+              "Lifestyle & Personal",
+              "Regional & Local News"
+            ],
+            "plugins": "elementor,elespare"
+          },
+          "german-bakery": {
+            "slug": "german-bakery",
+            "theme": "ReviewNews Pro",
+            "main_category": "News & Media",
+            "catgory": "Elementor",
+            "name": "Deutsche Bäckerei",
+            "preview": "https://demos.afthemes.com/reviewnews-pro/german-bakery",
+            "tags": [
+              "pro",
+              "news",
+              "german",
+              "elementor"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Design & Creative",
+              "Lifestyle & Personal",
+              "Regional & Local News"
+            ],
+            "plugins": "elementor,elespare"
+          },
+          "financial-blog": {
+            "slug": "financial-blog",
+            "theme": "ReviewNews Pro",
+            "main_category": "News & Media",
+            "catgory": "Elementor",
+            "name": "आर्थिक ब्लग",
+            "preview": "https://demos.afthemes.com/reviewnews-pro/financial-blog",
+            "tags": [
+              "pro",
+              "news",
+              "nepali",
+              "elementor"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Lifestyle & Personal",
+              "Regional & Local News"
+            ],
+            "plugins": "elementor,elespare"
+          },
+          "business-blog": {
+            "slug": "business-blog",
+            "theme": "ReviewNews Pro",
+            "main_category": "News & Media",
+            "catgory": "Elementor",
+            "name": "बिजनेस ब्लॉग",
+            "preview": "https://demos.afthemes.com/reviewnews-pro/business-blog",
+            "tags": [
+              "pro",
+              "news",
+              "indian",
+              "business",
+              "elementor"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Lifestyle & Personal",
+              "Regional & Local News"
+            ],
+            "plugins": "elementor,elespare"
+          },
+          "pets-dairy": {
+            "slug": "pets-dairy",
+            "theme": "ReviewNews Pro",
+            "main_category": "News & Media",
+            "catgory": "Elementor",
+            "name": "Дневник домашних животных",
+            "preview": "https://demos.afthemes.com/reviewnews-pro/pets-dairy",
+            "tags": [
+              "pro",
+              "news",
+              "russian",
+              "pet",
+              "elementor"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Lifestyle & Personal",
+              "Regional & Local News"
+            ],
+            "plugins": "elementor,elespare"
+          },
+          "meditation-hub": {
+            "slug": "meditation-hub",
+            "theme": "ReviewNews Pro",
+            "main_category": "News & Media",
+            "catgory": "Elementor",
+            "name": "瞑想ハブ",
+            "preview": "https://demos.afthemes.com/reviewnews-pro/meditation-hub",
+            "tags": [
+              "pro",
+              "news",
+              "japanese",
+              "meditation",
+              "elementor"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Lifestyle & Personal",
+              "Regional & Local News"
+            ],
+            "plugins": "elementor,elespare"
+          },
+          "turkish-icecream": {
+            "slug": "turkish-icecream",
+            "theme": "ReviewNews Pro",
+            "main_category": "News & Media",
+            "catgory": "Elementor",
+            "name": "Türk Dondurması",
+            "preview": "https://demos.afthemes.com/reviewnews-pro/turkish-icecream",
+            "tags": [
+              "pro",
+              "news",
+              "turkish",
+              "food",
+              "elementor"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Lifestyle & Personal",
+              "Regional & Local News"
             ],
             "plugins": "elementor,elespare"
           },
