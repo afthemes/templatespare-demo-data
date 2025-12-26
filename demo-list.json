@@ -3406,6 +3406,104 @@
               "Lifestyle & Personal",
               "Design & Creative"
             ]
+          },
+          "generic": {
+            "slug": "generic",
+            "theme": "ChromeNews Pro",
+            "main_category": "Business & Professional",
+            "catgory": "Gutenberg",
+            "name": "Generic Pro",
+            "preview": "https://demos.afthemes.com/chromenews-pro/generic/",
+            "tags": [
+              "pro",
+              "business",
+              "general",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "Business & eCommerce",
+              "Design & Creative"
+            ],
+            "plugins": "blockspare"
+          },
+          "elderly-care": {
+            "slug": "elderly-care",
+            "theme": "ChromeNews Pro",
+            "main_category": "Business & Professional",
+            "catgory": "Elementor",
+            "name": "Elderly Care Pro",
+            "preview": "https://demos.afthemes.com/chromenews-pro/elderly-care/",
+            "tags": [
+              "pro",
+              "business",
+              "general",
+              "elementor"
+            ],
+            "main_categories": [
+              "Business & eCommerce",
+              "Education & Non-Profit News",
+              "Lifestyle & Personal"
+            ],
+            "plugins": "elementor,elespare,essential-addons-for-elementor-lite"
+          },
+          "decor-home": {
+            "slug": "decor-home",
+            "theme": "ChromeNews Pro",
+            "main_category": "Business & Professional",
+            "catgory": "Elementor",
+            "name": "Decor Home Pro",
+            "preview": "https://demos.afthemes.com/chromenews-pro/decor-home/",
+            "tags": [
+              "pro",
+              "business",
+              "general",
+              "elementor"
+            ],
+            "main_categories": [
+              "Business & eCommerce",
+              "Design & Creative",
+              "Specialty & Niche"
+            ],
+            "plugins": "elementor,elespare,essential-addons-for-elementor-lite"
+          },
+          "education": {
+            "slug": "education",
+            "theme": "ChromeNews Pro",
+            "main_category": "Business & Professional",
+            "catgory": "Elementor",
+            "name": "Education Pro",
+            "preview": "https://demos.afthemes.com/chromenews-pro/education/",
+            "tags": [
+              "pro",
+              "business",
+              "general",
+              "elementor"
+            ],
+            "main_categories": [
+              "Business & eCommerce",
+              "Education & Non-Profit News"
+            ],
+            "plugins": "elementor,elespare"
+          },
+          "nazata-church": {
+            "slug": "nazata-church",
+            "theme": "ChromeNews Pro",
+            "main_category": "Business & Professional",
+            "catgory": "Elementor",
+            "name": "Nazata Church Pro",
+            "preview": "https://demos.afthemes.com/chromenews-pro/nazata-church/",
+            "tags": [
+              "pro",
+              "business",
+              "general",
+              "elementor"
+            ],
+            "main_categories": [
+              "Business & eCommerce",
+              "Lifestyle & Personal",
+              "Education & Non-Profit News"
+            ],
+            "plugins": "elementor,elespare"
           }
         }
       },
@@ -4030,6 +4128,100 @@
               "Design & Creative"
             ],
             "plugins": "blockspare"
+          },
+          "generic": {
+            "slug": "generic",
+            "theme": "ChromeNews",
+            "main_category": "Business & Professional",
+            "catgory": "Gutenberg",
+            "name": "Generic",
+            "preview": "https://demos.afthemes.com/chromenews/generic/",
+            "tags": [
+              "free",
+              "business",
+              "general",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "Business & eCommerce",
+              "Design & Creative"
+            ],
+            "plugins": "blockspare"
+          },
+          "ngo": {
+            "slug": "ngo",
+            "theme": "ChromeNews",
+            "main_category": "Business & Professional",
+            "catgory": "Gutenberg",
+            "name": "NGO",
+            "preview": "https://demos.afthemes.com/chromenews/ngo/",
+            "tags": [
+              "free",
+              "business",
+              "general",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "Business & eCommerce",
+              "Education & Non-Profit News"
+            ],
+            "plugins": "blockspare"
+          },
+          "religion": {
+            "slug": "religion",
+            "theme": "ChromeNews",
+            "main_category": "Business & Professional",
+            "catgory": "Elementor",
+            "name": "Religion",
+            "preview": "https://demos.afthemes.com/chromenews/religion/",
+            "tags": [
+              "free",
+              "business",
+              "religion",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "Business & eCommerce",
+              "Education & Non-Profit News"
+            ],
+            "plugins": "elementor,elespare,essential-addons-for-elementor-lite"
+          },
+          "education": {
+            "slug": "education",
+            "theme": "ChromeNews",
+            "main_category": "Business & Professional",
+            "catgory": "Elementor",
+            "name": "Religion",
+            "preview": "https://demos.afthemes.com/chromenews/education/",
+            "tags": [
+              "free",
+              "business",
+              "education",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "Business & eCommerce",
+              "Education & Non-Profit News"
+            ],
+            "plugins": "elementor,elespare"
+          },
+          "brand": {
+            "slug": "brand",
+            "theme": "ChromeNews",
+            "main_category": "Business & Professional",
+            "catgory": "Elementor",
+            "name": "Religion",
+            "preview": "https://demos.afthemes.com/chromenews/brand/",
+            "tags": [
+              "free",
+              "business",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "Business & eCommerce",
+              "Specialty & Niche"
+            ],
+            "plugins": "elementor,elespare"
           }
         }
       },
@@ -5700,6 +5892,99 @@
               "Design & Creative"
             ],
             "plugins": "blockspare"
+          },
+          "general-business": {
+            "slug": "general-business",
+            "theme": "MoreNews Pro",
+            "main_category": "Business & Professional",
+            "catgory": "Business",
+            "name": "General Business",
+            "preview": "https://demos.afthemes.com/morenews-pro/generic/",
+            "tags": [
+              "free",
+              "business",
+              "general",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "Technology & Innovation",
+              "Business & eCommerce"
+            ],
+            "plugins": "blockspare"
+          },
+          "girl-power": {
+            "slug": "girl-power",
+            "theme": "MoreNews Pro",
+            "main_category": "Education & Non-Profit",
+            "catgory": "Business",
+            "name": "Girl Power",
+            "preview": "https://demos.afthemes.com/morenews-pro/ngo/",
+            "tags": [
+              "free",
+              "business",
+              "ngo",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "Technology & Innovation",
+              "Business & eCommerce"
+            ],
+            "plugins": "blockspare"
+          },
+          "peace-path": {
+            "slug": "peace-path",
+            "theme": "MoreNews Pro",
+            "main_category": "Lifestyle & Personal",
+            "catgory": "Business",
+            "name": "Peace Path",
+            "preview": "https://demos.afthemes.com/morenews-pro/religion/",
+            "tags": [
+              "free",
+              "buddhism",
+              "general",
+              "elementor"
+            ],
+            "main_categories": [
+              "Technology & Innovation",
+              "Business & eCommerce"
+            ],
+            "plugins": "elementor,elespare "
+          },
+          "brand-suits": {
+            "slug": "brand-suits",
+            "theme": "MoreNews Pro",
+            "main_category": "Business & Professional",
+            "catgory": "Business",
+            "name": "Brand Suits",
+            "preview": "https://demos.afthemes.com/morenews-pro/suit-brand/",
+            "tags": [
+              "free",
+              "business",
+              "general",
+              "elementor"
+            ],
+            "main_categories": [
+              "Business & eCommerce"
+            ],
+            "plugins": "elementor,elespare "
+          },
+          "kidsedu": {
+            "slug": "kidsedu",
+            "theme": "MoreNews Pro",
+            "main_category": "Education & Non-Profit",
+            "catgory": "Business",
+            "name": "Kidsedu",
+            "preview": "https://demos.afthemes.com/morenews-pro/edumore/",
+            "tags": [
+              "free",
+              "business",
+              "general",
+              "elementor"
+            ],
+            "main_categories": [
+              "Business & eCommerce"
+            ],
+            "plugins": "elementor,elespare "
           }
         }
       },
@@ -6746,6 +7031,98 @@
               "Business & eCommerce"
             ],
             "plugins": "woocommerce,popup-maker"
+          },
+          "generic": {
+            "slug": "generic",
+            "theme": "morenews",
+            "main_category": "Business & Professional",
+            "catgory": "Business",
+            "name": "Generic",
+            "preview": "https://demos.afthemes.com/morenews/generic/",
+            "tags": [
+              "free",
+              "business",
+              "general",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "Technology & Innovation",
+              "Business & eCommerce"
+            ],
+            "plugins": "blockspare"
+          },
+          "environmental": {
+            "slug": "environmental",
+            "theme": "morenews",
+            "main_category": "Education & Non-Profit",
+            "catgory": "Business",
+            "name": "Environmental",
+            "preview": "https://demos.afthemes.com/morenews/empower/",
+            "tags": [
+              "free",
+              "business",
+              "ngo",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "Technology & Innovation",
+              "Business & eCommerce"
+            ],
+            "plugins": "blockspare"
+          },
+          "religion": {
+            "slug": "religion",
+            "theme": "morenews",
+            "main_category": "Lifestyle & Personal",
+            "catgory": "Business",
+            "name": "Religion",
+            "preview": "https://demos.afthemes.com/morenews/religion/",
+            "tags": [
+              "free",
+              "islamic",
+              "general",
+              "elementor"
+            ],
+            "main_categories": [
+              "Technology & Innovation",
+              "Business & eCommerce"
+            ],
+            "plugins": "elementor,elespare "
+          },
+          "newtech": {
+            "slug": "newtech",
+            "theme": "morenews",
+            "main_category": "Technology & Innovation",
+            "catgory": "Business",
+            "name": "NewTech",
+            "preview": "https://demos.afthemes.com/morenews/morebrand/",
+            "tags": [
+              "free",
+              "islamic",
+              "general",
+              "elementor"
+            ],
+            "main_categories": [
+              "Business & eCommerce"
+            ],
+            "plugins": "elementor,elespare "
+          },
+          "moreedu": {
+            "slug": "moreedu",
+            "theme": "morenews",
+            "main_category": "Education & Non-Profit",
+            "catgory": "Business",
+            "name": "NewTech",
+            "preview": "https://demos.afthemes.com/morenews/moreedu/",
+            "tags": [
+              "free",
+              "general",
+              "elementor"
+            ],
+            "main_categories": [
+              "Business & eCommerce"
+            ],
+            "plugins": "elementor,elespare "
           }
         }
       },
@@ -8685,6 +9062,260 @@
               "Lifestyle & Personal",
               "Design & Creative"
             ]
+          },
+          "indian-news": {
+            "slug": "indian-news",
+            "theme": "Elegant Magazine Pro",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Indian",
+            "name": "Indian News Pro",
+            "preview": "https://demos.afthemes.com/elegant-magazine-pro/indian-news",
+            "tags": [
+              "pro",
+              "indian",
+              "blog"
+            ],
+            "main_categories": [
+              "Regional & Local News",
+              "Lifestyle & Personal",
+              "News & Media"
+            ]
+          },
+          "glamour-blog": {
+            "slug": "glamour-blog",
+            "theme": "Elegant Magazine Pro",
+            "main_category": "Lifestyle & Personal",
+            "catgory": "Gutenberg",
+            "name": "Glamour Blog Pro",
+            "preview": "https://demos.afthemes.com/elegant-magazine-pro/glamour-blog",
+            "tags": [
+              "pro",
+              "fashion",
+              "blog",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "News & Media"
+            ],
+            "plugins": "blockspare"
+          },
+          "education-blog": {
+            "slug": "education-blog",
+            "theme": "Elegant Magazine Pro",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Gutenberg",
+            "name": "Education Blog Pro",
+            "preview": "https://demos.afthemes.com/elegant-magazine-pro/education-blog",
+            "tags": [
+              "pro",
+              "chinese",
+              "education",
+              "blog",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "Regional & Local News",
+              "News & Media",
+              "Education & Non-Profit News"
+            ],
+            "plugins": "blockspare"
+          },
+          "germanic-tales": {
+            "slug": "germanic-tales",
+            "theme": "Elegant Magazine Pro",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Gutenberg",
+            "name": "Germanic Tales Pro",
+            "preview": "https://demos.afthemes.com/elegant-magazine-pro/germanic-tales",
+            "tags": [
+              "pro",
+              "german",
+              "magazine",
+              "blog",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "Regional & Local News",
+              "News & Media",
+              "Lifestyle & Personal"
+            ],
+            "plugins": "blockspare"
+          },
+          "russian-drinks": {
+            "slug": "russian-drinks",
+            "theme": "Elegant Magazine Pro",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Gutenberg",
+            "name": "Russian Drinks Pro",
+            "preview": "https://demos.afthemes.com/elegant-magazine-pro/russian-drinks",
+            "tags": [
+              "pro",
+              "russian",
+              "magazine",
+              "blog",
+              "elementor"
+            ],
+            "main_categories": [
+              "Regional & Local News",
+              "News & Media",
+              "Lifestyle & Personal"
+            ],
+            "plugins": "blockspare"
+          },
+          "weekly-news": {
+            "slug": "weekly-news",
+            "theme": "Elegant Magazine Pro",
+            "main_category": "News & Media",
+            "catgory": "Elementor",
+            "name": "Weekly News Pro",
+            "preview": "https://demos.afthemes.com/elegant-magazine-pro/weekly-news",
+            "tags": [
+              "pro",
+              "news",
+              "blog",
+              "elementor"
+            ],
+            "main_categories": [
+              "News & Media"
+            ],
+            "plugins": "elementor,elespare"
+          },
+          "news-blast": {
+            "slug": "news-blast",
+            "theme": "Elegant Magazine Pro",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Elementor",
+            "name": "News Blast Pro",
+            "preview": "https://demos.afthemes.com/elegant-magazine-pro/news-blast",
+            "tags": [
+              "pro",
+              "nepali",
+              "magazine",
+              "blog",
+              "elementor"
+            ],
+            "main_categories": [
+              "Regional & Local News",
+              "News & Media"
+            ],
+            "plugins": "elementor,elespare"
+          },
+          "japanese-culture": {
+            "slug": "japanese-culture",
+            "theme": "Elegant Magazine Pro",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Elementor",
+            "name": "Japanese Culture Pro",
+            "preview": "https://demos.afthemes.com/elegant-magazine-pro/japanese-culture",
+            "tags": [
+              "pro",
+              "japanese",
+              "magazine",
+              "blog",
+              "elementor"
+            ],
+            "main_categories": [
+              "Regional & Local News",
+              "News & Media",
+              "Lifestyle & Personal"
+            ],
+            "plugins": "elementor,elespare"
+          },
+          "french-movie": {
+            "slug": "french-movie",
+            "theme": "Elegant Magazine Pro",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Elementor",
+            "name": "French Movie Pro",
+            "preview": "https://demos.afthemes.com/elegant-magazine-pro/french-movie",
+            "tags": [
+              "pro",
+              "french",
+              "magazine",
+              "blog",
+              "elementor"
+            ],
+            "main_categories": [
+              "Regional & Local News",
+              "News & Media"
+            ],
+            "plugins": "elementor,elespare"
+          },
+          "university": {
+            "slug": "university",
+            "theme": "Elegant Magazine Pro",
+            "main_category": "Education & Non-Profit",
+            "catgory": "Elementor",
+            "name": "University Pro",
+            "preview": "https://demos.afthemes.com/elegant-magazine-pro/university",
+            "tags": [
+              "pro",
+              "business",
+              "education",
+              "elementor"
+            ],
+            "main_categories": [
+              "Business & eCommerce",
+              "Education & Non-Profit News"
+            ],
+            "plugins": "elementor,elespare"
+          },
+          "holidious": {
+            "slug": "holidious",
+            "theme": "Elegant Magazine Pro",
+            "main_category": "Lifestyle & Personal",
+            "catgory": "Elementor",
+            "name": "Holidious Pro",
+            "preview": "https://demos.afthemes.com/elegant-magazine-pro/holidious",
+            "tags": [
+              "pro",
+              "business",
+              "travel",
+              "elementor"
+            ],
+            "main_categories": [
+              "Business & eCommerce",
+              "Lifestyle & Personal"
+            ],
+            "plugins": "elementor,elespare"
+          },
+          "web-solution": {
+            "slug": "web-solution",
+            "theme": "Elegant Magazine Pro",
+            "main_category": "Technology & Innovation",
+            "catgory": "Gutenberg",
+            "name": "Web Solution Pro",
+            "preview": "https://demos.afthemes.com/elegant-magazine-pro/web-solution",
+            "tags": [
+              "pro",
+              "business",
+              "tech",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "Business & eCommerce",
+              "Technology & Innovation"
+            ],
+            "plugins": "blockspare"
+          },
+          "municipality": {
+            "slug": "municipality",
+            "theme": "Elegant Magazine Pro",
+            "main_category": "Technology & Innovation",
+            "catgory": "Gutenberg",
+            "name": "Municipality Pro",
+            "preview": "https://demos.afthemes.com/elegant-magazine-pro/municipality",
+            "tags": [
+              "pro",
+              "business",
+              "municipality",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "Business & eCommerce",
+              "Technology & Innovation"
+            ],
+            "plugins": "blockspare"
           }
         }
       },
@@ -8732,20 +9363,40 @@
               "Lifestyle & Personal"
             ]
           },
+          "arabic-wheels": {
+            "slug": "arabic-wheels",
+            "theme": "Elegant Magazine",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Blog",
+            "name": "Arabic Wheels",
+            "homepage_type": "blog",
+            "preview": "https://demos.afthemes.com/elegant-magazine/arabic-wheels",
+            "tags": [
+              "free",
+              "automobile",
+              "arabic",
+              "blog"
+            ],
+            "main_categories": [
+              "Regional & Local News",
+              "Specialty & Niche"
+            ]
+          },
           "attire-blog": {
             "slug": "attire-blog",
             "theme": "Elegant Magazine",
-            "main_category": "Design & Creative",
+            "main_category": "Regional & Language Specific",
             "catgory": "Elementor",
             "name": "Attire Blog",
             "preview": "https://demos.afthemes.com/elegant-magazine/attire-blog",
             "tags": [
               "free",
-              "shop",
+              "turkish",
               "blog",
               "elementor"
             ],
             "main_categories": [
+              "Regional & Local News",
               "Lifestyle & Personal",
               "Business & eCommerce",
               "Design & Creative"
@@ -8767,6 +9418,80 @@
             "main_categories": [
               "News & Media",
               "Design & Creative"
+            ],
+            "plugins": "elementor,elespare"
+          },
+          "the-daily-scoop": {
+            "slug": "the-daily-scoop",
+            "theme": "Elegant Magazine",
+            "main_category": "News & Media",
+            "catgory": "Gutenberg",
+            "name": "The Daily Scoop",
+            "preview": "https://demos.afthemes.com/elegant-magazine/the-daily-scoop",
+            "tags": [
+              "free",
+              "magazine",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Design & Creative"
+            ],
+            "plugins": "blockspare"
+          },
+          "tech-hub": {
+            "slug": "tech-hub",
+            "theme": "Elegant Magazine",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Gutenberg",
+            "name": "Tech HUb",
+            "preview": "https://demos.afthemes.com/elegant-magazine/tech-hub",
+            "tags": [
+              "free",
+              "magazine",
+              "spanish",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "Regional & Local News",
+              "News & Media",
+              "Design & Creative"
+            ],
+            "plugins": "blockspare"
+          },
+          "agency": {
+            "slug": "agency",
+            "theme": "Elegant Magazine",
+            "main_category": "Business & Professional",
+            "catgory": "Gutenberg",
+            "name": "Agency",
+            "preview": "https://demos.afthemes.com/elegant-magazine/agency",
+            "tags": [
+              "free",
+              "business",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "Business & eCommerce",
+              "Design & Creative"
+            ],
+            "plugins": "blockspare"
+          },
+          "hotel-mount": {
+            "slug": "hotel-mount",
+            "theme": "Elegant Magazine",
+            "main_category": "Business & Professional",
+            "catgory": "Elementor",
+            "name": "Hotel Mount",
+            "preview": "https://demos.afthemes.com/elegant-magazine/hotel-mount",
+            "tags": [
+              "free",
+              "business",
+              "elementor"
+            ],
+            "main_categories": [
+              "Business & eCommerce",
+              "Lifestyle & Personal"
             ],
             "plugins": "elementor,elespare"
           }
@@ -12695,7 +13420,8 @@
         "free": "",
         "premium": "reviewnews-pro",
         "child": [
-          "newsreview"
+          "newsreview",
+          "reviewmag"
         ],
         "demodata": {
           "default": {
@@ -12992,6 +13718,29 @@
           }
         }
       },
+      "reviewmag": {
+        "data": "reviewmag",
+        "free": "reviewnews",
+        "premium": "reviewnews-pro",
+        "demodata": {
+            "default": {
+                "slug": "reviewmag",
+                "theme": "ReviewNews",
+                "main_category": "News & Media",
+                "catgory": "General",
+                "name": "ReviewMag",
+                "preview": "https://demos.afthemes.com/reviewnews/reviewmag/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "child"
+                ],
+                "main_categories": [
+                  "News & Media"
+                ]
+            }
+        }
+    },
       "newsreview": {
         "data": "newsreview",
         "free": "reviewnews",
@@ -12999,7 +13748,7 @@
         "demodata": {
             "default": {
                 "slug": "newsreview",
-                "theme": "CoverNews",
+                "theme": "ReviewNews",
                 "main_category": "News & Media",
                 "catgory": "General",
                 "name": "NewsReview",
