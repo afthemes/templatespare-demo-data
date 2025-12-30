@@ -4178,7 +4178,7 @@
               "free",
               "business",
               "religion",
-              "gutenberg"
+              "elementor"
             ],
             "main_categories": [
               "Business & eCommerce",
@@ -4191,13 +4191,13 @@
             "theme": "ChromeNews",
             "main_category": "Business & Professional",
             "catgory": "Elementor",
-            "name": "Religion",
+            "name": "Education",
             "preview": "https://demos.afthemes.com/chromenews/education/",
             "tags": [
               "free",
               "business",
               "education",
-              "gutenberg"
+              "elementor"
             ],
             "main_categories": [
               "Business & eCommerce",
@@ -4210,12 +4210,12 @@
             "theme": "ChromeNews",
             "main_category": "Business & Professional",
             "catgory": "Elementor",
-            "name": "Religion",
+            "name": "Brand",
             "preview": "https://demos.afthemes.com/chromenews/brand/",
             "tags": [
               "free",
               "business",
-              "gutenberg"
+              "elementor"
             ],
             "main_categories": [
               "Business & eCommerce",
