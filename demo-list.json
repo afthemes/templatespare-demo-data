@@ -11280,30 +11280,51 @@
               "Lifestyle & Personal"
             ]
           },
-          "photography": {
-            "slug": "photography",
+          "turkish-magazine": {
+            "slug": "turkish-magazine",
             "theme": "Magazine 7 Plus",
-            "main_category": "Design & Creative",
+            "main_category": "Regional & Language Specific",
             "catgory": "Blog",
-            "name": "Photography Plus",
-            "preview": "https://demos.afthemes.com/magazine-7-plus/photography",
+            "name": "Turkish Magazine",
+            "preview": "https://demos.afthemes.com/magazine-7-plus/turkish-magazine",
             "tags": [
               "pro",
-              "blog",
-              "photography"
+              "turkish",
+              "magazine",
+              "food"
             ],
             "main_categories": [
+              "News & Media",
               "Lifestyle & Personal",
-              "Design & Creative"
+              "Regional & Local News"
             ]
           },
           "minimal-mag": {
             "slug": "minimal-mag",
             "theme": "Magazine 7 Plus",
             "main_category": "Design & Creative",
-            "catgory": "Blog",
+            "catgory": "Gutenberg",
             "name": "Minimal Mag Plus",
             "preview": "https://demos.afthemes.com/magazine-7-plus/minimal-mag",
+            "tags": [
+              "pro",
+              "magazine",
+              "minimal",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Design & Creative"
+            ],
+            "plugins": "blockspare"
+          },
+          "clean-blog": {
+            "slug": "clean-blog",
+            "theme": "Magazine 7 Plus",
+            "main_category": "News & Media",
+            "catgory": "Gutenberg",
+            "name": "Clean Blog",
+            "preview": "https://demos.afthemes.com/magazine-7-plus/clean-blog",
             "tags": [
               "pro",
               "magazine",
@@ -11312,24 +11333,198 @@
             "main_categories": [
               "News & Media",
               "Design & Creative"
-            ]
+            ],
+            "plugins": "blockspare"
           },
-          "mag-shop": {
-            "slug": "mag-shop",
+          "japanese-tech": {
+            "slug": "japanese-tech",
             "theme": "Magazine 7 Plus",
-            "main_category": "Business & Professional",
-            "catgory": "shop",
-            "name": "Mag Shop Plus",
-            "preview": "https://demos.afthemes.com/magazine-7-plus/mag-shop",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Gutenberg",
+            "name": "Japanese Tech",
+            "preview": "https://demos.afthemes.com/magazine-7-plus/japanese-tech",
             "tags": [
               "pro",
-              "fashion",
-              "ecommerce"
+              "magazine",
+              "japanese",
+              "tech",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Technology & Innovation",
+              "Regional & Local News"
+            ],
+            "plugins": "blockspare"
+          },
+          "nepali-culture": {
+            "slug": "nepali-culture",
+            "theme": "Magazine 7 Plus",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Gutenberg",
+            "name": "Nepali Culture",
+            "preview": "https://demos.afthemes.com/magazine-7-plus/nepali-culture",
+            "tags": [
+              "pro",
+              "magazine",
+              "nepali",
+              "culture",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Lifestyle & Personal",
+              "Regional & Local News"
+            ],
+            "plugins": "blockspare"
+          },
+          "business": {
+            "slug": "business",
+            "theme": "Magazine 7 Plus",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Gutenberg",
+            "name": "Business",
+            "preview": "https://demos.afthemes.com/magazine-7-plus/business",
+            "tags": [
+              "pro",
+              "business",
+              "arabic",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "Business & eCommerce",
+              "Regional & Local News"
+            ],
+            "plugins": "blockspare"
+          },
+          "tourism-board": {
+            "slug": "tourism-board",
+            "theme": "Magazine 7 Plus",
+            "main_category": "Business & Professional",
+            "catgory": "Gutenberg",
+            "name": "Tourism Board",
+            "preview": "https://demos.afthemes.com/magazine-7-plus/tourism-board",
+            "tags": [
+              "pro",
+              "travel",
+              "business",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "Business & eCommerce",
+              "Regional & Local News"
+            ],
+            "plugins": "blockspare"
+          },
+          "game-blog": {
+            "slug": "game-blog",
+            "theme": "Magazine 7 Plus",
+            "main_category": "News & Media",
+            "catgory": "Elementor",
+            "name": "Game Blog",
+            "preview": "https://demos.afthemes.com/magazine-7-plus/game-blog",
+            "tags": [
+              "pro",
+              "game",
+              "elementor"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Specialty & Niche"
+            ],
+            "plugins": "elementor,elespare"
+          },
+          "cookery-blog": {
+            "slug": "cookery-blog",
+            "theme": "Magazine 7 Plus",
+            "main_category": "News & Media",
+            "catgory": "Elementor",
+            "name": "Cookery Blog",
+            "preview": "https://demos.afthemes.com/magazine-7-plus/cookery-blog",
+            "tags": [
+              "pro",
+              "cook",
+              "elementor"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Design & Creative"
+            ],
+            "plugins": "elementor,elespare"
+          },
+          "russian-history": {
+            "slug": "russian-history",
+            "theme": "Magazine 7 Plus",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Elementor",
+            "name": "Russian History",
+            "preview": "https://demos.afthemes.com/magazine-7-plus/russian-history",
+            "tags": [
+              "pro",
+              "russian",
+              "elementor"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Lifestyle & Personal",
+              "Regional & Local News"
+            ],
+            "plugins": "elementor,elespare"
+          },
+          "german-drinks": {
+            "slug": "german-drinks",
+            "theme": "Magazine 7 Plus",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Elementor",
+            "name": "German Drinks",
+            "preview": "https://demos.afthemes.com/magazine-7-plus/german-drinks",
+            "tags": [
+              "pro",
+              "german",
+              "elementor"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Specialty & Niche",
+              "Regional & Local News"
+            ],
+            "plugins": "elementor,elespare"
+          },
+          "zara-house": {
+            "slug": "zara-house",
+            "theme": "Magazine 7 Plus",
+            "main_category": "Business & Professional",
+            "catgory": "Elementor",
+            "name": "Zara House",
+            "preview": "https://demos.afthemes.com/magazine-7-plus/zara-house",
+            "tags": [
+              "pro",
+              "business",
+              "elementor"
+            ],
+            "main_categories": [
+              "Business & eCommerce",
+              "Specialty & Niche"
+            ],
+            "plugins": "elementor,elespare"
+          },
+          "peace-world": {
+            "slug": "peace-world",
+            "theme": "Magazine 7 Plus",
+            "main_category": "Business & Professional",
+            "catgory": "Elementor",
+            "name": "peace-world",
+            "preview": "https://demos.afthemes.com/magazine-7-plus/peace-world",
+            "tags": [
+              "pro",
+              "business",
+              "elementor"
             ],
             "main_categories": [
               "Business & eCommerce",
               "Lifestyle & Personal"
-            ]
+            ],
+            "plugins": "elementor,elespare"
           }
         }
       },
@@ -11378,173 +11573,12 @@
               "Lifestyle & Personal"
             ]
           },
-          "clean-blog": {
-            "slug": "clean-blog",
-            "theme": "Magazine 7",
-            "main_category": "Lifestyle & Personal",
-            "catgory": "Blog",
-            "name": "Clean Blog",
-            "homepage_type": "blog",
-            "preview": "https://demos.afthemes.com/magazine-7/clean-blog",
-            "tags": [
-              "free",
-              "magazine",
-              "general"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Lifestyle & Personal"
-            ]
-          },
-          "cookery-blog": {
-            "slug": "cookery-blog",
-            "theme": "Magazine 7",
-            "main_category": "Lifestyle & Personal",
-            "catgory": "Elementor",
-            "name": "Cookery Blog",
-            "preview": "https://demos.afthemes.com/magazine-7/cookery-blog",
-            "tags": [
-              "free",
-              "elementor",
-              "food"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal",
-              "Design & Creative"
-            ],
-            "plugins": "elementor,elespare"
-          },
-          "donation-blog": {
-            "slug": "donation-blog",
-            "theme": "Magazine 7",
-            "main_category": "Education & Non-Profit",
-            "catgory": "Elementor",
-            "name": "Donation Blog",
-            "preview": "https://demos.afthemes.com/magazine-7/donation-blog",
-            "tags": [
-              "free",
-              "elementor",
-              "charity"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal",
-              "Design & Creative"
-            ],
-            "plugins": "elementor,elespare"
-          },
-          "games-blog": {
-            "slug": "games-blog",
-            "theme": "Magazine 7",
-            "main_category": "Technology & Innovation",
-            "catgory": "Elementor",
-            "name": "Games Blog",
-            "preview": "https://demos.afthemes.com/magazine-7/games-blog",
-            "tags": [
-              "free",
-              "elementor",
-              "game"
-            ],
-            "main_categories": [
-              "Technology & Innovation",
-              "Lifestyle & Personal",
-              "Design & Creative"
-            ],
-            "plugins": "elementor,elespare"
-          },
-          "hiking-blog": {
-            "slug": "hiking-blog",
-            "theme": "Magazine 7",
-            "main_category": "Lifestyle & Personal",
-            "catgory": "Elementor",
-            "name": "Hiking Blog",
-            "preview": "https://demos.afthemes.com/magazine-7/hiking-blog",
-            "tags": [
-              "free",
-              "elementor",
-              "travel"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal",
-              "Design & Creative"
-            ],
-            "plugins": "elementor,elespare"
-          },
-          "workouts-blog": {
-            "slug": "workouts-blog",
-            "theme": "Magazine 7",
-            "main_category": "Lifestyle & Personal",
-            "catgory": "Elementor",
-            "name": "Workouts Blog",
-            "preview": "https://demos.afthemes.com/magazine-7/workouts-blog",
-            "tags": [
-              "free",
-              "elementor",
-              "fitness"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal",
-              "Design & Creative"
-            ],
-            "plugins": "elementor,elespare"
-          },
-          "bangladesh-innovation": {
-            "slug": "bangladesh-innovation",
-            "theme": "Magazine 7",
-            "main_category": "Regional & Language Specific",
-            "catgory": "Blog",
-            "name": "বাংলাদেশ উদ্ভাবন",
-            "homepage_type": "blog",
-            "preview": "https://demos.afthemes.com/magazine-7/bangladesh-innovation",
-            "tags": [
-              "free",
-              "magazine",
-              "bangladesh"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
-          "betting-blog": {
-            "slug": "betting-blog",
-            "theme": "Magazine 7",
-            "main_category": "Regional & Language Specific",
-            "catgory": "Blog",
-            "name": "Weddery Blog",
-            "homepage_type": "blog",
-            "preview": "https://demos.afthemes.com/magazine-7/betting-blog",
-            "tags": [
-              "free",
-              "magazine",
-              "africa"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Lifestyle & Personal"
-            ]
-          },
-          "brazilian-food": {
-            "slug": "brazilian-food",
-            "theme": "Magazine 7",
-            "main_category": "Regional & Language Specific",
-            "catgory": "Blog",
-            "name": "Comida Brasileira",
-            "homepage_type": "blog",
-            "preview": "https://demos.afthemes.com/magazine-7/brazilian-food",
-            "tags": [
-              "free",
-              "magazine",
-              "brazil"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
           "chinese-history": {
             "slug": "chinese-history",
             "theme": "Magazine 7",
-            "main_category": "Regional & Language Specific",
+            "main_category": "Lifestyle & Personal",
             "catgory": "Blog",
-            "name": "中国历史",
+            "name": "Chinese History",
             "preview": "https://demos.afthemes.com/magazine-7/chinese-history",
             "tags": [
               "free",
@@ -11552,32 +11586,34 @@
               "chinese"
             ],
             "main_categories": [
-              "News & Media"
+              "News & Media",
+              "Lifestyle & Personal"
             ]
           },
-          "entertainment-hub": {
-            "slug": "entertainment-hub",
+          "blocknews": {
+            "slug": "blocknews",
             "theme": "Magazine 7",
-            "main_category": "Regional & Language Specific",
-            "catgory": "Blog",
-            "name": "Divertisment Hub",
-            "preview": "https://demos.afthemes.com/magazine-7/entertainment-hub",
+            "main_category": "News & Media",
+            "catgory": "Gutenberg",
+            "name": "Blocknews",
+            "preview": "https://demos.afthemes.com/magazine-7/blocknews",
             "tags": [
               "free",
               "magazine",
-              "romanian"
+              "news"
             ],
             "main_categories": [
-              "News & Media"
-            ]
+              "News & Media",
+              "Lifestyle & Personal"
+            ],
+            "plugins": "blockspare"
           },
           "french-sports": {
             "slug": "french-sports",
             "theme": "Magazine 7",
             "main_category": "Regional & Language Specific",
-            "catgory": "Blog",
-            "name": "Sports français",
-            "homepage_type": "blog",
+            "catgory": "Gutenberg",
+            "name": "French Sports",
             "preview": "https://demos.afthemes.com/magazine-7/french-sports",
             "tags": [
               "free",
@@ -11585,32 +11621,51 @@
               "french"
             ],
             "main_categories": [
-              "News & Media"
-            ]
+              "News & Media",
+              "Lifestyle & Personal",
+              "Regional & Local News"
+            ],
+            "plugins": "blockspare"
           },
-          "german-drinks": {
-            "slug": "german-drinks",
+          "general": {
+            "slug": "general",
             "theme": "Magazine 7",
-            "main_category": "Regional & Language Specific",
-            "catgory": "Blog",
-            "name": "Deutsche Getränke",
-            "preview": "https://demos.afthemes.com/magazine-7/german-drinks",
+            "main_category": "Business & Professional",
+            "catgory": "Gutenberg",
+            "name": "General",
+            "preview": "https://demos.afthemes.com/magazine-7/general",
+            "tags": [
+              "free",
+              "business"
+            ],
+            "main_categories": [
+              "Business & eCommerce"
+            ],
+            "plugins": "blockspare"
+          },
+          "donation-blog": {
+            "slug": "donation-blog",
+            "theme": "Magazine 7",
+            "main_category": "News & Media",
+            "catgory": "Elementor",
+            "name": "Donation Blog",
+            "preview": "https://demos.afthemes.com/magazine-7/donation-blog",
             "tags": [
               "free",
               "magazine",
-              "german"
+              "ngo"
             ],
             "main_categories": [
               "News & Media"
-            ]
+            ],
+            "plugins": "elementor,elespare"
           },
           "indian-culture": {
             "slug": "indian-culture",
             "theme": "Magazine 7",
             "main_category": "Regional & Language Specific",
-            "catgory": "Blog",
-            "name": "भारतीय संस्कृति",
-            "homepage_type": "blog",
+            "catgory": "Elementor",
+            "name": "Indian Culture",
             "preview": "https://demos.afthemes.com/magazine-7/indian-culture",
             "tags": [
               "free",
@@ -11618,88 +11673,26 @@
               "indian"
             ],
             "main_categories": [
-              "News & Media"
-            ]
+              "News & Media",
+              "Regional & Local News"
+            ],
+            "plugins": "elementor,elespare"
           },
-          "japanese-tech": {
-            "slug": "japanese-tech",
+          "memorial-park": {
+            "slug": "memorial-park",
             "theme": "Magazine 7",
             "main_category": "Regional & Language Specific",
-            "catgory": "Blog",
-            "name": "日本の技術",
-            "preview": "https://demos.afthemes.com/magazine-7/japanese-tech",
+            "catgory": "Elementor",
+            "name": "Memorial Park",
+            "preview": "https://demos.afthemes.com/magazine-7/memorial-park",
             "tags": [
               "free",
-              "magazine",
-              "japanese"
+              "business"
             ],
             "main_categories": [
-              "News & Media"
-            ]
-          },
-          "korean-surgery": {
-            "slug": "korean-surgery",
-            "theme": "Magazine 7",
-            "main_category": "Regional & Language Specific",
-            "catgory": "Blog",
-            "name": "한의외과",
-            "preview": "https://demos.afthemes.com/magazine-7/korean-surgery",
-            "tags": [
-              "free",
-              "magazine",
-              "korean"
+              "Business & eCommerce"
             ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
-          "myanmar-tourism": {
-            "slug": "myanmar-tourism",
-            "theme": "Magazine 7",
-            "main_category": "Regional & Language Specific",
-            "catgory": "Blog",
-            "name": "မြန်မာ့ခရီးသွားလုပ်ငန်း",
-            "preview": "https://demos.afthemes.com/magazine-7/myanmar-tourism",
-            "tags": [
-              "free",
-              "magazine",
-              "myanmar"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
-          "nepali-culture": {
-            "slug": "nepali-culture",
-            "theme": "Magazine 7",
-            "main_category": "Regional & Language Specific",
-            "catgory": "Blog",
-            "name": "नेपाली संस्कृति",
-            "preview": "https://demos.afthemes.com/magazine-7/nepali-culture",
-            "tags": [
-              "free",
-              "magazine",
-              "nepali"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
-          "russian-history": {
-            "slug": "russian-history",
-            "theme": "Magazine 7",
-            "main_category": "Regional & Language Specific",
-            "catgory": "Blog",
-            "name": "Русская история",
-            "preview": "https://demos.afthemes.com/magazine-7/russian-history",
-            "tags": [
-              "free",
-              "magazine",
-              "russian"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
+            "plugins": "elementor,elespare"
           }
         }
       },

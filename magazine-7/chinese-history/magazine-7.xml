@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.6.1" created="2024-08-13 05:38" -->
+	<!-- generator="WordPress/6.9" created="2026-01-02 07:57" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>中国历史</title>
 	<link>https://demos.afthemes.com/magazine-7/chinese-history</link>
 	<description></description>
-	<pubDate>Tue, 13 Aug 2024 05:38:13 +0000</pubDate>
+	<pubDate>Fri, 02 Jan 2026 07:57:56 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.afthemes.com/magazine-7/</wp:base_site_url>
@@ -98,6 +98,13 @@
 		<wp:term_slug><![CDATA[chromenews-pro]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[chromenews-pro]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>14</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[magazine-7]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[magazine-7]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>11</wp:term_id>
@@ -183,7 +190,7 @@
 	<wp:term><wp:term_id>12</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social]]></wp:term_slug><wp:term_name><![CDATA[social]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<generator>https://wordpress.org/?v=6.9</generator>
 
 		<item>
 		<title><![CDATA[af-themes-main-dark-2-150x150]]></title>
@@ -3401,7 +3408,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 							</item>
 					<item>
 		<title><![CDATA[家]]></title>
-		<link>https://demos.afthemes.com/magazine-7/chinese-history/2024/07/17/%e5%ae%b6/</link>
+		<link>https://demos.afthemes.com/magazine-7/chinese-history/2024/08/27/%e5%ae%b6/</link>
 		<pubDate>Wed, 17 Jul 2024 05:02:44 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/magazine-7/chinese-history/2024/07/17/%e5%ae%b6/</guid>
@@ -3409,10 +3416,10 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>219</wp:post_id>
-		<wp:post_date><![CDATA[2024-07-17 05:02:44]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-08-27 11:19:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-07-17 05:02:44]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-17 05:02:44]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-17 05:02:44]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-08-27 11:19:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-27 11:19:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[%e5%ae%b6]]></wp:post_name>
@@ -3441,7 +3448,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
@@ -3453,12 +3460,16 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demos.afthemes.com/magazine-7/clean-blog/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/magazine-7/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-07-17]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[所有演示]]></title>
-		<link>https://demos.afthemes.com/magazine-7/chinese-history/2024/07/17/%e6%89%80%e6%9c%89%e6%bc%94%e7%a4%ba-2/</link>
+		<link>https://demos.afthemes.com/magazine-7/chinese-history/2024/08/27/%e6%89%80%e6%9c%89%e6%bc%94%e7%a4%ba-2/</link>
 		<pubDate>Wed, 17 Jul 2024 05:02:44 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/magazine-7/chinese-history/2024/07/17/%e6%89%80%e6%9c%89%e6%bc%94%e7%a4%ba-2/</guid>
@@ -3466,10 +3477,10 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>220</wp:post_id>
-		<wp:post_date><![CDATA[2024-07-17 05:02:44]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-08-27 11:19:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-07-17 05:02:44]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-17 05:02:44]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-17 05:02:44]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-08-27 11:19:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-27 11:19:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[%e6%89%80%e6%9c%89%e6%bc%94%e7%a4%ba-2]]></wp:post_name>
@@ -3498,7 +3509,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
@@ -3512,10 +3523,14 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://afthemes.com/products/magazine-7/#aft-view-starter-sites]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-07-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[升级]]></title>
-		<link>https://demos.afthemes.com/magazine-7/chinese-history/2024/07/17/%e5%8d%87%e7%b4%9a/</link>
+		<link>https://demos.afthemes.com/magazine-7/chinese-history/2024/08/27/%e5%8d%87%e7%b4%9a/</link>
 		<pubDate>Wed, 17 Jul 2024 05:02:44 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/magazine-7/chinese-history/2024/07/17/%e5%8d%87%e7%b4%9a/</guid>
@@ -3523,10 +3538,10 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>221</wp:post_id>
-		<wp:post_date><![CDATA[2024-07-17 05:20:24]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-08-27 11:19:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-07-17 05:02:44]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-17 05:20:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-17 05:20:24]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-08-27 11:19:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-27 11:19:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[%e5%8d%87%e7%b4%9a]]></wp:post_name>
@@ -3555,7 +3570,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
@@ -3568,6 +3583,10 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://afthemes.com/products/magazine-7-plus/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-07-17]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4252,6 +4271,31 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="wp_theme" nicename="chromenews"><![CDATA[chromenews]]></category>
+						</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://demos.afthemes.com/magazine-7/chinese-history/2025/05/14/wp-global-styles-magazine-7/</link>
+		<pubDate>Wed, 14 May 2025 04:43:02 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/magazine-7/chinese-history/2025/05/14/wp-global-styles-magazine-7/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 3, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>261</wp:post_id>
+		<wp:post_date><![CDATA[2025-05-14 04:43:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-05-14 04:43:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-05-14 04:43:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-14 04:43:02]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-magazine-7]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="magazine-7"><![CDATA[magazine-7]]></category>
 						</item>
 				</channel>
 </rss>
