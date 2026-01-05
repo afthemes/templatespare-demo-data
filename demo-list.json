@@ -1434,16 +1434,16 @@
             ],
             "plugins": "woocommerce,blockspare"
           },
-          "yogakit": {
-            "slug": "yogakit",
+          "catholic-faith": {
+            "slug": "catholic-faith",
             "theme": "CoverNews Pro",
             "main_category": "Business & Professional",
             "catgory": "Meditation",
-            "name": "Yogakit Pro",
-            "preview": "https://demos.afthemes.com/covernews-pro/yogakit/",
+            "name": "Catholic Faith",
+            "preview": "https://demos.afthemes.com/covernews-pro/catholic-faith/",
             "tags": [
               "pro",
-              "meditation",
+              "religion",
               "business",
               "elementor"
             ],
@@ -1453,24 +1453,43 @@
             ],
             "plugins": "elementor,elespare"
           },
-          "pupikit": {
-            "slug": "pupikit",
+          "perfume-brand": {
+            "slug": "perfume-brand",
             "theme": "CoverNews Pro",
             "main_category": "Business & Professional",
-            "catgory": "Pet",
-            "name": "Pupikit Pro",
-            "preview": "https://demos.afthemes.com/covernews-pro/pupikit/",
+            "catgory": "Elementor",
+            "name": "Perfume Brand",
+            "preview": "https://demos.afthemes.com/covernews-pro/perfume-brand/",
             "tags": [
               "pro",
-              "pet",
-              "shop",
-              "gutenberg"
+              "perfume",
+              "elementor"
             ],
             "main_categories": [
               "Business & eCommerce",
               "Design & Creative"
             ],
-            "plugins": "woocommerce,elementor,elespare,essential-addons-for-elementor-lite"
+            "plugins": "elementor,elespare,essential-addons-for-elementor-lite"
+          },
+          "health-awareness": {
+            "slug": "health-awareness",
+            "theme": "CoverNews Pro",
+            "main_category": "Business & Professional",
+            "catgory": "Gutenberg",
+            "name": "Health Awareness",
+            "preview": "https://demos.afthemes.com/covernews-pro/health-awareness/",
+            "tags": [
+              "pro",
+              "health",
+              "business",
+              "gutenberg"
+            ],
+            "plugins": "blockspare",
+            "main_categories": [
+              "Business & eCommerce",
+              "Education & Non-Profit News",
+              "Design & Creative"
+            ]
           },
           "newsarab": {
             "slug": "newsarab",
@@ -2472,17 +2491,17 @@
             ],
             "plugins": "elementor,elespare"
           },
-          "utpala-yoga": {
-            "slug": "utpala-yoga",
+          "utpala-dharma": {
+            "slug": "utpala-dharma",
             "theme": "CoverNews",
             "main_category": "Business & Professional",
             "catgory": "Elementor",
-            "name": "Utpala Yoga",
-            "preview": "https://demos.afthemes.com/covernews/utpala-yoga/",
+            "name": "Utpala Dharma",
+            "preview": "https://demos.afthemes.com/covernews/utpala-dharma/",
             "tags": [
               "free",
               "business",
-              "meditation",
+              "religion",
               "elementor"
             ],
             "main_categories": [
@@ -2491,24 +2510,41 @@
             ],
             "plugins": "elementor,elespare"
           },
-          "pet-service": {
-            "slug": "pet-service",
+          "gadget-hub": {
+            "slug": "gadget-hub",
             "theme": "CoverNews",
             "main_category": "Business & Professional",
             "catgory": "Elementor",
-            "name": "Pet Service",
-            "preview": "https://demos.afthemes.com/covernews/pet-service/",
+            "name": "Gadgets Hub",
+            "preview": "https://demos.afthemes.com/covernews/gadget-hub/",
             "tags": [
               "free",
-              "shop",
-              "pet",
+              "gadgets",
               "elementor"
             ],
             "main_categories": [
               "Business & eCommerce",
               "Design & Creative"
             ],
-            "plugins": "woocommerce,elementor,elespare,essential-addons-for-elementor-lite"
+            "plugins": "elementor,elespare,essential-addons-for-elementor-lite"
+          },
+          "educose": {
+            "slug": "educose",
+            "theme": "CoverNews",
+            "main_category": "Business & Professional",
+            "catgory": "Elementor",
+            "name": "Edu Course",
+            "preview": "https://demos.afthemes.com/covernews/educose",
+            "tags": [
+              "free",
+              "education",
+              "elementor"
+            ],
+            "main_categories": [
+              "Business & eCommerce",
+              "Education & Non-Profit News"
+            ],
+            "plugins": "elementor,elespare"
           },
           "personal-portfolio": {
             "slug": "personal-portfolio",
@@ -2605,6 +2641,44 @@
               "Design & Creative"
             ],
             "plugins": "woocommerce,blockspare"
+          },
+          "enterprise-solutions": {
+            "slug": "enterprise-solutions",
+            "theme": "CoverNews",
+            "main_category": "Business & Professional",
+            "catgory": "Gutenberg",
+            "name": "Enterprise Solutions",
+            "preview": "https://demos.afthemes.com/covernews/enterprise-solutions/",
+            "tags": [
+              "free",
+              "business",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "Business & eCommerce",
+              "Lifestyle & Personal",
+              "Design & Creative"
+            ],
+            "plugins": "blockspare"
+          },
+          "human-rights": {
+            "slug": "human-rights",
+            "theme": "CoverNews",
+            "main_category": "Business & Professional",
+            "catgory": "Gutenberg",
+            "name": "Human Rights",
+            "preview": "https://demos.afthemes.com/covernews/human-rights/",
+            "tags": [
+              "free",
+              "ngo",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "Business & eCommerce",
+              "Education & Non-Profit News",
+              "Design & Creative"
+            ],
+            "plugins": "blockspare"
           }
         }
       },
