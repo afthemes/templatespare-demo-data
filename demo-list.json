@@ -10347,118 +10347,251 @@
           "dark": {
             "slug": "dark",
             "theme": "Newsium Pro",
-            "main_category": "News & Media",
+            "main_category": "Regional & Language Specific",
             "catgory": "General",
-            "name": "Newsium Dark Pro",
+            "name": "Dark Pro",
             "preview": "https://demos.afthemes.com/newsium-pro/dark/",
             "tags": [
               "pro",
               "magazine",
-              "dark"
+              "dark",
+              "nepali"
             ],
             "main_categories": [
-              "News & Media"
+              "News & Media",
+              "Regional & Local News"
             ]
           },
-          "light": {
-            "slug": "light",
+          "space-blog": {
+            "slug": "space-blog",
             "theme": "Newsium Pro",
-            "main_category": "News & Media",
+            "main_category": "Regional & Language Specific",
             "catgory": "General",
-            "name": "Newsium Light Pro",
-            "preview": "https://demos.afthemes.com/newsium-pro/light/",
+            "name": "Space Blog ",
+            "preview": "https://demos.afthemes.com/newsium-pro/space-blog/",
             "tags": [
               "pro",
               "magazine",
-              "light"
+              "russian"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Regional & Local News"
+            ]
+          },
+          "f1-racing": {
+            "slug": "f1-racing",
+            "theme": "Newsium Pro",
+            "main_category": "News & Media",
+            "catgory": "Gutenberg",
+            "name": "F1 Racing Blog ",
+            "preview": "https://demos.afthemes.com/newsium-pro/f1-racing/",
+            "tags": [
+              "pro",
+              "magazine",
+              "automobile",
+              "gutenberg"
             ],
             "main_categories": [
               "News & Media"
-            ]
+            ],
+            "plugins":"blockspare"
           },
-          "sport": {
-            "slug": "sport",
+          "yoga-blog": {
+            "slug": "yoga-blog",
             "theme": "Newsium Pro",
             "main_category": "News & Media",
-            "catgory": "Sport",
-            "name": "Sport Pro",
-            "preview": "https://demos.afthemes.com/newsium-pro/sport/",
+            "catgory": "Gutenberg",
+            "name": "Yoga Blog ",
+            "preview": "https://demos.afthemes.com/newsium-pro/yoga-blog/",
             "tags": [
               "pro",
               "magazine",
-              "sport"
+              "automobile",
+              "gutenberg"
             ],
             "main_categories": [
               "News & Media"
-            ]
+            ],
+            "plugins":"blockspare"
           },
-          "fashion": {
-            "slug": "fashion",
+          "travel-stories": {
+            "slug": "travel-stories",
+            "theme": "Newsium Pro",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Gutenberg",
+            "name": "Travel Stories",
+            "preview": "https://demos.afthemes.com/newsium-pro/travel-stories/",
+            "tags": [
+              "pro",
+              "magazine",
+              "arabic",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Regional & Local News"
+            ],
+            "plugins":"blockspare"
+          },
+          "tech-hub": {
+            "slug": "tech-hub",
+            "theme": "Newsium Pro",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Gutenberg",
+            "name": "Tech Hub",
+            "preview": "https://demos.afthemes.com/newsium-pro/tech-hub/",
+            "tags": [
+              "pro",
+              "magazine",
+              "russian",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Regional & Local News"
+            ],
+            "plugins":"blockspare"
+          },
+          "public-health": {
+            "slug": "public-health",
+            "theme": "Newsium Pro",
+            "main_category": "Business & Professional",
+            "catgory": "Gutenberg",
+            "name": "Public Health",
+            "preview": "https://demos.afthemes.com/newsium-pro/public-health/",
+            "tags": [
+              "pro",
+              "business",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "Business & eCommerce"
+            ],
+            "plugins":"blockspare"
+          },
+          "enterprise-solutions": {
+            "slug": "enterprise-solutions",
+            "theme": "Newsium Pro",
+            "main_category": "Business & Professional",
+            "catgory": "Gutenberg",
+            "name": "Enterprise Solutions",
+            "preview": "https://demos.afthemes.com/newsium-pro/enterprise-solutions/",
+            "tags": [
+              "pro",
+              "business",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "Business & eCommerce"
+            ],
+            "plugins":"blockspare"
+          },
+          "decor-blog": {
+            "slug": "decor-blog",
             "theme": "Newsium Pro",
             "main_category": "News & Media",
-            "catgory": "Fashion",
-            "name": "Fashion Pro",
-            "preview": "https://demos.afthemes.com/newsium-pro/fashion/",
+            "catgory": "Elementor",
+            "name": "Decor Blog",
+            "preview": "https://demos.afthemes.com/newsium-pro/decor-blog/",
             "tags": [
               "pro",
               "magazine",
-              "fashion"
+              "elementor"
             ],
             "main_categories": [
-              "News & Media",
-              "Lifestyle & Personal"
-            ]
+              "News & Media"
+            ],
+            "plugins":"elementor,elespare"
           },
-          "classic": {
-            "slug": "classic",
+          "financing-blog": {
+            "slug": "financing-blog",
             "theme": "Newsium Pro",
-            "main_category": "Specialty & Niche",
-            "catgory": "General",
-            "name": "Classic Pro",
-            "preview": "https://demos.afthemes.com/newsium-pro/classic/",
+            "main_category": "News & Media",
+            "catgory": "Elementor",
+            "name": "Financing Blog",
+            "preview": "https://demos.afthemes.com/newsium-pro/financing-blog/",
             "tags": [
               "pro",
               "magazine",
-              "classic"
+              "elementor"
             ],
             "main_categories": [
-              "News & Media",
-              "Specialty & Niche"
-            ]
+              "News & Media"
+            ],
+            "plugins":"elementor,elespare"
           },
-          "gadgets": {
-            "slug": "gadgets",
+          "musical-blog": {
+            "slug": "musical-blog",
             "theme": "Newsium Pro",
-            "main_category": "Technology & Innovation",
-            "catgory": "Business",
-            "name": "Gadgets Pro",
-            "preview": "https://demos.afthemes.com/newsium-pro/gadgets/",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Elementor",
+            "name": "Musical Blog",
+            "preview": "https://demos.afthemes.com/newsium-pro/musical-blog/",
             "tags": [
               "pro",
               "magazine",
-              "gadgets"
+              "elementor",
+              "french"
             ],
             "main_categories": [
               "News & Media",
-              "Technology & Innovation"
-            ]
+              "Regional & Local News"
+            ],
+            "plugins":"elementor,elespare"
           },
-          "lifestyle": {
-            "slug": "lifestyle",
+          "capture-now": {
+            "slug": "capture-now",
             "theme": "Newsium Pro",
-            "main_category": "Lifestyle & Personal",
-            "catgory": "Blog",
-            "name": "Lifestyle Pro",
-            "preview": "https://demos.afthemes.com/newsium-pro/lifestyle/",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Elementor",
+            "name": "Capture Now",
+            "preview": "https://demos.afthemes.com/newsium-pro/capture-now/",
             "tags": [
               "pro",
-              "blog",
-              "lifestyle",
-              "fitness"
+              "magazine",
+              "elementor",
+              "spanish"
             ],
             "main_categories": [
-              "Lifestyle & Personal"
-            ]
+              "News & Media",
+              "Regional & Local News"
+            ],
+            "plugins":"elementor,elespare"
+          },
+          "educose": {
+            "slug": "educose",
+            "theme": "Newsium Pro",
+            "main_category": "Business & Professional",
+            "catgory": "Elementor",
+            "name": "Educose",
+            "preview": "https://demos.afthemes.com/newsium-pro/educose/",
+            "tags": [
+              "pro",
+              "magazine",
+              "elementor"
+            ],
+            "main_categories": [
+              "Business & eCommerce"
+            ],
+            "plugins":"elementor,elespare"
+          },
+          "brand": {
+            "slug": "brand",
+            "theme": "Newsium Pro",
+            "main_category": "Business & Professional",
+            "catgory": "Elementor",
+            "name": "Brand",
+            "preview": "https://demos.afthemes.com/newsium-pro/brand/",
+            "tags": [
+              "pro",
+              "magazine",
+              "elementor"
+            ],
+            "main_categories": [
+              "Business & eCommerce"
+            ],
+            "plugins":"elementor,elespare"
           }
         }
       },
@@ -10482,22 +10615,6 @@
               "News & Media"
             ]
           },
-          "sports": {
-            "slug": "sports",
-            "theme": "Newsium",
-            "main_category": "News & Media",
-            "catgory": "Sport",
-            "name": "Sport",
-            "preview": "https://demos.afthemes.com/newsium/sport/",
-            "tags": [
-              "free",
-              "magazine",
-              "sport"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
           "fashion": {
             "slug": "fashion",
             "theme": "Newsium",
@@ -10515,79 +10632,23 @@
               "Lifestyle & Personal"
             ]
           },
-          "decor-blog": {
-            "slug": "decor-blog",
+          "sumo-wrestling": {
+            "slug": "sumo-wrestling",
             "theme": "Newsium",
-            "main_category": "Specialty & Niche",
-            "catgory": "Elementor",
-            "name": "Decor Blog",
-            "preview": "https://demos.afthemes.com/newsium/decor-blog/",
+            "main_category": "Regional & Language Specific",
+            "catgory": "General",
+            "name": "Sumo Wrestling",
+            "preview": "https://demos.afthemes.com/newsium/sumo-wrestling/",
             "tags": [
               "free",
-              "elementor",
-              "construction"
+              "japanese",
+              "magazine"
             ],
             "main_categories": [
-              "Lifestyle & Personal",
-              "Specialty & Niche",
-              "Design & Creative"
-            ],
-            "plugins": "elementor,elespare"
-          },
-          "financing-blog": {
-            "slug": "financing-blog",
-            "theme": "Newsium",
-            "main_category": "Business & Professional",
-            "catgory": "Elementor",
-            "name": "Financing Blog",
-            "preview": "https://demos.afthemes.com/newsium/financing-blog/",
-            "tags": [
-              "free",
-              "elementor",
-              "finance"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal",
-              "Design & Creative"
-            ],
-            "plugins": "elementor,elespare"
-          },
-          "football-blog": {
-            "slug": "football-blog",
-            "theme": "Newsium",
-            "main_category": "News & Media",
-            "catgory": "Elementor",
-            "name": "Football Blog",
-            "preview": "https://demos.afthemes.com/newsium/football-blog/",
-            "tags": [
-              "free",
-              "elementor",
-              "sport"
-            ],
-            "main_categories": [
+              "Regional & Local News",
               "News & Media",
-              "Lifestyle & Personal",
               "Design & Creative"
-            ],
-            "plugins": "elementor,elespare"
-          },
-          "historic-blog": {
-            "slug": "historic-blog",
-            "theme": "Newsium",
-            "main_category": "Lifestyle & Personal",
-            "catgory": "Elementor",
-            "name": "Historic Blog",
-            "preview": "https://demos.afthemes.com/newsium/historic-blog/",
-            "tags": [
-              "free",
-              "elementor",
-              "travel"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal",
-              "Design & Creative"
-            ],
-            "plugins": "elementor,elespare"
+            ]
           },
           "safari-blog": {
             "slug": "safari-blog",
@@ -10607,198 +10668,94 @@
             ],
             "plugins": "elementor,elespare"
           },
-          "classic": {
-            "slug": "classic",
-            "theme": "Newsium",
-            "main_category": "Specialty & Niche",
-            "catgory": "General",
-            "name": "Classic",
-            "preview": "https://demos.afthemes.com/newsium/classic/",
-            "tags": [
-              "free",
-              "magazine",
-              "classic"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Specialty & Niche"
-            ]
-          },
-          "gadgets": {
-            "slug": "gadgets",
-            "theme": "Newsium",
-            "main_category": "Technology & Innovation",
-            "catgory": "Business",
-            "name": "Gadgets",
-            "preview": "https://demos.afthemes.com/newsium/gadgets/",
-            "tags": [
-              "free",
-              "magazine",
-              "gadgets"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Technology & Innovation"
-            ]
-          },
-          "lifestyle": {
-            "slug": "lifestyle",
-            "theme": "Newsium",
-            "main_category": "Lifestyle & Personal",
-            "catgory": "Blog",
-            "name": "Lifestyle",
-            "preview": "https://demos.afthemes.com/newsium/lifestyle/",
-            "tags": [
-              "free",
-              "blog",
-              "lifestyle",
-              "fitness"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal"
-            ]
-          },
-          "travel-blog": {
-            "slug": "travel-blog",
-            "theme": "Newsium",
-            "main_category": "Lifestyle & Personal",
-            "catgory": "Elementor",
-            "name": "Travel Blog",
-            "preview": "https://demos.afthemes.com/newsium/travel-blog/",
-            "tags": [
-              "free",
-              "elementor",
-              "travel"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal",
-              "Design & Creative"
-            ],
-            "plugins": "elementor,elespare"
-          },
-          "fitness-blog": {
-            "slug": "fitness-blog",
-            "theme": "Newsium",
-            "main_category": "Lifestyle & Personal",
-            "catgory": "Elementor",
-            "name": "Fitness Blog",
-            "preview": "https://demos.afthemes.com/newsium/fitness-blog/",
-            "tags": [
-              "free",
-              "elementor",
-              "fitness"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal",
-              "Design & Creative"
-            ],
-            "plugins": "elementor,elespare"
-          },
-          "food-blog": {
-            "slug": "food-blog",
-            "theme": "Newsium",
-            "main_category": "Lifestyle & Personal",
-            "catgory": "Elementor",
-            "name": "Food Blog",
-            "preview": "https://demos.afthemes.com/newsium/food-blog/",
-            "tags": [
-              "free",
-              "elementor",
-              "food"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal",
-              "Design & Creative"
-            ],
-            "plugins": "elementor,elespare"
-          },
-          "cars-blog": {
-            "slug": "cars-blog",
-            "theme": "Newsium",
-            "main_category": "Specialty & Niche",
-            "catgory": "Elementor",
-            "name": "Cars Blog",
-            "preview": "https://demos.afthemes.com/newsium/cars-blog/",
-            "tags": [
-              "free",
-              "elementor",
-              "automobile"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal",
-              "Specialty & Niche",
-              "Design & Creative"
-            ],
-            "plugins": "elementor,elespare"
-          },
-          "wedding": {
-            "slug": "wedding",
-            "theme": "Newsium",
-            "main_category": "Lifestyle & Personal",
-            "catgory": "Elementor",
-            "name": "Wedding",
-            "preview": "https://demos.afthemes.com/newsium/wedding/",
-            "tags": [
-              "free",
-              "elementor",
-              "blog",
-              "wedding"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal",
-              "Design & Creative"
-            ],
-            "plugins": "elementor,elespare"
-          },
-          "crypto-news": {
-            "slug": "crypto-news",
-            "theme": "Newsium",
-            "main_category": "Technology & Innovation",
-            "catgory": "Business",
-            "name": "Crypto News",
-            "preview": "https://demos.afthemes.com/newsium/crypto-news/",
-            "tags": [
-              "free",
-              "magazine",
-              "crypto"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Technology & Innovation"
-            ]
-          },
-          "arabic-news": {
-            "slug": "arabic-news",
+          "indian": {
+            "slug": "indian",
             "theme": "Newsium",
             "main_category": "Regional & Language Specific",
-            "catgory": "General",
-            "name": "Arabic News",
-            "preview": "https://demos.afthemes.com/newsium/arabic-news/",
+            "catgory": "Elementor",
+            "name": "Indian",
+            "preview": "https://demos.afthemes.com/newsium/indian/",
             "tags": [
               "free",
-              "magazine",
-              "general",
-              "rtl"
+              "elementor",
+              "indian"
             ],
             "main_categories": [
-              "News & Media"
-            ]
+              "Regional & Local News",
+              "Design & Creative"
+            ],
+            "plugins": "elementor,elespare"
           },
-          "china-news": {
-            "slug": "china-news",
+          "religion": {
+            "slug": "religion",
             "theme": "Newsium",
-            "main_category": "Regional & Language Specific",
-            "catgory": "General",
-            "name": "China News",
-            "preview": "https://demos.afthemes.com/newsium/china-news/",
+            "main_category": "Business & Professional",
+            "catgory": "Elementor",
+            "name": "Religion",
+            "preview": "https://demos.afthemes.com/newsium/religion/",
             "tags": [
               "free",
-              "magazine",
+              "elementor",
+              "business"
+            ],
+            "main_categories": [
+              "Business & eCommerce",
+              "Design & Creative"
+            ],
+            "plugins": "elementor,elespare"
+          },
+          "general-block": {
+            "slug": "general-block",
+            "theme": "Newsium",
+            "main_category": "News & Media",
+            "catgory": "Gutenberg",
+            "name": "General Block",
+            "preview": "https://demos.afthemes.com/newsium/general-block/",
+            "tags": [
+              "free",
+              "gutenberg",
+              "magazine"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Design & Creative"
+            ],
+            "plugins": "blockspare"
+          },
+          "visit-china": {
+            "slug": "visit-china",
+            "theme": "Newsium",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Gutenberg",
+            "name": "Visit China",
+            "preview": "https://demos.afthemes.com/newsium/visit-china/",
+            "tags": [
+              "free",
+              "gutenberg",
               "chinese"
             ],
             "main_categories": [
-              "News & Media"
-            ]
+              "News & Media",
+              "Regional & Local News"
+            ],
+            "plugins": "blockspare"
+          },
+          "generic": {
+            "slug": "generic",
+            "theme": "Newsium",
+            "main_category": "Business & Professional",
+            "catgory": "Gutenberg",
+            "name": "Generic",
+            "preview": "https://demos.afthemes.com/newsium/generic/",
+            "tags": [
+              "free",
+              "gutenberg",
+              "chinese"
+            ],
+            "main_categories": [
+              "Business & eCommerce"
+            ],
+            "plugins": "blockspare"
           }
         }
       },
@@ -11885,71 +11842,256 @@
               "Lifestyle & Personal"
             ]
           },
-          "newsportal": {
-            "slug": "newsportal",
+          "gadgets": {
+            "slug": "gadgets",
             "theme": "Magnitude Pro",
-            "main_category": "News & Media",
+            "main_category": "Regional & Language Specific",
             "catgory": "General",
-            "name": "Newsportal Pro",
-            "preview": "https://demos.afthemes.com/magnitude-pro/newsportal/",
+            "name": "Gadgets Pro",
+            "preview": "https://demos.afthemes.com/magnitude-pro/gadgets",
             "tags": [
               "pro",
               "magazine",
-              "general"
+              "gadgets",
+              "french"
             ],
             "main_categories": [
-              "News & Media"
+              "News & Media",
+              "Regional & Local News",
+              "Technology & Innovation"
             ]
           },
-          "sport": {
-            "slug": "sport",
+          "nepali-culture": {
+            "slug": "nepali-culture",
             "theme": "Magnitude Pro",
-            "main_category": "News & Media",
-            "catgory": "Sport",
-            "name": "Sport Pro",
-            "preview": "https://demos.afthemes.com/magnitude-pro/sport/",
+            "main_category": "Regional & Language Specific",
+            "catgory": "General",
+            "name": "Nepali Culture Pro",
+            "preview": "https://demos.afthemes.com/magnitude-pro/nepali-culture",
             "tags": [
               "pro",
               "magazine",
-              "sport"
+              "culture",
+              "nepali"
             ],
             "main_categories": [
-              "News & Media"
+              "News & Media",
+              "Regional & Local News",
+              "Lifestyle & Personal"
             ]
           },
           "dark": {
             "slug": "dark",
             "theme": "Magnitude Pro",
             "main_category": "News & Media",
-            "catgory": "Dark",
-            "name": "Magnitude Dark",
-            "preview": "https://demos.afthemes.com/magnitude-pro/dark/",
+            "catgory": "Gutenberg",
+            "name": "Dark Pro",
+            "preview": "https://demos.afthemes.com/magnitude-pro/dark",
             "tags": [
               "pro",
               "magazine",
-              "dark"
+              "gutenberg"
             ],
             "main_categories": [
               "News & Media"
-            ]
+            ],
+            "plugins":"blockspare"
           },
-          "gadgets": {
-            "slug": "gadgets",
+          "lifestyle": {
+            "slug": "lifestyle",
             "theme": "Magnitude Pro",
-            "main_category": "Technology & Innovation",
-            "catgory": "Business",
-            "name": "Magnitude Dark",
-            "homepage_type": "blog",
-            "preview": "https://demos.afthemes.com/magnitude-pro/dark/",
+            "main_category": "News & Media",
+            "catgory": "Gutenberg",
+            "name": "Lifestyle Pro",
+            "preview": "https://demos.afthemes.com/magnitude-pro/lifestyle",
             "tags": [
               "pro",
               "magazine",
-              "gadgets"
+              "gutenberg",
+              "lifestyle"
+            ],
+            "main_categories": [
+              "News & Media"
+            ],
+            "plugins":"blockspare"
+          },
+          "lawyer-blog": {
+            "slug": "lawyer-blog",
+            "theme": "Magnitude Pro",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Gutenberg",
+            "name": "Lawyer Blog Pro",
+            "preview": "https://demos.afthemes.com/magnitude-pro/lawyer-blog",
+            "tags": [
+              "pro",
+              "magazine",
+              "gutenberg",
+              "laywer",
+              "russian"
             ],
             "main_categories": [
               "News & Media",
-              "Technology & Innovation"
-            ]
+              "Regional & Local News"
+            ],
+            "plugins":"blockspare"
+          },
+          "sport-blog": {
+            "slug": "sport-blog",
+            "theme": "Magnitude Pro",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Gutenberg",
+            "name": "Sport Blog Pro",
+            "preview": "https://demos.afthemes.com/magnitude-pro/sport-blog",
+            "tags": [
+              "pro",
+              "magazine",
+              "gutenberg",
+              "sport",
+              "spanish"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Regional & Local News"
+            ],
+            "plugins":"blockspare"
+          },
+          "generic": {
+            "slug": "generic",
+            "theme": "Magnitude Pro",
+            "main_category": "Business & Professional",
+            "catgory": "Gutenberg",
+            "name": "Generic Pro",
+            "preview": "https://demos.afthemes.com/magnitude-pro/generic",
+            "tags": [
+              "pro",
+              "business",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "Business & eCommerce"
+            ],
+            "plugins":"blockspare"
+          },
+          "ngo": {
+            "slug": "ngo",
+            "theme": "Magnitude Pro",
+            "main_category": "Business & Professional",
+            "catgory": "Gutenberg",
+            "name": "NGO Pro",
+            "preview": "https://demos.afthemes.com/magnitude-pro/ngo",
+            "tags": [
+              "pro",
+              "business",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "Business & eCommerce"
+            ],
+            "plugins":"blockspare"
+          },
+          "property-blog": {
+            "slug": "property-blog",
+            "theme": "Magnitude Pro",
+            "main_category": "News & Media",
+            "catgory": "Elementor",
+            "name": "Property Blog Pro",
+            "preview": "https://demos.afthemes.com/magnitude-pro/property-blog",
+            "tags": [
+              "pro",
+              "magazine",
+              "elementor"
+            ],
+            "main_categories": [
+              "News & Media"
+            ],
+            "plugins":"elementor,elespare"
+          },
+          "vintage-blog": {
+            "slug": "vintage-blog",
+            "theme": "Magnitude Pro",
+            "main_category": "News & Media",
+            "catgory": "Elementor",
+            "name": "Vintage Blog Pro",
+            "preview": "https://demos.afthemes.com/magnitude-pro/vintage-blog",
+            "tags": [
+              "pro",
+              "magazine",
+              "elementor"
+            ],
+            "main_categories": [
+              "News & Media"
+            ],
+            "plugins":"elementor,elespare"
+          },
+          "brand": {
+            "slug": "brand",
+            "theme": "Magnitude Pro",
+            "main_category": "Business & Professional",
+            "catgory": "Elementor",
+            "name": "Brand Pro",
+            "preview": "https://demos.afthemes.com/magnitude-pro/brand",
+            "tags": [
+              "pro",
+              "business",
+              "elementor"
+            ],
+            "main_categories": [
+              "Business & eCommerce"
+            ],
+            "plugins":"elementor,elespare"
+          },
+          "educatude": {
+            "slug": "educatude",
+            "theme": "Magnitude Pro",
+            "main_category": "Business & Professional",
+            "catgory": "Elementor",
+            "name": "Educatude Pro",
+            "preview": "https://demos.afthemes.com/magnitude-pro/educatude",
+            "tags": [
+              "pro",
+              "business",
+              "elementor"
+            ],
+            "main_categories": [
+              "Business & eCommerce"
+            ],
+            "plugins":"elementor,elespare"
+          },
+          "chinese-news": {
+            "slug": "chinese-news",
+            "theme": "Magnitude Pro",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Elementor",
+            "name": "Chinese News Pro",
+            "preview": "https://demos.afthemes.com/magnitude-pro/chinese-news",
+            "tags": [
+              "pro",
+              "chinese",
+              "elementor"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Regional & Local News"
+            ],
+            "plugins":"elementor,elespare"
+          },
+          "architecture": {
+            "slug": "architecture",
+            "theme": "Magnitude Pro",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Elementor",
+            "name": "Architecture Pro",
+            "preview": "https://demos.afthemes.com/magnitude-pro/architecture",
+            "tags": [
+              "pro",
+              "arabic",
+              "elementor"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Regional & Local News"
+            ],
+            "plugins":"elementor,elespare"
           }
         }
       },
@@ -11975,57 +12117,94 @@
               "Lifestyle & Personal"
             ]
           },
-          "newsportal": {
-            "slug": "newsportal",
-            "theme": "Magnitude",
-            "main_category": "News & Media",
-            "catgory": "General",
-            "name": "Newsportal",
-            "preview": "https://demos.afthemes.com/magnitude/newsportal/",
-            "tags": [
-              "free",
-              "magazine",
-              "general"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
           "sport": {
             "slug": "sport",
             "theme": "Magnitude",
             "main_category": "News & Media",
-            "catgory": "Sport",
+            "catgory": "General",
             "name": "Sport",
-            "preview": "https://demos.afthemes.com/magnitude/sport/",
+            "preview": "https://demos.afthemes.com/magnitude/sport",
             "tags": [
               "free",
               "magazine",
               "sport"
             ],
             "main_categories": [
-              "News & Media"
+              "News & Media",
+              "Lifestyle & Personal"
             ]
           },
-          "daily-life": {
-            "slug": "daily-life",
+          "german-bread": {
+            "slug": "german-bread",
             "theme": "Magnitude",
             "main_category": "News & Media",
-            "catgory": "Elementor",
-            "name": "Daily Life",
-            "preview": "https://demos.afthemes.com/magnitude/daily-life/",
+            "catgory": "General",
+            "name": "German Bread",
+            "preview": "https://demos.afthemes.com/magnitude/german-bread",
             "tags": [
               "free",
-              "blog",
-              "lifestyle",
-              "elementor"
+              "magazine",
+              "german"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Lifestyle & Personal"
+            ]
+          },
+          "blocknews": {
+            "slug": "blocknews",
+            "theme": "Magnitude",
+            "main_category": "News & Media",
+            "catgory": "Gutenberg",
+            "name": "Blocknews",
+            "preview": "https://demos.afthemes.com/magnitude/blocknews",
+            "tags": [
+              "free",
+              "magazine",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Lifestyle & Personal"
+            ],
+            "plugins":"blockspare"
+          },
+          "flight-details": {
+            "slug": "flight-details",
+            "theme": "Magnitude",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Gutenberg",
+            "name": "Flight Details",
+            "preview": "https://demos.afthemes.com/magnitude/flight-details",
+            "tags": [
+              "free",
+              "magazine",
+              "gutenberg",
+              "turkish"
             ],
             "main_categories": [
               "News & Media",
               "Lifestyle & Personal",
-              "Design & Creative"
+              "Regional & Local News"
             ],
-            "plugins": "elementor,elespare"
+            "plugins":"blockspare"
+          },
+          "enterprise-solutions": {
+            "slug": "enterprise-solutions",
+            "theme": "Magnitude",
+            "main_category": "Business & Professional",
+            "catgory": "Gutenberg",
+            "name": "Enterprise Solutions",
+            "preview": "https://demos.afthemes.com/magnitude/enterprise-solutions",
+            "tags": [
+              "free",
+              "business",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "Business & eCommerce"
+            ],
+            "plugins":"blockspare"
           },
           "journal-blog": {
             "slug": "journal-blog",
@@ -12033,306 +12212,51 @@
             "main_category": "News & Media",
             "catgory": "Elementor",
             "name": "Journal Blog",
-            "preview": "https://demos.afthemes.com/magnitude/journal-blog/",
+            "preview": "https://demos.afthemes.com/magnitude/journal-blog",
             "tags": [
               "free",
-              "blog",
-              "general",
+              "magazine",
+              "elementor"
+            ],
+            "main_categories": [
+              "News & Media"
+            ],
+            "plugins":"elementor,elespare"
+          },
+          "russian-lifestyle": {
+            "slug": "russian-lifestyle",
+            "theme": "Magnitude",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Elementor",
+            "name": "Russian Lifestyle",
+            "preview": "https://demos.afthemes.com/magnitude/russian-lifestyle",
+            "tags": [
+              "free",
+              "magazine",
               "elementor"
             ],
             "main_categories": [
               "News & Media",
-              "Lifestyle & Personal",
-              "Design & Creative"
+              "Regional & Local News"
             ],
-            "plugins": "elementor,elespare"
+            "plugins":"elementor,elespare"
           },
-          "property-blog": {
-            "slug": "property-blog",
-            "theme": "Magnitude",
-            "main_category": "Specialty & Niche",
-            "catgory": "Elementor",
-            "name": "Property Blog",
-            "preview": "https://demos.afthemes.com/magnitude/property-blog/",
-            "tags": [
-              "free",
-              "blog",
-              "general",
-              "elementor"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal",
-              "Specialty & Niche",
-              "Design & Creative"
-            ],
-            "plugins": "elementor,elespare"
-          },
-          "shop-blog": {
-            "slug": "shop-blog",
+          "religion": {
+            "slug": "religion",
             "theme": "Magnitude",
             "main_category": "Business & Professional",
             "catgory": "Elementor",
-            "name": "Shop Blog",
-            "preview": "https://demos.afthemes.com/magnitude/shop-blog/",
+            "name": "Religion",
+            "preview": "https://demos.afthemes.com/magnitude/religion",
             "tags": [
               "free",
-              "blog",
-              "general",
+              "business",
               "elementor"
             ],
             "main_categories": [
-              "Business & eCommerce",
-              "Lifestyle & Personal",
-              "Design & Creative"
+              "Business & eCommerce"
             ],
-            "plugins": "elementor,elespare"
-          },
-          "vintage-blog": {
-            "slug": "vintage-blog",
-            "theme": "Magnitude",
-            "main_category": "Design & Creative",
-            "catgory": "Elementor",
-            "name": "Vintage Blog",
-            "preview": "https://demos.afthemes.com/magnitude/vintage-blog/",
-            "tags": [
-              "free",
-              "blog",
-              "general",
-              "elementor"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal",
-              "Design & Creative"
-            ],
-            "plugins": "elementor,elespare"
-          },
-          "bangladesh-news": {
-            "slug": "bangladesh-news",
-            "theme": "Magnitude",
-            "main_category": "Regional & Language Specific",
-            "catgory": "Bangladesh",
-            "name": "বাংলাদেশের খবর",
-            "preview": "https://demos.afthemes.com/magnitude/bangladesh-news/",
-            "tags": [
-              "free",
-              "blog",
-              "bangladesh"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal"
-            ]
-          },
-          "brazilian-finance": {
-            "slug": "brazilian-finance",
-            "theme": "Magnitude",
-            "main_category": "Regional & Language Specific",
-            "catgory": "Brazil",
-            "name": "Finanças Brasileiras",
-            "preview": "https://demos.afthemes.com/magnitude/brazilian-finance/",
-            "tags": [
-              "free",
-              "blog",
-              "brazil"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal"
-            ]
-          },
-          "chinese-calligraphy": {
-            "slug": "chinese-calligraphy",
-            "theme": "Magnitude",
-            "main_category": "Regional & Language Specific",
-            "catgory": "Chinese",
-            "name": "中国书法",
-            "preview": "https://demos.afthemes.com/magnitude/chinese-calligraphy/",
-            "tags": [
-              "free",
-              "blog",
-              "chinese"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal"
-            ]
-          },
-          "donation-blog": {
-            "slug": "donation-blog",
-            "theme": "Magnitude",
-            "main_category": "Regional & Language Specific",
-            "catgory": "Africa",
-            "name": "Donasie blog",
-            "homepage_type": "blog",
-            "preview": "https://demos.afthemes.com/magnitude/donation-blog/",
-            "tags": [
-              "free",
-              "blog",
-              "africa"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal"
-            ]
-          },
-          "education-consultancy": {
-            "slug": "education-consultancy",
-            "theme": "Magnitude",
-            "main_category": "Regional & Language Specific",
-            "catgory": "Nepali",
-            "name": "शिक्षा परामर्श",
-            "preview": "https://demos.afthemes.com/magnitude/education-consultancy/",
-            "tags": [
-              "free",
-              "blog",
-              "nepali"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal"
-            ]
-          },
-          "french-entertainment": {
-            "slug": "french-entertainment",
-            "theme": "Magnitude",
-            "main_category": "Regional & Language Specific",
-            "catgory": "French",
-            "name": "Divertissement français",
-            "preview": "https://demos.afthemes.com/magnitude/french-entertainment/",
-            "tags": [
-              "free",
-              "blog",
-              "french"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal"
-            ]
-          },
-          "german-bread": {
-            "slug": "german-bread",
-            "theme": "Magnitude",
-            "main_category": "Regional & Language Specific",
-            "catgory": "German",
-            "name": "Deutsches Brot",
-            "preview": "https://demos.afthemes.com/magnitude/german-bread/",
-            "tags": [
-              "free",
-              "blog",
-              "german"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal"
-            ]
-          },
-          "indian-food": {
-            "slug": "indian-food",
-            "theme": "Magnitude",
-            "main_category": "Regional & Language Specific",
-            "catgory": "Indian",
-            "name": "भारतीय भोजन",
-            "preview": "https://demos.afthemes.com/magnitude/indian-food/",
-            "tags": [
-              "free",
-              "blog",
-              "indian"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal"
-            ]
-          },
-          "japanese-anime": {
-            "slug": "japanese-anime",
-            "theme": "Magnitude",
-            "main_category": "Regional & Language Specific",
-            "catgory": "Japanese",
-            "name": "日本のアニメ",
-            "homepage_type": "blog",
-            "preview": "https://demos.afthemes.com/magnitude/japanese-anime/",
-            "tags": [
-              "free",
-              "blog",
-              "japanese"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal"
-            ]
-          },
-          "korean-songs": {
-            "slug": "korean-songs",
-            "theme": "Magnitude",
-            "main_category": "Regional & Language Specific",
-            "catgory": "Korean",
-            "name": "한국 노래",
-            "preview": "https://demos.afthemes.com/magnitude/korean-songs/",
-            "tags": [
-              "free",
-              "blog",
-              "korean"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal"
-            ]
-          },
-          "myanmar-temples": {
-            "slug": "myanmar-temples",
-            "theme": "Magnitude",
-            "main_category": "Regional & Language Specific",
-            "catgory": "myanamar",
-            "name": "မြန်မာဘုန်းတော်ကြီးကျောင်းများ",
-            "preview": "https://demos.afthemes.com/magnitude/myanmar-temples/",
-            "tags": [
-              "free",
-              "blog",
-              "myanmar"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal"
-            ]
-          },
-          "romanian-entertainment": {
-            "slug": "romanian-entertainment",
-            "theme": "Magnitude",
-            "main_category": "Regional & Language Specific",
-            "catgory": "Romanian",
-            "name": "Divertismentul românesc",
-            "preview": "https://demos.afthemes.com/magnitude/romanian-entertainment/",
-            "tags": [
-              "free",
-              "blog",
-              "romanian"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal"
-            ]
-          },
-          "russian-music": {
-            "slug": "russian-music",
-            "theme": "Magnitude",
-            "main_category": "Regional & Language Specific",
-            "catgory": "Russian",
-            "name": "Русская Музыка",
-            "homepage_type": "blog",
-            "preview": "https://demos.afthemes.com/magnitude/russian-music/",
-            "tags": [
-              "free",
-              "blog",
-              "russian"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal"
-            ]
-          },
-          "spanish-sport": {
-            "slug": "spanish-sport",
-            "theme": "Magnitude",
-            "main_category": "Regional & Language Specific",
-            "catgory": "Spanish",
-            "name": "deporte español",
-            "homepage_type": "blog",
-            "preview": "https://demos.afthemes.com/magnitude/spanish-sport/",
-            "tags": [
-              "free",
-              "blog",
-              "spanish"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal"
-            ]
+            "plugins":"elementor,elespare"
           }
         }
       },
