@@ -9662,219 +9662,6 @@
               "News & Media"
             ]
           },
-          "sport": {
-            "slug": "sport",
-            "theme": "EnterNews Pro",
-            "main_category": "News & Media",
-            "catgory": "Sport",
-            "name": "Sport Pro",
-            "preview": "https://demos.afthemes.com/enternews-pro/sport/",
-            "tags": [
-              "pro",
-              "magazine",
-              "sport"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
-          "classic": {
-            "slug": "classic",
-            "theme": "EnterNews Pro",
-            "main_category": "Specialty & Niche",
-            "catgory": "General",
-            "name": "Classic Pro",
-            "preview": "https://demos.afthemes.com/enternews-pro/classic/",
-            "tags": [
-              "pro",
-              "magazine",
-              "classic"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Specialty & Niche"
-            ]
-          },
-          "dark": {
-            "slug": "dark",
-            "theme": "EnterNews Pro",
-            "main_category": "News & Media",
-            "catgory": "General",
-            "name": "EnterNews Dark Pro",
-            "preview": "https://demos.afthemes.com/enternews-pro/dark/",
-            "tags": [
-              "pro",
-              "magazine",
-              "dark"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
-          "light": {
-            "slug": "light",
-            "theme": "EnterNews Pro",
-            "main_category": "News & Media",
-            "catgory": "General",
-            "name": "EnterNews Light Pro",
-            "preview": "https://demos.afthemes.com/enternews-pro/light/",
-            "tags": [
-              "pro",
-              "magazine",
-              "light"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
-          "fashion": {
-            "slug": "fashion",
-            "theme": "EnterNews Pro",
-            "main_category": "News & Media",
-            "catgory": "Fashion",
-            "name": "Fashion Pro",
-            "preview": "https://demos.afthemes.com/enternews-pro/fashion/",
-            "tags": [
-              "pro",
-              "magazine",
-              "fashion"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Lifestyle & Personal"
-            ]
-          },
-          "recipe": {
-            "slug": "recipe",
-            "theme": "EnterNews Pro",
-            "main_category": "Lifestyle & Personal",
-            "catgory": "Blog",
-            "name": "Recipe Pro",
-            "preview": "https://demos.afthemes.com/enternews-pro/recipe/",
-            "tags": [
-              "pro",
-              "food",
-              "blog"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal"
-            ]
-          },
-          "travel": {
-            "slug": "travel",
-            "theme": "EnterNews Pro",
-            "main_category": "Lifestyle & Personal",
-            "catgory": "Blog",
-            "name": "Travel Pro",
-            "homepage_type": "blog",
-            "preview": "https://demos.afthemes.com/enternews-pro/travel/",
-            "tags": [
-              "pro",
-              "blog",
-              "magazine",
-              "travel"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Lifestyle & Personal"
-            ]
-          },
-          "business": {
-            "slug": "business",
-            "theme": "EnterNews Pro",
-            "main_category": "Business & Professional",
-            "catgory": "Business",
-            "name": "Business Pro",
-            "preview": "https://demos.afthemes.com/enternews-pro/business/",
-            "tags": [
-              "pro",
-              "magazine",
-              "business"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Business & eCommerce"
-            ]
-          },
-          "top-news": {
-            "slug": "top-news",
-            "theme": "EnterNews Pro",
-            "main_category": "News & Media",
-            "catgory": "General",
-            "name": "Top News Pro",
-            "preview": "https://demos.afthemes.com/enternews-pro/top-news/",
-            "tags": [
-              "pro",
-              "magazine"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
-          "online-news": {
-            "slug": "online-news",
-            "theme": "EnterNews Pro",
-            "main_category": "News & Media",
-            "catgory": "General",
-            "name": "Online News Pro",
-            "preview": "https://demos.afthemes.com/enternews-pro/online-news/",
-            "tags": [
-              "pro",
-              "magazine"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
-          "general-news": {
-            "slug": "general-news",
-            "theme": "EnterNews Pro",
-            "main_category": "News & Media",
-            "catgory": "General",
-            "name": "General News Pro",
-            "preview": "https://demos.afthemes.com/enternews-pro/general-news/",
-            "tags": [
-              "pro",
-              "magazine"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
-          "crypto-currency": {
-            "slug": "crypto-currency",
-            "theme": "EnterNews Pro",
-            "main_category": "Technology & Innovation",
-            "catgory": "Business",
-            "name": "Crypto Currency Pro",
-            "preview": "https://demos.afthemes.com/enternews-pro/crypto-currency/",
-            "tags": [
-              "pro",
-              "crypto",
-              "magazine"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Technology & Innovation"
-            ]
-          },
-          "arabic-news": {
-            "slug": "arabic-news",
-            "theme": "EnterNews Pro",
-            "main_category": "Regional & Language Specific",
-            "catgory": "General",
-            "name": "Arabic News Pro",
-            "preview": "https://demos.afthemes.com/enternews-pro/arabic-news/",
-            "tags": [
-              "pro",
-              "magazine",
-              "general",
-              "rtl"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
           "china-news": {
             "slug": "china-news",
             "theme": "EnterNews Pro",
@@ -9888,8 +9675,238 @@
               "chinese"
             ],
             "main_categories": [
-              "News & Media"
+              "News & Media",
+              "Regional & Local News"
             ]
+          },
+          "indian": {
+            "slug": "indian",
+            "theme": "EnterNews Pro",
+            "main_category": "Regional & Language Specific",
+            "catgory": "General",
+            "name": "Indian Pro",
+            "preview": "https://demos.afthemes.com/enternews-pro/indian/",
+            "tags": [
+              "pro",
+              "magazine",
+              "indian"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Regional & Local News"
+            ]
+          },
+          "news-panorama": {
+            "slug": "news-panorama",
+            "theme": "EnterNews Pro",
+            "main_category": "News & Media",
+            "catgory": "Gutenberg",
+            "name": "News Panorama Pro",
+            "preview": "https://demos.afthemes.com/enternews-pro/news-panorama/",
+            "tags": [
+              "pro",
+              "magazine",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "News & Media"
+            ],
+            "plugins":"blockspare"
+          },
+          "daily-buzz": {
+            "slug": "daily-buzz",
+            "theme": "EnterNews Pro",
+            "main_category": "News & Media",
+            "catgory": "Gutenberg",
+            "name": "Daily Buzz Pro",
+            "preview": "https://demos.afthemes.com/enternews-pro/daily-buzz/",
+            "tags": [
+              "pro",
+              "magazine",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "News & Media"
+            ],
+            "plugins":"blockspare"
+          },
+          "fly-now": {
+            "slug": "fly-now",
+            "theme": "EnterNews Pro",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Gutenberg",
+            "name": "Fly Now Pro",
+            "preview": "https://demos.afthemes.com/enternews-pro/fly-now/",
+            "tags": [
+              "pro",
+              "magazine",
+              "gutenberg",
+              "turkish"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Regional & Local News"
+            ],
+            "plugins":"blockspare"
+          },
+          "urban-plan": {
+            "slug": "urban-plan",
+            "theme": "EnterNews Pro",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Gutenberg",
+            "name": "Urban Plan Pro",
+            "preview": "https://demos.afthemes.com/enternews-pro/urban-plan/",
+            "tags": [
+              "pro",
+              "magazine",
+              "gutenberg",
+              "japanese"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Regional & Local News"
+            ],
+            "plugins":"blockspare"
+          },
+          "generic": {
+            "slug": "generic",
+            "theme": "EnterNews Pro",
+            "main_category": "Business & Professional",
+            "catgory": "Gutenberg",
+            "name": "Generic Pro",
+            "preview": "https://demos.afthemes.com/enternews-pro/generic/",
+            "tags": [
+              "pro",
+              "gutenberg",
+              "business"
+            ],
+            "main_categories": [
+              "Business & eCommerce"
+            ],
+            "plugins":"blockspare"
+          },
+          "ngo": {
+            "slug": "ngo",
+            "theme": "EnterNews Pro",
+            "main_category": "Business & Professional",
+            "catgory": "Gutenberg",
+            "name": "NGO Pro",
+            "preview": "https://demos.afthemes.com/enternews-pro/ngo/",
+            "tags": [
+              "pro",
+              "gutenberg",
+              "business"
+            ],
+            "main_categories": [
+              "Business & eCommerce"
+            ],
+            "plugins":"blockspare"
+          },
+          "art-blog": {
+            "slug": "art-blog",
+            "theme": "EnterNews Pro",
+            "main_category": "News & Media",
+            "catgory": "Elementor",
+            "name": "Art Blog Pro",
+            "preview": "https://demos.afthemes.com/enternews-pro/art-blog/",
+            "tags": [
+              "pro",
+              "magazine",
+              "elementor"
+            ],
+            "main_categories": [
+              "News & Media"
+            ],
+            "plugins":"elementor,elespare"
+          },
+          "news-traffic": {
+            "slug": "news-traffic",
+            "theme": "EnterNews Pro",
+            "main_category": "News & Media",
+            "catgory": "Elementor",
+            "name": "News Traffic Pro",
+            "preview": "https://demos.afthemes.com/enternews-pro/news-traffic/",
+            "tags": [
+              "pro",
+              "magazine",
+              "elementor"
+            ],
+            "main_categories": [
+              "News & Media"
+            ],
+            "plugins":"elementor,elespare"
+          },
+          "decor-magazine": {
+            "slug": "decor-magazine",
+            "theme": "EnterNews Pro",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Elementor",
+            "name": "Decor Magazine Pro",
+            "preview": "https://demos.afthemes.com/enternews-pro/decor-magazine/",
+            "tags": [
+              "pro",
+              "magazine",
+              "elementor",
+              "french"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Regional & Local News"
+            ],
+            "plugins":"elementor,elespare"
+          },
+          "gadgets-magazine": {
+            "slug": "gadgets-magazine",
+            "theme": "EnterNews Pro",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Elementor",
+            "name": "Gadgets Magazine Pro",
+            "preview": "https://demos.afthemes.com/enternews-pro/gadgets-magazine/",
+            "tags": [
+              "pro",
+              "magazine",
+              "elementor",
+              "spanish"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Regional & Local News"
+            ],
+            "plugins":"elementor,elespare"
+          },
+          "religion": {
+            "slug": "religion",
+            "theme": "EnterNews Pro",
+            "main_category": "Business & Professional",
+            "catgory": "Elementor",
+            "name": "Religion Pro",
+            "preview": "https://demos.afthemes.com/enternews-pro/religion/",
+            "tags": [
+              "pro",
+              "business",
+              "elementor"
+            ],
+            "main_categories": [
+              "Business & eCommerce"
+            ],
+            "plugins":"elementor,elespare"
+          },
+          "brand": {
+            "slug": "brand",
+            "theme": "EnterNews Pro",
+            "main_category": "Business & Professional",
+            "catgory": "Elementor",
+            "name": "Brand Pro",
+            "preview": "https://demos.afthemes.com/enternews-pro/brand/",
+            "tags": [
+              "pro",
+              "business",
+              "elementor"
+            ],
+            "main_categories": [
+              "Business & eCommerce"
+            ],
+            "plugins":"elementor,elespare"
           }
         }
       },
@@ -9916,71 +9933,6 @@
               "News & Media"
             ]
           },
-          "sport": {
-            "slug": "sport",
-            "theme": "EnterNews",
-            "main_category": "News & Media",
-            "catgory": "Sport",
-            "name": "Sport",
-            "preview": "https://demos.afthemes.com/enternews/sport/",
-            "tags": [
-              "free",
-              "magazine",
-              "sport"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
-          "dark": {
-            "slug": "dark",
-            "theme": "EnterNews",
-            "main_category": "News & Media",
-            "catgory": "General",
-            "name": "Dark",
-            "preview": "https://demos.afthemes.com/enternews/dark/",
-            "tags": [
-              "free",
-              "dark",
-              "general"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
-          "recipe": {
-            "slug": "recipe",
-            "theme": "EnterNews",
-            "main_category": "Lifestyle & Personal",
-            "catgory": "Blog",
-            "name": "Recipe",
-            "preview": "https://demos.afthemes.com/enternews/recipe/",
-            "tags": [
-              "free",
-              "food",
-              "blog"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal"
-            ]
-          },
-          "fashion": {
-            "slug": "fashion",
-            "theme": "EnterNews",
-            "main_category": "Lifestyle & Personal",
-            "catgory": "Fashion",
-            "name": "Fashion",
-            "preview": "https://demos.afthemes.com/enternews/fashion/",
-            "tags": [
-              "free",
-              "magazine",
-              "fashion"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Lifestyle & Personal"
-            ]
-          },
           "classic": {
             "slug": "classic",
             "theme": "EnterNews",
@@ -9998,96 +9950,6 @@
               "Specialty & Niche"
             ]
           },
-          "beauty": {
-            "slug": "beauty",
-            "theme": "EnterNews",
-            "main_category": "Lifestyle & Personal",
-            "catgory": "Elementor",
-            "name": "Beauty",
-            "preview": "https://demos.afthemes.com/enternews/beauty/",
-            "tags": [
-              "free",
-              "fashion",
-              "elementor"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal",
-              "Design & Creative"
-            ],
-            "plugins": "elementor,elespare"
-          },
-          "crypto-news": {
-            "slug": "crypto-news",
-            "theme": "EnterNews",
-            "main_category": "Technology & Innovation",
-            "catgory": "Elementor",
-            "name": "Crypto News",
-            "preview": "https://demos.afthemes.com/enternews/crypto-news/",
-            "tags": [
-              "free",
-              "crypto",
-              "elementor"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Technology & Innovation",
-              "Design & Creative"
-            ],
-            "plugins": "elementor,elespare"
-          },
-          "lifestyle": {
-            "slug": "lifestyle",
-            "theme": "EnterNews",
-            "main_category": "Lifestyle & Personal",
-            "catgory": "Elementor",
-            "name": "Lifestyle",
-            "preview": "https://demos.afthemes.com/enternews/lifestyle/",
-            "tags": [
-              "free",
-              "blog",
-              "elementor",
-              "fitness"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal",
-              "Design & Creative"
-            ],
-            "plugins": "elementor,elespare"
-          },
-          "covid-19": {
-            "slug": "covid-19",
-            "theme": "EnterNews",
-            "main_category": "Specialty & Niche",
-            "catgory": "Elementor",
-            "name": "Covid 19",
-            "preview": "https://demos.afthemes.com/enternews/covid-19/",
-            "tags": [
-              "free",
-              "covid",
-              "elementor"
-            ],
-            "main_categories": [
-              "Specialty & Niche",
-              "Design & Creative"
-            ],
-            "plugins": "elementor,elespare"
-          },
-          "crypto-currency": {
-            "slug": "crypto-currency",
-            "theme": "EnterNews",
-            "main_category": "Business & Professional",
-            "catgory": "Business",
-            "name": "Crypto Currency",
-            "preview": "https://demos.afthemes.com/enternews/crypto-currency/",
-            "tags": [
-              "free",
-              "crypto",
-              "magazine"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
           "arabic-news": {
             "slug": "arabic-news",
             "theme": "EnterNews",
@@ -10099,39 +9961,8 @@
               "free",
               "magazine",
               "general",
+              "arabic",
               "rtl"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
-          "china-news": {
-            "slug": "china-news",
-            "theme": "EnterNews",
-            "main_category": "Regional & Language Specific",
-            "catgory": "General",
-            "name": "China News",
-            "preview": "https://demos.afthemes.com/enternews/china-news/",
-            "tags": [
-              "free",
-              "chinese",
-              "general"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
-          "hindi-news": {
-            "slug": "hindi-news",
-            "theme": "EnterNews",
-            "main_category": "Regional & Language Specific",
-            "catgory": "General",
-            "name": "Hindi News",
-            "preview": "https://demos.afthemes.com/enternews/hindi-news/",
-            "tags": [
-              "free",
-              "hindi",
-              "general"
             ],
             "main_categories": [
               "News & Media"
@@ -10155,17 +9986,18 @@
             ],
             "plugins": "blockspare"
           },
-          "daily-buzz": {
-            "slug": "daily-buzz",
+          "russian-blog": {
+            "slug": "russian-blog",
             "theme": "EnterNews",
-            "main_category": "News & Media",
+            "main_category": "Regional & Language Specific",
             "catgory": "Gutenberg",
-            "name": "Daily Buzz",
-            "preview": "https://demos.afthemes.com/enternews/daily-buzz/",
+            "name": "Russian Blog",
+            "preview": "https://demos.afthemes.com/enternews/russian-blog/",
             "tags": [
               "free",
               "magazine",
-              "gutenberg"
+              "gutenberg",
+              "russian"
             ],
             "main_categories": [
               "News & Media",
@@ -10173,131 +10005,75 @@
             ],
             "plugins": "blockspare"
           },
-          "live-bulletin": {
-            "slug": "live-bulletin",
+          "generic": {
+            "slug": "generic",
             "theme": "EnterNews",
-            "main_category": "News & Media",
+            "main_category": "Business & Professional",
             "catgory": "Gutenberg",
-            "name": "Live Bulletin",
-            "preview": "https://demos.afthemes.com/enternews/live-bulletin/",
+            "name": "Generic",
+            "preview": "https://demos.afthemes.com/enternews/generic/",
             "tags": [
               "free",
-              "magazine",
+              "business",
               "gutenberg"
             ],
             "main_categories": [
-              "News & Media",
-              "Design & Creative"
+              "Business & eCommerce"
             ],
             "plugins": "blockspare"
           },
-          "news-panorama": {
-            "slug": "news-panorama",
+          "elegance-blog": {
+            "slug": "elegance-blog",
             "theme": "EnterNews",
             "main_category": "News & Media",
-            "catgory": "Gutenberg",
-            "name": "News Panorama",
-            "preview": "https://demos.afthemes.com/enternews/news-panorama/",
+            "catgory": "Elementor",
+            "name": "Elegance Blog",
+            "preview": "https://demos.afthemes.com/enternews/elegance-blog/",
             "tags": [
               "free",
               "magazine",
-              "gutenberg"
+              "elementor"
             ],
             "main_categories": [
-              "News & Media",
-              "Design & Creative"
+              "News & Media"
             ],
-            "plugins": "blockspare"
+            "plugins": "elementor,elespare"
           },
-          "the-breaking-record": {
-            "slug": "the-breaking-record",
+          "france-tour": {
+            "slug": "france-tour",
             "theme": "EnterNews",
-            "main_category": "News & Media",
-            "catgory": "Gutenberg",
-            "name": "The Breaking Record",
-            "preview": "https://demos.afthemes.com/enternews/the-breaking-report/",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Elementor",
+            "name": "France Tour",
+            "preview": "https://demos.afthemes.com/enternews/france-tour/",
             "tags": [
               "free",
               "magazine",
-              "gutenberg"
+              "elementor",
+              "french"
             ],
             "main_categories": [
               "News & Media",
-              "Design & Creative"
+              "Regional & Local News"
             ],
-            "plugins": "blockspare"
+            "plugins": "elementor,elespare"
           },
-          "the-daily-scoop": {
-            "slug": "the-daily-scoop",
+          "educose": {
+            "slug": "educose",
             "theme": "EnterNews",
-            "main_category": "News & Media",
-            "catgory": "Gutenberg",
-            "name": "The Daily Scoop",
-            "preview": "https://demos.afthemes.com/enternews/the-daily-scoop/",
+            "main_category": "Business & Professional",
+            "catgory": "Elementor",
+            "name": "Educose",
+            "preview": "https://demos.afthemes.com/enternews/educose/",
             "tags": [
               "free",
-              "magazine",
-              "gutenberg"
+              "business",
+              "elementor"
             ],
             "main_categories": [
-              "News & Media",
-              "Design & Creative"
+              "Business & eCommerce"
             ],
-            "plugins": "blockspare"
-          },
-          "the-interior-hunter": {
-            "slug": "the-interior-hunter",
-            "theme": "EnterNews",
-            "main_category": "Design & Creative",
-            "catgory": "Gutenberg",
-            "name": "The Interior Hunter",
-            "preview": "https://demos.afthemes.com/enternews/the-interior-hunter/",
-            "tags": [
-              "free",
-              "magazine",
-              "gutenberg"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Design & Creative"
-            ],
-            "plugins": "blockspare"
-          },
-          "the-monitor": {
-            "slug": "the-monitor",
-            "theme": "EnterNews",
-            "main_category": "News & Media",
-            "catgory": "Gutenberg",
-            "name": "The Monitor",
-            "preview": "https://demos.afthemes.com/enternews/the-monitor/",
-            "tags": [
-              "free",
-              "magazine",
-              "gutenberg"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Design & Creative"
-            ],
-            "plugins": "blockspare"
-          },
-          "the-news-hub": {
-            "slug": "the-news-hub",
-            "theme": "EnterNews",
-            "main_category": "News & Media",
-            "catgory": "Gutenberg",
-            "name": "The News Hub",
-            "preview": "https://demos.afthemes.com/enternews/the-news-hub/",
-            "tags": [
-              "free",
-              "magazine",
-              "gutenberg"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Design & Creative"
-            ],
-            "plugins": "blockspare"
+            "plugins": "elementor,elespare"
           }
         }
       },
@@ -10977,7 +10753,7 @@
             "theme": "Newsever Pro",
             "main_category": "Regional & Language Specific",
             "catgory": "Elementor",
-            "name": "Japanese",
+            "name": "City Plan",
             "preview": "https://demos.afthemes.com/newsever-pro/city-plan/",
             "tags": [
               "pro",
