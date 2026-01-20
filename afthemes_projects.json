@@ -8111,236 +8111,251 @@
               "News & Media"
             ]
           },
-          "light": {
-            "slug": "light",
+          "russian-today": {
+            "slug": "russian-today",
             "theme": "DarkNews Pro",
-            "main_category": "News & Media",
+            "main_category": "Regional & Language Specific",
             "catgory": "General",
-            "name": "Light Pro",
-            "preview": "https://demos.afthemes.com/darknews-pro/light/",
+            "name": "Russian Today Pro",
+            "preview": "https://demos.afthemes.com/darknews-pro/russian-today/",
             "tags": [
               "pro",
               "magazine",
-              "light"
+              "russian"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Regional & Local News"
+            ]
+          },
+          "japan-explore": {
+            "slug": "japan-explore",
+            "theme": "DarkNews Pro",
+            "main_category": "Regional & Language Specific",
+            "catgory": "General",
+            "name": "Japan Explore Pro",
+            "preview": "https://demos.afthemes.com/darknews-pro/japan-explore/",
+            "tags": [
+              "pro",
+              "magazine",
+              "russian"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Regional & Local News"
+            ]
+          },
+          "light-news": {
+            "slug": "light-news",
+            "theme": "DarkNews Pro",
+            "main_category": "News & Media",
+            "catgory": "Gutenberg",
+            "name": "Light News Pro",
+            "preview": "https://demos.afthemes.com/darknews-pro/light-news/",
+            "tags": [
+              "pro",
+              "magazine",
+              "gutenberg"
             ],
             "main_categories": [
               "News & Media"
-            ]
+            ],
+            "plugins":"blockspare"
           },
-          "fashion": {
-            "slug": "fashion",
+          "constant-feed": {
+            "slug": "constant-feed",
             "theme": "DarkNews Pro",
             "main_category": "News & Media",
-            "catgory": "Fashion",
-            "name": "Fashion Pro",
-            "preview": "https://demos.afthemes.com/darknews-pro/fashion/",
+            "catgory": "Gutenberg",
+            "name": "Constant Feed Pro",
+            "preview": "https://demos.afthemes.com/darknews-pro/constant-feed/",
             "tags": [
               "pro",
               "magazine",
-              "fashion"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Lifestyle & Personal"
-            ]
-          },
-          "classic": {
-            "slug": "classic",
-            "theme": "DarkNews Pro",
-            "main_category": "Specialty & Niche",
-            "catgory": "General",
-            "name": "Classic Pro",
-            "preview": "https://demos.afthemes.com/darknews-pro/classic/",
-            "tags": [
-              "pro",
-              "classic",
-              "magazine"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Specialty & Niche"
-            ]
-          },
-          "fitness": {
-            "slug": "fitness",
-            "theme": "DarkNews Pro",
-            "main_category": "Lifestyle & Personal",
-            "catgory": "Blog",
-            "name": "Fitness Pro",
-            "preview": "https://demos.afthemes.com/darknews-pro/fitness/",
-            "tags": [
-              "pro",
-              "fitness",
-              "sport"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal"
-            ]
-          },
-          "sport": {
-            "slug": "sport",
-            "theme": "DarkNews Pro",
-            "main_category": "News & Media",
-            "catgory": "Sport",
-            "name": "Sport Pro",
-            "preview": "https://demos.afthemes.com/darknews-pro/sport/",
-            "tags": [
-              "pro",
-              "magazine",
-              "sport"
+              "gutenberg"
             ],
             "main_categories": [
               "News & Media"
-            ]
-          },
-          "gaming": {
-            "slug": "gaming",
-            "theme": "DarkNews Pro",
-            "main_category": "Technology & Innovation",
-            "catgory": "Blog",
-            "name": "Gaming Pro",
-            "preview": "https://demos.afthemes.com/darknews-pro/gaming/",
-            "tags": [
-              "pro",
-              "game",
-              "sport"
             ],
-            "main_categories": [
-              "Technology & Innovation"
-            ]
+            "plugins":"blockspare"
           },
-          "travel": {
-            "slug": "travel",
+          "indian": {
+            "slug": "indian",
             "theme": "DarkNews Pro",
-            "main_category": "Lifestyle & Personal",
-            "catgory": "Blog",
-            "name": "Travel Pro",
-            "homepage_type": "blog",
-            "preview": "https://demos.afthemes.com/darknews-pro/travel/",
-            "tags": [
-              "pro",
-              "travel",
-              "blog"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal"
-            ]
-          },
-          "recipe": {
-            "slug": "recipe",
-            "theme": "DarkNews Pro",
-            "main_category": "Lifestyle & Personal",
-            "catgory": "Blog",
-            "name": "Recipe Pro",
-            "preview": "https://demos.afthemes.com/darknews-pro/recipe/",
-            "tags": [
-              "pro",
-              "food",
-              "blog"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal"
-            ]
-          },
-          "gadgets": {
-            "slug": "gadgets",
-            "theme": "DarkNews Pro",
-            "main_category": "Technology & Innovation",
-            "catgory": "Blog",
-            "name": "Gadgets Pro",
-            "preview": "https://demos.afthemes.com/darknews-pro/gadgets/",
-            "tags": [
-              "pro",
-              "gadgets",
-              "business"
-            ],
-            "main_categories": [
-              "Technology & Innovation",
-              "Business & eCommerce"
-            ]
-          },
-          "automobile": {
-            "slug": "automobile",
-            "theme": "DarkNews Pro",
-            "main_category": "Specialty & Niche",
-            "catgory": "Blog",
-            "name": "Automobile Pro",
-            "preview": "https://demos.afthemes.com/darknews-pro/automobile/",
-            "tags": [
-              "pro",
-              "automobile",
-              "business"
-            ],
-            "main_categories": [
-              "Business & eCommerce",
-              "Specialty & Niche"
-            ]
-          },
-          "business": {
-            "slug": "business",
-            "theme": "DarkNews Pro",
-            "main_category": "Business & Professional",
-            "catgory": "Business",
-            "name": "Business Pro",
-            "preview": "https://demos.afthemes.com/darknews-pro/business/",
-            "tags": [
-              "pro",
-              "business",
-              "general"
-            ],
-            "main_categories": [
-              "Business & eCommerce"
-            ]
-          },
-          "crypto-news": {
-            "slug": "crypto-news",
-            "theme": "DarkNews Pro",
-            "main_category": "Technology & Innovation",
-            "catgory": "Business",
-            "name": "Crypto News Pro",
-            "preview": "https://demos.afthemes.com/darknews-pro/crypto-news/",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Gutenberg",
+            "name": "Indian Pro",
+            "preview": "https://demos.afthemes.com/darknews-pro/indian/",
             "tags": [
               "pro",
               "magazine",
-              "crypto"
+              "gutenberg",
+              "indian"
             ],
             "main_categories": [
               "News & Media",
-              "Technology & Innovation"
-            ]
+              "Regional & Local News"
+            ],
+            "plugins":"blockspare"
           },
           "arabic-news": {
             "slug": "arabic-news",
             "theme": "DarkNews Pro",
             "main_category": "Regional & Language Specific",
-            "catgory": "General",
+            "catgory": "Gutenberg",
             "name": "Arabic News Pro",
             "preview": "https://demos.afthemes.com/darknews-pro/arabic-news/",
             "tags": [
               "pro",
               "magazine",
-              "general",
-              "rtl"
+              "gutenberg",
+              "arabic"
             ],
             "main_categories": [
-              "News & Media"
-            ]
+              "News & Media",
+              "Regional & Local News"
+            ],
+            "plugins":"blockspare"
           },
-          "china-news": {
-            "slug": "china-news",
+          "ngo": {
+            "slug": "ngo",
             "theme": "DarkNews Pro",
-            "main_category": "Regional & Language Specific",
-            "catgory": "Business",
-            "name": "China News Pro",
-            "preview": "https://demos.afthemes.com/darknews-pro/china-news/",
+            "main_category": "Business & Professional",
+            "catgory": "Gutenberg",
+            "name": "NGO Pro",
+            "preview": "https://demos.afthemes.com/darknews-pro/ngo/",
             "tags": [
               "pro",
-              "chinese",
-              "general"
+              "business",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "Business & eCommerce"
+            ],
+            "plugins":"blockspare"
+          },
+          "generic": {
+            "slug": "generic",
+            "theme": "DarkNews Pro",
+            "main_category": "Business & Professional",
+            "catgory": "Gutenberg",
+            "name": "Generic Pro",
+            "preview": "https://demos.afthemes.com/darknews-pro/generic/",
+            "tags": [
+              "pro",
+              "business",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "Business & eCommerce"
+            ],
+            "plugins":"blockspare"
+          },
+          "center-news": {
+            "slug": "center-news",
+            "theme": "DarkNews Pro",
+            "main_category": "News & Media",
+            "catgory": "Elementor",
+            "name": "Center News Pro",
+            "preview": "https://demos.afthemes.com/darknews-pro/center-news/",
+            "tags": [
+              "pro",
+              "magazine",
+              "elementor"
             ],
             "main_categories": [
               "News & Media"
-            ]
+            ],
+            "plugins":"elementor,elespare"
+          },
+          "modern-news": {
+            "slug": "modern-news",
+            "theme": "DarkNews Pro",
+            "main_category": "News & Media",
+            "catgory": "Elementor",
+            "name": "Modern News Pro",
+            "preview": "https://demos.afthemes.com/darknews-pro/modern-news/",
+            "tags": [
+              "pro",
+              "magazine",
+              "elementor"
+            ],
+            "main_categories": [
+              "News & Media"
+            ],
+            "plugins":"elementor,elespare"
+          },
+          "turkish-blog": {
+            "slug": "turkish-blog",
+            "theme": "DarkNews Pro",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Elementor",
+            "name": "Modern News Pro",
+            "preview": "https://demos.afthemes.com/darknews-pro/turkish-blog/",
+            "tags": [
+              "pro",
+              "magazine",
+              "elementor",
+              "turkish"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Regional & Local News"
+            ],
+            "plugins":"elementor,elespare"
+          },
+          "french-craft": {
+            "slug": "french-craft",
+            "theme": "DarkNews Pro",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Elementor",
+            "name": "French Craft Pro",
+            "preview": "https://demos.afthemes.com/darknews-pro/french-craft/",
+            "tags": [
+              "pro",
+              "magazine",
+              "elementor",
+              "french"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Regional & Local News"
+            ],
+            "plugins":"elementor,elespare"
+          },
+          "education": {
+            "slug": "education",
+            "theme": "DarkNews Pro",
+            "main_category": "Business & Professional",
+            "catgory": "Elementor",
+            "name": "Education Pro",
+            "preview": "https://demos.afthemes.com/darknews-pro/education/",
+            "tags": [
+              "pro",
+              "business",
+              "elementor"
+            ],
+            "main_categories": [
+              "Business & eCommerce"
+            ],
+            "plugins":"elementor,elespare"
+          },
+          "brand": {
+            "slug": "brand",
+            "theme": "DarkNews Pro",
+            "main_category": "Business & Professional",
+            "catgory": "Elementor",
+            "name": "Brand Pro",
+            "preview": "https://demos.afthemes.com/darknews-pro/brand/",
+            "tags": [
+              "pro",
+              "business",
+              "elementor"
+            ],
+            "main_categories": [
+              "Business & eCommerce"
+            ],
+            "plugins":"elementor,elespare"
           }
         }
       },
@@ -8369,43 +8384,11 @@
               "News & Media"
             ]
           },
-          "light": {
-            "slug": "light",
-            "theme": "DarkNews",
-            "main_category": "News & Media",
-            "catgory": "General",
-            "name": "Light",
-            "preview": "https://demos.afthemes.com/darknews/light/",
-            "tags": [
-              "free",
-              "magazine",
-              "light"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
-          "sport": {
-            "slug": "sport",
-            "theme": "DarkNews",
-            "main_category": "News & Media",
-            "catgory": "Sport",
-            "name": "Sport",
-            "preview": "https://demos.afthemes.com/darknews/sport/",
-            "tags": [
-              "free",
-              "magazine",
-              "sport"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
           "fashion": {
             "slug": "fashion",
             "theme": "DarkNews",
-            "main_category": "Lifestyle & Personal",
-            "catgory": "Fashion",
+            "main_category": "News & Media",
+            "catgory": "General",
             "name": "Fashion",
             "preview": "https://demos.afthemes.com/darknews/fashion/",
             "tags": [
@@ -8414,602 +8397,25 @@
               "fashion"
             ],
             "main_categories": [
-              "News & Media",
-              "Lifestyle & Personal"
-            ]
-          },
-          "center-news": {
-            "slug": "center-news",
-            "theme": "DarkNews",
-            "main_category": "News & Media",
-            "catgory": "Elementor",
-            "name": "Center News",
-            "preview": "https://demos.afthemes.com/darknews/center-news/",
-            "tags": [
-              "free",
-              "elementor",
-              "news"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Design & Creative"
-            ],
-            "plugins": "elementor,elespare"
-          },
-          "daily-news": {
-            "slug": "daily-news",
-            "theme": "DarkNews",
-            "main_category": "News & Media",
-            "catgory": "Elementor",
-            "name": "Daily News",
-            "preview": "https://demos.afthemes.com/darknews/daily-news/",
-            "tags": [
-              "free",
-              "elementor",
-              "news"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Design & Creative"
-            ],
-            "plugins": "elementor,elespare"
-          },
-          "modern-news": {
-            "slug": "modern-news",
-            "theme": "DarkNews",
-            "main_category": "News & Media",
-            "catgory": "Elementor",
-            "name": "Modern News",
-            "preview": "https://demos.afthemes.com/darknews/modern-news/",
-            "tags": [
-              "free",
-              "elementor",
-              "news"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Design & Creative"
-            ],
-            "plugins": "elementor,elespare"
-          },
-          "simple-blog": {
-            "slug": "simple-blog",
-            "theme": "DarkNews",
-            "main_category": "News & Media",
-            "catgory": "Elementor",
-            "name": "Simple Blog",
-            "preview": "https://demos.afthemes.com/darknews/simple-blog/",
-            "tags": [
-              "free",
-              "elementor",
-              "blog"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Lifestyle & Personal",
-              "Design & Creative"
-            ],
-            "plugins": "elementor,elespare"
-          },
-          "gaming": {
-            "slug": "gaming",
-            "theme": "DarkNews",
-            "main_category": "Technology & Innovation",
-            "catgory": "Blog",
-            "name": "Gaming",
-            "preview": "https://demos.afthemes.com/darknews/gaming/",
-            "tags": [
-              "free",
-              "game",
-              "gadgets"
-            ],
-            "main_categories": [
-              "Technology & Innovation"
-            ]
-          },
-          "explore-spain": {
-            "slug": "explore-spain",
-            "theme": "DarkNews",
-            "main_category": "Regional & Language Specific",
-            "catgory": "Blog",
-            "name": "Explora España",
-            "preview": "https://demos.afthemes.com/darknews/explore-spain/",
-            "tags": [
-              "free",
-              "spanish",
-              "travel"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal"
+              "News & Media"
             ]
           },
           "german-wheels": {
             "slug": "german-wheels",
             "theme": "DarkNews",
             "main_category": "Regional & Language Specific",
-            "catgory": "Blog",
-            "name": "Deutsche Räder",
+            "catgory": "General",
+            "name": "German Wheels",
             "preview": "https://demos.afthemes.com/darknews/german-wheels/",
             "tags": [
               "free",
-              "german",
-              "automobile"
+              "magazine",
+              "german"
             ],
             "main_categories": [
-              "News & Media"
+              "News & Media",
+              "Regional & Local News"
             ]
-          },
-          "islamic-architecture": {
-            "slug": "islamic-architecture",
-            "theme": "DarkNews",
-            "main_category": "Regional & Language Specific",
-            "catgory": "Blog",
-            "name": "العمارة الإسلامية",
-            "preview": "https://demos.afthemes.com/darknews/islamic-architecture/",
-            "tags": [
-              "free",
-              "arabic",
-              "decoration"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
-          "japan-explore": {
-            "slug": "japan-explore",
-            "theme": "DarkNews",
-            "main_category": "Regional & Language Specific",
-            "catgory": "Blog",
-            "name": "日本 探検する",
-            "preview": "https://demos.afthemes.com/darknews/japan-explore/",
-            "tags": [
-              "free",
-              "japanese",
-              "travel"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal"
-            ]
-          },
-          "martial-art": {
-            "slug": "martial-art",
-            "theme": "DarkNews",
-            "main_category": "Regional & Language Specific",
-            "catgory": "Blog",
-            "name": "武术",
-            "preview": "https://demos.afthemes.com/darknews/martial-art/",
-            "tags": [
-              "free",
-              "chinese",
-              "sport"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
-          "nepali-news": {
-            "slug": "nepali-news",
-            "theme": "DarkNews",
-            "main_category": "Regional & Language Specific",
-            "catgory": "News",
-            "name": "नेपाली समाचार",
-            "preview": "https://demos.afthemes.com/darknews/nepali-news/",
-            "tags": [
-              "free",
-              "nepali",
-              "news"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
-          "russia-today": {
-            "slug": "russia-today",
-            "theme": "DarkNews",
-            "main_category": "Regional & Language Specific",
-            "catgory": "News",
-            "name": "Россия сегодня",
-            "preview": "https://demos.afthemes.com/darknews/russia-today/",
-            "tags": [
-              "free",
-              "russian",
-              "news"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
-          "classic": {
-            "slug": "classic",
-            "theme": "DarkNews",
-            "main_category": "Specialty & Niche",
-            "catgory": "General",
-            "name": "Classic",
-            "preview": "https://demos.afthemes.com/darknews/classic/",
-            "tags": [
-              "free",
-              "classic",
-              "general"
-            ],
-            "main_categories": [
-              "Specialty & Niche"
-            ]
-          },
-          "gym": {
-            "slug": "gym",
-            "theme": "DarkNews",
-            "main_category": "Lifestyle & Personal",
-            "catgory": "Elementor",
-            "name": "Gym",
-            "preview": "https://demos.afthemes.com/darknews/gym/",
-            "tags": [
-              "free",
-              "elementor",
-              "blog",
-              "fitness"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal",
-              "Design & Creative"
-            ],
-            "plugins": "elementor,elespare"
-          },
-          "business": {
-            "slug": "business",
-            "theme": "DarkNews",
-            "main_category": "Business & Professional",
-            "catgory": "Elementor",
-            "name": "Business",
-            "preview": "https://demos.afthemes.com/darknews/business/",
-            "tags": [
-              "free",
-              "elementor",
-              "business"
-            ],
-            "main_categories": [
-              "Business & eCommerce",
-              "Design & Creative"
-            ],
-            "plugins": "elementor,elespare"
-          },
-          "retro-blog": {
-            "slug": "retro-blog",
-            "theme": "DarkNews",
-            "main_category": "Specialty & Niche",
-            "catgory": "Elementor",
-            "name": "Retro Blog",
-            "preview": "https://demos.afthemes.com/darknews/retro-blog/",
-            "tags": [
-              "free",
-              "elementor",
-              "blog"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal",
-              "Specialty & Niche",
-              "Design & Creative"
-            ],
-            "plugins": "elementor,elespare"
-          },
-          "tech-blog": {
-            "slug": "tech-blog",
-            "theme": "DarkNews",
-            "main_category": "Technology & Innovation",
-            "catgory": "Elementor",
-            "name": "Tech Blog",
-            "preview": "https://demos.afthemes.com/darknews/tech-blog/",
-            "tags": [
-              "free",
-              "gadgets",
-              "elementor",
-              "blog"
-            ],
-            "main_categories": [
-              "Technology & Innovation",
-              "Lifestyle & Personal",
-              "Design & Creative"
-            ],
-            "plugins": "elementor,elespare"
-          },
-          "restaurant-blog": {
-            "slug": "restaurant-blog",
-            "theme": "DarkNews",
-            "main_category": "Lifestyle & Personal",
-            "catgory": "Elementor",
-            "name": "Restaurant Blog",
-            "preview": "https://demos.afthemes.com/darknews/restaurant-blog/",
-            "tags": [
-              "free",
-              "elementor",
-              "blog",
-              "food"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal",
-              "Design & Creative"
-            ],
-            "plugins": "elementor,elespare"
-          },
-          "crypto-news": {
-            "slug": "crypto-news",
-            "theme": "DarkNews",
-            "main_category": "Business & Professional",
-            "catgory": "Business",
-            "name": "Crypto News",
-            "preview": "https://demos.afthemes.com/darknews/crypto-news/",
-            "tags": [
-              "free",
-              "magazine",
-              "crypto"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
-          "arabic-news": {
-            "slug": "arabic-news",
-            "theme": "DarkNews",
-            "main_category": "Regional & Language Specific",
-            "catgory": "General",
-            "name": "Arabic News",
-            "preview": "https://demos.afthemes.com/darknews/arabic-news/",
-            "tags": [
-              "free",
-              "magazine",
-              "general",
-              "rtl"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
-          "china-news": {
-            "slug": "china-news",
-            "theme": "DarkNews",
-            "main_category": "Regional & Language Specific",
-            "catgory": "General",
-            "name": "China News",
-            "preview": "https://demos.afthemes.com/darknews/china-news/",
-            "tags": [
-              "free",
-              "magazine",
-              "chinese"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
-          "indian": {
-            "slug": "indian",
-            "theme": "DarkNews",
-            "main_category": "Regional & Language Specific",
-            "catgory": "General",
-            "name": "India News",
-            "preview": "https://demos.afthemes.com/darknews/indian/",
-            "tags": [
-              "free",
-              "magazine",
-              "indian"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
-          "blocknews": {
-            "slug": "blocknews",
-            "theme": "DarkNews",
-            "main_category": "News & Media",
-            "catgory": "Gutenberg",
-            "name": "Blocknews",
-            "preview": "https://demos.afthemes.com/darknews/blocknews/",
-            "tags": [
-              "free",
-              "magazine",
-              "gutenberg"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Design & Creative"
-            ],
-            "plugins": "blockspare"
-          },
-          "blocknews-light": {
-            "slug": "blocknews-light",
-            "theme": "DarkNews",
-            "main_category": "News & Media",
-            "catgory": "Gutenberg",
-            "name": "Blocknews Light",
-            "preview": "https://demos.afthemes.com/darknews/blocknews-light/",
-            "tags": [
-              "free",
-              "magazine",
-              "gutenberg"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Design & Creative"
-            ],
-            "plugins": "blockspare"
-          },
-          "constant-feed": {
-            "slug": "constant-feed",
-            "theme": "DarkNews",
-            "main_category": "News & Media",
-            "catgory": "Gutenberg",
-            "name": "Constant Feed",
-            "preview": "https://demos.afthemes.com/darknews/constant-feed/",
-            "tags": [
-              "free",
-              "magazine",
-              "gutenberg"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Design & Creative"
-            ],
-            "plugins": "blockspare"
-          },
-          "fast-facts": {
-            "slug": "fast-facts",
-            "theme": "DarkNews",
-            "main_category": "News & Media",
-            "catgory": "Gutenberg",
-            "name": "Fast Facts",
-            "preview": "https://demos.afthemes.com/darknews/fast-facts/",
-            "tags": [
-              "free",
-              "magazine",
-              "gutenberg"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Design & Creative"
-            ],
-            "plugins": "blockspare"
-          },
-          "immediate-update": {
-            "slug": "immediate-update",
-            "theme": "DarkNews",
-            "main_category": "News & Media",
-            "catgory": "Gutenberg",
-            "name": "Immediate Update",
-            "preview": "https://demos.afthemes.com/darknews/immediate-update/",
-            "tags": [
-              "free",
-              "magazine",
-              "gutenberg"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Design & Creative"
-            ],
-            "plugins": "blockspare"
-          },
-          "informed-daily": {
-            "slug": "informed-daily",
-            "theme": "DarkNews",
-            "main_category": "News & Media",
-            "catgory": "Gutenberg",
-            "name": "Informed Update",
-            "preview": "https://demos.afthemes.com/darknews/informed-daily/",
-            "tags": [
-              "free",
-              "magazine",
-              "gutenberg"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Design & Creative"
-            ],
-            "plugins": "blockspare"
-          },
-          "news-eye": {
-            "slug": "news-eye",
-            "theme": "DarkNews",
-            "main_category": "News & Media",
-            "catgory": "Gutenberg",
-            "name": "News Eye",
-            "preview": "https://demos.afthemes.com/darknews/news-eye/",
-            "tags": [
-              "free",
-              "magazine",
-              "gutenberg"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Design & Creative"
-            ],
-            "plugins": "blockspare"
-          },
-          "news-journal": {
-            "slug": "news-journal",
-            "theme": "DarkNews",
-            "main_category": "News & Media",
-            "catgory": "Gutenberg",
-            "name": "News Journal",
-            "preview": "https://demos.afthemes.com/darknews/news-journal/",
-            "tags": [
-              "free",
-              "magazine",
-              "gutenberg"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Design & Creative"
-            ],
-            "plugins": "blockspare"
-          },
-          "news-radar": {
-            "slug": "news-radar",
-            "theme": "DarkNews",
-            "main_category": "News & Media",
-            "catgory": "Gutenberg",
-            "name": "News Radar",
-            "preview": "https://demos.afthemes.com/darknews/news-radar/",
-            "tags": [
-              "free",
-              "magazine",
-              "gutenberg"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Design & Creative"
-            ],
-            "plugins": "blockspare"
-          },
-          "news-source": {
-            "slug": "news-source",
-            "theme": "DarkNews",
-            "main_category": "News & Media",
-            "catgory": "Gutenberg",
-            "name": "News Sources",
-            "preview": "https://demos.afthemes.com/darknews/news-source/",
-            "tags": [
-              "free",
-              "magazine",
-              "gutenberg"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Design & Creative"
-            ],
-            "plugins": "blockspare"
-          },
-          "reliable-report": {
-            "slug": "reliable-report",
-            "theme": "DarkNews",
-            "main_category": "News & Media",
-            "catgory": "Gutenberg",
-            "name": "Reliable Report",
-            "preview": "https://demos.afthemes.com/darknews/reliable-report/",
-            "tags": [
-              "free",
-              "magazine",
-              "gutenberg"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Design & Creative"
-            ],
-            "plugins": "blockspare"
-          },
-          "report-hub": {
-            "slug": "report-hub",
-            "theme": "DarkNews",
-            "main_category": "News & Media",
-            "catgory": "Gutenberg",
-            "name": "Report Hub",
-            "preview": "https://demos.afthemes.com/darknews/report-hub/",
-            "tags": [
-              "free",
-              "magazine",
-              "gutenberg"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Design & Creative"
-            ],
-            "plugins": "blockspare"
           },
           "update-express": {
             "slug": "update-express",
@@ -9021,33 +8427,102 @@
             "tags": [
               "free",
               "magazine",
+              "news",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "News & Media"
+            ],
+            "plugins":"blockspare"
+          },
+          "martial-art": {
+            "slug": "martial-art",
+            "theme": "DarkNews",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Gutenberg",
+            "name": "Martial Art",
+            "preview": "https://demos.afthemes.com/darknews/martial-art/",
+            "tags": [
+              "free",
+              "magazine",
+              "chinese",
               "gutenberg"
             ],
             "main_categories": [
               "News & Media",
-              "Design & Creative"
+              "Regional & Local News"
             ],
-            "plugins": "blockspare"
+            "plugins":"blockspare"
           },
-          "recipe": {
-            "slug": "recipe",
+          "generic": {
+            "slug": "generic",
             "theme": "DarkNews",
-            "main_category": "Lifestyle & Personal",
+            "main_category": "Business & Professional",
             "catgory": "Gutenberg",
-            "name": "Recipe",
-            "preview": "https://demos.afthemes.com/darknews/recipe/",
+            "name": "Generic",
+            "preview": "https://demos.afthemes.com/darknews/generic/",
+            "tags": [
+              "free",
+              "business",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "Business & eCommerce"
+            ],
+            "plugins":"blockspare"
+          },
+          "daily-news": {
+            "slug": "daily-news",
+            "theme": "DarkNews",
+            "main_category": "News & Media",
+            "catgory": "Elementor",
+            "name": "Daily News",
+            "preview": "https://demos.afthemes.com/darknews/daily-news/",
             "tags": [
               "free",
               "magazine",
-              "gutenberg",
-              "food"
+              "elementor"
+            ],
+            "main_categories": [
+              "News & Media"
+            ],
+            "plugins":"elementor,elespare"
+          },
+          "explore-spain": {
+            "slug": "explore-spain",
+            "theme": "DarkNews",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Elementor",
+            "name": "Explore Spain",
+            "preview": "https://demos.afthemes.com/darknews/explore-spain/",
+            "tags": [
+              "free",
+              "magazine",
+              "elementor",
+              "spanish"
             ],
             "main_categories": [
               "News & Media",
-              "Lifestyle & Personal",
-              "Design & Creative"
+              "Regional & Local News"
             ],
-            "plugins": "blockspare"
+            "plugins":"elementor,elespare"
+          },
+          "education": {
+            "slug": "education",
+            "theme": "DarkNews",
+            "main_category": "Business & Professional",
+            "catgory": "Elementor",
+            "name": "Education",
+            "preview": "https://demos.afthemes.com/darknews/education/",
+            "tags": [
+              "free",
+              "business",
+              "elementor"
+            ],
+            "main_categories": [
+              "Business & eCommerce"
+            ],
+            "plugins":"elementor,elespare"
           }
         }
       },
@@ -14240,7 +13715,6 @@
             "main_categories": [
               "Technology & Innovation",
               "Business & eCommerce",
-              "Lifestyle & Personal",
               "Design & Creative"
             ],
             "plugins": "elementor,elespare"
