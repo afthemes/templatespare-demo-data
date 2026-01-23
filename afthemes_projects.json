@@ -12022,124 +12022,130 @@
               "Lifestyle & Personal"
             ]
           },
-          "fashion": {
-            "slug": "fashion",
+          "adventure-trails": {
+            "slug": "adventure-trails",
             "theme": "BroadNews",
-            "main_category": "Lifestyle & Personal",
-            "catgory": "Fashion",
-            "name": "Fashion",
-            "preview": "https://demos.afthemes.com/broadnews/fashion/",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Travel",
+            "name": "Adventure Trials",
+            "preview": "https://demos.afthemes.com/broadnews/adventure-trails/",
             "tags": [
               "free",
-              "magazine",
-              "fashion"
+              "blog",
+              "travel",
+              "nepali"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Regional & Local News"
+            ]
+          },
+          "blocknews": {
+            "slug": "blocknews",
+            "theme": "BroadNews",
+            "main_category": "News & Media",
+            "catgory": "Gutenberg",
+            "name": "BlockNews",
+            "preview": "https://demos.afthemes.com/broadnews/blocknews/",
+            "tags": [
+              "free",
+              "blog",
+              "gutenberg"
             ],
             "main_categories": [
               "News & Media",
               "Lifestyle & Personal"
-            ]
+            ],
+            "plugins":"blockspare"
           },
-          "arabic-news": {
-            "slug": "arabic-news",
+          "airlines-blog": {
+            "slug": "airlines-blog",
             "theme": "BroadNews",
             "main_category": "Regional & Language Specific",
-            "catgory": "General",
-            "name": "Arabic News",
-            "preview": "https://demos.afthemes.com/broadnews/arabic-news/",
+            "catgory": "Gutenberg",
+            "name": "Airlines Blog",
+            "preview": "https://demos.afthemes.com/broadnews/airlines-blog/",
             "tags": [
               "free",
-              "magazine",
-              "rtl"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
-          "classic": {
-            "slug": "classic",
-            "theme": "BroadNews",
-            "main_category": "Specialty & Niche",
-            "catgory": "Classic",
-            "name": "Classic",
-            "preview": "https://demos.afthemes.com/broadnews/classic/",
-            "tags": [
-              "free",
-              "magazine",
               "blog",
-              "classic"
+              "gutenberg",
+              "turkish"
             ],
             "main_categories": [
               "News & Media",
-              "Lifestyle & Personal",
-              "Specialty & Niche"
-            ]
+              "Regional & Local News"
+            ],
+            "plugins":"blockspare"
           },
-          "chinese-news": {
-            "slug": "chinese-news",
+          "generic": {
+            "slug": "generic",
+            "theme": "BroadNews",
+            "main_category": "Business & Professional",
+            "catgory": "Gutenberg",
+            "name": "Generic",
+            "preview": "https://demos.afthemes.com/broadnews/generic/",
+            "tags": [
+              "free",
+              "gutenberg",
+              "business"
+            ],
+            "main_categories": [
+              "Business & eCommerce"
+            ],
+            "plugins":"blockspare"
+          },
+          "web-news": {
+            "slug": "web-news",
+            "theme": "BroadNews",
+            "main_category": "News & Media",
+            "catgory": "Elementor",
+            "name": "Web News",
+            "preview": "https://demos.afthemes.com/broadnews/web-news/",
+            "tags": [
+              "free",
+              "elementor",
+              "blog"
+            ],
+            "main_categories": [
+              "News & Media"
+            ],
+            "plugins":"elementor,elespare"
+          },
+          "pets-home": {
+            "slug": "pets-home",
             "theme": "BroadNews",
             "main_category": "Regional & Language Specific",
-            "catgory": "General",
-            "name": "Chinese News",
-            "preview": "https://demos.afthemes.com/broadnews/chinese-news/",
+            "catgory": "Elementor",
+            "name": "Pets Home",
+            "preview": "https://demos.afthemes.com/broadnews/pets-home/",
             "tags": [
               "free",
-              "magazine",
-              "chinese"
+              "elementor",
+              "blog",
+              "russian"
             ],
             "main_categories": [
-              "News & Media"
-            ]
+              "News & Media",
+              "Regional & Local News"
+            ],
+            "plugins":"elementor,elespare"
           },
-          "general": {
-            "slug": "general",
+          "brand": {
+            "slug": "brand",
             "theme": "BroadNews",
-            "main_category": "News & Media",
-            "catgory": "General",
-            "name": "General",
-            "homepage_type": "blog",
-            "preview": "https://demos.afthemes.com/broadnews/general/",
+            "main_category": "Business & Professional",
+            "catgory": "Elementor",
+            "name": "Brand",
+            "preview": "https://demos.afthemes.com/broadnews/brand/",
             "tags": [
               "free",
-              "magazine",
-              "general"
+              "elementor",
+              "business"
             ],
             "main_categories": [
-              "News & Media"
-            ]
-          },
-          "spotlight": {
-            "slug": "spotlight",
-            "theme": "BroadNews",
-            "main_category": "News & Media",
-            "catgory": "Sport",
-            "name": "Spotlight",
-            "homepage_type": "blog",
-            "preview": "https://demos.afthemes.com/broadnews/spotlight/",
-            "tags": [
-              "free",
-              "magazine",
-              "sport"
+              "Business & eCommerce"
             ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
-          "large": {
-            "slug": "large",
-            "theme": "BroadNews",
-            "main_category": "News & Media",
-            "catgory": "Fashion",
-            "name": "Large",
-            "homepage_type": "blog",
-            "preview": "https://demos.afthemes.com/broadnews/large/",
-            "tags": [
-              "free",
-              "magazine",
-              "large"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
+            "plugins":"elementor,elespare"
           }
         }
       },
@@ -12164,141 +12170,249 @@
               "News & Media"
             ]
           },
+          "turkish-update": {
+            "slug": "turkish-update",
+            "theme": "BroadNews Pro",
+            "main_category": "News & Media",
+            "catgory": "General",
+            "name": "Turkish Update Pro",
+            "preview": "https://demos.afthemes.com/broadnews-pro/turkish-update/",
+            "tags": [
+              "pro",
+              "blog",
+              "turkish"
+            ],
+            "main_categories": [
+              "News & Media"
+            ]
+          },
+          "tech-innovate": {
+            "slug": "tech-innovate",
+            "theme": "BroadNews Pro",
+            "main_category": "News & Media",
+            "catgory": "General",
+            "name": "Tech Innovate Pro",
+            "preview": "https://demos.afthemes.com/broadnews-pro/tech-innovate/",
+            "tags": [
+              "pro",
+              "blog",
+              "russian"
+            ],
+            "main_categories": [
+              "News & Media"
+            ]
+          },
+          "blocknews-dark": {
+            "slug": "blocknews-dark",
+            "theme": "BroadNews Pro",
+            "main_category": "News & Media",
+            "catgory": "Gutenberg",
+            "name": "Blocknews Dark Pro",
+            "preview": "https://demos.afthemes.com/broadnews-pro/blocknews-dark/",
+            "tags": [
+              "pro",
+              "blog",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "News & Media"
+            ],
+            "plugins":"blockspare"
+          },
+          "hourly-post": {
+            "slug": "hourly-post",
+            "theme": "BroadNews Pro",
+            "main_category": "News & Media",
+            "catgory": "Gutenberg",
+            "name": "Hourly Post Pro",
+            "preview": "https://demos.afthemes.com/broadnews-pro/hourly-post/",
+            "tags": [
+              "pro",
+              "blog",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "News & Media"
+            ],
+            "plugins":"blockspare"
+          },
+          "city-hub": {
+            "slug": "city-hub",
+            "theme": "BroadNews Pro",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Gutenberg",
+            "name": "City Hub Pro",
+            "preview": "https://demos.afthemes.com/broadnews-pro/city-hub/",
+            "tags": [
+              "pro",
+              "blog",
+              "gutenberg",
+              "japanese"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Regional & Local News"
+            ],
+            "plugins":"blockspare"
+          },
+          "lyrical-blog": {
+            "slug": "lyrical-blog",
+            "theme": "BroadNews Pro",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Gutenberg",
+            "name": "Lyrical Blog Pro",
+            "preview": "https://demos.afthemes.com/broadnews-pro/lyrical-blog/",
+            "tags": [
+              "pro",
+              "blog",
+              "gutenberg",
+              "french"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Regional & Local News"
+            ],
+            "plugins":"blockspare"
+          },
+          "generic": {
+            "slug": "generic",
+            "theme": "BroadNews Pro",
+            "main_category": "Business & Professional",
+            "catgory": "Gutenberg",
+            "name": "Generic Pro",
+            "preview": "https://demos.afthemes.com/broadnews-pro/generic/",
+            "tags": [
+              "pro",
+              "business",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "Business & eCommerce"
+            ],
+            "plugins":"blockspare"
+          },
+          "ngo": {
+            "slug": "ngo",
+            "theme": "BroadNews Pro",
+            "main_category": "Business & Professional",
+            "catgory": "Gutenberg",
+            "name": "NGO Pro",
+            "preview": "https://demos.afthemes.com/broadnews-pro/ngo/",
+            "tags": [
+              "pro",
+              "business",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "Business & eCommerce"
+            ],
+            "plugins":"blockspare"
+          },
+          "fashion": {
+            "slug": "fashion",
+            "theme": "BroadNews Pro",
+            "main_category": "News & Media",
+            "catgory": "Elementor",
+            "name": "Fashion Pro",
+            "preview": "https://demos.afthemes.com/broadnews-pro/fashion/",
+            "tags": [
+              "pro",
+              "blog",
+              "elementor"
+            ],
+            "main_categories": [
+              "News & Media"
+            ],
+            "plugins":"elementor,elespare"
+          },
           "sport": {
             "slug": "sport",
             "theme": "BroadNews Pro",
             "main_category": "News & Media",
-            "catgory": "Sport",
+            "catgory": "Elementor",
             "name": "Sport Pro",
             "preview": "https://demos.afthemes.com/broadnews-pro/sport/",
             "tags": [
               "pro",
               "blog",
-              "sport"
+              "elementor"
             ],
             "main_categories": [
-              "News & Media",
-              "Lifestyle & Personal"
-            ]
-          },
-          "fashion": {
-            "slug": "fashion",
-            "theme": "BroadNews Pro",
-            "main_category": "Lifestyle & Personal",
-            "catgory": "Fashion",
-            "name": "Fashion Pro",
-            "preview": "https://demos.afthemes.com/broadnews-pro/fashion/",
-            "tags": [
-              "pro",
-              "magazine",
-              "fashion"
+              "News & Media"
             ],
-            "main_categories": [
-              "News & Media",
-              "Lifestyle & Personal"
-            ]
+            "plugins":"elementor,elespare"
           },
           "arabic-news": {
             "slug": "arabic-news",
             "theme": "BroadNews Pro",
             "main_category": "Regional & Language Specific",
-            "catgory": "General",
+            "catgory": "Elementor",
             "name": "Arabic News Pro",
             "preview": "https://demos.afthemes.com/broadnews-pro/arabic-news/",
             "tags": [
               "pro",
-              "magazine",
-              "rtl"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
-          "classic": {
-            "slug": "classic",
-            "theme": "BroadNews Pro",
-            "main_category": "Specialty & Niche",
-            "catgory": "Classic",
-            "name": "Classic Pro",
-            "preview": "https://demos.afthemes.com/broadnews-pro/classic/",
-            "tags": [
-              "pro",
-              "magazine",
               "blog",
-              "classic"
+              "elementor",
+              "arabic"
             ],
             "main_categories": [
               "News & Media",
-              "Lifestyle & Personal",
-              "Specialty & Niche"
-            ]
+              "Regional & Local News"
+            ],
+            "plugins":"elementor,elespare"
           },
           "chinese-news": {
             "slug": "chinese-news",
             "theme": "BroadNews Pro",
             "main_category": "Regional & Language Specific",
-            "catgory": "General",
+            "catgory": "Elementor",
             "name": "Chinese News Pro",
             "preview": "https://demos.afthemes.com/broadnews-pro/chinese-news/",
             "tags": [
               "pro",
-              "magazine",
+              "blog",
+              "elementor",
               "chinese"
             ],
             "main_categories": [
-              "News & Media"
-            ]
+              "News & Media",
+              "Regional & Local News"
+            ],
+            "plugins":"elementor,elespare"
           },
-          "general": {
-            "slug": "general",
+          "religion": {
+            "slug": "religion",
             "theme": "BroadNews Pro",
-            "main_category": "News & Media",
-            "catgory": "General",
-            "name": "General",
-            "homepage_type": "blog",
-            "preview": "https://demos.afthemes.com/broadnews-pro/general/",
+            "main_category": "Business & Professional",
+            "catgory": "Elementor",
+            "name": "Religion Pro",
+            "preview": "https://demos.afthemes.com/broadnews-pro/religion/",
             "tags": [
               "pro",
-              "magazine",
-              "general"
+              "business",
+              "elementor"
             ],
             "main_categories": [
-              "News & Media"
-            ]
+              "Business & eCommerce"
+            ],
+            "plugins":"elementor,elespare"
           },
-          "spotlight": {
-            "slug": "spotlight",
+          "brand": {
+            "slug": "brand",
             "theme": "BroadNews Pro",
-            "main_category": "News & Media",
-            "catgory": "Sport",
-            "name": "Spotlight",
-            "homepage_type": "blog",
-            "preview": "https://demos.afthemes.com/broadnews-pro/spotlight/",
+            "main_category": "Business & Professional",
+            "catgory": "Elementor",
+            "name": "Brand Pro",
+            "preview": "https://demos.afthemes.com/broadnews-pro/brand/",
             "tags": [
               "pro",
-              "magazine",
-              "sport"
+              "business",
+              "elementor"
             ],
             "main_categories": [
-              "News & Media"
-            ]
-          },
-          "large": {
-            "slug": "large",
-            "theme": "BroadNews Pro",
-            "main_category": "News & Media",
-            "catgory": "Fashion",
-            "name": "Large",
-            "homepage_type": "blog",
-            "preview": "https://demos.afthemes.com/broadnews-pro/large/",
-            "tags": [
-              "pro",
-              "magazine",
-              "large"
+              "Business & eCommerce"
             ],
-            "main_categories": [
-              "News & Media"
-            ]
+            "plugins":"elementor,elespare"
           }
         }
       },
@@ -12468,7 +12582,8 @@
         "premium": "reviewnews-pro",
         "child": [
           "newsreview",
-          "reviewmag"
+          "reviewmag",
+          "newscom"
         ],
         "demodata": {
           "default": {
@@ -12765,6 +12880,29 @@
           }
         }
       },
+      "newscom": {
+        "data": "newscom",
+        "free": "reviewnews",
+        "premium": "reviewnews-pro",
+        "demodata": {
+            "default": {
+                "slug": "newscom",
+                "theme": "ReviewNews",
+                "main_category": "News & Media",
+                "catgory": "General",
+                "name": "NewsCom",
+                "preview": "https://demos.afthemes.com/reviewnews/newscom/",
+                "tags": [
+                    "free",
+                    "magazine",
+                    "child"
+                ],
+                "main_categories": [
+                  "News & Media"
+                ]
+            }
+        }
+    },
       "reviewmag": {
         "data": "reviewmag",
         "free": "reviewnews",

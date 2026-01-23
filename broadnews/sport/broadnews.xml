@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.5.5" created="2024-06-25 06:46" -->
+	<!-- generator="WordPress/6.9" created="2026-01-22 05:24" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Sport</title>
 	<link>https://demos.afthemes.com/broadnews/sport</link>
 	<description></description>
-	<pubDate>Tue, 25 Jun 2024 06:46:59 +0000</pubDate>
+	<pubDate>Thu, 22 Jan 2026 05:24:42 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.afthemes.com/broadnews/</wp:base_site_url>
@@ -336,7 +336,7 @@
 	<wp:term><wp:term_id>26</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Social menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.9</generator>
 
 <image>
 	<url>https://demos.afthemes.com/broadnews/sport/wp-content/uploads/sites/2/2018/08/af-themes-main-dark-150x150.png</url>
@@ -1821,6 +1821,18 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-05-04]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[awpa_pro_post_5_star_rating_review]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:7:"ratings";a:1:{s:4:"id_1";i:5;}s:3:"sum";i:5;s:5:"count";i:1;s:3:"avg";i:5;s:12:"people_count";a:1:{s:7:"count_5";i:1;}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[awpa_top_rated_posts_5_star]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[awpa_pro_post_5_star_rating_reviewed_user]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>

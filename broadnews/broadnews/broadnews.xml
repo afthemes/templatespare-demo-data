@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.5.5" created="2024-06-25 06:41" -->
+	<!-- generator="WordPress/6.9" created="2026-01-22 05:23" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>BroadNews</title>
 	<link>https://demos.afthemes.com/broadnews</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Tue, 25 Jun 2024 06:41:32 +0000</pubDate>
+	<pubDate>Thu, 22 Jan 2026 05:23:05 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.afthemes.com/broadnews/</wp:base_site_url>
@@ -314,7 +314,7 @@
 	<wp:term><wp:term_id>24</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Social menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.9</generator>
 
 		<item>
 		<title><![CDATA[cropped-af-themes-main-dark-2.png]]></title>
@@ -349,10 +349,6 @@
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:41:"2019/04/cropped-af-themes-main-dark-2.png";s:8:"filesize";i:17169;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:41:"cropped-af-themes-main-dark-2-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:11212;}s:9:"thumbnail";a:5:{s:4:"file";s:41:"cropped-af-themes-main-dark-2-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:4657;}s:16:"broadnews-medium";a:5:{s:4:"file";s:41:"cropped-af-themes-main-dark-2-512x410.png";s:5:"width";i:512;s:6:"height";i:410;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:17842;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
-		<wp:meta_value><![CDATA[17169]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -375,6 +371,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_f8c3dd501dd69df9604c96c85d96bc5a]]></wp:meta_key>
 		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -410,10 +414,6 @@
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1024;s:6:"height";i:683;s:4:"file";s:72:"2021/11/water-branch-snow-drop-liquid-photography-550052-pxhere.com_.jpg";s:8:"filesize";i:89150;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:72:"water-branch-snow-drop-liquid-photography-550052-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21207;}s:9:"thumbnail";a:5:{s:4:"file";s:72:"water-branch-snow-drop-liquid-photography-550052-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9223;}s:12:"medium_large";a:5:{s:4:"file";s:72:"water-branch-snow-drop-liquid-photography-550052-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:86692;}s:15:"broadnews-large";a:5:{s:4:"file";s:72:"water-branch-snow-drop-liquid-photography-550052-pxhere.com_-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:98471;}s:16:"broadnews-medium";a:5:{s:4:"file";s:72:"water-branch-snow-drop-liquid-photography-550052-pxhere.com_-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:60579;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
-		<wp:meta_value><![CDATA[89150]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -423,6 +423,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -459,10 +467,6 @@
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1024;s:6:"height";i:683;s:4:"file";s:70:"2018/03/hand-girl-hair-camera-photographer-pine-14200-pxhere.com-1.jpg";s:8:"filesize";i:69782;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:70:"hand-girl-hair-camera-photographer-pine-14200-pxhere.com-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13410;}s:9:"thumbnail";a:5:{s:4:"file";s:70:"hand-girl-hair-camera-photographer-pine-14200-pxhere.com-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6536;}s:12:"medium_large";a:5:{s:4:"file";s:70:"hand-girl-hair-camera-photographer-pine-14200-pxhere.com-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:66335;}s:15:"broadnews-large";a:5:{s:4:"file";s:70:"hand-girl-hair-camera-photographer-pine-14200-pxhere.com-1-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:76976;}s:16:"broadnews-medium";a:5:{s:4:"file";s:70:"hand-girl-hair-camera-photographer-pine-14200-pxhere.com-1-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:44199;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
-		<wp:meta_value><![CDATA[69782]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -472,6 +476,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -508,10 +520,6 @@
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1024;s:6:"height";i:683;s:4:"file";s:77:"2018/03/women-lady-model-person-photography-wallpaper-1639801-pxhere.com_.jpg";s:8:"filesize";i:63039;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639801-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14091;}s:9:"thumbnail";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639801-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7349;}s:12:"medium_large";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639801-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:61959;}s:15:"broadnews-large";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639801-pxhere.com_-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:71285;}s:16:"broadnews-medium";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639801-pxhere.com_-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:42905;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
-		<wp:meta_value><![CDATA[63039]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -521,6 +529,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -557,10 +573,6 @@
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1151;s:6:"height";i:768;s:4:"file";s:77:"2018/03/women-lady-model-person-photography-wallpaper-1639804-pxhere.com_.jpg";s:8:"filesize";i:106245;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639804-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17336;}s:5:"large";a:5:{s:4:"file";s:78:"women-lady-model-person-photography-wallpaper-1639804-pxhere.com_-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:132996;}s:9:"thumbnail";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639804-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7253;}s:12:"medium_large";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639804-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:85408;}s:18:"broadnews-featured";a:5:{s:4:"file";s:78:"women-lady-model-person-photography-wallpaper-1639804-pxhere.com_-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:132996;}s:15:"broadnews-large";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639804-pxhere.com_-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:98535;}s:16:"broadnews-medium";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639804-pxhere.com_-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:57635;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
-		<wp:meta_value><![CDATA[106245]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -570,6 +582,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -606,10 +626,6 @@
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1024;s:6:"height";i:683;s:4:"file";s:77:"2018/03/women-lady-model-person-photography-wallpaper-1639799-pxhere.com_.jpg";s:8:"filesize";i:93814;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639799-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17330;}s:9:"thumbnail";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639799-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7831;}s:12:"medium_large";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639799-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:86344;}s:15:"broadnews-large";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639799-pxhere.com_-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:100812;}s:16:"broadnews-medium";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639799-pxhere.com_-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:57832;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
-		<wp:meta_value><![CDATA[93814]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -619,6 +635,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -655,10 +679,6 @@
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1024;s:6:"height";i:684;s:4:"file";s:77:"2018/03/women-lady-model-person-photography-wallpaper-1639724-pxhere.com_.jpg";s:8:"filesize";i:53944;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639724-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15042;}s:9:"thumbnail";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639724-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6903;}s:12:"medium_large";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639724-pxhere.com_-768x513.jpg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:56882;}s:15:"broadnews-large";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639724-pxhere.com_-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:64004;}s:16:"broadnews-medium";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639724-pxhere.com_-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:39848;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
-		<wp:meta_value><![CDATA[53944]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -668,6 +688,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -704,10 +732,6 @@
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1024;s:6:"height";i:682;s:4:"file";s:77:"2018/03/women-lady-model-person-photography-wallpaper-1639719-pxhere.com_.jpg";s:8:"filesize";i:50221;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639719-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12685;}s:9:"thumbnail";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639719-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6142;}s:12:"medium_large";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639719-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:51169;}s:15:"broadnews-large";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639719-pxhere.com_-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:58465;}s:16:"broadnews-medium";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639719-pxhere.com_-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:35849;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
-		<wp:meta_value><![CDATA[50221]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -717,6 +741,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -753,10 +785,6 @@
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1024;s:6:"height";i:683;s:4:"file";s:77:"2018/03/women-lady-model-person-photography-wallpaper-1637552-pxhere.com_.jpg";s:8:"filesize";i:38239;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1637552-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10303;}s:9:"thumbnail";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1637552-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5252;}s:12:"medium_large";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1637552-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41946;}s:15:"broadnews-large";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1637552-pxhere.com_-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47843;}s:16:"broadnews-medium";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1637552-pxhere.com_-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:29025;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
-		<wp:meta_value><![CDATA[38239]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -766,6 +794,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -802,10 +838,6 @@
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1024;s:6:"height";i:683;s:4:"file";s:77:"2018/03/women-lady-model-person-photography-wallpaper-1639795-pxhere.com_.jpg";s:8:"filesize";i:44965;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639795-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11675;}s:9:"thumbnail";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639795-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5488;}s:12:"medium_large";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639795-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47113;}s:15:"broadnews-large";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639795-pxhere.com_-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:52779;}s:16:"broadnews-medium";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639795-pxhere.com_-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:31904;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
-		<wp:meta_value><![CDATA[44965]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -815,6 +847,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -851,10 +891,6 @@
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1024;s:6:"height";i:683;s:4:"file";s:71:"2018/03/resort-blowing-shades-cute-blue-smiling-1629574-pxhere.com_.jpg";s:8:"filesize";i:33410;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:71:"resort-blowing-shades-cute-blue-smiling-1629574-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8821;}s:9:"thumbnail";a:5:{s:4:"file";s:71:"resort-blowing-shades-cute-blue-smiling-1629574-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4901;}s:12:"medium_large";a:5:{s:4:"file";s:71:"resort-blowing-shades-cute-blue-smiling-1629574-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:34079;}s:15:"broadnews-large";a:5:{s:4:"file";s:71:"resort-blowing-shades-cute-blue-smiling-1629574-pxhere.com_-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:39056;}s:16:"broadnews-medium";a:5:{s:4:"file";s:71:"resort-blowing-shades-cute-blue-smiling-1629574-pxhere.com_-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:23920;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
-		<wp:meta_value><![CDATA[33410]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -864,6 +900,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -900,10 +944,6 @@
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1024;s:6:"height";i:768;s:4:"file";s:68:"2022/07/sea-ocean-creative-mountain-sky-night-884241-pxhere.com_.jpg";s:8:"filesize";i:111192;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:68:"sea-ocean-creative-mountain-sky-night-884241-pxhere.com_-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18636;}s:9:"thumbnail";a:5:{s:4:"file";s:68:"sea-ocean-creative-mountain-sky-night-884241-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7121;}s:12:"medium_large";a:5:{s:4:"file";s:68:"sea-ocean-creative-mountain-sky-night-884241-pxhere.com_-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:99605;}s:15:"broadnews-large";a:5:{s:4:"file";s:68:"sea-ocean-creative-mountain-sky-night-884241-pxhere.com_-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:104379;}s:16:"broadnews-medium";a:5:{s:4:"file";s:68:"sea-ocean-creative-mountain-sky-night-884241-pxhere.com_-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:59568;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
-		<wp:meta_value><![CDATA[111192]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -913,6 +953,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -956,6 +1004,14 @@
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[banner-promo-black-]]></title>
@@ -995,6 +1051,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -1038,6 +1102,14 @@
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[sidebar-promo-red]]></title>
@@ -1077,6 +1149,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -1120,6 +1200,14 @@
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[sidebar-promo-black-]]></title>
@@ -1161,6 +1249,14 @@
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[sea-ocean-creative-mountain-sky-night-884241-pxhere.com]]></title>
@@ -1195,10 +1291,6 @@
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1024;s:6:"height";i:768;s:4:"file";s:68:"2021/11/sea-ocean-creative-mountain-sky-night-884241-pxhere.com_.jpg";s:8:"filesize";i:111192;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:68:"sea-ocean-creative-mountain-sky-night-884241-pxhere.com_-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18636;}s:9:"thumbnail";a:5:{s:4:"file";s:68:"sea-ocean-creative-mountain-sky-night-884241-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7121;}s:12:"medium_large";a:5:{s:4:"file";s:68:"sea-ocean-creative-mountain-sky-night-884241-pxhere.com_-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:99605;}s:15:"broadnews-large";a:5:{s:4:"file";s:68:"sea-ocean-creative-mountain-sky-night-884241-pxhere.com_-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:104379;}s:16:"broadnews-medium";a:5:{s:4:"file";s:68:"sea-ocean-creative-mountain-sky-night-884241-pxhere.com_-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:59568;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
-		<wp:meta_value><![CDATA[111192]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -1212,6 +1304,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -1248,10 +1348,6 @@
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1024;s:6:"height";i:683;s:4:"file";s:80:"2018/03/ass-attractive-back-background-beautiful-beauty-1626583-pxhere.com-1.jpg";s:8:"filesize";i:42193;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:80:"ass-attractive-back-background-beautiful-beauty-1626583-pxhere.com-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9561;}s:9:"thumbnail";a:5:{s:4:"file";s:80:"ass-attractive-back-background-beautiful-beauty-1626583-pxhere.com-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5339;}s:12:"medium_large";a:5:{s:4:"file";s:80:"ass-attractive-back-background-beautiful-beauty-1626583-pxhere.com-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:40681;}s:15:"broadnews-large";a:5:{s:4:"file";s:80:"ass-attractive-back-background-beautiful-beauty-1626583-pxhere.com-1-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:46888;}s:16:"broadnews-medium";a:5:{s:4:"file";s:80:"ass-attractive-back-background-beautiful-beauty-1626583-pxhere.com-1-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:28428;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
-		<wp:meta_value><![CDATA[42193]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -1261,6 +1357,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -2293,10 +2397,6 @@
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:399;s:4:"file";s:82:"2022/07/cropped-water-branch-snow-drop-liquid-photography-550052-pxhere.com_-2.jpg";s:8:"filesize";i:46478;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:81:"cropped-water-branch-snow-drop-liquid-photography-550052-pxhere.com_-2-300x80.jpg";s:5:"width";i:300;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7860;}s:5:"large";a:5:{s:4:"file";s:83:"cropped-water-branch-snow-drop-liquid-photography-550052-pxhere.com_-2-1024x272.jpg";s:5:"width";i:1024;s:6:"height";i:272;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:43931;}s:9:"thumbnail";a:5:{s:4:"file";s:82:"cropped-water-branch-snow-drop-liquid-photography-550052-pxhere.com_-2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4866;}s:12:"medium_large";a:5:{s:4:"file";s:82:"cropped-water-branch-snow-drop-liquid-photography-550052-pxhere.com_-2-768x204.jpg";s:5:"width";i:768;s:6:"height";i:204;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:29674;}s:18:"broadnews-featured";a:5:{s:4:"file";s:83:"cropped-water-branch-snow-drop-liquid-photography-550052-pxhere.com_-2-1024x272.jpg";s:5:"width";i:1024;s:6:"height";i:272;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:43931;}s:15:"broadnews-large";a:5:{s:4:"file";s:82:"cropped-water-branch-snow-drop-liquid-photography-550052-pxhere.com_-2-825x399.jpg";s:5:"width";i:825;s:6:"height";i:399;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:36016;}s:16:"broadnews-medium";a:5:{s:4:"file";s:82:"cropped-water-branch-snow-drop-liquid-photography-550052-pxhere.com_-2-590x399.jpg";s:5:"width";i:590;s:6:"height";i:399;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:25596;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
-		<wp:meta_value><![CDATA[46478]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -2315,6 +2415,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_broadnews]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1711132967]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2350,11 +2458,15 @@
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:930;s:6:"height";i:110;s:4:"file";s:37:"2024/06/banner-promo-full-blue-1.jpeg";s:8:"filesize";i:20265;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:36:"banner-promo-full-blue-1-300x35.jpeg";s:5:"width";i:300;s:6:"height";i:35;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3447;}s:9:"thumbnail";a:5:{s:4:"file";s:37:"banner-promo-full-blue-1-150x110.jpeg";s:5:"width";i:150;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3000;}s:12:"medium_large";a:5:{s:4:"file";s:36:"banner-promo-full-blue-1-768x91.jpeg";s:5:"width";i:768;s:6:"height";i:91;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11431;}s:15:"broadnews-large";a:5:{s:4:"file";s:37:"banner-promo-full-blue-1-825x110.jpeg";s:5:"width";i:825;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14553;}s:16:"broadnews-medium";a:5:{s:4:"file";s:37:"banner-promo-full-blue-1-590x110.jpeg";s:5:"width";i:590;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10169;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
-		<wp:meta_value><![CDATA[20265]]></wp:meta_value>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
