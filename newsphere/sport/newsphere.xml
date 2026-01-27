@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.4.4" created="2024-06-19 05:05" -->
+	<!-- generator="WordPress/6.9" created="2026-01-27 06:13" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Sport</title>
 	<link>https://demos.afthemes.com/newsphere/sport</link>
 	<description>Just another Newsphere Sites</description>
-	<pubDate>Wed, 19 Jun 2024 05:05:29 +0000</pubDate>
+	<pubDate>Tue, 27 Jan 2026 06:13:59 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.afthemes.com/newsphere/</wp:base_site_url>
@@ -135,6 +135,13 @@
 		<wp:term_name><![CDATA[Main menu items]]></wp:term_name>
 	</wp:term>
 		<wp:term>
+		<wp:term_id>15</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[newsphere]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[newsphere]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>13</wp:term_id>
 		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug>
@@ -190,7 +197,7 @@
 	<wp:term><wp:term_id>13</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Social menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.4.4</generator>
+	<generator>https://wordpress.org/?v=6.9</generator>
 
 		<item>
 		<title><![CDATA[banner-promo-1120-wu-1]]></title>
@@ -514,6 +521,10 @@
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_bd8b9efa532b37e3c4d334f5db9d1361]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[StockSnap_1Q2U0J72YG]]></title>
@@ -677,6 +688,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_newsphere]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1741082907]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[newsphere]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1265,6 +1284,14 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1725868602]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Gordon Hayward still fan of esports, not yet thought to be an investor]]></title>
@@ -1397,6 +1424,14 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1715319041]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1725868602]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>2</wp:comment_id>
@@ -2560,6 +2595,14 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:meta_key><![CDATA[_oembed_time_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1715319041]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1725868602]]></wp:meta_value>
+		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>3</wp:comment_id>
 			<wp:comment_author><![CDATA[Armand Witherow]]></wp:comment_author>
@@ -2712,6 +2755,14 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:meta_key><![CDATA[_oembed_time_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1715319041]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1725868602]]></wp:meta_value>
+		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>4</wp:comment_id>
 			<wp:comment_author><![CDATA[William]]></wp:comment_author>
@@ -2860,6 +2911,14 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:meta_key><![CDATA[_oembed_time_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1715319041]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1725868602]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Explaining Boston Uprising's fall from grace]]></title>
@@ -2993,6 +3052,14 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1715319041]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1725868602]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>5</wp:comment_id>
@@ -4495,6 +4562,14 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:meta_key><![CDATA[_oembed_time_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1715319041]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1725868602]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[G2's Mikyx might miss MSI due to wrist injury]]></title>
@@ -4623,6 +4698,14 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1715319041]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1725868602]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4753,6 +4836,14 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:meta_key><![CDATA[_oembed_time_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1715319041]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1725868602]]></wp:meta_value>
+		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>7</wp:comment_id>
 			<wp:comment_author><![CDATA[https://ericsundwall.com/tarot-card-reading-and-meanings/]]></wp:comment_author>
@@ -4762,6 +4853,22 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 			<wp:comment_date><![CDATA[2019-12-03 15:10:22]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2019-12-03 15:10:22]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[tarot card reading https://ericsundwall.com/tarot-card-reading-and-meanings/ tarot card reading near me]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>76</wp:comment_id>
+			<wp:comment_author><![CDATA[MBC]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[rondaharrison@yahoo.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://www.maxbetcasinos.com/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[95.164.206.98]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2024-07-29 21:47:09]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2024-07-29 21:47:09]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Bankroll management is an essential skill for any player, no matter 
+what level they are playing at. The object of the game is to collect as many points 
+as possible before the dealer scores.]]></wp:comment_content>
 			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
 			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
@@ -4896,6 +5003,14 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:meta_key><![CDATA[_oembed_time_fc82376e625ade1557e946c53c8c12ef]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1715319041]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1725868602]]></wp:meta_value>
+		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>8</wp:comment_id>
 			<wp:comment_author><![CDATA[Caroline F Wilkinson]]></wp:comment_author>
@@ -4910,7 +5025,48 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>77</wp:comment_id>
+			<wp:comment_author><![CDATA[JamesBroof]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[sept1024@hotmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://rftimes.ru/news/2024-09-05-sem-aktualnyh-lukov-2024-ot-brunello-cucinelli</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[185.68.185.225]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2024-09-10 23:29:22]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2024-09-10 23:29:22]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Стильные заметки по подбору модных луков на каждый день. 
+Мнения профессионалов, события, все новинки и мероприятия. 
+https://rftimes.ru/news/2024-09-05-sem-aktualnyh-lukov-2024-ot-brunello-cucinelli]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
 					</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://demos.afthemes.com/newsphere/sport/2025/03/04/wp-global-styles-newsphere/</link>
+		<pubDate>Tue, 04 Mar 2025 10:09:38 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/newsphere/sport/2025/03/04/wp-global-styles-newsphere/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 3, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>186</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-04 10:09:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-04 10:09:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-04 10:09:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-04 10:09:38]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-newsphere]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="newsphere"><![CDATA[newsphere]]></category>
+						</item>
 				</channel>
 </rss>
 	

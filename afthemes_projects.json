@@ -7626,137 +7626,249 @@
           "dark": {
             "slug": "dark",
             "theme": "Newsphere Pro",
-            "main_category": "News & Media",
+            "main_category": "Regional & Language Specific",
             "catgory": "General",
             "name": "Dark Pro",
             "preview": "https://demos.afthemes.com/newsphere-pro/dark/",
             "tags": [
               "pro",
               "magazine",
-              "dark"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
-          "light": {
-            "slug": "light",
-            "theme": "Newsphere Pro",
-            "main_category": "News & Media",
-            "catgory": "General",
-            "name": "Light Pro",
-            "preview": "https://demos.afthemes.com/newsphere-pro/light/",
-            "tags": [
-              "pro",
-              "magazine",
-              "light"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
-          "sport": {
-            "slug": "sport",
-            "theme": "Newsphere Pro",
-            "main_category": "News & Media",
-            "catgory": "Sport",
-            "name": "Sport Pro",
-            "preview": "https://demos.afthemes.com/newsphere-pro/sport/",
-            "tags": [
-              "pro",
-              "magazine",
-              "sport"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
-          "fashion": {
-            "slug": "fashion",
-            "theme": "Newsphere Pro",
-            "main_category": "News & Media",
-            "catgory": "Fashion",
-            "name": "Fashion Pro",
-            "preview": "https://demos.afthemes.com/newsphere-pro/fashion/",
-            "tags": [
-              "pro",
-              "magazine",
-              "fashion"
+              "dark",
+              "japanese"
             ],
             "main_categories": [
               "News & Media",
-              "Lifestyle & Personal"
+              "Regional & Local News"
             ]
           },
-          "masonry": {
-            "slug": "masonry",
+          "chinese-news": {
+            "slug": "chinese-news",
             "theme": "Newsphere Pro",
-            "main_category": "Design & Creative",
+            "main_category": "Regional & Language Specific",
             "catgory": "General",
-            "name": "Masonry Pro",
-            "homepage_type": "blog",
-            "preview": "https://demos.afthemes.com/newsphere-pro/masonry/",
-            "tags": [
-              "pro",
-              "blog",
-              "general"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal",
-              "Design & Creative"
-            ]
-          },
-          "recipe": {
-            "slug": "recipe",
-            "theme": "Newsphere Pro",
-            "main_category": "Lifestyle & Personal",
-            "catgory": "Blog",
-            "name": "Recipe Pro",
-            "preview": "https://demos.afthemes.com/newsphere-pro/recipe/",
+            "name": "Chinese News Pro",
+            "preview": "https://demos.afthemes.com/newsphere-pro/chinese-news/",
             "tags": [
               "pro",
               "magazine",
-              "food"
+              "chinese"
             ],
             "main_categories": [
               "News & Media",
-              "Lifestyle & Personal"
+              "Regional & Local News"
             ]
           },
-          "travel": {
-            "slug": "travel",
+          "bullet-news": {
+            "slug": "bullet-news",
             "theme": "Newsphere Pro",
-            "main_category": "Lifestyle & Personal",
-            "catgory": "Blog",
-            "name": "Travel Pro",
-            "homepage_type": "blog",
-            "preview": "https://demos.afthemes.com/newsphere-pro/travel/",
+            "main_category": "News & Media",
+            "catgory": "Gutenberg",
+            "name": "Bullet News Pro",
+            "preview": "https://demos.afthemes.com/newsphere-pro/bullet-news/",
             "tags": [
               "pro",
-              "blog",
-              "travel"
+              "magazine",
+              "gutenberg"
             ],
             "main_categories": [
-              "Lifestyle & Personal"
-            ]
+              "News & Media"
+            ],
+            "plugins":"blockspare"
           },
-          "minimal": {
-            "slug": "minimal",
+          "weekly-update": {
+            "slug": "weekly-update",
             "theme": "Newsphere Pro",
-            "main_category": "Design & Creative",
-            "catgory": "Blog",
-            "name": "Minimal Pro",
-            "homepage_type": "blog",
-            "preview": "https://demos.afthemes.com/newsphere-pro/minimal/",
+            "main_category": "News & Media",
+            "catgory": "Gutenberg",
+            "name": "Weekly Update Pro",
+            "preview": "https://demos.afthemes.com/newsphere-pro/weekly-update/",
             "tags": [
               "pro",
-              "blog",
-              "minimal"
+              "magazine",
+              "gutenberg"
             ],
             "main_categories": [
-              "Lifestyle & Personal",
-              "Design & Creative"
-            ]
+              "News & Media"
+            ],
+            "plugins":"blockspare"
+          },
+          "tech -blog": {
+            "slug": "tech -blog",
+            "theme": "Newsphere Pro",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Gutenberg",
+            "name": "Tech Blog Pro",
+            "preview": "https://demos.afthemes.com/newsphere-pro/tech -blog/",
+            "tags": [
+              "pro",
+              "magazine",
+              "gutenberg",
+              "russian"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Regional & Local News"
+            ],
+            "plugins":"blockspare"
+          },
+          "law-blog": {
+            "slug": "law-blog",
+            "theme": "Newsphere Pro",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Gutenberg",
+            "name": "Law Blog Pro",
+            "preview": "https://demos.afthemes.com/newsphere-pro/law-blog/",
+            "tags": [
+              "pro",
+              "magazine",
+              "gutenberg",
+              "indian"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Regional & Local News"
+            ],
+            "plugins":"blockspare"
+          },
+          "business": {
+            "slug": "business",
+            "theme": "Newsphere Pro",
+            "main_category": "Business & Professional",
+            "catgory": "Gutenberg",
+            "name": "Law Blog Pro",
+            "preview": "https://demos.afthemes.com/newsphere-pro/business/",
+            "tags": [
+              "pro",
+              "business",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "Business & eCommerce"
+            ],
+            "plugins":"blockspare"
+          },
+          "human-rights": {
+            "slug": "human-rights",
+            "theme": "Newsphere Pro",
+            "main_category": "Business & Professional",
+            "catgory": "Gutenberg",
+            "name": "Human Rights Pro",
+            "preview": "https://demos.afthemes.com/newsphere-pro/human-rights/",
+            "tags": [
+              "pro",
+              "ngo",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "Business & eCommerce"
+            ],
+            "plugins":"blockspare"
+          },
+          "weather-news": {
+            "slug": "weather-news",
+            "theme": "Newsphere Pro",
+            "main_category": "News & Media",
+            "catgory": "Elementor",
+            "name": "Weather News Pro",
+            "preview": "https://demos.afthemes.com/newsphere-pro/weather-news/",
+            "tags": [
+              "pro",
+              "magazine",
+              "elementor"
+            ],
+            "main_categories": [
+              "News & Media"
+            ],
+            "plugins":"elementor,elespare"
+          },
+          "asian-blog": {
+            "slug": "asian-blog",
+            "theme": "Newsphere Pro",
+            "main_category": "News & Media",
+            "catgory": "Elementor",
+            "name": "Asian Blog Pro",
+            "preview": "https://demos.afthemes.com/newsphere-pro/asian-blog/",
+            "tags": [
+              "pro",
+              "magazine",
+              "elementor"
+            ],
+            "main_categories": [
+              "News & Media"
+            ],
+            "plugins":"elementor,elespare"
+          },
+          "turkish-blog": {
+            "slug": "turkish-blog",
+            "theme": "Newsphere Pro",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Elementor",
+            "name": "Turkish Blog Pro",
+            "preview": "https://demos.afthemes.com/newsphere-pro/turkish-blog/",
+            "tags": [
+              "pro",
+              "magazine",
+              "elementor",
+              "turkish"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Regional & Local News"
+            ],
+            "plugins":"elementor,elespare"
+          },
+          "craft-blog": {
+            "slug": "craft-blog",
+            "theme": "Newsphere Pro",
+            "main_category": "Regional & Language Specific",
+            "catgory": "Elementor",
+            "name": "Craft Blog Pro",
+            "preview": "https://demos.afthemes.com/newsphere-pro/craft-blog/",
+            "tags": [
+              "pro",
+              "magazine",
+              "elementor",
+              "french"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Regional & Local News"
+            ],
+            "plugins":"elementor,elespare"
+          },
+          "catholic-faith": {
+            "slug": "catholic-faith",
+            "theme": "Newsphere Pro",
+            "main_category": "Business & Professional",
+            "catgory": "Elementor",
+            "name": "Catholic Faith Pro",
+            "preview": "https://demos.afthemes.com/newsphere-pro/catholic-faith/",
+            "tags": [
+              "pro",
+              "business",
+              "elementor"
+            ],
+            "main_categories": [
+              "Business & eCommerce"
+            ],
+            "plugins":"elementor,elespare"
+          },
+          "smell-good": {
+            "slug": "smell-good",
+            "theme": "Newsphere Pro",
+            "main_category": "Business & Professional",
+            "catgory": "Elementor",
+            "name": "Smell Good Pro",
+            "preview": "https://demos.afthemes.com/newsphere-pro/smell-good/",
+            "tags": [
+              "pro",
+              "business",
+              "elementor"
+            ],
+            "main_categories": [
+              "Business & eCommerce"
+            ],
+            "plugins":"elementor,elespare"
           }
         }
       },
@@ -7802,144 +7914,75 @@
               "News & Media"
             ]
           },
-          "fashion": {
-            "slug": "fashion",
-            "theme": "Newsphere",
-            "main_category": "News & Media",
-            "catgory": "Fashion",
-            "name": "Fashion",
-            "preview": "https://demos.afthemes.com/newsphere/fashion/",
-            "tags": [
-              "free",
-              "magazine",
-              "fashion"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Lifestyle & Personal"
-            ]
-          },
-          "crypto-news": {
-            "slug": "crypto-news",
-            "theme": "Newsphere",
-            "main_category": "Technology & Innovation",
-            "catgory": "Business",
-            "name": "Crypto News",
-            "preview": "https://demos.afthemes.com/newsphere/crypto-news/",
-            "tags": [
-              "free",
-              "magazine",
-              "crypto"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Technology & Innovation"
-            ]
-          },
           "arabic-news": {
             "slug": "arabic-news",
             "theme": "Newsphere",
             "main_category": "Regional & Language Specific",
-            "catgory": "General",
+            "catgory": "Arabic",
             "name": "Arabic News",
             "preview": "https://demos.afthemes.com/newsphere/arabic-news/",
             "tags": [
               "free",
               "magazine",
-              "general",
-              "rtl"
+              "arabic"
+            ],
+            "main_categories": [
+              "News & Media",
+              "Regional & Local News"
+            ]
+          },
+          "the-news-frontier": {
+            "slug": "the-news-frontier",
+            "theme": "Newsphere",
+            "main_category": "News & Media",
+            "catgory": "Gutenberg",
+            "name": "The News Frontier",
+            "preview": "https://demos.afthemes.com/newsphere/the-news-frontier/",
+            "tags": [
+              "free",
+              "magazine",
+              "gutenberg"
             ],
             "main_categories": [
               "News & Media"
-            ]
+            ],
+            "plugins":"blockspare" 
           },
-          "china-news": {
-            "slug": "china-news",
+          "bullfighting": {
+            "slug": "bullfighting",
             "theme": "Newsphere",
             "main_category": "Regional & Language Specific",
-            "catgory": "General",
-            "name": "China News",
-            "preview": "https://demos.afthemes.com/newsphere/china-news/",
-            "tags": [
-              "free",
-              "general",
-              "chinese"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
-          "newsblock": {
-            "slug": "newsblock",
-            "theme": "Newsphere",
-            "main_category": "News & Media",
             "catgory": "Gutenberg",
-            "name": "Newsblock",
-            "preview": "https://demos.afthemes.com/newsphere/newsblock/",
+            "name": "Bullfighting",
+            "preview": "https://demos.afthemes.com/newsphere/bullfighting/",
             "tags": [
               "free",
-              "general",
-              "gutenberg"
+              "magazine",
+              "gutenberg",
+              "spanish"
             ],
             "main_categories": [
               "News & Media",
-              "Design & Creative"
+              "Regional & Local News"
             ],
-            "plugins": "blockspare"
+            "plugins":"blockspare" 
           },
-          "newsblock-dark": {
-            "slug": "newsblock-dark",
+          "business": {
+            "slug": "business",
             "theme": "Newsphere",
-            "main_category": "News & Media",
+            "main_category": "Business & Professional",
             "catgory": "Gutenberg",
-            "name": "Newsblock Dark",
-            "preview": "https://demos.afthemes.com/newsphere/newsblock-dark/",
+            "name": "Business",
+            "preview": "https://demos.afthemes.com/newsphere/business/",
             "tags": [
               "free",
-              "general",
+              "business",
               "gutenberg"
             ],
             "main_categories": [
-              "News & Media",
-              "Design & Creative"
+              "Business & eCommerce"
             ],
-            "plugins": "blockspare"
-          },
-          "asian-blog": {
-            "slug": "asian-blog",
-            "theme": "Newsphere",
-            "main_category": "Lifestyle & Personal",
-            "catgory": "Elementor",
-            "name": "Asian Blog",
-            "preview": "https://demos.afthemes.com/newsphere/asian-blog/",
-            "tags": [
-              "free",
-              "general",
-              "elementor"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal",
-              "Design & Creative"
-            ],
-            "plugins": "elementor,elespare"
-          },
-          "diner-blog": {
-            "slug": "diner-blog",
-            "theme": "Newsphere",
-            "main_category": "Lifestyle & Personal",
-            "catgory": "Elementor",
-            "name": "Asian Blog",
-            "preview": "https://demos.afthemes.com/newsphere/diner-blog/",
-            "tags": [
-              "free",
-              "food",
-              "elementor"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal",
-              "Design & Creative"
-            ],
-            "plugins": "elementor,elespare"
+            "plugins":"blockspare" 
           },
           "european-news": {
             "slug": "european-news",
@@ -7950,51 +7993,49 @@
             "preview": "https://demos.afthemes.com/newsphere/european-news/",
             "tags": [
               "free",
-              "general",
-              "elementor"
+              "news",
+              "elementor" 
             ],
             "main_categories": [
-              "News & Media",
-              "Design & Creative"
+              "News & Media"
             ],
-            "plugins": "elementor,elespare"
+            "plugins":"elementor,elespare" 
           },
-          "trending-blog": {
-            "slug": "trending-blog",
+          "cycling-blog": {
+            "slug": "cycling-blog",
             "theme": "Newsphere",
-            "main_category": "News & Media",
+            "main_category": "Regional & Language Specific",
             "catgory": "Elementor",
-            "name": "Trending Blog",
-            "preview": "https://demos.afthemes.com/newsphere/trending-blog/",
+            "name": "Cycling Blog",
+            "preview": "https://demos.afthemes.com/newsphere/cycling-blog/",
             "tags": [
               "free",
-              "general",
-              "elementor"
+              "news",
+              "elementor",
+              "german"
             ],
             "main_categories": [
               "News & Media",
-              "Lifestyle & Personal",
-              "Design & Creative"
+              "Regional & Local News"
             ],
-            "plugins": "elementor,elespare"
+            "plugins":"elementor,elespare" 
           },
-          "weather-news": {
-            "slug": "weather-news",
+          "education": {
+            "slug": "education",
             "theme": "Newsphere",
-            "main_category": "News & Media",
+            "main_category": "Regional & Language Specific",
             "catgory": "Elementor",
-            "name": "Weather News",
-            "preview": "https://demos.afthemes.com/newsphere/weather-news/",
+            "name": "Education",
+            "preview": "https://demos.afthemes.com/newsphere/education/",
             "tags": [
               "free",
-              "magazine",
+              "business",
               "elementor"
             ],
             "main_categories": [
-              "News & Media",
-              "Design & Creative"
+              "Business & eCommerce"
             ],
-            "plugins": "elementor,elespare"
+            "plugins":"elementor,elespare" 
           }
         }
       },
