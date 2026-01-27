@@ -7692,13 +7692,13 @@
             ],
             "plugins":"blockspare"
           },
-          "tech -blog": {
-            "slug": "tech -blog",
+          "tech-blog": {
+            "slug": "tech-blog",
             "theme": "Newsphere Pro",
             "main_category": "Regional & Language Specific",
             "catgory": "Gutenberg",
             "name": "Tech Blog Pro",
-            "preview": "https://demos.afthemes.com/newsphere-pro/tech -blog/",
+            "preview": "https://demos.afthemes.com/newsphere-pro/tech-blog/",
             "tags": [
               "pro",
               "magazine",
