@@ -12663,7 +12663,7 @@
           "recipe": {
             "slug": "recipe",
             "theme": "ReviewNews",
-            "main_category": "Lifestyle & Personal",
+            "main_category": "Regional & Language Specific",
             "catgory": "Recipe",
             "name": "Recipe",
             "homepage_type": "blog",
@@ -12671,10 +12671,12 @@
             "tags": [
               "free",
               "blog",
-              "recipe"
+              "recipe",
+              "turkish"
             ],
             "main_categories": [
-              "Lifestyle & Personal"
+              "Lifestyle & Personal",
+              "Regional & Local News"
             ]
           },
           "chinese": {
@@ -12687,10 +12689,31 @@
             "tags": [
               "free",
               "blog",
-              "chinese"
+              "chinese",
+              "elementor"
             ],
             "main_categories": [
-              "Lifestyle & Personal"
+              "Lifestyle & Personal",
+              "Regional & Local News"
+            ],
+            "plugins": "elementor,elespare"
+          },
+          "german": {
+            "slug": "german",
+            "theme": "ReviewNews",
+            "main_category": "Regional & Language Specific",
+            "catgory": "German",
+            "name": "Deutsche Tech",
+            "preview": "https://demos.afthemes.com/reviewnews/german/",
+            "tags": [
+              "free",
+              "blog",
+              "german",
+              "elementor"
+            ],
+            "main_categories": [
+              "Lifestyle & Personal",
+              "Regional & Local News"
             ],
             "plugins": "elementor,elespare"
           },
@@ -12704,10 +12727,31 @@
             "tags": [
               "free",
               "blog",
-              "spanish"
+              "spanish",
+              "gutenberg"
             ],
             "main_categories": [
-              "Lifestyle & Personal"
+              "Lifestyle & Personal",
+              "Regional & Local News"
+            ],
+            "plugins": "blockspare"
+          },
+          "beat-blog": {
+            "slug": "beat-blog",
+            "theme": "ReviewNews",
+            "main_category": "Regional & Language Specific",
+            "catgory": "French",
+            "name": "Beat Blog",
+            "preview": "https://demos.afthemes.com/reviewnews/beat-blog/",
+            "tags": [
+              "free",
+              "blog",
+              "french",
+              "gutenberg"
+            ],
+            "main_categories": [
+              "Lifestyle & Personal",
+              "Regional & Local News"
             ],
             "plugins": "blockspare"
           },
@@ -12812,11 +12856,12 @@
               "free",
               "business",
               "gutenberg",
-              "generic"
+              "russian"
             ],
             "main_categories": [
               "Business & eCommerce",
-              "Design & Creative"
+              "Design & Creative",
+              "Regional & Local News"
             ],
             "plugins": "blockspare"
           },
@@ -12882,7 +12927,7 @@
           "atlas-escape": {
             "slug": "atlas-escape",
             "theme": "ReviewNews",
-            "main_category": "Lifestyle & Personal",
+            "main_category": "Business & Professional",
             "catgory": "Elementor",
             "name": "Atlas Escape",
             "preview": "https://demos.afthemes.com/reviewnews/atlas-escape/",
@@ -12890,12 +12935,14 @@
               "free",
               "business",
               "elementor",
-              "travel"
+              "travel",
+              "japanese"
             ],
             "main_categories": [
               "Business & eCommerce",
               "Lifestyle & Personal",
-              "Design & Creative"
+              "Design & Creative",
+              "Regional & Local News"
             ],
             "plugins": "elementor,elespare"
           },
@@ -12910,7 +12957,8 @@
               "free",
               "business",
               "elementor",
-              "education"
+              "education",
+              "nepali"
             ],
             "main_categories": [
               "Education & Non-Profit News",
@@ -13032,19 +13080,21 @@
           "recipe": {
             "slug": "recipe",
             "theme": "ReviewNews Pro",
-            "main_category": "News & Media",
-            "catgory": "Recipe",
+            "main_category": "Regional & Language Specific",
+            "catgory": "German",
             "name": "Recipe Pro",
             "homepage_type": "blog",
             "preview": "https://demos.afthemes.com/reviewnews-pro/recipe/",
             "tags": [
               "pro",
               "blog",
-              "recipe"
+              "recipe",
+              "german"
             ],
             "main_categories": [
               "News & Media",
-              "Lifestyle & Personal"
+              "Lifestyle & Personal",
+              "Regional & Local News"
             ]
           },
           "chinese": {
@@ -13081,36 +13131,22 @@
             ],
             "plugins": "bzscore-live-score"
           },
-          "arabic": {
-            "slug": "arabic",
-            "theme": "ReviewNews Pro",
-            "main_category": "Regional & Language Specific",
-            "catgory": "Arabic",
-            "name": "Arabic Pro",
-            "preview": "https://demos.afthemes.com/reviewnews-pro/arabic/",
-            "tags": [
-              "pro",
-              "news",
-              "arabic"
-            ],
-            "main_categories": [
-              "News & Media"
-            ]
-          },
           "general": {
             "slug": "general",
             "theme": "ReviewNews Pro",
-            "main_category": "Lifestyle & Personal",
-            "catgory": "General",
+            "main_category": "Regional & Language Specific",
+            "catgory": "French",
             "name": "General Blog Pro",
             "preview": "https://demos.afthemes.com/reviewnews-pro/general/",
             "tags": [
               "pro",
               "blog",
-              "general"
+              "general",
+              "french"
             ],
             "main_categories": [
-              "Lifestyle & Personal"
+              "Lifestyle & Personal",
+              "Regional & Local News"
             ]
           },
           "fashion": {
@@ -13184,25 +13220,6 @@
             ],
             "plugins": "blockspare"
           },
-          "real-estate": {
-            "slug": "real-estate",
-            "theme": "ReviewNews Pro",
-            "main_category": "Design & Creative",
-            "catgory": "Elementor",
-            "name": "Real Estate Pro",
-            "preview": "https://demos.afthemes.com/reviewnews-pro/real-estate",
-            "tags": [
-              "pro",
-              "blog",
-              "estate",
-              "elementor"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal",
-              "Design & Creative"
-            ],
-            "plugins": "elementor,elespare,wp-google-maps"
-          },
           "blockspare": {
             "slug": "blockspare",
             "theme": "ReviewNews Pro",
@@ -13222,22 +13239,6 @@
             ],
             "plugins": "blockspare"
           },
-          "indian": {
-            "slug": "indian",
-            "theme": "ReviewNews Pro",
-            "main_category": "Regional & Language Specific",
-            "catgory": "Indian",
-            "name": "Indian Pro",
-            "preview": "https://demos.afthemes.com/reviewnews-pro/indian",
-            "tags": [
-              "pro",
-              "blog",
-              "indian"
-            ],
-            "main_categories": [
-              "Lifestyle & Personal"
-            ]
-          },
           "nepali": {
             "slug": "nepali",
             "theme": "ReviewNews Pro",
@@ -13253,24 +13254,6 @@
             "main_categories": [
               "Lifestyle & Personal"
             ]
-          },
-          "gadgets": {
-            "slug": "gadgets",
-            "theme": "ReviewNews Pro",
-            "main_category": "Technology & Innovation",
-            "catgory": "Elementor",
-            "name": "Gadgets Pro",
-            "preview": "https://demos.afthemes.com/reviewnews-pro/gadgets",
-            "tags": [
-              "pro",
-              "blog",
-              "gadgets"
-            ],
-            "main_categories": [
-              "Technology & Innovation",
-              "Lifestyle & Personal"
-            ],
-            "plugins": "elementor,elespare"
           },
           "the-daily-bloom": {
             "slug": "the-daily-bloom",
@@ -13613,24 +13596,6 @@
             ],
             "plugins": "elementor,elespare"
           },
-          "pharmacy-news": {
-            "slug": "pharmacy-news",
-            "theme": "ReviewNews Pro",
-            "main_category": "News & Media",
-            "catgory": "Elementor",
-            "name": "Pharmacy News",
-            "preview": "https://demos.afthemes.com/reviewnews-pro/pharmacy-news",
-            "tags": [
-              "pro",
-              "news",
-              "elementor"
-            ],
-            "main_categories": [
-              "News & Media",
-              "Design & Creative"
-            ],
-            "plugins": "elementor,elespare"
-          },
           "diy-and-craft": {
             "slug": "diy-and-craft",
             "theme": "ReviewNews Pro",
@@ -13858,6 +13823,27 @@
             ],
             "plugins": "blockspare"
           },
+          "green-house": {
+            "slug": "green-house",
+            "theme": "ReviewNews Pro",
+            "main_category": "Business & Professional",
+            "catgory": "Gutenberg",
+            "name": "Green House Pro",
+            "preview": "https://demos.afthemes.com/reviewnews-pro/green-house/",
+            "tags": [
+              "pro",
+              "business",
+              "gutenberg",
+              "plant",
+              "arabic"
+            ],
+            "main_categories": [
+              "Business & eCommerce",
+              "Design & Creative",
+              "Regional & Local News"
+            ],
+            "plugins": "blockspare"
+          },
           "peace-church": {
             "slug": "peace-church",
             "theme": "ReviewNews Pro",
@@ -13869,12 +13855,14 @@
               "pro",
               "business",
               "elementor",
-              "church"
+              "church",
+              "german"
             ],
             "main_categories": [
               "Business & eCommerce",
               "Specialty & Niche",
-              "Design & Creative"
+              "Design & Creative",
+              "Regional & Local News"
             ],
             "plugins": "elementor,elespare"
           },
