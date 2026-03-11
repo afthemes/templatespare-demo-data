@@ -17207,7 +17207,8 @@
       "child": [
         "newsreview",
         "reviewmag",
-        "newscom"
+        "newscom",
+        "reviewblog"
       ],
       "demodata": {
         "default": {
@@ -17663,6 +17664,36 @@
             "finance",
             "meeting",
             "startup"
+          ]
+        }
+      }
+    },
+    "reviewblog": {
+      "data": "reviewblog",
+      "free": "reviewnews",
+      "premium": "reviewnews-pro",
+      "demodata": {
+        "default": {
+          "slug": "reviewblog",
+          "theme": "ReviewNews",
+          "main_category": "News & Media",
+          "catgory": "General",
+          "name": "ReviewBlog",
+          "preview": "https://demos.afthemes.com/reviewnews/reviewblog/",
+          "tags": [
+            "free",
+            "magazine",
+            "child"
+          ],
+          "main_categories": [
+            "News & Media"
+          ],
+          "image_keywords": [
+            "journalism",
+            "press",
+            "media",
+            "news",
+            "magazine"
           ]
         }
       }
@@ -18941,6 +18972,45 @@
           ]
         }
       }
-    }
+    },
+    "newspare": {
+      "data": "newspare",
+      "free": "",
+      "premium": "",
+      "themeType": "fse",
+      "demodata": {
+        "prime-generic": {
+          "slug": "prime-generic",
+          "theme": "newspare",
+          "main_category": "Business & Professional",
+          "catgory": "General",
+          "name": "Prime Generic",
+          "preview": "https://demos.blockspare.com/newspare/prime-generic/",
+          "tags": ["free", "business"],
+          "main_categories": ["Business & eCommerce"],
+          "image_keywords": [
+            "business",
+            "office"
+          ],
+          "plugins": "blockspare"
+        },
+        "enterprise": {
+          "slug": "enterprise",
+          "theme": "newspare",
+          "main_category": "Business & Professional",
+          "catgory": "enterprise",
+          "name": "Enterprise Pro",
+          "preview": "https://demos.blockspare.com/newspare/enterprise",
+          "tags": ["pro", "business"],
+          "main_categories": ["Business & eCommerce"],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare",
+          "image_keywords": [
+            "business",
+            "office"
+          ]
+        }
+      }
+    }    
   }
 }
