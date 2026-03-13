@@ -18979,19 +18979,197 @@
       "premium": "",
       "themeType": "fse",
       "demodata": {
+        "default": {
+          "slug": "newspare",
+          "theme": "newspare",
+          "main_category": "News & Media",
+          "catgory": "General",
+          "name": "NewSpare",
+          "homepage_type": "blog",
+          "preview": "https://demos.blockspare.com/newspare/",
+          "tags": ["free", "magazine"],
+          "main_categories": ["News & Media"],
+          "image_keywords": [
+            "journalism",
+            "press",
+            "media",
+            "news",
+            "magazine"
+          ],
+          "plugins": "blockspare"
+        },
+        "daily-news": {
+          "slug": "daily-news",
+          "theme": "newspare",
+          "main_category": "News & Media",
+          "catgory": "General",
+          "name": "Daily News",
+          "preview": "https://demos.blockspare.com/newspare/daily-news",
+          "tags": ["free", "magazine"],
+          "main_categories": ["News & Media"],
+          "image_keywords": [
+            "journalism",
+            "press",
+            "media",
+            "news",
+            "magazine"
+          ],
+          "plugins": "blockspare"
+        },
         "prime-generic": {
           "slug": "prime-generic",
           "theme": "newspare",
           "main_category": "Business & Professional",
-          "catgory": "General",
+          "catgory": "prime-generic",
           "name": "Prime Generic",
-          "preview": "https://demos.blockspare.com/newspare/prime-generic/",
+          "preview": "https://demos.blockspare.com/newspare/prime-generic",
           "tags": ["free", "business"],
           "main_categories": ["Business & eCommerce"],
+          "plugins": "blockspare",
           "image_keywords": [
             "business",
             "office"
+          ]
+        },
+        "magzone": {
+          "slug": "magzone",
+          "theme": "newspare",
+          "main_category": "News & Media",
+          "catgory": "General",
+          "name": "Magzone",
+          "preview": "https://demos.blockspare.com/newspare/magzone",
+          "tags": ["pro", "magazine"],
+          "main_categories": ["News & Media"],
+          "image_keywords": [
+            "journalism",
+            "press",
+            "media",
+            "news",
+            "magazine"
           ],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare"
+        },
+        "techwire": {
+          "slug": "techwire",
+          "theme": "newspare",
+          "main_category": "Technology & Innovation",
+          "catgory": "General",
+          "name": "Techwire",
+          "preview": "https://demos.blockspare.com/newspare/techwire",
+          "tags": ["pro", "tech", "magazine"],
+          "main_categories": ["News & Media","Technology & Innovation"],
+          "image_keywords": [
+            "gadget",
+            "tech"
+          ],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare"
+        },
+        "sportx": {
+          "slug": "sportx",
+          "theme": "newspare",
+          "main_category": "News & Media",
+          "catgory": "General",
+          "name": "SportX",
+          "preview": "https://demos.blockspare.com/newspare/sportx",
+          "tags": ["pro", "sport", "magazine"],
+          "main_categories": ["News & Media"],
+          "image_keywords": [
+            "sport",
+            "ball",
+            "race"
+          ],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare"
+        },
+        "travelogue": {
+          "slug": "travelogue",
+          "theme": "newspare",
+          "main_category": "Lifestyle & Personal",
+          "catgory": "General",
+          "name": "Travelogue",
+          "preview": "https://demos.blockspare.com/newspare/travelogue",
+          "tags": ["pro", "sport", "magazine"],
+          "main_categories": ["News & Media","Lifestyle & Personal"],
+          "image_keywords": [
+            "travel",
+            "hills",
+            "mountains"
+          ],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare"
+        },
+        "healthmag": {
+          "slug": "healthmag",
+          "theme": "newspare",
+          "main_category": "Specialty & Niche",
+          "catgory": "General",
+          "name": "HealthMag",
+          "preview": "https://demos.blockspare.com/newspare/healthmag",
+          "tags": ["pro", "sport", "magazine"],
+          "main_categories": ["News & Media","Lifestyle & Personal","Specialty & Niche"],
+          "image_keywords": [
+            "health",
+            "medicine",
+            "doctor"
+          ],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare"
+        },
+        "fashion": {
+          "slug": "fashion",
+          "theme": "newspare",
+          "main_category": "Lifestyle & Personal",
+          "catgory": "General",
+          "name": "Fashion",
+          "preview": "https://demos.blockspare.com/newspare/fashion",
+          "tags": ["pro", "fashion", "magazine"],
+          "main_categories": ["News & Media","Lifestyle & Personal"],
+          "image_keywords": [
+            "fashion",
+            "model",
+            "cloths"
+          ],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare"
+        },
+        "focusmag": {
+          "slug": "focusmag",
+          "theme": "newspare",
+          "main_category": "News & Media",
+          "catgory": "General",
+          "name": "FocusMag",
+          "preview": "https://demos.blockspare.com/newspare/focusmag",
+          "tags": ["pro", "news", "magazine"],
+          "main_categories": ["News & Media"],
+          "image_keywords": [
+            "journalism",
+            "press",
+            "media",
+            "news",
+            "magazine"
+          ],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare"
+        },
+        "trendmag": {
+          "slug": "trendmag",
+          "theme": "newspare",
+          "main_category": "News & Media",
+          "catgory": "General",
+          "name": "TrendMag",
+          "preview": "https://demos.blockspare.com/newspare/trendmag",
+          "tags": ["pro", "news", "magazine"],
+          "main_categories": ["News & Media"],
+          "image_keywords": [
+            "journalism",
+            "press",
+            "media",
+            "news",
+            "magazine"
+          ],
+          "is_builder_pro": "blockspare-pro",
           "plugins": "blockspare"
         },
         "enterprise": {
@@ -19003,6 +19181,54 @@
           "preview": "https://demos.blockspare.com/newspare/enterprise",
           "tags": ["pro", "business"],
           "main_categories": ["Business & eCommerce"],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare",
+          "image_keywords": [
+            "business",
+            "office"
+          ]
+        },
+        "standard-solution": {
+          "slug": "standard-solution",
+          "theme": "newspare",
+          "main_category": "Business & Professional",
+          "catgory": "Business",
+          "name": "Standard Solution Pro",
+          "preview": "https://demos.blockspare.com/newspare/standard-solution",
+          "tags": ["pro", "business"],
+          "main_categories": ["Business & eCommerce"],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare",
+          "image_keywords": [
+            "business",
+            "office"
+          ]
+        },
+        "generic-ventures": {
+          "slug": "generic-ventures",
+          "theme": "newspare",
+          "main_category": "Business & Professional",
+          "catgory": "Business",
+          "name": "Generic Ventures Pro",
+          "preview": "https://demos.blockspare.com/newspare/generic-ventures",
+          "tags": ["pro", "business"],
+          "main_categories": ["Business & eCommerce"],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare",
+          "image_keywords": [
+            "business",
+            "office"
+          ]
+        },
+        "common-tech": {
+          "slug": "common-tech",
+          "theme": "newspare",
+          "main_category": "Business & Professional",
+          "catgory": "Business",
+          "name": "Common Tech Pro",
+          "preview": "https://demos.blockspare.com/newspare/common-tech",
+          "tags": ["pro", "business"],
+          "main_categories": ["Business & eCommerce","Technology & Innovation"],
           "is_builder_pro": "blockspare-pro",
           "plugins": "blockspare",
           "image_keywords": [
