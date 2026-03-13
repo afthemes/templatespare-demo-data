@@ -19188,13 +19188,13 @@
             "office"
           ]
         },
-        "standard-solution": {
-          "slug": "standard-solution",
+        "standard-solutions": {
+          "slug": "standard-solutions",
           "theme": "newspare",
           "main_category": "Business & Professional",
           "catgory": "Business",
           "name": "Standard Solution Pro",
-          "preview": "https://demos.blockspare.com/newspare/standard-solution",
+          "preview": "https://demos.blockspare.com/newspare/standard-solutions",
           "tags": ["pro", "business"],
           "main_categories": ["Business & eCommerce"],
           "is_builder_pro": "blockspare-pro",
