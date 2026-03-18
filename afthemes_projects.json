@@ -18987,7 +18987,7 @@
           "name": "NewSpare",
           "homepage_type": "blog",
           "preview": "https://demos.blockspare.com/newspare/",
-          "tags": ["free", "magazine"],
+          "tags": ["free", "magazine", "gutenberg"],
           "main_categories": ["News & Media"],
           "image_keywords": [
             "journalism",
@@ -19005,7 +19005,7 @@
           "catgory": "General",
           "name": "Daily News",
           "preview": "https://demos.blockspare.com/newspare/daily-news",
-          "tags": ["free", "magazine"],
+          "tags": ["free", "magazine", "gutenberg"],
           "main_categories": ["News & Media"],
           "image_keywords": [
             "journalism",
@@ -19016,6 +19016,44 @@
           ],
           "plugins": "blockspare"
         },
+        "chinese": {
+          "slug": "chinese",
+          "theme": "newspare",
+          "main_category": "Regional & Language Specific",
+          "catgory": "Chinese",
+          "name": "Chinese",
+          "preview": "https://demos.blockspare.com/newspare/chinese",
+          "tags": ["free", "magazine", "gutenberg", "chinese"],
+          "main_categories": ["News & Media", "Regional & Local News"],
+          "image_keywords": [
+            "journalism",
+            "press",
+            "media",
+            "news",
+            "magazine",
+            "chinese"
+          ],
+          "plugins": "blockspare"
+        },
+        "espanol": {
+          "slug": "espanol",
+          "theme": "newspare",
+          "main_category": "Regional & Language Specific",
+          "catgory": "Spanish",
+          "name": "Esponal",
+          "preview": "https://demos.blockspare.com/newspare/espanol",
+          "tags": ["free", "magazine", "gutenberg", "spanish"],
+          "main_categories": ["News & Media", "Regional & Local News"],
+          "image_keywords": [
+            "journalism",
+            "press",
+            "media",
+            "news",
+            "magazine",
+            "spanish"
+          ],
+          "plugins": "blockspare"
+        },
         "prime-generic": {
           "slug": "prime-generic",
           "theme": "newspare",
@@ -19023,7 +19061,7 @@
           "catgory": "prime-generic",
           "name": "Prime Generic",
           "preview": "https://demos.blockspare.com/newspare/prime-generic",
-          "tags": ["free", "business"],
+          "tags": ["free", "business", "gutenberg"],
           "main_categories": ["Business & eCommerce"],
           "plugins": "blockspare",
           "image_keywords": [
@@ -19038,7 +19076,7 @@
           "catgory": "General",
           "name": "Magzone",
           "preview": "https://demos.blockspare.com/newspare/magzone",
-          "tags": ["pro", "magazine"],
+          "tags": ["pro", "magazine", "gutenberg"],
           "main_categories": ["News & Media"],
           "image_keywords": [
             "journalism",
@@ -19057,7 +19095,7 @@
           "catgory": "General",
           "name": "Techwire",
           "preview": "https://demos.blockspare.com/newspare/techwire",
-          "tags": ["pro", "tech", "magazine"],
+          "tags": ["pro", "tech", "magazine", "gutenberg"],
           "main_categories": ["News & Media","Technology & Innovation"],
           "image_keywords": [
             "gadget",
@@ -19073,7 +19111,7 @@
           "catgory": "General",
           "name": "SportX",
           "preview": "https://demos.blockspare.com/newspare/sportx",
-          "tags": ["pro", "sport", "magazine"],
+          "tags": ["pro", "sport", "magazine", "gutenberg"],
           "main_categories": ["News & Media"],
           "image_keywords": [
             "sport",
@@ -19090,7 +19128,7 @@
           "catgory": "General",
           "name": "Travelogue",
           "preview": "https://demos.blockspare.com/newspare/travelogue",
-          "tags": ["pro", "sport", "magazine"],
+          "tags": ["pro", "sport", "magazine", "gutenberg"],
           "main_categories": ["News & Media","Lifestyle & Personal"],
           "image_keywords": [
             "travel",
@@ -19107,7 +19145,7 @@
           "catgory": "General",
           "name": "HealthMag",
           "preview": "https://demos.blockspare.com/newspare/healthmag",
-          "tags": ["pro", "sport", "magazine"],
+          "tags": ["pro", "sport", "magazine", "gutenberg"],
           "main_categories": ["News & Media","Lifestyle & Personal","Specialty & Niche"],
           "image_keywords": [
             "health",
@@ -19124,7 +19162,7 @@
           "catgory": "General",
           "name": "Fashion",
           "preview": "https://demos.blockspare.com/newspare/fashion",
-          "tags": ["pro", "fashion", "magazine"],
+          "tags": ["pro", "fashion", "magazine", "gutenberg"],
           "main_categories": ["News & Media","Lifestyle & Personal"],
           "image_keywords": [
             "fashion",
@@ -19141,7 +19179,7 @@
           "catgory": "General",
           "name": "FocusMag",
           "preview": "https://demos.blockspare.com/newspare/focusmag",
-          "tags": ["pro", "news", "magazine"],
+          "tags": ["pro", "news", "magazine", "gutenberg"],
           "main_categories": ["News & Media"],
           "image_keywords": [
             "journalism",
@@ -19160,7 +19198,7 @@
           "catgory": "General",
           "name": "TrendMag",
           "preview": "https://demos.blockspare.com/newspare/trendmag",
-          "tags": ["pro", "news", "magazine"],
+          "tags": ["pro", "news", "magazine", "gutenberg"],
           "main_categories": ["News & Media"],
           "image_keywords": [
             "journalism",
@@ -19172,6 +19210,106 @@
           "is_builder_pro": "blockspare-pro",
           "plugins": "blockspare"
         },
+        "indian": {
+          "slug": "indian",
+          "theme": "newspare",
+          "main_category": "Regional & Language Specific",
+          "catgory": "Indian",
+          "name": "Indian",
+          "preview": "https://demos.blockspare.com/newspare/indian",
+          "tags": ["pro", "news", "magazine", "gutenberg", "indian"],
+          "main_categories": ["News & Media", "Regional & Local News"],
+          "image_keywords": [
+            "journalism",
+            "press",
+            "media",
+            "news",
+            "magazine",
+            "indian"
+          ],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare"
+        },
+        "japanese": {
+          "slug": "japanese",
+          "theme": "newspare",
+          "main_category": "Regional & Language Specific",
+          "catgory": "Japanese",
+          "name": "Japanese",
+          "preview": "https://demos.blockspare.com/newspare/japanese",
+          "tags": ["pro", "news", "magazine", "gutenberg", "japanese"],
+          "main_categories": ["News & Media", "Regional & Local News"],
+          "image_keywords": [
+            "journalism",
+            "press",
+            "media",
+            "news",
+            "magazine",
+            "japanese"
+          ],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare"
+        },
+        "russian": {
+          "slug": "russian",
+          "theme": "newspare",
+          "main_category": "Regional & Language Specific",
+          "catgory": "Russian",
+          "name": "Russian",
+          "preview": "https://demos.blockspare.com/newspare/russian",
+          "tags": ["pro", "news", "magazine", "gutenberg", "russian"],
+          "main_categories": ["News & Media", "Regional & Local News"],
+          "image_keywords": [
+            "journalism",
+            "press",
+            "media",
+            "news",
+            "magazine",
+            "russian"
+          ],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare"
+        },
+        "turkish": {
+          "slug": "turkish",
+          "theme": "newspare",
+          "main_category": "Regional & Language Specific",
+          "catgory": "Turkish",
+          "name": "Turkish",
+          "preview": "https://demos.blockspare.com/newspare/turkish",
+          "tags": ["pro", "news", "magazine", "gutenberg", "turkish"],
+          "main_categories": ["News & Media", "Regional & Local News"],
+          "image_keywords": [
+            "journalism",
+            "press",
+            "media",
+            "news",
+            "magazine",
+            "turkish"
+          ],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare"
+        },
+        "french": {
+          "slug": "french",
+          "theme": "newspare",
+          "main_category": "Regional & Language Specific",
+          "catgory": "French",
+          "name": "French",
+          "preview": "https://demos.blockspare.com/newspare/french",
+          "tags": ["pro", "news", "magazine", "gutenberg", "french"],
+          "main_categories": ["News & Media", "Regional & Local News"],
+          "image_keywords": [
+            "journalism",
+            "press",
+            "media",
+            "news",
+            "magazine",
+            "french"
+          ],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare"
+        },
         "enterprise": {
           "slug": "enterprise",
           "theme": "newspare",
@@ -19179,7 +19317,7 @@
           "catgory": "enterprise",
           "name": "Enterprise Pro",
           "preview": "https://demos.blockspare.com/newspare/enterprise",
-          "tags": ["pro", "business"],
+          "tags": ["pro", "business", "gutenberg"],
           "main_categories": ["Business & eCommerce"],
           "is_builder_pro": "blockspare-pro",
           "plugins": "blockspare",
@@ -19195,7 +19333,7 @@
           "catgory": "Business",
           "name": "Standard Solution Pro",
           "preview": "https://demos.blockspare.com/newspare/standard-solutions",
-          "tags": ["pro", "business"],
+          "tags": ["pro", "business", "gutenberg"],
           "main_categories": ["Business & eCommerce"],
           "is_builder_pro": "blockspare-pro",
           "plugins": "blockspare",
@@ -19211,7 +19349,7 @@
           "catgory": "Business",
           "name": "Generic Ventures Pro",
           "preview": "https://demos.blockspare.com/newspare/generic-ventures",
-          "tags": ["pro", "business"],
+          "tags": ["pro", "business", "gutenberg"],
           "main_categories": ["Business & eCommerce"],
           "is_builder_pro": "blockspare-pro",
           "plugins": "blockspare",
@@ -19227,7 +19365,7 @@
           "catgory": "Business",
           "name": "Common Tech Pro",
           "preview": "https://demos.blockspare.com/newspare/common-tech",
-          "tags": ["pro", "business"],
+          "tags": ["pro", "business", "gutenberg"],
           "main_categories": ["Business & eCommerce","Technology & Innovation"],
           "is_builder_pro": "blockspare-pro",
           "plugins": "blockspare",

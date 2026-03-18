@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.9.4" created="2026-03-12 06:31" -->
+	
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>NewSpare</title>
 	<link>https://demos.blockspare.com/newspare</link>
 	<description>Full Site Editing Theme for Newspaper</description>
-	<pubDate>Thu, 12 Mar 2026 06:31:25 +0000</pubDate>
+	<pubDate>Tue, 17 Mar 2026 11:49:16 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.blockspare.com/newspare/</wp:base_site_url>
@@ -357,7 +357,7 @@
 	<wp:term><wp:term_id>26</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Social menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.9.4</generator>
+	
 
 <image>
 	<url>https://demos.blockspare.com/newspare/wp-content/uploads/2026/03/cropped-afthemes-rebrand-logo-red-01-scaled-1-32x32.png</url>
@@ -407,6 +407,14 @@
 		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_optimization_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_optimization_failed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[blockspare-sidebar-banner]]></title>
@@ -448,6 +456,14 @@
 		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_optimization_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_optimization_failed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[light-black-and-white-technology-white-camera-photography-1178358-pxhere.com (1)]]></title>
@@ -479,7 +495,27 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:5:"width";i:2560;s:6:"height";i:1707;s:4:"file";s:97:"2025/11/light-black-and-white-technology-white-camera-photography-1178358-pxhere.com-1-scaled.jpg";s:8:"filesize";i:164985;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:90:"light-black-and-white-technology-white-camera-photography-1178358-pxhere.com-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4528;}s:5:"large";a:5:{s:4:"file";s:91:"light-black-and-white-technology-white-camera-photography-1178358-pxhere.com-1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:33462;}s:9:"thumbnail";a:5:{s:4:"file";s:90:"light-black-and-white-technology-white-camera-photography-1178358-pxhere.com-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2840;}s:12:"medium_large";a:5:{s:4:"file";s:90:"light-black-and-white-technology-white-camera-photography-1178358-pxhere.com-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20204;}s:9:"1536x1536";a:5:{s:4:"file";s:92:"light-black-and-white-technology-white-camera-photography-1178358-pxhere.com-1-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:67760;}s:9:"2048x2048";a:5:{s:4:"file";s:92:"light-black-and-white-technology-white-camera-photography-1178358-pxhere.com-1-2048x1366.jpg";s:5:"width";i:2048;s:6:"height";i:1366;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:112340;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:14:"original_image";s:82:"light-black-and-white-technology-white-camera-photography-1178358-pxhere.com-1.jpg";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{s:5:"width";i:2560;s:6:"height";i:1707;s:4:"file";s:97:"2025/11/light-black-and-white-technology-white-camera-photography-1178358-pxhere.com-1-scaled.jpg";s:8:"filesize";i:49986;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:90:"light-black-and-white-technology-white-camera-photography-1178358-pxhere.com-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4528;}s:5:"large";a:5:{s:4:"file";s:91:"light-black-and-white-technology-white-camera-photography-1178358-pxhere.com-1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:33462;}s:9:"thumbnail";a:5:{s:4:"file";s:90:"light-black-and-white-technology-white-camera-photography-1178358-pxhere.com-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2840;}s:12:"medium_large";a:5:{s:4:"file";s:90:"light-black-and-white-technology-white-camera-photography-1178358-pxhere.com-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20204;}s:9:"1536x1536";a:5:{s:4:"file";s:92:"light-black-and-white-technology-white-camera-photography-1178358-pxhere.com-1-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:67760;}s:9:"2048x2048";a:5:{s:4:"file";s:92:"light-black-and-white-technology-white-camera-photography-1178358-pxhere.com-1-2048x1366.jpg";s:5:"width";i:2048;s:6:"height";i:1366;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:112340;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:14:"original_image";s:82:"light-black-and-white-technology-white-camera-photography-1178358-pxhere.com-1.jpg";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_optimization_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[164985]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -513,6 +549,22 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:7:{s:5:"width";i:2556;s:6:"height";i:2560;s:4:"file";s:47:"2026/03/afthemes-rebrand-logo-red-01-scaled.png";s:8:"filesize";i:106681;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:40:"afthemes-rebrand-logo-red-01-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:7754;}s:5:"large";a:5:{s:4:"file";s:42:"afthemes-rebrand-logo-red-01-1022x1024.png";s:5:"width";i:1022;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:31589;}s:9:"thumbnail";a:5:{s:4:"file";s:40:"afthemes-rebrand-logo-red-01-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:3719;}s:12:"medium_large";a:5:{s:4:"file";s:40:"afthemes-rebrand-logo-red-01-768x769.png";s:5:"width";i:768;s:6:"height";i:769;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:22597;}s:9:"1536x1536";a:5:{s:4:"file";s:42:"afthemes-rebrand-logo-red-01-1533x1536.png";s:5:"width";i:1533;s:6:"height";i:1536;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:52746;}s:9:"2048x2048";a:5:{s:4:"file";s:42:"afthemes-rebrand-logo-red-01-2045x2048.png";s:5:"width";i:2045;s:6:"height";i:2048;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:78257;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:14:"original_image";s:32:"afthemes-rebrand-logo-red-01.png";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_optimization_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_optimization_failed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -555,6 +607,22 @@
 		<wp:meta_key><![CDATA[_oembed_08d4c37be104f857a6e3c72fd4f62d24]]></wp:meta_key>
 		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_optimization_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_optimization_failed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[StockSnap_2OYU0AJZOZ]]></title>
@@ -586,7 +654,27 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:32:"2024/05/StockSnap_2OYU0AJZOZ.jpg";s:8:"filesize";i:249470;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:32:"StockSnap_2OYU0AJZOZ-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14536;}s:5:"large";a:5:{s:4:"file";s:33:"StockSnap_2OYU0AJZOZ-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:133841;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"StockSnap_2OYU0AJZOZ-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5517;}s:12:"medium_large";a:5:{s:4:"file";s:32:"StockSnap_2OYU0AJZOZ-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:79781;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:32:"2024/05/StockSnap_2OYU0AJZOZ.jpg";s:8:"filesize";i:52861;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:32:"StockSnap_2OYU0AJZOZ-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14536;}s:5:"large";a:5:{s:4:"file";s:33:"StockSnap_2OYU0AJZOZ-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:133841;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"StockSnap_2OYU0AJZOZ-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5517;}s:12:"medium_large";a:5:{s:4:"file";s:32:"StockSnap_2OYU0AJZOZ-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:79781;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_optimization_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[249470]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -619,7 +707,27 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:32:"2024/05/StockSnap_6UZ3XEKQVA.jpg";s:8:"filesize";i:118969;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:32:"StockSnap_6UZ3XEKQVA-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9908;}s:5:"large";a:5:{s:4:"file";s:33:"StockSnap_6UZ3XEKQVA-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:74334;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"StockSnap_6UZ3XEKQVA-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5181;}s:12:"medium_large";a:5:{s:4:"file";s:32:"StockSnap_6UZ3XEKQVA-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45623;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:32:"2024/05/StockSnap_6UZ3XEKQVA.jpg";s:8:"filesize";i:33469;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:32:"StockSnap_6UZ3XEKQVA-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9908;}s:5:"large";a:5:{s:4:"file";s:33:"StockSnap_6UZ3XEKQVA-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:74334;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"StockSnap_6UZ3XEKQVA-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5181;}s:12:"medium_large";a:5:{s:4:"file";s:32:"StockSnap_6UZ3XEKQVA-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45623;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_optimization_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[118969]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -652,7 +760,27 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:34:"2024/05/StockSnap_E3JPI1GSMS-3.jpg";s:8:"filesize";i:78913;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:34:"StockSnap_E3JPI1GSMS-3-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11884;}s:5:"large";a:5:{s:4:"file";s:35:"StockSnap_E3JPI1GSMS-3-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:65987;}s:9:"thumbnail";a:5:{s:4:"file";s:34:"StockSnap_E3JPI1GSMS-3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5561;}s:12:"medium_large";a:5:{s:4:"file";s:34:"StockSnap_E3JPI1GSMS-3-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:43553;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:34:"2024/05/StockSnap_E3JPI1GSMS-3.jpg";s:8:"filesize";i:26626;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:34:"StockSnap_E3JPI1GSMS-3-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11884;}s:5:"large";a:5:{s:4:"file";s:35:"StockSnap_E3JPI1GSMS-3-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:65987;}s:9:"thumbnail";a:5:{s:4:"file";s:34:"StockSnap_E3JPI1GSMS-3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5561;}s:12:"medium_large";a:5:{s:4:"file";s:34:"StockSnap_E3JPI1GSMS-3-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:43553;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_optimization_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[78913]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -685,7 +813,27 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:797;s:4:"file";s:32:"2024/05/StockSnap_EH7DPX3UW7.jpg";s:8:"filesize";i:112259;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:32:"StockSnap_EH7DPX3UW7-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12189;}s:5:"large";a:5:{s:4:"file";s:33:"StockSnap_EH7DPX3UW7-1024x680.jpg";s:5:"width";i:1024;s:6:"height";i:680;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:78904;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"StockSnap_EH7DPX3UW7-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6215;}s:12:"medium_large";a:5:{s:4:"file";s:32:"StockSnap_EH7DPX3UW7-768x510.jpg";s:5:"width";i:768;s:6:"height";i:510;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:51045;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:797;s:4:"file";s:32:"2024/05/StockSnap_EH7DPX3UW7.jpg";s:8:"filesize";i:29488;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:32:"StockSnap_EH7DPX3UW7-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12189;}s:5:"large";a:5:{s:4:"file";s:33:"StockSnap_EH7DPX3UW7-1024x680.jpg";s:5:"width";i:1024;s:6:"height";i:680;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:78904;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"StockSnap_EH7DPX3UW7-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6215;}s:12:"medium_large";a:5:{s:4:"file";s:32:"StockSnap_EH7DPX3UW7-768x510.jpg";s:5:"width";i:768;s:6:"height";i:510;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:51045;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_optimization_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[112259]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -718,7 +866,27 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:32:"2024/05/StockSnap_FCUDWWBKFV.jpg";s:8:"filesize";i:64291;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:32:"StockSnap_FCUDWWBKFV-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13084;}s:5:"large";a:5:{s:4:"file";s:33:"StockSnap_FCUDWWBKFV-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:68997;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"StockSnap_FCUDWWBKFV-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6483;}s:12:"medium_large";a:5:{s:4:"file";s:32:"StockSnap_FCUDWWBKFV-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45908;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:32:"2024/05/StockSnap_FCUDWWBKFV.jpg";s:8:"filesize";i:28730;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:32:"StockSnap_FCUDWWBKFV-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13084;}s:5:"large";a:5:{s:4:"file";s:33:"StockSnap_FCUDWWBKFV-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:68997;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"StockSnap_FCUDWWBKFV-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6483;}s:12:"medium_large";a:5:{s:4:"file";s:32:"StockSnap_FCUDWWBKFV-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45908;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_optimization_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[64291]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -751,7 +919,27 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:32:"2024/05/StockSnap_G5MDGLNMED.jpg";s:8:"filesize";i:80281;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:32:"StockSnap_G5MDGLNMED-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10420;}s:5:"large";a:5:{s:4:"file";s:33:"StockSnap_G5MDGLNMED-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:62608;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"StockSnap_G5MDGLNMED-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5027;}s:12:"medium_large";a:5:{s:4:"file";s:32:"StockSnap_G5MDGLNMED-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41092;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:32:"2024/05/StockSnap_G5MDGLNMED.jpg";s:8:"filesize";i:27227;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:32:"StockSnap_G5MDGLNMED-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10420;}s:5:"large";a:5:{s:4:"file";s:33:"StockSnap_G5MDGLNMED-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:62608;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"StockSnap_G5MDGLNMED-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5027;}s:12:"medium_large";a:5:{s:4:"file";s:32:"StockSnap_G5MDGLNMED-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41092;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_optimization_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[80281]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -784,7 +972,27 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:32:"2024/05/StockSnap_NL7HFWGOFN.jpg";s:8:"filesize";i:68995;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:32:"StockSnap_NL7HFWGOFN-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10587;}s:5:"large";a:5:{s:4:"file";s:33:"StockSnap_NL7HFWGOFN-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:60800;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"StockSnap_NL7HFWGOFN-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5887;}s:12:"medium_large";a:5:{s:4:"file";s:32:"StockSnap_NL7HFWGOFN-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:40058;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:32:"2024/05/StockSnap_NL7HFWGOFN.jpg";s:8:"filesize";i:25056;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:32:"StockSnap_NL7HFWGOFN-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10587;}s:5:"large";a:5:{s:4:"file";s:33:"StockSnap_NL7HFWGOFN-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:60800;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"StockSnap_NL7HFWGOFN-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5887;}s:12:"medium_large";a:5:{s:4:"file";s:32:"StockSnap_NL7HFWGOFN-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:40058;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_optimization_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[68995]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -817,7 +1025,27 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:32:"2024/05/StockSnap_WDQKXVP2S5.jpg";s:8:"filesize";i:192525;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:32:"StockSnap_WDQKXVP2S5-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17925;}s:5:"large";a:5:{s:4:"file";s:33:"StockSnap_WDQKXVP2S5-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:128132;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"StockSnap_WDQKXVP2S5-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8324;}s:12:"medium_large";a:5:{s:4:"file";s:32:"StockSnap_WDQKXVP2S5-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:81108;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:32:"2024/05/StockSnap_WDQKXVP2S5.jpg";s:8:"filesize";i:50554;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:32:"StockSnap_WDQKXVP2S5-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17925;}s:5:"large";a:5:{s:4:"file";s:33:"StockSnap_WDQKXVP2S5-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:128132;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"StockSnap_WDQKXVP2S5-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8324;}s:12:"medium_large";a:5:{s:4:"file";s:32:"StockSnap_WDQKXVP2S5-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:81108;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_optimization_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[192525]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -850,7 +1078,27 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:801;s:4:"file";s:32:"2024/05/StockSnap_YWHUFD7JNJ.jpg";s:8:"filesize";i:201246;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:32:"StockSnap_YWHUFD7JNJ-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14402;}s:5:"large";a:5:{s:4:"file";s:33:"StockSnap_YWHUFD7JNJ-1024x684.jpg";s:5:"width";i:1024;s:6:"height";i:684;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:127352;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"StockSnap_YWHUFD7JNJ-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5953;}s:12:"medium_large";a:5:{s:4:"file";s:32:"StockSnap_YWHUFD7JNJ-768x513.jpg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:77080;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:801;s:4:"file";s:32:"2024/05/StockSnap_YWHUFD7JNJ.jpg";s:8:"filesize";i:49078;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:32:"StockSnap_YWHUFD7JNJ-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14402;}s:5:"large";a:5:{s:4:"file";s:33:"StockSnap_YWHUFD7JNJ-1024x684.jpg";s:5:"width";i:1024;s:6:"height";i:684;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:127352;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"StockSnap_YWHUFD7JNJ-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5953;}s:12:"medium_large";a:5:{s:4:"file";s:32:"StockSnap_YWHUFD7JNJ-768x513.jpg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:77080;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_optimization_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[201246]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -883,7 +1131,27 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:829;s:4:"file";s:81:"2024/05/automobile-energy-technology-horizontal-tire-car-1675972-pxhere.com-1.jpg";s:8:"filesize";i:148411;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:81:"automobile-energy-technology-horizontal-tire-car-1675972-pxhere.com-1-300x207.jpg";s:5:"width";i:300;s:6:"height";i:207;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14469;}s:5:"large";a:5:{s:4:"file";s:82:"automobile-energy-technology-horizontal-tire-car-1675972-pxhere.com-1-1024x707.jpg";s:5:"width";i:1024;s:6:"height";i:707;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:91897;}s:9:"thumbnail";a:5:{s:4:"file";s:81:"automobile-energy-technology-horizontal-tire-car-1675972-pxhere.com-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6743;}s:12:"medium_large";a:5:{s:4:"file";s:81:"automobile-energy-technology-horizontal-tire-car-1675972-pxhere.com-1-768x531.jpg";s:5:"width";i:768;s:6:"height";i:531;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:59803;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:829;s:4:"file";s:81:"2024/05/automobile-energy-technology-horizontal-tire-car-1675972-pxhere.com-1.jpg";s:8:"filesize";i:40294;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:81:"automobile-energy-technology-horizontal-tire-car-1675972-pxhere.com-1-300x207.jpg";s:5:"width";i:300;s:6:"height";i:207;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14469;}s:5:"large";a:5:{s:4:"file";s:82:"automobile-energy-technology-horizontal-tire-car-1675972-pxhere.com-1-1024x707.jpg";s:5:"width";i:1024;s:6:"height";i:707;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:91897;}s:9:"thumbnail";a:5:{s:4:"file";s:81:"automobile-energy-technology-horizontal-tire-car-1675972-pxhere.com-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6743;}s:12:"medium_large";a:5:{s:4:"file";s:81:"automobile-energy-technology-horizontal-tire-car-1675972-pxhere.com-1-768x531.jpg";s:5:"width";i:768;s:6:"height";i:531;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:59803;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_optimization_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[148411]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -916,7 +1184,27 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:778;s:4:"file";s:68:"2024/05/girl-girls-woman-model-person-photo-1643339-pxhere.com-1.jpg";s:8:"filesize";i:159699;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:68:"girl-girls-woman-model-person-photo-1643339-pxhere.com-1-300x195.jpg";s:5:"width";i:300;s:6:"height";i:195;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12910;}s:5:"large";a:5:{s:4:"file";s:69:"girl-girls-woman-model-person-photo-1643339-pxhere.com-1-1024x664.jpg";s:5:"width";i:1024;s:6:"height";i:664;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:89304;}s:9:"thumbnail";a:5:{s:4:"file";s:68:"girl-girls-woman-model-person-photo-1643339-pxhere.com-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6446;}s:12:"medium_large";a:5:{s:4:"file";s:68:"girl-girls-woman-model-person-photo-1643339-pxhere.com-1-768x498.jpg";s:5:"width";i:768;s:6:"height";i:498;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:57315;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:778;s:4:"file";s:68:"2024/05/girl-girls-woman-model-person-photo-1643339-pxhere.com-1.jpg";s:8:"filesize";i:32876;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:68:"girl-girls-woman-model-person-photo-1643339-pxhere.com-1-300x195.jpg";s:5:"width";i:300;s:6:"height";i:195;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12910;}s:5:"large";a:5:{s:4:"file";s:69:"girl-girls-woman-model-person-photo-1643339-pxhere.com-1-1024x664.jpg";s:5:"width";i:1024;s:6:"height";i:664;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:89304;}s:9:"thumbnail";a:5:{s:4:"file";s:68:"girl-girls-woman-model-person-photo-1643339-pxhere.com-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6446;}s:12:"medium_large";a:5:{s:4:"file";s:68:"girl-girls-woman-model-person-photo-1643339-pxhere.com-1-768x498.jpg";s:5:"width";i:768;s:6:"height";i:498;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:57315;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_optimization_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[159699]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -949,7 +1237,27 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:34:"2024/05/StockSnap_56DXG59X39-1.jpg";s:8:"filesize";i:97871;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:34:"StockSnap_56DXG59X39-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8448;}s:5:"large";a:5:{s:4:"file";s:35:"StockSnap_56DXG59X39-1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:54090;}s:9:"thumbnail";a:5:{s:4:"file";s:34:"StockSnap_56DXG59X39-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4544;}s:12:"medium_large";a:5:{s:4:"file";s:34:"StockSnap_56DXG59X39-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:34106;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:34:"2024/05/StockSnap_56DXG59X39-1.jpg";s:8:"filesize";i:20497;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:34:"StockSnap_56DXG59X39-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8448;}s:5:"large";a:5:{s:4:"file";s:35:"StockSnap_56DXG59X39-1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:54090;}s:9:"thumbnail";a:5:{s:4:"file";s:34:"StockSnap_56DXG59X39-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4544;}s:12:"medium_large";a:5:{s:4:"file";s:34:"StockSnap_56DXG59X39-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:34106;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_optimization_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[97871]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -982,7 +1290,27 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:34:"2024/05/StockSnap_F90E2E0647-1.jpg";s:8:"filesize";i:188183;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:34:"StockSnap_F90E2E0647-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17147;}s:5:"large";a:5:{s:4:"file";s:35:"StockSnap_F90E2E0647-1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:127065;}s:9:"thumbnail";a:5:{s:4:"file";s:34:"StockSnap_F90E2E0647-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7638;}s:12:"medium_large";a:5:{s:4:"file";s:34:"StockSnap_F90E2E0647-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:79524;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:34:"2024/05/StockSnap_F90E2E0647-1.jpg";s:8:"filesize";i:51226;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:34:"StockSnap_F90E2E0647-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17147;}s:5:"large";a:5:{s:4:"file";s:35:"StockSnap_F90E2E0647-1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:127065;}s:9:"thumbnail";a:5:{s:4:"file";s:34:"StockSnap_F90E2E0647-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7638;}s:12:"medium_large";a:5:{s:4:"file";s:34:"StockSnap_F90E2E0647-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:79524;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_optimization_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[188183]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1015,7 +1343,27 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:1365;s:4:"file";s:79:"2024/05/light-car-night-automobile-number-transportation-451755-pxhere.com_.jpg";s:8:"filesize";i:184846;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:79:"light-car-night-automobile-number-transportation-451755-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5076;}s:5:"large";a:5:{s:4:"file";s:80:"light-car-night-automobile-number-transportation-451755-pxhere.com_-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:29057;}s:9:"thumbnail";a:5:{s:4:"file";s:79:"light-car-night-automobile-number-transportation-451755-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3096;}s:12:"medium_large";a:5:{s:4:"file";s:79:"light-car-night-automobile-number-transportation-451755-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18058;}s:9:"1536x1536";a:5:{s:4:"file";s:81:"light-car-night-automobile-number-transportation-451755-pxhere.com_-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:56711;}}s:10:"image_meta";a:12:{s:8:"aperture";s:3:"4.5";s:6:"credit";s:0:"";s:6:"camera";s:21:"Canon EOS 5D Mark III";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"85";s:3:"iso";s:5:"10000";s:13:"shutter_speed";s:5:"0.008";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:1365;s:4:"file";s:79:"2024/05/light-car-night-automobile-number-transportation-451755-pxhere.com_.jpg";s:8:"filesize";i:28525;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:79:"light-car-night-automobile-number-transportation-451755-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5076;}s:5:"large";a:5:{s:4:"file";s:80:"light-car-night-automobile-number-transportation-451755-pxhere.com_-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:29057;}s:9:"thumbnail";a:5:{s:4:"file";s:79:"light-car-night-automobile-number-transportation-451755-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3096;}s:12:"medium_large";a:5:{s:4:"file";s:79:"light-car-night-automobile-number-transportation-451755-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18058;}s:9:"1536x1536";a:5:{s:4:"file";s:81:"light-car-night-automobile-number-transportation-451755-pxhere.com_-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:56711;}}s:10:"image_meta";a:12:{s:8:"aperture";s:3:"4.5";s:6:"credit";s:0:"";s:6:"camera";s:21:"Canon EOS 5D Mark III";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"85";s:3:"iso";s:5:"10000";s:13:"shutter_speed";s:5:"0.008";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_optimization_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[184846]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1048,7 +1396,27 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:34:"2024/05/StockSnap_OZPRB0FQZK-1.jpg";s:8:"filesize";i:149354;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:34:"StockSnap_OZPRB0FQZK-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21245;}s:5:"large";a:5:{s:4:"file";s:35:"StockSnap_OZPRB0FQZK-1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:126563;}s:9:"thumbnail";a:5:{s:4:"file";s:34:"StockSnap_OZPRB0FQZK-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9667;}s:12:"medium_large";a:5:{s:4:"file";s:34:"StockSnap_OZPRB0FQZK-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:84178;}s:16:"reviewnews-large";a:5:{s:4:"file";s:34:"StockSnap_OZPRB0FQZK-1-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:95950;}s:17:"reviewnews-medium";a:5:{s:4:"file";s:34:"StockSnap_OZPRB0FQZK-1-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:59390;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:34:"2024/05/StockSnap_OZPRB0FQZK-1.jpg";s:8:"filesize";i:57648;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:34:"StockSnap_OZPRB0FQZK-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21245;}s:5:"large";a:5:{s:4:"file";s:35:"StockSnap_OZPRB0FQZK-1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:126563;}s:9:"thumbnail";a:5:{s:4:"file";s:34:"StockSnap_OZPRB0FQZK-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9667;}s:12:"medium_large";a:5:{s:4:"file";s:34:"StockSnap_OZPRB0FQZK-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:84178;}s:16:"reviewnews-large";a:5:{s:4:"file";s:34:"StockSnap_OZPRB0FQZK-1-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:95950;}s:17:"reviewnews-medium";a:5:{s:4:"file";s:34:"StockSnap_OZPRB0FQZK-1-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:59390;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_webp_conversion_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_converted_to_webp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_optimization_attempts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_original_filesize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[149354]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[siteground_optimizer_is_optimized]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -9181,9 +9549,9 @@
 <p class="wp-embed-aspect-16-9 wp-has-aspect-ratio">In the dynamic world of WordPress, <strong><a href="https://afthemes.com" target="_blank" rel="noreferrer noopener">AF Themes</a></strong> stands as a beacon of innovation and excellence. Our popular themes — <strong><a href="/newspare/#covernews" data-type="internal" data-id="#covernews">CoverNews</a></strong>, <strong><a href="/newspare/#morenews">Morenews</a></strong>, <strong><a href="/newspare/#chromenews">ChromeNews</a></strong>, <strong><a href="/newspare/#newsphere">Newsphere</a></strong>, and <strong><a href="/newspare/#shopical">Shopical</a></strong> — alongside our powerful plugins — <strong><a href="/newspare/#wp-post-author">WP Post Author</a></strong>, <strong><a href="/newspare/#blockspare">Blockspare</a></strong>, and <strong><a href="/newspare/#elespare">Elespare</a></strong> — serve as the building blocks of your digital journey.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:embed {"url":"https://www.youtube.com/watch?v=8Jq53Pywmk0\u0026amp;t=202s","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://www.youtube.com/watch?v=8Jq53Pywmk0&amp;t=202s
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=ssVtKsLVuKI","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=ssVtKsLVuKI
 </div></figure>
 <!-- /wp:embed -->
 
@@ -9192,7 +9560,7 @@ https://www.youtube.com/watch?v=8Jq53Pywmk0&amp;t=202s
 <!-- /wp:paragraph -->
 
 <!-- wp:separator {"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<hr class="wp-block-separator has-alpha-channel-opacity wp-embed-aspect-16-9 wp-has-aspect-ratio" />
+<hr class="wp-block-separator has-alpha-channel-opacity wp-embed-aspect-16-9 wp-has-aspect-ratio"/>
 <!-- /wp:separator -->
 
 <!-- wp:group {"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio","layout":{"type":"constrained"}} -->
@@ -9352,7 +9720,7 @@ https://www.youtube.com/watch?v=8Jq53Pywmk0&amp;t=202s
 <!-- /wp:group -->
 
 <!-- wp:separator {"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<hr class="wp-block-separator has-alpha-channel-opacity wp-embed-aspect-16-9 wp-has-aspect-ratio" />
+<hr class="wp-block-separator has-alpha-channel-opacity wp-embed-aspect-16-9 wp-has-aspect-ratio"/>
 <!-- /wp:separator -->
 
 <!-- wp:heading {"textAlign":"left","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
@@ -9386,7 +9754,7 @@ https://www.youtube.com/watch?v=8Jq53Pywmk0&amp;t=202s
 <!-- wp:columns {"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
 <div class="wp-block-columns wp-embed-aspect-16-9 wp-has-aspect-ratio"><!-- wp:column {"width":"50%"} -->
 <div class="wp-block-column" style="flex-basis:50%"><!-- wp:image {"id":1746,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://demos.afthemes.com/reviewnews-pro/wp-content/uploads/2024/05/Screenshot-2025-10-31-170541.png" alt="" class="wp-image-1746" /></figure>
+<figure class="wp-block-image size-full"><img src="https://demos.afthemes.com/reviewnews-pro/wp-content/uploads/2024/05/Screenshot-2025-10-31-170541.png" alt="" class="wp-image-1746"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -9430,7 +9798,7 @@ https://www.youtube.com/watch?v=8Jq53Pywmk0&amp;t=202s
 <!-- /wp:list -->
 
 <!-- wp:separator {"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<hr class="wp-block-separator has-alpha-channel-opacity wp-embed-aspect-16-9 wp-has-aspect-ratio" />
+<hr class="wp-block-separator has-alpha-channel-opacity wp-embed-aspect-16-9 wp-has-aspect-ratio"/>
 <!-- /wp:separator -->
 
 <!-- wp:heading {"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
@@ -9448,8 +9816,8 @@ https://www.youtube.com/watch?v=8Jq53Pywmk0&amp;t=202s
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2024-05-10 02:25:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-10 02:25:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-03-09 18:34:58]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-03-09 18:34:58]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-03-17 11:48:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-03-17 11:48:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[healthy-living-in-a-busy-world-simple-habits-that-make-a-difference]]></wp:post_name>
@@ -9630,7 +9998,7 @@ https://www.youtube.com/watch?v=8Jq53Pywmk0&amp;t=202s
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_4fa1df5f1b0356a5edd3939421081b68]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1773079062]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1773748106]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_578d8565c173885e43be0bbdd8371b64]]></wp:meta_key>
@@ -9638,7 +10006,7 @@ https://www.youtube.com/watch?v=8Jq53Pywmk0&amp;t=202s
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_578d8565c173885e43be0bbdd8371b64]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1773079062]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1773748106]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_0a69ffa11c86f5f8c52410f162590f24]]></wp:meta_key>
@@ -9646,7 +10014,7 @@ https://www.youtube.com/watch?v=8Jq53Pywmk0&amp;t=202s
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_0a69ffa11c86f5f8c52410f162590f24]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1773079062]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1773748106]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_ce2326a24f743deafcc96809b324b621]]></wp:meta_key>
@@ -9654,7 +10022,7 @@ https://www.youtube.com/watch?v=8Jq53Pywmk0&amp;t=202s
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_ce2326a24f743deafcc96809b324b621]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1773079062]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1773748106]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_906b0f1a31ab120b3677178275a5e802]]></wp:meta_key>
@@ -9662,7 +10030,7 @@ https://www.youtube.com/watch?v=8Jq53Pywmk0&amp;t=202s
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_906b0f1a31ab120b3677178275a5e802]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1773079062]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1773748106]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_1c4ebc2287cc0f5158bc4e47416a29e1]]></wp:meta_key>
@@ -9670,7 +10038,7 @@ https://www.youtube.com/watch?v=8Jq53Pywmk0&amp;t=202s
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_1c4ebc2287cc0f5158bc4e47416a29e1]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1773079062]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1773748106]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_c089d56a1e0c81745cf6605fbd8d800e]]></wp:meta_key>
@@ -9678,7 +10046,7 @@ https://www.youtube.com/watch?v=8Jq53Pywmk0&amp;t=202s
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_c089d56a1e0c81745cf6605fbd8d800e]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1773079062]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1773748106]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_7f1957f3e65781c01e7714caf6f3c0bd]]></wp:meta_key>
@@ -9686,7 +10054,7 @@ https://www.youtube.com/watch?v=8Jq53Pywmk0&amp;t=202s
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_7f1957f3e65781c01e7714caf6f3c0bd]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1773079062]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1773748106]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -9699,6 +10067,30 @@ https://www.youtube.com/watch?v=8Jq53Pywmk0&amp;t=202s
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2276]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_d56a8ebec948fb2dbd9787601604a0d4]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="Change Your Entire Website Design in 30 Seconds (NewSpare Styles)" width="500" height="375" src="https://www.youtube.com/embed/ssVtKsLVuKI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_d56a8ebec948fb2dbd9787601604a0d4]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1773748132]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -9716,9 +10108,9 @@ https://www.youtube.com/watch?v=8Jq53Pywmk0&amp;t=202s
 <p>In the dynamic world of WordPress, <strong><a href="https://afthemes.com" target="_blank" rel="noreferrer noopener">AF Themes</a></strong> stands as a beacon of innovation and excellence. Our popular themes — <strong><a href="/newspare/#covernews" data-type="internal" data-id="#covernews">CoverNews</a></strong>, <strong><a href="/newspare/#morenews">Morenews</a></strong>, <strong><a href="/newspare/#chromenews">ChromeNews</a></strong>, <strong><a href="/newspare/#newsphere">Newsphere</a></strong>, and <strong><a href="/newspare/#shopical">Shopical</a></strong> — alongside our powerful plugins — <strong><a href="/newspare/#wp-post-author">WP Post Author</a></strong>, <strong><a href="/newspare/#blockspare">Blockspare</a></strong>, and <strong><a href="/newspare/#elespare">Elespare</a></strong> — serve as the building blocks of your digital journey.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:embed {"url":"https://www.youtube.com/watch?v=9E-ZGx5l_sc\u0026amp;t=3s","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://www.youtube.com/watch?v=9E-ZGx5l_sc&amp;t=3s
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=7u2Em2-rXRE","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=7u2Em2-rXRE
 </div></figure>
 <!-- /wp:embed -->
 
@@ -9727,7 +10119,7 @@ https://www.youtube.com/watch?v=9E-ZGx5l_sc&amp;t=3s
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity" />
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
 <!-- /wp:separator -->
 
 <!-- wp:group {"layout":{"type":"constrained"}} -->
@@ -9887,7 +10279,7 @@ https://www.youtube.com/watch?v=8Jq53Pywmk0&amp;t=202s
 <!-- /wp:group -->
 
 <!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity" />
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
 <!-- /wp:separator -->
 
 <!-- wp:heading {"textAlign":"left"} -->
@@ -9921,7 +10313,7 @@ https://www.youtube.com/watch?v=feS3NQgWK10&amp;t=25s
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":"50%"} -->
 <div class="wp-block-column" style="flex-basis:50%"><!-- wp:image {"id":1746,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://demos.afthemes.com/reviewnews-pro/wp-content/uploads/2024/05/Screenshot-2025-10-31-170541.png" alt="" class="wp-image-1746" /></figure>
+<figure class="wp-block-image size-full"><img src="https://demos.afthemes.com/reviewnews-pro/wp-content/uploads/2024/05/Screenshot-2025-10-31-170541.png" alt="" class="wp-image-1746"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -9965,7 +10357,7 @@ https://www.youtube.com/watch?v=feS3NQgWK10&amp;t=25s
 <!-- /wp:list -->
 
 <!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity" />
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
@@ -9983,8 +10375,8 @@ https://www.youtube.com/watch?v=feS3NQgWK10&amp;t=25s
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2024-05-10 03:25:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-10 03:25:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-03-10 08:19:19]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-03-10 08:19:19]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-03-17 11:47:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-03-17 11:47:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[streaming-platforms-are-changing-the-way-we-watch-movies-and-tv-shows]]></wp:post_name>
@@ -10267,6 +10659,26 @@ https://www.youtube.com/watch?v=feS3NQgWK10&amp;t=25s
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2271]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_cc842ad86821ccb002afabc3ee86f1eb]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="Can an FSE Theme Beat Elementor? The NewSpare Homepage Challenge" width="500" height="375" src="https://www.youtube.com/embed/7u2Em2-rXRE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_cc842ad86821ccb002afabc3ee86f1eb]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1773748070]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[How Local Sports Clubs Are Making a Big Impact in Community Development Actons]]></title>
@@ -10283,9 +10695,9 @@ https://www.youtube.com/watch?v=feS3NQgWK10&amp;t=25s
 <p>In the dynamic world of WordPress, <strong><a href="https://afthemes.com" target="_blank" rel="noreferrer noopener">AF Themes</a></strong> stands as a beacon of innovation and excellence. Our popular themes — <strong><a href="/newspare/#covernews" data-type="internal" data-id="#covernews">CoverNews</a></strong>, <strong><a href="/newspare/#morenews">Morenews</a></strong>, <strong><a href="/newspare/#chromenews">ChromeNews</a></strong>, <strong><a href="/newspare/#newsphere">Newsphere</a></strong>, and <strong><a href="/newspare/#shopical">Shopical</a></strong> — alongside our powerful plugins — <strong><a href="/newspare/#wp-post-author">WP Post Author</a></strong>, <strong><a href="/newspare/#blockspare">Blockspare</a></strong>, and <strong><a href="/newspare/#elespare">Elespare</a></strong> — serve as the building blocks of your digital journey.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:embed {"url":"https://www.youtube.com/watch?v=AeHur_rHxl0\u0026amp;t=3s","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://www.youtube.com/watch?v=AeHur_rHxl0&amp;t=3s
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=mmpn8WSegcA","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=mmpn8WSegcA
 </div></figure>
 <!-- /wp:embed -->
 
@@ -10294,7 +10706,7 @@ https://www.youtube.com/watch?v=AeHur_rHxl0&amp;t=3s
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity" />
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
 <!-- /wp:separator -->
 
 <!-- wp:group {"layout":{"type":"constrained"}} -->
@@ -10454,7 +10866,7 @@ https://www.youtube.com/watch?v=8Jq53Pywmk0&amp;t=202s
 <!-- /wp:group -->
 
 <!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity" />
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
 <!-- /wp:separator -->
 
 <!-- wp:heading {"textAlign":"left"} -->
@@ -10488,7 +10900,7 @@ https://www.youtube.com/watch?v=jYPIE5e0mDU&amp;t=256s
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":"50%"} -->
 <div class="wp-block-column" style="flex-basis:50%"><!-- wp:image {"id":1746,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://demos.afthemes.com/reviewnews-pro/wp-content/uploads/2024/05/Screenshot-2025-10-31-170541.png" alt="" class="wp-image-1746" /></figure>
+<figure class="wp-block-image size-full"><img src="https://demos.afthemes.com/reviewnews-pro/wp-content/uploads/2024/05/Screenshot-2025-10-31-170541.png" alt="" class="wp-image-1746"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -10532,7 +10944,7 @@ https://www.youtube.com/watch?v=jYPIE5e0mDU&amp;t=256s
 <!-- /wp:list -->
 
 <!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity" />
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
@@ -10550,8 +10962,8 @@ https://www.youtube.com/watch?v=jYPIE5e0mDU&amp;t=256s
 		<wp:post_id>18</wp:post_id>
 		<wp:post_date><![CDATA[2024-05-10 04:25:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-10 04:25:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-03-10 08:21:12]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-03-10 08:21:12]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-03-17 11:47:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-03-17 11:47:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[local-sports-clubs-are-making-a-big-impact-in-community-development]]></wp:post_name>
@@ -10838,6 +11250,26 @@ https://www.youtube.com/watch?v=jYPIE5e0mDU&amp;t=256s
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2275]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_8ca613eaab682d1028f80d5ddb5b4c30]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="Stop Using Slow Page Builders: Build a News Site in 5 Minutes with NewSpare." width="500" height="375" src="https://www.youtube.com/embed/mmpn8WSegcA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_8ca613eaab682d1028f80d5ddb5b4c30]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1773748038]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[The Future of Remote Work: How Companies Are Adapting to a Digital Workforce]]></title>
@@ -10854,9 +11286,9 @@ https://www.youtube.com/watch?v=jYPIE5e0mDU&amp;t=256s
 <p>In the vibrant WordPress ecosystem, <strong><a href="https://afthemes.com" target="_blank" rel="noreferrer noopener">AF Themes</a></strong> stands as a beacon of innovation and excellence. Our popular themes — <strong><a href="/newspare/#covernews" data-type="internal" data-id="#covernews">CoverNews</a></strong>, <strong><a href="/newspare/#morenews">Morenews</a></strong>, <strong><a href="/newspare/#chromenews">ChromeNews</a></strong>, <strong><a href="/newspare/#newsphere">Newsphere</a></strong>, and <strong><a href="/newspare/#shopical">Shopical</a></strong> — alongside our powerful plugins — <strong><a href="/newspare/#wp-post-author">WP Post Author</a></strong>, <strong><a href="/newspare/#blockspare">Blockspare</a></strong>, and <strong><a href="/newspare/#elespare">Elespare</a></strong> — serve as the building blocks of your digital journey.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:embed {"url":"https://www.youtube.com/watch?v=BzDuWFky1HM\u0026amp;t=4s","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://www.youtube.com/watch?v=BzDuWFky1HM&amp;t=4s
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=xWgJkLbTJ0A","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=xWgJkLbTJ0A
 </div></figure>
 <!-- /wp:embed -->
 
@@ -10865,7 +11297,7 @@ https://www.youtube.com/watch?v=BzDuWFky1HM&amp;t=4s
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity" />
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
 <!-- /wp:separator -->
 
 <!-- wp:group {"layout":{"type":"constrained"}} -->
@@ -11025,7 +11457,7 @@ https://www.youtube.com/watch?v=8Jq53Pywmk0&amp;t=202s
 <!-- /wp:group -->
 
 <!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity" />
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
 <!-- /wp:separator -->
 
 <!-- wp:heading {"textAlign":"left"} -->
@@ -11055,7 +11487,7 @@ https://www.youtube.com/watch?v=elLCTqnQMI0&amp;t=184s
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":"50%"} -->
 <div class="wp-block-column" style="flex-basis:50%"><!-- wp:image {"id":1746,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://demos.afthemes.com/reviewnews-pro/wp-content/uploads/2024/05/Screenshot-2025-10-31-170541.png" alt="" class="wp-image-1746" /></figure>
+<figure class="wp-block-image size-full"><img src="https://demos.afthemes.com/reviewnews-pro/wp-content/uploads/2024/05/Screenshot-2025-10-31-170541.png" alt="" class="wp-image-1746"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -11099,7 +11531,7 @@ https://www.youtube.com/watch?v=elLCTqnQMI0&amp;t=184s
 <!-- /wp:list -->
 
 <!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity" />
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
@@ -11117,8 +11549,8 @@ https://www.youtube.com/watch?v=elLCTqnQMI0&amp;t=184s
 		<wp:post_id>21</wp:post_id>
 		<wp:post_date><![CDATA[2024-05-10 05:25:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-10 05:25:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-03-10 07:43:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-03-10 07:43:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-03-17 11:46:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-03-17 11:46:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-future-of-remote-work-how-companies-are-adapting-to-a-digital-workforce]]></wp:post_name>
@@ -11394,6 +11826,26 @@ https://www.youtube.com/watch?v=elLCTqnQMI0&amp;t=184s
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2272]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_488e1ae491445b996f0641571276bca7]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="No PHP Required: How to Design Custom Single Post Templates in NewSpare" width="500" height="375" src="https://www.youtube.com/embed/xWgJkLbTJ0A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_488e1ae491445b996f0641571276bca7]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1773748001]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[A Weekend in the Mountains: Why Nature Travel Is Growing Faster Than Ever]]></title>
@@ -11410,9 +11862,9 @@ https://www.youtube.com/watch?v=elLCTqnQMI0&amp;t=184s
 <p class="wp-embed-aspect-16-9 wp-has-aspect-ratio">In the vibrant WordPress ecosystem, <strong><a href="https://afthemes.com" target="_blank" rel="noreferrer noopener">AF Themes</a></strong> stands as a beacon of innovation and excellence. Our popular themes — <strong><a href="/newspare/#covernews" data-type="internal" data-id="#covernews">CoverNews</a></strong>, <strong><a href="/newspare/#morenews">Morenews</a></strong>, <strong><a href="/newspare/#chromenews">ChromeNews</a></strong>, <strong><a href="/newspare/#newsphere">Newsphere</a></strong>, and <strong><a href="/newspare/#shopical">Shopical</a></strong> — alongside our powerful plugins — <strong><a href="/newspare/#wp-post-author">WP Post Author</a></strong>, <strong><a href="/newspare/#blockspare">Blockspare</a></strong>, and <strong><a href="/newspare/#elespare">Elespare</a></strong> — serve as the building blocks of your digital journey.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:embed {"url":"https://www.youtube.com/watch?v=8Jq53Pywmk0\u0026amp;t=202s","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://www.youtube.com/watch?v=8Jq53Pywmk0&amp;t=202s
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=xWgJkLbTJ0A","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=xWgJkLbTJ0A
 </div></figure>
 <!-- /wp:embed -->
 
@@ -11673,8 +12125,8 @@ https://www.youtube.com/watch?v=8Jq53Pywmk0&amp;t=202s
 		<wp:post_id>24</wp:post_id>
 		<wp:post_date><![CDATA[2024-05-10 06:25:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:38:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-03-10 10:11:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-03-10 10:11:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-03-17 11:46:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-03-17 11:46:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[a-weekend-in-the-mountains-why-nature-travel-is-growing-faster-than-ever]]></wp:post_name>
@@ -11945,6 +12397,26 @@ https://www.youtube.com/watch?v=8Jq53Pywmk0&amp;t=202s
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[russia-ukraine-conflict-intensifies-what-to-expect-in-the-coming-days]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_488e1ae491445b996f0641571276bca7]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="No PHP Required: How to Design Custom Single Post Templates in NewSpare" width="500" height="375" src="https://www.youtube.com/embed/xWgJkLbTJ0A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_488e1ae491445b996f0641571276bca7]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1773747967]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Inside the Rise of Electric Vehicles and What It Means for the Global Auto Industry]]></title>
@@ -11961,9 +12433,9 @@ https://www.youtube.com/watch?v=8Jq53Pywmk0&amp;t=202s
 <p>In the dynamic world of WordPress, <strong><a href="https://afthemes.com" target="_blank" rel="noreferrer noopener">AF Themes</a></strong> stands as a beacon of innovation and excellence. Our popular themes — <strong><a href="/newspare/#covernews" data-type="internal" data-id="#covernews">CoverNews</a></strong>, <strong><a href="/newspare/#morenews">Morenews</a></strong>, <strong><a href="/newspare/#chromenews">ChromeNews</a></strong>, <strong><a href="/newspare/#newsphere">Newsphere</a></strong>, and <strong><a href="/newspare/#shopical">Shopical</a></strong> — alongside our powerful plugins — <strong><a href="/newspare/#wp-post-author">WP Post Author</a></strong>, <strong><a href="/newspare/#blockspare">Blockspare</a></strong>, and <strong><a href="/newspare/#elespare">Elespare</a></strong> — <strong>serve</strong> as the building blocks of your digital journey.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:embed {"url":"https://www.youtube.com/watch?v=5Xpd-Dexobg\u0026amp;t=4s","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://www.youtube.com/watch?v=5Xpd-Dexobg&amp;t=4s
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=7u2Em2-rXRE","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=7u2Em2-rXRE
 </div></figure>
 <!-- /wp:embed -->
 
@@ -12228,8 +12700,8 @@ https://www.youtube.com/watch?v=LtnQwSJJ994&amp;t=279s
 		<wp:post_id>27</wp:post_id>
 		<wp:post_date><![CDATA[2024-05-10 07:25:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-10 07:25:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-03-10 08:22:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-03-10 08:22:22]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-03-17 11:45:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-03-17 11:45:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[inside-the-rise-of-electric-vehicles-and-what-it-means-for-the-global-auto-industry]]></wp:post_name>
@@ -12533,6 +13005,26 @@ https://www.youtube.com/watch?v=LtnQwSJJ994&amp;t=279s
 		<wp:meta_key><![CDATA[_aft_read_time]]></wp:meta_key>
 		<wp:meta_value><![CDATA[4]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_cc842ad86821ccb002afabc3ee86f1eb]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="Can an FSE Theme Beat Elementor? The NewSpare Homepage Challenge" width="500" height="375" src="https://www.youtube.com/embed/7u2Em2-rXRE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_cc842ad86821ccb002afabc3ee86f1eb]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1773747923]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[How Artificial Intelligence Is Transforming Small Businesses Around the World]]></title>
@@ -12549,9 +13041,9 @@ https://www.youtube.com/watch?v=LtnQwSJJ994&amp;t=279s
 <p>In the vibrant WordPress ecosystem, <strong><a href="https://afthemes.com" target="_blank" rel="noreferrer noopener">AF Themes</a></strong> stands as a beacon of innovation and excellence. Our popular themes — <strong><a href="/newspare/#covernews" data-type="internal" data-id="#covernews">CoverNews</a></strong>, <strong><a href="/newspare/#morenews">Morenews</a></strong>, <strong><a href="/newspare/#chromenews">ChromeNews</a></strong>, <strong><a href="/newspare/#newsphere">Newsphere</a></strong>, and <strong><a href="/newspare/#shopical">Shopical</a></strong> — alongside our powerful plugins — <strong><a href="/newspare/#wp-post-author">WP Post Author</a></strong>, <strong><a href="/newspare/#blockspare">Blockspare</a></strong>, and <strong><a href="/newspare/#elespare">Elespare</a></strong> — serve as the building blocks of your digital journey.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:embed {"url":"https://www.youtube.com/watch?v=SzYMYMgRl8A\u0026amp;t=4s","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://www.youtube.com/watch?v=SzYMYMgRl8A&amp;t=4s
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=mmpn8WSegcA","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=mmpn8WSegcA
 </div></figure>
 <!-- /wp:embed -->
 
@@ -12560,7 +13052,7 @@ https://www.youtube.com/watch?v=SzYMYMgRl8A&amp;t=4s
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity" />
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
 <!-- /wp:separator -->
 
 <!-- wp:group {"layout":{"type":"constrained"}} -->
@@ -12720,7 +13212,7 @@ https://www.youtube.com/watch?v=8Jq53Pywmk0&amp;t=202s
 <!-- /wp:group -->
 
 <!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity" />
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
 <!-- /wp:separator -->
 
 <!-- wp:heading {"textAlign":"left"} -->
@@ -12750,7 +13242,7 @@ https://youtu.be/WeHALYnDQBM?si=cYkjBaQ6jvl1RkQb
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":"50%"} -->
 <div class="wp-block-column" style="flex-basis:50%"><!-- wp:image {"id":1746,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://demos.afthemes.com/reviewnews-pro/wp-content/uploads/2024/05/Screenshot-2025-10-31-170541.png" alt="" class="wp-image-1746" /></figure>
+<figure class="wp-block-image size-full"><img src="https://demos.afthemes.com/reviewnews-pro/wp-content/uploads/2024/05/Screenshot-2025-10-31-170541.png" alt="" class="wp-image-1746"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -12794,7 +13286,7 @@ https://youtu.be/WeHALYnDQBM?si=cYkjBaQ6jvl1RkQb
 <!-- /wp:list -->
 
 <!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity" />
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
@@ -12812,8 +13304,8 @@ https://youtu.be/WeHALYnDQBM?si=cYkjBaQ6jvl1RkQb
 		<wp:post_id>30</wp:post_id>
 		<wp:post_date><![CDATA[2024-05-10 08:25:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-10 08:25:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-03-10 07:23:44]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-03-10 07:23:44]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-03-17 11:44:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-03-17 11:44:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[how-artificial-intelligence-is-transforming-small-businesses-around-the-world]]></wp:post_name>
@@ -13051,7 +13543,7 @@ https://youtu.be/WeHALYnDQBM?si=cYkjBaQ6jvl1RkQb
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_a71e40fcdcfdcd08ae8c192525d5ec3d]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1763964286]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1773747885]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_578d8565c173885e43be0bbdd8371b64]]></wp:meta_key>
@@ -13059,7 +13551,7 @@ https://youtu.be/WeHALYnDQBM?si=cYkjBaQ6jvl1RkQb
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_578d8565c173885e43be0bbdd8371b64]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1763964286]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1773747885]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_0a69ffa11c86f5f8c52410f162590f24]]></wp:meta_key>
@@ -13067,7 +13559,7 @@ https://youtu.be/WeHALYnDQBM?si=cYkjBaQ6jvl1RkQb
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_0a69ffa11c86f5f8c52410f162590f24]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1763964286]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1773747885]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_ce2326a24f743deafcc96809b324b621]]></wp:meta_key>
@@ -13075,7 +13567,7 @@ https://youtu.be/WeHALYnDQBM?si=cYkjBaQ6jvl1RkQb
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_ce2326a24f743deafcc96809b324b621]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1763964286]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1773747885]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_906b0f1a31ab120b3677178275a5e802]]></wp:meta_key>
@@ -13083,7 +13575,7 @@ https://youtu.be/WeHALYnDQBM?si=cYkjBaQ6jvl1RkQb
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_906b0f1a31ab120b3677178275a5e802]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1763964287]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1773747885]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_1c4ebc2287cc0f5158bc4e47416a29e1]]></wp:meta_key>
@@ -13091,7 +13583,7 @@ https://youtu.be/WeHALYnDQBM?si=cYkjBaQ6jvl1RkQb
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_1c4ebc2287cc0f5158bc4e47416a29e1]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1763964286]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1773747885]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_c089d56a1e0c81745cf6605fbd8d800e]]></wp:meta_key>
@@ -13099,7 +13591,7 @@ https://youtu.be/WeHALYnDQBM?si=cYkjBaQ6jvl1RkQb
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_c089d56a1e0c81745cf6605fbd8d800e]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1763964286]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1773747885]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_7f1957f3e65781c01e7714caf6f3c0bd]]></wp:meta_key>
@@ -13107,7 +13599,7 @@ https://youtu.be/WeHALYnDQBM?si=cYkjBaQ6jvl1RkQb
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_7f1957f3e65781c01e7714caf6f3c0bd]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1763964286]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1773747885]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_4fa1df5f1b0356a5edd3939421081b68]]></wp:meta_key>
@@ -13115,7 +13607,7 @@ https://youtu.be/WeHALYnDQBM?si=cYkjBaQ6jvl1RkQb
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_4fa1df5f1b0356a5edd3939421081b68]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1763964286]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1773747885]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_b2c8d010eea156b8c4b07d9e8f7d0c77]]></wp:meta_key>
@@ -13123,7 +13615,7 @@ https://youtu.be/WeHALYnDQBM?si=cYkjBaQ6jvl1RkQb
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_b2c8d010eea156b8c4b07d9e8f7d0c77]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1763964286]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1773747885]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_f7717b33397ba6415de4e978fb45603f]]></wp:meta_key>
@@ -13211,6 +13703,26 @@ https://youtu.be/WeHALYnDQBM?si=cYkjBaQ6jvl1RkQb
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_aft_read_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_8ca613eaab682d1028f80d5ddb5b4c30]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="Stop Using Slow Page Builders: Build a News Site in 5 Minutes with NewSpare." width="500" height="375" src="https://www.youtube.com/embed/mmpn8WSegcA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_8ca613eaab682d1028f80d5ddb5b4c30]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1773747881]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[4]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -13473,9 +13985,9 @@ https://youtu.be/WeHALYnDQBM?si=cYkjBaQ6jvl1RkQb
 <p>In the dynamic world of WordPress, <strong><a href="https://afthemes.com" target="_blank" rel="noreferrer noopener">AF Themes</a></strong> stands as a beacon of innovation and excellence. Our popular themes — <strong><a href="/newspare/#covernews" data-type="internal" data-id="#covernews">CoverNews</a></strong>, <strong><a href="/newspare/#morenews">Morenews</a></strong>, <strong><a href="/newspare/#chromenews">ChromeNews</a></strong>, <strong><a href="/newspare/#newsphere">Newsphere</a></strong>, and <strong><a href="/newspare/#shopical">Shopical</a></strong> — alongside our powerful plugins — <strong><a href="/newspare/#wp-post-author">WP Post Author</a></strong>, <strong><a href="/newspare/#blockspare">Blockspare</a></strong>, and <strong><a href="/newspare/#elespare">Elespare</a></strong> — serve as the building blocks of your digital journey.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:embed {"url":"https://www.youtube.com/watch?v=FhRXBsqqP38\u0026amp;t=3s","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://www.youtube.com/watch?v=FhRXBsqqP38&amp;t=3s
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=xWgJkLbTJ0A","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=xWgJkLbTJ0A
 </div></figure>
 <!-- /wp:embed -->
 
@@ -13484,7 +13996,7 @@ https://www.youtube.com/watch?v=FhRXBsqqP38&amp;t=3s
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity" />
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
 <!-- /wp:separator -->
 
 <!-- wp:group {"layout":{"type":"constrained"}} -->
@@ -13644,7 +14156,7 @@ https://www.youtube.com/watch?v=8Jq53Pywmk0&amp;t=202s
 <!-- /wp:group -->
 
 <!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity" />
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
 <!-- /wp:separator -->
 
 <!-- wp:heading {"textAlign":"left"} -->
@@ -13678,7 +14190,7 @@ https://www.youtube.com/watch?v=WHXajQmQ--c
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":"50%"} -->
 <div class="wp-block-column" style="flex-basis:50%"><!-- wp:image {"id":1746,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://demos.afthemes.com/reviewnews-pro/wp-content/uploads/2024/05/Screenshot-2025-10-31-170541.png" alt="" class="wp-image-1746" /></figure>
+<figure class="wp-block-image size-full"><img src="https://demos.afthemes.com/reviewnews-pro/wp-content/uploads/2024/05/Screenshot-2025-10-31-170541.png" alt="" class="wp-image-1746"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -13722,7 +14234,7 @@ https://www.youtube.com/watch?v=WHXajQmQ--c
 <!-- /wp:list -->
 
 <!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity" />
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
@@ -13740,8 +14252,8 @@ https://www.youtube.com/watch?v=WHXajQmQ--c
 		<wp:post_id>1604</wp:post_id>
 		<wp:post_date><![CDATA[2024-05-10 03:25:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-10 03:25:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-03-10 07:54:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-03-10 07:54:35]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-03-17 11:48:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-03-17 11:48:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[exploring-historic-cities-a-journey-through-culture-food-and-architecture]]></wp:post_name>
@@ -13933,7 +14445,7 @@ https://www.youtube.com/watch?v=WHXajQmQ--c
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_0e107b71a49dc8b3551f4b4c5ebeae64]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1773079126]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1773748074]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_578d8565c173885e43be0bbdd8371b64]]></wp:meta_key>
@@ -13941,7 +14453,7 @@ https://www.youtube.com/watch?v=WHXajQmQ--c
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_578d8565c173885e43be0bbdd8371b64]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1773079126]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1773748074]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_0a69ffa11c86f5f8c52410f162590f24]]></wp:meta_key>
@@ -13949,7 +14461,7 @@ https://www.youtube.com/watch?v=WHXajQmQ--c
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_0a69ffa11c86f5f8c52410f162590f24]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1773079126]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1773748074]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_ce2326a24f743deafcc96809b324b621]]></wp:meta_key>
@@ -13957,7 +14469,7 @@ https://www.youtube.com/watch?v=WHXajQmQ--c
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_ce2326a24f743deafcc96809b324b621]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1773079126]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1773748074]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_906b0f1a31ab120b3677178275a5e802]]></wp:meta_key>
@@ -13965,7 +14477,7 @@ https://www.youtube.com/watch?v=WHXajQmQ--c
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_906b0f1a31ab120b3677178275a5e802]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1773079126]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1773748074]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_1c4ebc2287cc0f5158bc4e47416a29e1]]></wp:meta_key>
@@ -13973,7 +14485,7 @@ https://www.youtube.com/watch?v=WHXajQmQ--c
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_1c4ebc2287cc0f5158bc4e47416a29e1]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1773079126]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1773748074]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_c089d56a1e0c81745cf6605fbd8d800e]]></wp:meta_key>
@@ -13981,7 +14493,7 @@ https://www.youtube.com/watch?v=WHXajQmQ--c
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_c089d56a1e0c81745cf6605fbd8d800e]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1773079126]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1773748074]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_7f1957f3e65781c01e7714caf6f3c0bd]]></wp:meta_key>
@@ -13989,7 +14501,7 @@ https://www.youtube.com/watch?v=WHXajQmQ--c
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_7f1957f3e65781c01e7714caf6f3c0bd]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1773079126]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1773748074]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_4fa1df5f1b0356a5edd3939421081b68]]></wp:meta_key>
@@ -13997,7 +14509,7 @@ https://www.youtube.com/watch?v=WHXajQmQ--c
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_4fa1df5f1b0356a5edd3939421081b68]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1773079127]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1773748074]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_b0328568aa4f2a2faee313f46f6c6743]]></wp:meta_key>
@@ -14005,7 +14517,7 @@ https://www.youtube.com/watch?v=WHXajQmQ--c
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_b0328568aa4f2a2faee313f46f6c6743]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1773079127]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1773748074]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -14018,6 +14530,26 @@ https://www.youtube.com/watch?v=WHXajQmQ--c
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2269]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_488e1ae491445b996f0641571276bca7]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="No PHP Required: How to Design Custom Single Post Templates in NewSpare" width="500" height="375" src="https://www.youtube.com/embed/xWgJkLbTJ0A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_488e1ae491445b996f0641571276bca7]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1773748106]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -15505,8 +16037,8 @@ https://www.youtube.com/watch?v=WHXajQmQ--c
 		<wp:post_id>2282</wp:post_id>
 		<wp:post_date><![CDATA[2026-03-09 18:32:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-03-09 18:32:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-03-10 08:16:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-03-10 08:16:39]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-03-16 08:35:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-03-16 08:35:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -15669,7 +16201,7 @@ https://www.youtube.com/watch?v=WHXajQmQ--c
 <!-- /wp:group -->
 
 <!-- wp:image {"lightbox":{"enabled":false},"id":1500,"sizeSlug":"full","linkDestination":"custom"} -->
-<figure class="wp-block-image size-full"><a href="https://blockspare.com/"><img src="https://demos.blockspare.com/newspare/wp-content/themes/newspare/assets/images/Premium-News-Magazine-and-Blog-Addons-for-Gutenberg-Block-Editor.png" alt="" class="wp-image-1500"/></a></figure>
+<figure class="wp-block-image size-full"><a href="https://blockspare.com/"><img src="https://demos.blockspare.com/newspare/wp-content/themes/newspare/assets/images/Premium-News-Magazine-and-Blog-Addons-for-Gutenberg-Block-Editor.png" alt="BlockSpare — News, Magazine and Blog Addons for (Gutenberg) Block Editor" class="wp-image-1500"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"1.5rem"}},"layout":{"type":"constrained"}} -->
@@ -15709,8 +16241,8 @@ https://www.youtube.com/watch?v=WHXajQmQ--c
 <!-- /wp:group -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium","left":"var:preset|spacing|medium","right":"var:preset|spacing|medium"}}},"backgroundColor":"secondary","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-secondary-background-color has-background" style="padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:cover {"url":"https://demos.blockspare.com/newspare/wp-content/themes/newspare/assets/images/wing-wind-flag-usa-america-toy-99818-pxhere.com_-scaled.jpg","id":1055,"dimRatio":80,"overlayColor":"black","isUserOverlayColor":true,"sizeSlug":"large","style":{"spacing":{"padding":{"top":"var:preset|spacing|large","bottom":"var:preset|spacing|large","left":"1.5rem","right":"1.5rem"},"blockGap":"0"},"layout":{"selfStretch":"fit","flexSize":null},"dimensions":{"aspectRatio":"1"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-cover" style="padding-top:var(--wp--preset--spacing--large);padding-right:1.5rem;padding-bottom:var(--wp--preset--spacing--large);padding-left:1.5rem"><img class="wp-block-cover__image-background wp-image-1055 size-large" alt="" src="https://demos.blockspare.com/newspare/wp-content/themes/newspare/assets/images/wing-wind-flag-usa-america-toy-99818-pxhere.com_-scaled.jpg" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-80 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"elements":{"link":{"color":{"text":"var:preset|color|senary"}}},"spacing":{"padding":{"top":"0","bottom":"0"},"margin":{"bottom":"var:preset|spacing|medium"}}},"textColor":"senary","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-secondary-background-color has-background" style="padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:cover {"url":"https://demos.blockspare.com/newspare/wp-content/uploads/2025/11/light-black-and-white-technology-white-camera-photography-1178358-pxhere.com-1-1024x683.jpg","id":2192,"dimRatio":80,"overlayColor":"black","isUserOverlayColor":true,"sizeSlug":"large","style":{"spacing":{"padding":{"top":"var:preset|spacing|large","bottom":"var:preset|spacing|large","left":"1.5rem","right":"1.5rem"},"blockGap":"0"},"layout":{"selfStretch":"fit","flexSize":null},"dimensions":{"aspectRatio":"1"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-cover" style="padding-top:var(--wp--preset--spacing--large);padding-right:1.5rem;padding-bottom:var(--wp--preset--spacing--large);padding-left:1.5rem"><img class="wp-block-cover__image-background wp-image-2192 size-large" alt="" src="https://demos.blockspare.com/newspare/wp-content/uploads/2025/11/light-black-and-white-technology-white-camera-photography-1178358-pxhere.com-1-1024x683.jpg" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-80 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"elements":{"link":{"color":{"text":"var:preset|color|senary"}}},"spacing":{"padding":{"top":"0","bottom":"0"},"margin":{"bottom":"var:preset|spacing|medium"}}},"textColor":"senary","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-senary-color has-text-color has-link-color" style="margin-bottom:var(--wp--preset--spacing--medium);padding-top:0;padding-bottom:0"><!-- wp:heading {"align":"wide","className":"is-style-secondary","style":{"elements":{"link":{"color":{"text":"var:preset|color|senary"}}}},"textColor":"senary","fontSize":"normal"} -->
 <h2 class="wp-block-heading alignwide is-style-secondary has-senary-color has-text-color has-link-color has-normal-font-size">Stay Connected</h2>
 <!-- /wp:heading -->
@@ -15766,8 +16298,8 @@ https://www.youtube.com/watch?v=WHXajQmQ--c
 		<wp:post_id>2285</wp:post_id>
 		<wp:post_date><![CDATA[2026-03-09 18:41:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-03-09 18:41:59]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-03-09 18:41:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-03-09 18:41:59]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-03-16 08:35:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-03-16 08:35:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sidebar]]></wp:post_name>
@@ -16760,56 +17292,40 @@ https://www.youtube.com/watch?v=WHXajQmQ--c
 <figure class="wp-block-image size-full"><img src="https://demos.blockspare.com/newspare/wp-content/themes/newspare/assets/images/Premium-News-Magazine-and-Blog-Addons-for-Gutenberg-Block-Editor.png" alt="" class="wp-image-1500"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium","left":"var:preset|spacing|medium","right":"var:preset|spacing|medium"}}},"backgroundColor":"secondary","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-quaternary-background-color has-background" style="padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium)">
-<!-- wp:cover {"url":"https://demos.blockspare.com/newspare/wp-content/themes/newspare/assets/images/wing-wind-flag-usa-america-toy-99818-pxhere.com_-scaled.jpg","id":1055,"dimRatio":80,"overlayColor":"black","isUserOverlayColor":true,"sizeSlug":"large","style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium","left":"1.5rem","right":"1.5rem"},"blockGap":"0"},"layout":{"selfStretch":"fit","flexSize":null},"dimensions":{"aspectRatio":"1"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-cover" style="padding-top:var(--wp--preset--spacing--medium);padding-right:1.5rem;padding-bottom:var(--wp--preset--spacing--medium);padding-left:1.5rem"><img class="wp-block-cover__image-background wp-image-1055 size-large" alt="" src="https://demos.blockspare.com/newspare/wp-content/themes/newspare/assets/images/wing-wind-flag-usa-america-toy-99818-pxhere.com_-scaled.jpg" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-80 has-background-dim"></span><div class="wp-block-cover__inner-container">
-<!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"margin":{"top":"0","bottom":"var:preset|spacing|medium"}}}} -->
-<div class="wp-block-columns is-not-stacked-on-mobile" style="margin-top:0;margin-bottom:var(--wp--preset--spacing--medium)">
-<!-- wp:column {"width":"66.66%"} -->
-<div class="wp-block-column" style="flex-basis:66.66%">
-<!-- wp:heading {"align":"wide","className":"is-style-secondary","style":{"elements":{"link":{"color":{"text":"var:preset|color|senary"}}}},"textColor":"senary","fontSize":"normal"} -->
+<!-- wp:group {"className":"has-quaternary-background-color","style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium","left":"var:preset|spacing|medium","right":"var:preset|spacing|medium"}}},"backgroundColor":"secondary","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-quaternary-background-color has-secondary-background-color has-background" style="padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:cover {"url":"https://demos.blockspare.com/newspare/wp-content/uploads/2025/11/light-black-and-white-technology-white-camera-photography-1178358-pxhere.com-1-1024x683.jpg","id":2192,"dimRatio":80,"overlayColor":"black","isUserOverlayColor":true,"sizeSlug":"large","style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium","left":"1.5rem","right":"1.5rem"},"blockGap":"0"},"layout":{"selfStretch":"fit","flexSize":null},"dimensions":{"aspectRatio":"1"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-cover" style="padding-top:var(--wp--preset--spacing--medium);padding-right:1.5rem;padding-bottom:var(--wp--preset--spacing--medium);padding-left:1.5rem"><img class="wp-block-cover__image-background wp-image-2192 size-large" alt="" src="https://demos.blockspare.com/newspare/wp-content/uploads/2025/11/light-black-and-white-technology-white-camera-photography-1178358-pxhere.com-1-1024x683.jpg" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-80 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"margin":{"top":"0","bottom":"var:preset|spacing|medium"}}}} -->
+<div class="wp-block-columns is-not-stacked-on-mobile" style="margin-top:0;margin-bottom:var(--wp--preset--spacing--medium)"><!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:heading {"align":"wide","className":"is-style-secondary","style":{"elements":{"link":{"color":{"text":"var:preset|color|senary"}}}},"textColor":"senary","fontSize":"normal"} -->
 <h2 class="wp-block-heading alignwide is-style-secondary has-senary-color has-text-color has-link-color has-normal-font-size">Travel</h2>
-<!-- /wp:heading -->
-</div>
+<!-- /wp:heading --></div>
 <!-- /wp:column -->
+
 <!-- wp:column {"width":"33.33%"} -->
-<div class="wp-block-column" style="flex-basis:33.33%">
-<!-- wp:paragraph {"align":"right","style":{"elements":{"link":{"color":{"text":"var:preset|color|senary"}}},"typography":{"fontSize":"0.75rem"}},"textColor":"senary"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:paragraph {"align":"right","style":{"elements":{"link":{"color":{"text":"var:preset|color|senary"}}},"typography":{"fontSize":"0.75rem"}},"textColor":"senary"} -->
 <p class="has-text-align-right has-senary-color has-text-color has-link-color" style="font-size:0.75rem"><a href="#">View All</a></p>
-<!-- /wp:paragraph -->
-</div>
-<!-- /wp:column -->
-</div>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
 <!-- /wp:columns -->
-<!-- wp:query {"query":{"perPage":2,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false},"layout":{"type":"default"}} -->
-<div class="wp-block-query">
-<!-- wp:post-template {"align":"full","style":{"spacing":{"blockGap":"1.5rem"}},"layout":{"type":"grid","columnCount":null,"minimumColumnWidth":"15rem"}} -->
+
+<!-- wp:query {"queryId":21,"query":{"perPage":2,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false},"layout":{"type":"default"}} -->
+<div class="wp-block-query"><!-- wp:post-template {"align":"full","style":{"spacing":{"blockGap":"1.5rem"}},"layout":{"type":"grid","columnCount":null,"minimumColumnWidth":"15rem"}} -->
 <!-- wp:group {"style":{"spacing":{"blockGap":"0","padding":{"bottom":"0","top":"0","right":"0","left":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"default"}} -->
-<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0">
-<!-- wp:columns {"verticalAlignment":"center","isStackedOnMobile":false,"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|x-small","left":"var:preset|spacing|x-small"}}}} -->
-<div class="wp-block-columns are-vertically-aligned-center is-not-stacked-on-mobile">
-<!-- wp:column {"verticalAlignment":"center","width":"35%"} -->
-<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:35%">
-<!-- wp:post-featured-image {"isLink":true,"width":"","height":"","sizeSlug":"thumbnail","align":"right"} /-->
-</div>
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:columns {"verticalAlignment":"center","isStackedOnMobile":false,"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|x-small","left":"var:preset|spacing|x-small"}}}} -->
+<div class="wp-block-columns are-vertically-aligned-center is-not-stacked-on-mobile"><!-- wp:column {"verticalAlignment":"center","width":"35%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:35%"><!-- wp:post-featured-image {"isLink":true,"width":"","height":"","sizeSlug":"thumbnail","align":"right"} /--></div>
 <!-- /wp:column -->
+
 <!-- wp:column {"verticalAlignment":"center","width":"65%","style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"blockGap":"0"}}} -->
-<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;flex-basis:65%">
-<!-- wp:post-title {"isLink":true,"className":"is-style-secondary","style":{"layout":{"selfStretch":"fit"},"elements":{"link":{"color":{"text":"var:preset|color|senary"}}},"spacing":{"margin":{"top":"0px","right":"0","bottom":"5px","left":"0"}},"typography":{"fontSize":"0.88rem"}},"textColor":"senary"} /-->
-<!-- wp:post-date {"style":{"typography":{"fontSize":"11px"},"elements":{"link":{"color":{"text":"var:preset|color|senary"}}}},"textColor":"senary"} /-->
-</div>
-<!-- /wp:column -->
-</div>
-<!-- /wp:columns -->
-</div>
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;flex-basis:65%"><!-- wp:post-title {"isLink":true,"className":"is-style-secondary","style":{"layout":{"selfStretch":"fit"},"elements":{"link":{"color":{"text":"var:preset|color|senary"}}},"spacing":{"margin":{"top":"0px","right":"0","bottom":"5px","left":"0"}},"typography":{"fontSize":"0.88rem"}},"textColor":"senary"} /-->
+
+<!-- wp:post-date {"metadata":{"bindings":{"datetime":{"source":"core/post-data","args":{"field":"date"}}}},"style":{"typography":{"fontSize":"11px"},"elements":{"link":{"color":{"text":"var:preset|color|senary"}}}},"textColor":"senary"} /--></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
 <!-- /wp:group -->
-<!-- /wp:post-template -->
-</div>
-<!-- /wp:query -->
-</div></div>
-<!-- /wp:cover -->
-</div>
+<!-- /wp:post-template --></div>
+<!-- /wp:query --></div></div>
+<!-- /wp:cover --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>
@@ -17159,8 +17675,8 @@ https://youtu.be/B1SzFtg0jGc?si=7EI2Gx2SN12YxFFI
 		<wp:post_id>2295</wp:post_id>
 		<wp:post_date><![CDATA[2026-03-10 05:15:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-03-10 05:15:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-03-10 05:15:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-03-10 05:15:54]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-03-13 02:44:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-03-13 02:44:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[frontpage-news]]></wp:post_name>
@@ -17521,56 +18037,40 @@ https://youtu.be/B1SzFtg0jGc?si=7EI2Gx2SN12YxFFI
 <figure class="wp-block-image size-full"><img src="https://demos.blockspare.com/newspare/wp-content/themes/newspare/assets/images/Premium-News-Magazine-and-Blog-Addons-for-Gutenberg-Block-Editor.png" alt="" class="wp-image-1500"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium","left":"var:preset|spacing|medium","right":"var:preset|spacing|medium"}}},"backgroundColor":"secondary","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-quaternary-background-color has-background" style="padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium)">
-<!-- wp:cover {"url":"https://demos.blockspare.com/newspare/wp-content/themes/newspare/assets/images/wing-wind-flag-usa-america-toy-99818-pxhere.com_-scaled.jpg","id":1055,"dimRatio":80,"overlayColor":"black","isUserOverlayColor":true,"sizeSlug":"large","style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium","left":"1.5rem","right":"1.5rem"},"blockGap":"0"},"layout":{"selfStretch":"fit","flexSize":null},"dimensions":{"aspectRatio":"1"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-cover" style="padding-top:var(--wp--preset--spacing--medium);padding-right:1.5rem;padding-bottom:var(--wp--preset--spacing--medium);padding-left:1.5rem"><img class="wp-block-cover__image-background wp-image-1055 size-large" alt="" src="https://demos.blockspare.com/newspare/wp-content/themes/newspare/assets/images/wing-wind-flag-usa-america-toy-99818-pxhere.com_-scaled.jpg" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-80 has-background-dim"></span><div class="wp-block-cover__inner-container">
-<!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"margin":{"top":"0","bottom":"var:preset|spacing|medium"}}}} -->
-<div class="wp-block-columns is-not-stacked-on-mobile" style="margin-top:0;margin-bottom:var(--wp--preset--spacing--medium)">
-<!-- wp:column {"width":"66.66%"} -->
-<div class="wp-block-column" style="flex-basis:66.66%">
-<!-- wp:heading {"align":"wide","className":"is-style-secondary","style":{"elements":{"link":{"color":{"text":"var:preset|color|senary"}}}},"textColor":"senary","fontSize":"normal"} -->
+<!-- wp:group {"className":"has-quaternary-background-color","style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium","left":"var:preset|spacing|medium","right":"var:preset|spacing|medium"}}},"backgroundColor":"secondary","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-quaternary-background-color has-secondary-background-color has-background" style="padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:cover {"url":"https://demos.blockspare.com/newspare/wp-content/uploads/2025/11/light-black-and-white-technology-white-camera-photography-1178358-pxhere.com-1-1024x683.jpg","id":2192,"dimRatio":80,"overlayColor":"black","isUserOverlayColor":true,"sizeSlug":"large","style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium","left":"1.5rem","right":"1.5rem"},"blockGap":"0"},"layout":{"selfStretch":"fit","flexSize":null},"dimensions":{"aspectRatio":"1"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-cover" style="padding-top:var(--wp--preset--spacing--medium);padding-right:1.5rem;padding-bottom:var(--wp--preset--spacing--medium);padding-left:1.5rem"><img class="wp-block-cover__image-background wp-image-2192 size-large" alt="" src="https://demos.blockspare.com/newspare/wp-content/uploads/2025/11/light-black-and-white-technology-white-camera-photography-1178358-pxhere.com-1-1024x683.jpg" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-80 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"margin":{"top":"0","bottom":"var:preset|spacing|medium"}}}} -->
+<div class="wp-block-columns is-not-stacked-on-mobile" style="margin-top:0;margin-bottom:var(--wp--preset--spacing--medium)"><!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:heading {"align":"wide","className":"is-style-secondary","style":{"elements":{"link":{"color":{"text":"var:preset|color|senary"}}}},"textColor":"senary","fontSize":"normal"} -->
 <h2 class="wp-block-heading alignwide is-style-secondary has-senary-color has-text-color has-link-color has-normal-font-size">Travel</h2>
-<!-- /wp:heading -->
-</div>
+<!-- /wp:heading --></div>
 <!-- /wp:column -->
+
 <!-- wp:column {"width":"33.33%"} -->
-<div class="wp-block-column" style="flex-basis:33.33%">
-<!-- wp:paragraph {"align":"right","style":{"elements":{"link":{"color":{"text":"var:preset|color|senary"}}},"typography":{"fontSize":"0.75rem"}},"textColor":"senary"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:paragraph {"align":"right","style":{"elements":{"link":{"color":{"text":"var:preset|color|senary"}}},"typography":{"fontSize":"0.75rem"}},"textColor":"senary"} -->
 <p class="has-text-align-right has-senary-color has-text-color has-link-color" style="font-size:0.75rem"><a href="#">View All</a></p>
-<!-- /wp:paragraph -->
-</div>
-<!-- /wp:column -->
-</div>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
 <!-- /wp:columns -->
-<!-- wp:query {"query":{"perPage":2,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false},"layout":{"type":"default"}} -->
-<div class="wp-block-query">
-<!-- wp:post-template {"align":"full","style":{"spacing":{"blockGap":"1.5rem"}},"layout":{"type":"grid","columnCount":null,"minimumColumnWidth":"15rem"}} -->
+
+<!-- wp:query {"queryId":11,"query":{"perPage":2,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false},"layout":{"type":"default"}} -->
+<div class="wp-block-query"><!-- wp:post-template {"align":"full","style":{"spacing":{"blockGap":"1.5rem"}},"layout":{"type":"grid","columnCount":null,"minimumColumnWidth":"15rem"}} -->
 <!-- wp:group {"style":{"spacing":{"blockGap":"0","padding":{"bottom":"0","top":"0","right":"0","left":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"default"}} -->
-<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0">
-<!-- wp:columns {"verticalAlignment":"center","isStackedOnMobile":false,"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|x-small","left":"var:preset|spacing|x-small"}}}} -->
-<div class="wp-block-columns are-vertically-aligned-center is-not-stacked-on-mobile">
-<!-- wp:column {"verticalAlignment":"center","width":"35%"} -->
-<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:35%">
-<!-- wp:post-featured-image {"isLink":true,"width":"","height":"","sizeSlug":"thumbnail","align":"right"} /-->
-</div>
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:columns {"verticalAlignment":"center","isStackedOnMobile":false,"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|x-small","left":"var:preset|spacing|x-small"}}}} -->
+<div class="wp-block-columns are-vertically-aligned-center is-not-stacked-on-mobile"><!-- wp:column {"verticalAlignment":"center","width":"35%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:35%"><!-- wp:post-featured-image {"isLink":true,"width":"","height":"","sizeSlug":"thumbnail","align":"right"} /--></div>
 <!-- /wp:column -->
+
 <!-- wp:column {"verticalAlignment":"center","width":"65%","style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"blockGap":"0"}}} -->
-<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;flex-basis:65%">
-<!-- wp:post-title {"isLink":true,"className":"is-style-secondary","style":{"layout":{"selfStretch":"fit"},"elements":{"link":{"color":{"text":"var:preset|color|senary"}}},"spacing":{"margin":{"top":"0px","right":"0","bottom":"5px","left":"0"}},"typography":{"fontSize":"0.88rem"}},"textColor":"senary"} /-->
-<!-- wp:post-date {"style":{"typography":{"fontSize":"11px"},"elements":{"link":{"color":{"text":"var:preset|color|senary"}}}},"textColor":"senary"} /-->
-</div>
-<!-- /wp:column -->
-</div>
-<!-- /wp:columns -->
-</div>
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;flex-basis:65%"><!-- wp:post-title {"isLink":true,"className":"is-style-secondary","style":{"layout":{"selfStretch":"fit"},"elements":{"link":{"color":{"text":"var:preset|color|senary"}}},"spacing":{"margin":{"top":"0px","right":"0","bottom":"5px","left":"0"}},"typography":{"fontSize":"0.88rem"}},"textColor":"senary"} /-->
+
+<!-- wp:post-date {"metadata":{"bindings":{"datetime":{"source":"core/post-data","args":{"field":"date"}}}},"style":{"typography":{"fontSize":"11px"},"elements":{"link":{"color":{"text":"var:preset|color|senary"}}}},"textColor":"senary"} /--></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
 <!-- /wp:group -->
-<!-- /wp:post-template -->
-</div>
-<!-- /wp:query -->
-</div></div>
-<!-- /wp:cover -->
-</div>
+<!-- /wp:post-template --></div>
+<!-- /wp:query --></div></div>
+<!-- /wp:cover --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>
@@ -17618,8 +18118,8 @@ https://youtu.be/B1SzFtg0jGc?si=7EI2Gx2SN12YxFFI
 		<wp:post_id>2297</wp:post_id>
 		<wp:post_date><![CDATA[2026-03-10 05:17:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-03-10 05:17:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-03-10 05:17:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-03-10 05:17:54]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-03-13 02:45:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-03-13 02:45:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[frontpage-grid]]></wp:post_name>
@@ -17975,8 +18475,8 @@ https://youtu.be/B1SzFtg0jGc?si=7EI2Gx2SN12YxFFI
 <!-- /wp:group -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium","left":"var:preset|spacing|medium","right":"var:preset|spacing|medium"}}},"backgroundColor":"secondary","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-secondary-background-color has-background" style="padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:cover {"url":"https://demos.blockspare.com/newspare/wp-content/themes/newspare/assets/images/wing-wind-flag-usa-america-toy-99818-pxhere.com_-scaled.jpg","id":1055,"dimRatio":80,"overlayColor":"black","isUserOverlayColor":true,"sizeSlug":"large","style":{"spacing":{"padding":{"top":"var:preset|spacing|large","bottom":"var:preset|spacing|large","left":"1.5rem","right":"1.5rem"},"blockGap":"0"},"layout":{"selfStretch":"fit","flexSize":null},"dimensions":{"aspectRatio":"1"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-cover" style="padding-top:var(--wp--preset--spacing--large);padding-right:1.5rem;padding-bottom:var(--wp--preset--spacing--large);padding-left:1.5rem"><img class="wp-block-cover__image-background wp-image-1055 size-large" alt="" src="https://demos.blockspare.com/newspare/wp-content/themes/newspare/assets/images/wing-wind-flag-usa-america-toy-99818-pxhere.com_-scaled.jpg" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-80 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"elements":{"link":{"color":{"text":"var:preset|color|senary"}}},"spacing":{"padding":{"top":"0","bottom":"0"},"margin":{"bottom":"var:preset|spacing|medium"}}},"textColor":"senary","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-secondary-background-color has-background" style="padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:cover {"url":"https://demos.blockspare.com/newspare/wp-content/uploads/2025/11/light-black-and-white-technology-white-camera-photography-1178358-pxhere.com-1-1024x683.jpg","id":2192,"dimRatio":80,"overlayColor":"black","isUserOverlayColor":true,"sizeSlug":"large","style":{"spacing":{"padding":{"top":"var:preset|spacing|large","bottom":"var:preset|spacing|large","left":"1.5rem","right":"1.5rem"},"blockGap":"0"},"layout":{"selfStretch":"fit","flexSize":null},"dimensions":{"aspectRatio":"1"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-cover" style="padding-top:var(--wp--preset--spacing--large);padding-right:1.5rem;padding-bottom:var(--wp--preset--spacing--large);padding-left:1.5rem"><img class="wp-block-cover__image-background wp-image-2192 size-large" alt="" src="https://demos.blockspare.com/newspare/wp-content/uploads/2025/11/light-black-and-white-technology-white-camera-photography-1178358-pxhere.com-1-1024x683.jpg" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-80 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"elements":{"link":{"color":{"text":"var:preset|color|senary"}}},"spacing":{"padding":{"top":"0","bottom":"0"},"margin":{"bottom":"var:preset|spacing|medium"}}},"textColor":"senary","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-senary-color has-text-color has-link-color" style="margin-bottom:var(--wp--preset--spacing--medium);padding-top:0;padding-bottom:0"><!-- wp:heading {"align":"wide","className":"is-style-secondary","style":{"elements":{"link":{"color":{"text":"var:preset|color|senary"}}}},"textColor":"senary","fontSize":"normal"} -->
 <h2 class="wp-block-heading alignwide is-style-secondary has-senary-color has-text-color has-link-color has-normal-font-size">Stay Connected</h2>
 <!-- /wp:heading -->
@@ -18057,8 +18557,8 @@ https://youtu.be/B1SzFtg0jGc?si=7EI2Gx2SN12YxFFI
 		<wp:post_id>2299</wp:post_id>
 		<wp:post_date><![CDATA[2026-03-10 05:22:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-03-10 05:22:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-03-10 05:22:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-03-10 05:22:39]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-03-13 02:49:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-03-13 02:49:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[frontpage-video]]></wp:post_name>
@@ -18458,8 +18958,8 @@ https://youtu.be/B1SzFtg0jGc?si=7EI2Gx2SN12YxFFI
 <!-- /wp:group -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium","left":"var:preset|spacing|medium","right":"var:preset|spacing|medium"}}},"backgroundColor":"secondary","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-secondary-background-color has-background" style="padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:cover {"url":"https://demos.blockspare.com/newspare/wp-content/themes/newspare/assets/images/wing-wind-flag-usa-america-toy-99818-pxhere.com_-scaled.jpg","id":1055,"dimRatio":80,"overlayColor":"black","isUserOverlayColor":true,"sizeSlug":"large","style":{"spacing":{"padding":{"top":"var:preset|spacing|large","bottom":"var:preset|spacing|large","left":"1.5rem","right":"1.5rem"},"blockGap":"0"},"layout":{"selfStretch":"fit","flexSize":null},"dimensions":{"aspectRatio":"1"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-cover" style="padding-top:var(--wp--preset--spacing--large);padding-right:1.5rem;padding-bottom:var(--wp--preset--spacing--large);padding-left:1.5rem"><img class="wp-block-cover__image-background wp-image-1055 size-large" alt="" src="https://demos.blockspare.com/newspare/wp-content/themes/newspare/assets/images/wing-wind-flag-usa-america-toy-99818-pxhere.com_-scaled.jpg" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-80 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"elements":{"link":{"color":{"text":"var:preset|color|senary"}}},"spacing":{"padding":{"top":"0","bottom":"0"},"margin":{"bottom":"var:preset|spacing|medium"}}},"textColor":"senary","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-secondary-background-color has-background" style="padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:cover {"url":"https://demos.blockspare.com/newspare/wp-content/uploads/2025/11/light-black-and-white-technology-white-camera-photography-1178358-pxhere.com-1-1024x683.jpg","id":2192,"dimRatio":80,"overlayColor":"black","isUserOverlayColor":true,"sizeSlug":"large","style":{"spacing":{"padding":{"top":"var:preset|spacing|large","bottom":"var:preset|spacing|large","left":"1.5rem","right":"1.5rem"},"blockGap":"0"},"layout":{"selfStretch":"fit","flexSize":null},"dimensions":{"aspectRatio":"1"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-cover" style="padding-top:var(--wp--preset--spacing--large);padding-right:1.5rem;padding-bottom:var(--wp--preset--spacing--large);padding-left:1.5rem"><img class="wp-block-cover__image-background wp-image-2192 size-large" alt="" src="https://demos.blockspare.com/newspare/wp-content/uploads/2025/11/light-black-and-white-technology-white-camera-photography-1178358-pxhere.com-1-1024x683.jpg" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-80 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"elements":{"link":{"color":{"text":"var:preset|color|senary"}}},"spacing":{"padding":{"top":"0","bottom":"0"},"margin":{"bottom":"var:preset|spacing|medium"}}},"textColor":"senary","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-senary-color has-text-color has-link-color" style="margin-bottom:var(--wp--preset--spacing--medium);padding-top:0;padding-bottom:0"><!-- wp:heading {"align":"wide","className":"is-style-secondary","style":{"elements":{"link":{"color":{"text":"var:preset|color|senary"}}}},"textColor":"senary","fontSize":"normal"} -->
 <h2 class="wp-block-heading alignwide is-style-secondary has-senary-color has-text-color has-link-color has-normal-font-size">Stay Connected</h2>
 <!-- /wp:heading -->
@@ -18540,8 +19040,8 @@ https://youtu.be/B1SzFtg0jGc?si=7EI2Gx2SN12YxFFI
 		<wp:post_id>2301</wp:post_id>
 		<wp:post_date><![CDATA[2026-03-10 05:22:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-03-10 05:22:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-03-10 05:43:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-03-10 05:43:23]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-03-13 02:44:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-03-13 02:44:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[frontpage-magazine]]></wp:post_name>
