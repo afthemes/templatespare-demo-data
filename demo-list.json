@@ -19210,6 +19210,78 @@
           "is_builder_pro": "blockspare-pro",
           "plugins": "blockspare"
         },
+        "foodie": {
+          "slug": "foodie",
+          "theme": "newspare",
+          "main_category": "News & Media",
+          "catgory": "General",
+          "name": "Foodie",
+          "preview": "https://demos.blockspare.com/newspare/foodie",
+          "tags": ["pro", "news", "magazine", "gutenberg"],
+          "main_categories": ["News & Media"],
+          "image_keywords": [
+            "food"
+          ],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare"
+        },
+        "edupress": {
+          "slug": "edupress",
+          "theme": "newspare",
+          "main_category": "News & Media",
+          "catgory": "General",
+          "name": "EduPress",
+          "preview": "https://demos.blockspare.com/newspare/edupress",
+          "tags": ["pro", "news", "magazine", "gutenberg"],
+          "main_categories": ["News & Media"],
+          "image_keywords": [
+            "education",
+            "press",
+            "media",
+            "news",
+            "magazine"
+          ],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare"
+        },
+        "biztoday": {
+          "slug": "biztoday",
+          "theme": "newspare",
+          "main_category": "News & Media",
+          "catgory": "General",
+          "name": "Biztoday",
+          "preview": "https://demos.blockspare.com/newspare/biztoday",
+          "tags": ["pro", "news", "magazine", "gutenberg"],
+          "main_categories": ["News & Media"],
+          "image_keywords": [
+            "journalism",
+            "press",
+            "media",
+            "news",
+            "magazine"
+          ],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare"
+        },
+        "nichemag": {
+          "slug": "nichemag",
+          "theme": "newspare",
+          "main_category": "News & Media",
+          "catgory": "General",
+          "name": "NicheMag",
+          "preview": "https://demos.blockspare.com/newspare/nichemag",
+          "tags": ["pro", "news", "magazine", "gutenberg"],
+          "main_categories": ["News & Media"],
+          "image_keywords": [
+            "journalism",
+            "press",
+            "media",
+            "news",
+            "magazine"
+          ],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare"
+        },
         "indian": {
           "slug": "indian",
           "theme": "newspare",
@@ -19372,6 +19444,188 @@
           "image_keywords": [
             "business",
             "office"
+          ]
+        },
+        "health-camp": {
+          "slug": "health-camp",
+          "theme": "newspare",
+          "main_category": "Business & Professional",
+          "catgory": "Business",
+          "name": "Health Camp Pro",
+          "preview": "https://demos.blockspare.com/newspare/health-camp",
+          "tags": ["pro", "business", "gutenberg"],
+          "main_categories": ["Business & eCommerce","Education & Non-Profit News", "Specialty & Niche"],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare",
+          "image_keywords": [
+            "business",
+            "office",
+            "health"
+          ]
+        },
+        "human-rights": {
+          "slug": "human-rights",
+          "theme": "newspare",
+          "main_category": "Business & Professional",
+          "catgory": "Business",
+          "name": "Human Rights Pro",
+          "preview": "https://demos.blockspare.com/newspare/human-rights",
+          "tags": ["pro", "business", "gutenberg"],
+          "main_categories": ["Business & eCommerce","Education & Non-Profit News"],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare",
+          "image_keywords": [
+            "business",
+            "office",
+            "human-rights"
+          ]
+        },
+        "global-business": {
+          "slug": "global-business",
+          "theme": "newspare",
+          "main_category": "Business & Professional",
+          "catgory": "Business",
+          "name": "Global Business Pro",
+          "preview": "https://demos.blockspare.com/newspare/global-business",
+          "tags": ["pro", "business", "gutenberg"],
+          "main_categories": ["Business & eCommerce"],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare",
+          "image_keywords": [
+            "business",
+            "office"
+          ]
+        },
+        "donate-food": {
+          "slug": "donate-food",
+          "theme": "newspare",
+          "main_category": "Business & Professional",
+          "catgory": "Business",
+          "name": "Donate Food Pro",
+          "preview": "https://demos.blockspare.com/newspare/donate-food",
+          "tags": ["pro", "business", "gutenberg"],
+          "main_categories": ["Business & eCommerce","Education & Non-Profit News"],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare",
+          "image_keywords": [
+            "business",
+            "office",
+            "donatation"
+          ]
+        },
+        "fast-food": {
+          "slug": "fast-food",
+          "theme": "newspare",
+          "main_category": "Business & Professional",
+          "catgory": "Business",
+          "name": "Fast Food Pro",
+          "preview": "https://demos.blockspare.com/newspare/fast-food",
+          "tags": ["pro", "business", "gutenberg"],
+          "main_categories": ["Business & eCommerce","Lifestyle & Personal"],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare",
+          "image_keywords": [
+            "business",
+            "office",
+            "fast-food"
+          ]
+        },
+        "corporate-business": {
+          "slug": "corporate-business",
+          "theme": "newspare",
+          "main_category": "Business & Professional",
+          "catgory": "Business",
+          "name": "Corporate Business Pro",
+          "preview": "https://demos.blockspare.com/newspare/corporate-business",
+          "tags": ["pro", "business", "gutenberg"],
+          "main_categories": ["Business & eCommerce"],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare",
+          "image_keywords": [
+            "business",
+            "office"
+          ]
+        },
+        "business-company": {
+          "slug": "business-company",
+          "theme": "newspare",
+          "main_category": "Business & Professional",
+          "catgory": "Business",
+          "name": "Business Company Pro",
+          "preview": "https://demos.blockspare.com/newspare/business-company",
+          "tags": ["pro", "business", "gutenberg"],
+          "main_categories": ["Business & eCommerce"],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare",
+          "image_keywords": [
+            "business",
+            "office"
+          ]
+        },
+        "environment-care": {
+          "slug": "environment-care",
+          "theme": "newspare",
+          "main_category": "Business & Professional",
+          "catgory": "Business",
+          "name": "Environment Care Pro",
+          "preview": "https://demos.blockspare.com/newspare/environment-care",
+          "tags": ["pro", "business", "gutenberg"],
+          "main_categories": ["Business & eCommerce", "Education & Non-Profit News"],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare",
+          "image_keywords": [
+            "business",
+            "office"
+          ]
+        },
+        "girl-power": {
+          "slug": "girl-power",
+          "theme": "newspare",
+          "main_category": "Business & Professional",
+          "catgory": "Business",
+          "name": "Girl Power Pro",
+          "preview": "https://demos.blockspare.com/newspare/girl-power",
+          "tags": ["pro", "business", "gutenberg"],
+          "main_categories": ["Business & eCommerce", "Lifestyle & Personal"],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare",
+          "image_keywords": [
+            "business",
+            "office"
+          ]
+        },
+        "ministry-culture": {
+          "slug": "ministry-culture",
+          "theme": "newspare",
+          "main_category": "Business & Professional",
+          "catgory": "Business",
+          "name": "Ministry Culture Pro",
+          "preview": "https://demos.blockspare.com/newspare/ministry-culture",
+          "tags": ["pro", "business", "gutenberg"],
+          "main_categories": ["Business & eCommerce", "Education & Non-Profit News"],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare",
+          "image_keywords": [
+            "business",
+            "office",
+            "government"
+          ]
+        },
+        "ministry": {
+          "slug": "ministry",
+          "theme": "newspare",
+          "main_category": "Business & Professional",
+          "catgory": "Business",
+          "name": "Ministry Pro",
+          "preview": "https://demos.blockspare.com/newspare/ministry",
+          "tags": ["pro", "business", "gutenberg"],
+          "main_categories": ["Business & eCommerce", "Education & Non-Profit News"],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare",
+          "image_keywords": [
+            "business",
+            "office",
+            "government"
           ]
         }
       }
