@@ -19421,13 +19421,13 @@
           "is_builder_pro": "blockspare-pro",
           "plugins": "blockspare"
         },
-        "itilian-news": {
-          "slug": "itilian-news",
+        "italian-news": {
+          "slug": "italian-news",
           "theme": "newspare",
           "main_category": "Regional & Language Specific",
           "catgory": "Italy",
           "name": "Notizie italiane",
-          "preview": "https://demos.blockspare.com/newspare/itilian-news",
+          "preview": "https://demos.blockspare.com/newspare/italian-news",
           "tags": ["pro", "news", "magazine", "gutenberg", "italy"],
           "main_categories": ["News & Media", "Regional & Local News"],
           "image_keywords": [
@@ -19446,7 +19446,6 @@
           "theme": "newspare",
           "main_category": "Regional & Language Specific",
           "catgory": "Indonesia",
-          "homepage_type": "blog",
           "name": "Berita Indonesia",
           "preview": "https://demos.blockspare.com/newspare/indonesia-news",
           "tags": ["pro", "news", "magazine", "gutenberg", "indonesia"],
@@ -19467,7 +19466,6 @@
           "theme": "newspare",
           "main_category": "Regional & Language Specific",
           "catgory": "Poland",
-          "homepage_type": "blog",
           "name": "Blog Polska",
           "preview": "https://demos.blockspare.com/newspare/poland-blog",
           "tags": ["pro", "news", "magazine", "gutenberg", "poland"],
