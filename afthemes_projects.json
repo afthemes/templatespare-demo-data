@@ -19054,6 +19054,25 @@
           ],
           "plugins": "blockspare"
         },
+        "nederlandse": {
+          "slug": "nederlandse",
+          "theme": "newspare",
+          "main_category": "Regional & Language Specific",
+          "catgory": "Netherland",
+          "name": "Nederlandse krant",
+          "preview": "https://demos.blockspare.com/newspare/nederlandse",
+          "tags": ["pro", "news", "magazine", "gutenberg", "netherland"],
+          "main_categories": ["News & Media", "Regional & Local News"],
+          "image_keywords": [
+            "journalism",
+            "press",
+            "media",
+            "news",
+            "magazine",
+            "netherland"
+          ],
+          "plugins": "blockspare"
+        },
         "prime-generic": {
           "slug": "prime-generic",
           "theme": "newspare",
@@ -19378,6 +19397,88 @@
             "news",
             "magazine",
             "french"
+          ],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare"
+        },
+        "brazil-stories": {
+          "slug": "brazil-stories",
+          "theme": "newspare",
+          "main_category": "Regional & Language Specific",
+          "catgory": "Brazil",
+          "name": "Histórias do Brasil",
+          "preview": "https://demos.blockspare.com/newspare/brazil-stories",
+          "tags": ["pro", "news", "magazine", "gutenberg", "brazil"],
+          "main_categories": ["News & Media", "Regional & Local News"],
+          "image_keywords": [
+            "journalism",
+            "press",
+            "media",
+            "news",
+            "magazine",
+            "brazil"
+          ],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare"
+        },
+        "itilian-news": {
+          "slug": "itilian-news",
+          "theme": "newspare",
+          "main_category": "Regional & Language Specific",
+          "catgory": "Italy",
+          "name": "Notizie italiane",
+          "preview": "https://demos.blockspare.com/newspare/itilian-news",
+          "tags": ["pro", "news", "magazine", "gutenberg", "italy"],
+          "main_categories": ["News & Media", "Regional & Local News"],
+          "image_keywords": [
+            "journalism",
+            "press",
+            "media",
+            "news",
+            "magazine",
+            "italy"
+          ],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare"
+        },
+        "indonesia-news": {
+          "slug": "indonesia-news",
+          "theme": "newspare",
+          "main_category": "Regional & Language Specific",
+          "catgory": "Indonesia",
+          "homepage_type": "blog",
+          "name": "Berita Indonesia",
+          "preview": "https://demos.blockspare.com/newspare/indonesia-news",
+          "tags": ["pro", "news", "magazine", "gutenberg", "indonesia"],
+          "main_categories": ["News & Media", "Regional & Local News"],
+          "image_keywords": [
+            "journalism",
+            "press",
+            "media",
+            "news",
+            "magazine",
+            "indonesia"
+          ],
+          "is_builder_pro": "blockspare-pro",
+          "plugins": "blockspare"
+        },
+        "poland-blog": {
+          "slug": "poland-blog",
+          "theme": "newspare",
+          "main_category": "Regional & Language Specific",
+          "catgory": "Poland",
+          "homepage_type": "blog",
+          "name": "Blog Polska",
+          "preview": "https://demos.blockspare.com/newspare/poland-blog",
+          "tags": ["pro", "news", "magazine", "gutenberg", "poland"],
+          "main_categories": ["News & Media", "Regional & Local News"],
+          "image_keywords": [
+            "journalism",
+            "press",
+            "media",
+            "news",
+            "magazine",
+            "poland"
           ],
           "is_builder_pro": "blockspare-pro",
           "plugins": "blockspare"
