@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.5.3" created="2024-05-28 06:05" -->
+	<!-- generator="WordPress/6.9.4" created="2026-04-02 05:05" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Fashion</title>
 	<link>https://demos.afthemes.com/chromenews/fashion</link>
 	<description>Just another ChromeNews Sites site</description>
-	<pubDate>Tue, 28 May 2024 06:05:43 +0000</pubDate>
+	<pubDate>Thu, 02 Apr 2026 05:05:19 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.afthemes.com/chromenews/</wp:base_site_url>
@@ -215,15 +215,15 @@
 		<wp:term_name><![CDATA[Iskra Lawrence]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>4</wp:term_id>
-		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_id>15</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[life-style]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Life style]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>15</wp:term_id>
-		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_id>4</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[life-style]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Life style]]></wp:term_name>
@@ -236,13 +236,6 @@
 		<wp:term_name><![CDATA[Main Menu]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>5</wp:term_id>
-		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[model]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Model]]></wp:term_name>
-	</wp:term>
-		<wp:term>
 		<wp:term_id>16</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[model]]></wp:term_slug>
@@ -250,15 +243,22 @@
 		<wp:term_name><![CDATA[Model]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>6</wp:term_id>
+		<wp:term_id>5</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[model]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Model]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>17</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[music]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Music]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>17</wp:term_id>
-		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_id>6</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[music]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Music]]></wp:term_name>
@@ -333,7 +333,7 @@
 	<wp:term><wp:term_id>25</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Social menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.9.4</generator>
 
 <image>
 	<url>https://demos.afthemes.com/chromenews/fashion/wp-content/uploads/sites/3/2019/04/cropped-af-themes-main-dark-2-150x150.png</url>
@@ -344,6 +344,128 @@
 </image> 
 
 		<item>
+		<title><![CDATA[]]></title>
+		<link>https://demos.afthemes.com/chromenews/fashion/2022/07/11/426/</link>
+		<pubDate>Sun, 17 Jun 2018 08:53:57 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/?p=426</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[																		]]></excerpt:encoded>
+		<wp:post_id>426</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-11 05:28:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-06-17 08:53:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-11 05:28:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-11 05:28:06]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[426]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-menu-items"><![CDATA[Footer menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[20]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-06-17]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://demos.afthemes.com/chromenews/fashion/2022/07/11/429/</link>
+		<pubDate>Sun, 17 Jun 2018 08:53:57 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/?p=429</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[																		]]></excerpt:encoded>
+		<wp:post_id>429</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-11 05:28:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-06-17 08:53:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-11 05:28:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-11 05:28:06]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[429]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-menu-items"><![CDATA[Footer menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[17]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-06-17]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Facebook]]></title>
 		<link>https://demos.afthemes.com/chromenews/fashion/2018/06/17/facebook/</link>
 		<pubDate>Sun, 17 Jun 2018 08:56:54 +0000</pubDate>
@@ -392,108 +514,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://facebook.com]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Twitter]]></title>
-		<link>https://demos.afthemes.com/chromenews/fashion/2018/06/17/twitter/</link>
-		<pubDate>Sun, 17 Jun 2018 08:56:54 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/?p=435</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-				
-				
-										]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				
-				
-										]]></excerpt:encoded>
-		<wp:post_id>435</wp:post_id>
-		<wp:post_date><![CDATA[2018-06-17 08:56:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-06-17 08:56:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-06-17 08:56:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-06-17 08:56:54]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[twitter]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="social-menu-items"><![CDATA[Social menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[435]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://twitter.com]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Youtube]]></title>
-		<link>https://demos.afthemes.com/chromenews/fashion/2018/06/17/youtube/</link>
-		<pubDate>Sun, 17 Jun 2018 08:56:54 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/?p=436</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-				
-				
-										]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				
-				
-										]]></excerpt:encoded>
-		<wp:post_id>436</wp:post_id>
-		<wp:post_date><![CDATA[2018-06-17 08:56:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-06-17 08:56:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-06-17 08:56:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-06-17 08:56:54]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[youtube]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="social-menu-items"><![CDATA[Social menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[436]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://youtube.com]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -732,6 +752,10 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_f8c3dd501dd69df9604c96c85d96bc5a]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_ea75a70558a9952e216de29d2ad0f71e]]></wp:meta_key>
 		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -1240,125 +1264,105 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/chromenews/fashion/2022/07/11/426/</link>
-		<pubDate>Sun, 17 Jun 2018 08:53:57 +0000</pubDate>
+		<title><![CDATA[Twitter]]></title>
+		<link>https://demos.afthemes.com/chromenews/fashion/2018/06/17/twitter/</link>
+		<pubDate>Sun, 17 Jun 2018 08:56:54 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/?p=426</guid>
+		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/?p=435</guid>
 		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[																		]]></excerpt:encoded>
-		<wp:post_id>426</wp:post_id>
-		<wp:post_date><![CDATA[2022-07-11 05:28:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-06-17 08:53:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-07-11 05:28:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-07-11 05:28:06]]></wp:post_modified_gmt>
+		<content:encoded><![CDATA[
+				
+				
+										]]></content:encoded>
+		<excerpt:encoded><![CDATA[
+				
+				
+										]]></excerpt:encoded>
+		<wp:post_id>435</wp:post_id>
+		<wp:post_date><![CDATA[2018-06-17 08:56:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-06-17 08:56:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-06-17 08:56:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-06-17 08:56:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[426]]></wp:post_name>
+		<wp:post_name><![CDATA[twitter]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
+		<wp:menu_order>2</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer-menu-items"><![CDATA[Footer menu items]]></category>
+										<category domain="nav_menu" nicename="social-menu-items"><![CDATA[Social menu items]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[20]]></wp:meta_value>
+		<wp:meta_value><![CDATA[435]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-06-17]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://twitter.com]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/chromenews/fashion/2022/07/11/429/</link>
-		<pubDate>Sun, 17 Jun 2018 08:53:57 +0000</pubDate>
+		<title><![CDATA[Youtube]]></title>
+		<link>https://demos.afthemes.com/chromenews/fashion/2018/06/17/youtube/</link>
+		<pubDate>Sun, 17 Jun 2018 08:56:54 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/?p=429</guid>
+		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/?p=436</guid>
 		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[																		]]></excerpt:encoded>
-		<wp:post_id>429</wp:post_id>
-		<wp:post_date><![CDATA[2022-07-11 05:28:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-06-17 08:53:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-07-11 05:28:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-07-11 05:28:06]]></wp:post_modified_gmt>
+		<content:encoded><![CDATA[
+				
+				
+										]]></content:encoded>
+		<excerpt:encoded><![CDATA[
+				
+				
+										]]></excerpt:encoded>
+		<wp:post_id>436</wp:post_id>
+		<wp:post_date><![CDATA[2018-06-17 08:56:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-06-17 08:56:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-06-17 08:56:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-06-17 08:56:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[429]]></wp:post_name>
+		<wp:post_name><![CDATA[youtube]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
+		<wp:menu_order>4</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer-menu-items"><![CDATA[Footer menu items]]></category>
+										<category domain="nav_menu" nicename="social-menu-items"><![CDATA[Social menu items]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[17]]></wp:meta_value>
+		<wp:meta_value><![CDATA[436]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-06-17]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://youtube.com]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2629,6 +2633,320 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Valentino Goes Deliberately Feminine for Fall 2018]]></title>
+		<link>https://demos.afthemes.com/chromenews/fashion/2024/05/14/valentino-goes-deliberately-feminine-for-fall-2018/</link>
+		<pubDate>Tue, 06 Mar 2018 09:51:48 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=46</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>In the dynamic world of WordPress, we emerge as a beacon of innovation and excellence. Our popular products, like <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>, and <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, alongside powerful plugins such as <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a>, and <a href="https://elespare.com/">Elespare</a>, serve as the building blocks of your digital journey.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We’re passionate about quality code and elegant design, ensuring your website creation is an effortless blend of sophistication and simplicity. With unwavering support from our dedicated team, you’re never alone.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"left"} -->
+<h2 class="wp-block-heading has-text-align-left" id="phasellus-autem-placeat-laboris-sem-cupiditate-assumenda"><a href="https://templatespare.com/">Templatespare</a>: Create Your Dream Website with Easy Starter Sites!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>A beautiful collection of Ready to Import Starter Sites with just one click. Get modern &amp; creative websites in minutes!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Newspaper, Magazine,&nbsp;Blog,&nbsp;and eCommerce Ready</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong>Forget About Starting From Scratch</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Explore a world of creativity with 365+ ready-to-use website templates! From chic blogs to dynamic news platforms, engaging magazines, and professional agency websites - find your perfect online space! </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size">One Click Import: No Coding Hassle! Three Simple Steps</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}}},"textColor":"black"} -->
+<p class="has-black-color has-text-color has-link-color">Embark on your website journey with simplicity and style. Follow these 3 easy steps to create your online masterpiece effortlessly</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Explore More</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><!-- wp:list-item -->
+<li><strong>Choose a Site</strong><br>Explore a rich selection of over 350 pre-built websites. With a single click, import the site that resonates with your vision.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Customize &amp; Personalize</strong><br>Unleash your creativity! Customize your chosen site with complete design freedom. Tailor every element to build and personalize your website exactly the way you envision it.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Publish &amp; Go Live!</strong><br>With the editing and customization complete, it’s time to go live! In just minutes, your website will be ready to share with the world.</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Join the <a href="https://afthemes.com/">AF themes</a> family, where excellence meets ease. Explore the endless possibilities and embark on your web journey with us today!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Together, we’re shaping the future of the web.</p>
+<!-- /wp:paragraph -->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Build Your Website in Minutes with One-Click Import – No Coding Hassle!]]></excerpt:encoded>
+		<wp:post_id>46</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-14 05:11:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-06 09:51:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:11:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:11:55]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[valentino-goes-deliberately-feminine-for-fall-2018]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="model"><![CDATA[Model]]></category>
+		<category domain="category" nicename="trends"><![CDATA[Trends]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
+		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[518]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ramp-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[storymag-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[72]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[chromenews-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[chromenews-meta-content-mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single-content-mode-boxed]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-03-06]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1715690173]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Meet Jo Jo, Body Positive Model and Cousin of Gigi]]></title>
+		<link>https://demos.afthemes.com/chromenews/fashion/2024/05/14/meet-jo-jo-body-positive-model-and-cousin-of-gigi-and-bella/</link>
+		<pubDate>Tue, 06 Mar 2018 09:53:50 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=48</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>In the dynamic world of WordPress, we emerge as a beacon of innovation and excellence. Our popular products, like <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>, and <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, alongside powerful plugins such as <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a>, and <a href="https://elespare.com/">Elespare</a>, serve as the building blocks of your digital journey.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We’re passionate about quality code and elegant design, ensuring your website creation is an effortless blend of sophistication and simplicity. With unwavering support from our dedicated team, you’re never alone.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"left"} -->
+<h2 class="wp-block-heading has-text-align-left" id="phasellus-autem-placeat-laboris-sem-cupiditate-assumenda"><a href="https://templatespare.com/">Templatespare</a>: Create Your Dream Website with Easy Starter Sites!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t7LMDLRE8Ok
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>A beautiful collection of Ready to Import Starter Sites with just one click. Get modern &amp; creative websites in minutes!</p>
+<!-- /wp:paragraph --><cite><strong><strong>Newspaper, Magazine,&nbsp;Blog,&nbsp;and eCommerce Ready</strong></strong></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong>Forget About Starting From Scratch</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Explore a world of creativity with 365+ ready-to-use website templates! From chic blogs to dynamic news platforms, engaging magazines, and professional agency websites - find your perfect online space! </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
+<h2 class="wp-block-heading has-medium-font-size">One Click Import: No Coding Hassle! Three Simple Steps</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}}},"textColor":"black"} -->
+<p class="has-black-color has-text-color has-link-color">Embark on your website journey with simplicity and style. Follow these 3 easy steps to create your online masterpiece effortlessly</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Explore More</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><!-- wp:list-item -->
+<li><strong>Choose a Site</strong><br>Explore a rich selection of over 350 pre-built websites. With a single click, import the site that resonates with your vision.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Customize &amp; Personalize</strong><br>Unleash your creativity! Customize your chosen site with complete design freedom. Tailor every element to build and personalize your website exactly the way you envision it.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Publish &amp; Go Live!</strong><br>With the editing and customization complete, it’s time to go live! In just minutes, your website will be ready to share with the world.</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Join the <a href="https://afthemes.com/">AF themes</a> family, where excellence meets ease. Explore the endless possibilities and embark on your web journey with us today!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Together, we’re shaping the future of the web.</p>
+<!-- /wp:paragraph -->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Build Your Website in Minutes with One-Click Import – No Coding Hassle!]]></excerpt:encoded>
+		<wp:post_id>48</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-14 05:11:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-06 09:53:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:11:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:11:55]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[meet-jo-jo-body-positive-model-and-cousin-of-gigi-and-bella]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="model"><![CDATA[Model]]></category>
+		<category domain="post_tag" nicename="model"><![CDATA[Model]]></category>
+		<category domain="category" nicename="music"><![CDATA[Music]]></category>
+		<category domain="post_tag" nicename="music"><![CDATA[Music]]></category>
+		<category domain="category" nicename="trends"><![CDATA[Trends]]></category>
+		<category domain="post_tag" nicename="trends"><![CDATA[Trends]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
+		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[515]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ramp-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[102]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[chromenews-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[chromenews-meta-content-mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single-content-mode-boxed]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-03-06]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1715732848]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Finland's Down's model Maija makes strides on catwalk]]></title>
 		<link>https://demos.afthemes.com/chromenews/fashion/2024/05/14/finlands-downs-model-maija-mattila-makes-strides-on-catwalk/</link>
 		<pubDate>Mon, 12 Mar 2018 11:25:46 +0000</pubDate>
@@ -3046,8 +3364,8 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="beauty"><![CDATA[Beauty]]></category>
-		<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
+										<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
+		<category domain="post_tag" nicename="beauty"><![CDATA[Beauty]]></category>
 		<category domain="category" nicename="trends"><![CDATA[Trends]]></category>
 		<category domain="post_tag" nicename="trends"><![CDATA[Trends]]></category>
 						<wp:postmeta>
@@ -3201,10 +3519,10 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="artist"><![CDATA[Artist]]></category>
-		<category domain="category" nicename="artist"><![CDATA[Artist]]></category>
-		<category domain="post_tag" nicename="beauty"><![CDATA[Beauty]]></category>
+										<category domain="category" nicename="artist"><![CDATA[Artist]]></category>
+		<category domain="post_tag" nicename="artist"><![CDATA[Artist]]></category>
 		<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
+		<category domain="post_tag" nicename="beauty"><![CDATA[Beauty]]></category>
 		<category domain="category" nicename="trends"><![CDATA[Trends]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
@@ -3361,8 +3679,8 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="beauty"><![CDATA[Beauty]]></category>
-		<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
+										<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
+		<category domain="post_tag" nicename="beauty"><![CDATA[Beauty]]></category>
 		<category domain="post_format" nicename="post-format-gallery"><![CDATA[Gallery]]></category>
 		<category domain="category" nicename="model"><![CDATA[Model]]></category>
 		<category domain="category" nicename="trends"><![CDATA[Trends]]></category>
@@ -3519,8 +3837,8 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="artist"><![CDATA[Artist]]></category>
-		<category domain="post_tag" nicename="life-style"><![CDATA[Life style]]></category>
 		<category domain="category" nicename="life-style"><![CDATA[Life style]]></category>
+		<category domain="post_tag" nicename="life-style"><![CDATA[Life style]]></category>
 		<category domain="category" nicename="model"><![CDATA[Model]]></category>
 		<category domain="post_tag" nicename="model"><![CDATA[Model]]></category>
 						<wp:postmeta>
@@ -3574,341 +3892,6 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1715732868]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Don’t Call Demi A “Bad Girl” — She’s Just Speaking Out]]></title>
-		<link>https://demos.afthemes.com/chromenews/fashion/2024/05/14/dont-call-demi-lovato-a-bad-girl-shes-just-speaking-out/</link>
-		<pubDate>Mon, 12 Mar 2018 13:07:47 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=125</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>In the dynamic world of WordPress, we emerge as a beacon of innovation and excellence. Our popular products, like <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>, and <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, alongside powerful plugins such as <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a>, and <a href="https://elespare.com/">Elespare</a>, serve as the building blocks of your digital journey.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>We’re passionate about quality code and elegant design, ensuring your website creation is an effortless blend of sophistication and simplicity. With unwavering support from our dedicated team, you’re never alone.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"textAlign":"left"} -->
-<h2 class="wp-block-heading has-text-align-left" id="phasellus-autem-placeat-laboris-sem-cupiditate-assumenda"><a href="https://templatespare.com/">Templatespare</a>: Create Your Dream Website with Easy Starter Sites!</h2>
-<!-- /wp:heading -->
-
-<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://www.youtube.com/watch?v=t7LMDLRE8Ok
-</div></figure>
-<!-- /wp:embed -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>A beautiful collection of Ready to Import Starter Sites with just one click. Get modern &amp; creative websites in minutes!</p>
-<!-- /wp:paragraph --><cite><strong><strong>Newspaper, Magazine,&nbsp;Blog,&nbsp;and eCommerce Ready</strong></strong></cite></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading"><strong>Forget About Starting From Scratch</strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Explore a world of creativity with 365+ ready-to-use website templates! From chic blogs to dynamic news platforms, engaging magazines, and professional agency websites - find your perfect online space! </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
-<h2 class="wp-block-heading has-medium-font-size">One Click Import: No Coding Hassle! Three Simple Steps</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}}},"textColor":"black"} -->
-<p class="has-black-color has-text-color has-link-color">Embark on your website journey with simplicity and style. Follow these 3 easy steps to create your online masterpiece effortlessly</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
-<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Explore More</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:list {"ordered":true} -->
-<ol><!-- wp:list-item -->
-<li><strong>Choose a Site</strong><br>Explore a rich selection of over 350 pre-built websites. With a single click, import the site that resonates with your vision.</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>Customize &amp; Personalize</strong><br>Unleash your creativity! Customize your chosen site with complete design freedom. Tailor every element to build and personalize your website exactly the way you envision it.</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>Publish &amp; Go Live!</strong><br>With the editing and customization complete, it’s time to go live! In just minutes, your website will be ready to share with the world.</li>
-<!-- /wp:list-item --></ol>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>Join the <a href="https://afthemes.com/">AF themes</a> family, where excellence meets ease. Explore the endless possibilities and embark on your web journey with us today!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Together, we’re shaping the future of the web.</p>
-<!-- /wp:paragraph -->
-]]></content:encoded>
-		<excerpt:encoded><![CDATA[Build Your Website in Minutes with One-Click Import – No Coding Hassle!]]></excerpt:encoded>
-		<wp:post_id>125</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-14 05:11:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-12 13:07:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-14 05:11:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-14 05:11:54]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[dont-call-demi-lovato-a-bad-girl-shes-just-speaking-out]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
-		<category domain="post_tag" nicename="beauty"><![CDATA[Beauty]]></category>
-		<category domain="category" nicename="life-style"><![CDATA[Life style]]></category>
-		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
-		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ramp-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[136]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[enternews-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[chromenews-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[chromenews-meta-content-mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-content-mode-boxed]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[859]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-03-12]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1715690338]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Aerie Collection Was Originally Designed By Iskra]]></title>
-		<link>https://demos.afthemes.com/chromenews/fashion/2024/05/14/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/</link>
-		<pubDate>Mon, 12 Mar 2018 13:10:50 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=127</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>In the dynamic world of WordPress, we emerge as a beacon of innovation and excellence. Our popular products, like <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>, and <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, alongside powerful plugins such as <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a>, and <a href="https://elespare.com/">Elespare</a>, serve as the building blocks of your digital journey.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>We’re passionate about quality code and elegant design, ensuring your website creation is an effortless blend of sophistication and simplicity. With unwavering support from our dedicated team, you’re never alone.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"textAlign":"left"} -->
-<h2 class="wp-block-heading has-text-align-left" id="phasellus-autem-placeat-laboris-sem-cupiditate-assumenda"><a href="https://templatespare.com/">Templatespare</a>: Create Your Dream Website with Easy Starter Sites!</h2>
-<!-- /wp:heading -->
-
-<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t7LMDLRE8Ok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://www.youtube.com/watch?v=t7LMDLRE8Ok
-</div></figure>
-<!-- /wp:embed -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>A beautiful collection of Ready to Import Starter Sites with just one click. Get modern &amp; creative websites in minutes!</p>
-<!-- /wp:paragraph --><cite><strong><strong>Newspaper, Magazine,&nbsp;Blog,&nbsp;and eCommerce Ready</strong></strong></cite></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading"><strong>Forget About Starting From Scratch</strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Explore a world of creativity with 365+ ready-to-use website templates! From chic blogs to dynamic news platforms, engaging magazines, and professional agency websites - find your perfect online space! </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image size-large"><a href="https://afthemes.com/" target="_blank" rel="noreferrer noopener"><img src="https://templatespare.com/wp-content/uploads/2024/05/How-to-Create-a-Website-in-Minutes.jpeg" alt=""/></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:heading {"fontSize":"medium"} -->
-<h2 class="wp-block-heading has-medium-font-size">One Click Import: No Coding Hassle! Three Simple Steps</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}}},"textColor":"black"} -->
-<p class="has-black-color has-text-color has-link-color">Embark on your website journey with simplicity and style. Follow these 3 easy steps to create your online masterpiece effortlessly</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","fontSize":"small"} -->
-<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://afthemes.com/">Explore More</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:list {"ordered":true} -->
-<ol><!-- wp:list-item -->
-<li><strong>Choose a Site</strong><br>Explore a rich selection of over 350 pre-built websites. With a single click, import the site that resonates with your vision.</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>Customize &amp; Personalize</strong><br>Unleash your creativity! Customize your chosen site with complete design freedom. Tailor every element to build and personalize your website exactly the way you envision it.</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>Publish &amp; Go Live!</strong><br>With the editing and customization complete, it’s time to go live! In just minutes, your website will be ready to share with the world.</li>
-<!-- /wp:list-item --></ol>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>Join the <a href="https://afthemes.com/">AF themes</a> family, where excellence meets ease. Explore the endless possibilities and embark on your web journey with us today!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Together, we’re shaping the future of the web.</p>
-<!-- /wp:paragraph -->
-]]></content:encoded>
-		<excerpt:encoded><![CDATA[Build Your Website in Minutes with One-Click Import – No Coding Hassle!]]></excerpt:encoded>
-		<wp:post_id>127</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-14 05:11:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-12 13:10:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-14 05:11:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-14 05:11:54]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
-		<category domain="post_tag" nicename="collection"><![CDATA[Collection]]></category>
-		<category domain="post_format" nicename="post-format-gallery"><![CDATA[Gallery]]></category>
-		<category domain="post_tag" nicename="iskra-lawrence"><![CDATA[Iskra Lawrence]]></category>
-		<category domain="category" nicename="photography"><![CDATA[Photography]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
-		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ramp-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[full-width-content]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[184]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[full-width-content]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[enternews-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[863]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[chromenews-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[chromenews-meta-content-mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-content-mode-boxed]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-03-12]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1715690298]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4546,11 +4529,11 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Valentino Goes Deliberately Feminine for Fall 2018]]></title>
-		<link>https://demos.afthemes.com/chromenews/fashion/2024/05/14/valentino-goes-deliberately-feminine-for-fall-2018/</link>
-		<pubDate>Tue, 06 Mar 2018 09:51:48 +0000</pubDate>
+		<title><![CDATA[Don’t Call Demi A “Bad Girl” — She’s Just Speaking Out]]></title>
+		<link>https://demos.afthemes.com/chromenews/fashion/2024/05/14/dont-call-demi-lovato-a-bad-girl-shes-just-speaking-out/</link>
+		<pubDate>Mon, 12 Mar 2018 13:07:47 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=46</guid>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=125</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>In the dynamic world of WordPress, we emerge as a beacon of innovation and excellence. Our popular products, like <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>, and <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, alongside powerful plugins such as <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a>, and <a href="https://elespare.com/">Elespare</a>, serve as the building blocks of your digital journey.</p>
@@ -4633,22 +4616,24 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 <!-- /wp:paragraph -->
 ]]></content:encoded>
 		<excerpt:encoded><![CDATA[Build Your Website in Minutes with One-Click Import – No Coding Hassle!]]></excerpt:encoded>
-		<wp:post_id>46</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-14 05:11:55]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-06 09:51:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-14 05:11:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-14 05:11:55]]></wp:post_modified_gmt>
+		<wp:post_id>125</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-14 05:11:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-12 13:07:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:11:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:11:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[valentino-goes-deliberately-feminine-for-fall-2018]]></wp:post_name>
+		<wp:post_name><![CDATA[dont-call-demi-lovato-a-bad-girl-shes-just-speaking-out]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="model"><![CDATA[Model]]></category>
-		<category domain="category" nicename="trends"><![CDATA[Trends]]></category>
+										<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
+		<category domain="post_tag" nicename="beauty"><![CDATA[Beauty]]></category>
+		<category domain="category" nicename="life-style"><![CDATA[Life style]]></category>
+		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
@@ -4658,15 +4643,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[518]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[ramp-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[storymag-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -4675,11 +4652,23 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[72]]></wp:meta_value>
+		<wp:meta_value><![CDATA[136]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[enternews-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[chromenews-meta-content-alignment]]></wp:meta_key>
@@ -4690,8 +4679,12 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:meta_value><![CDATA[single-content-mode-boxed]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[859]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-03-06]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2018-03-12]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
@@ -4699,15 +4692,15 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1715690173]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1715690338]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Meet Jo Jo, Body Positive Model and Cousin of Gigi]]></title>
-		<link>https://demos.afthemes.com/chromenews/fashion/2024/05/14/meet-jo-jo-body-positive-model-and-cousin-of-gigi-and-bella/</link>
-		<pubDate>Tue, 06 Mar 2018 09:53:50 +0000</pubDate>
+		<title><![CDATA[Aerie Collection Was Originally Designed By Iskra]]></title>
+		<link>https://demos.afthemes.com/chromenews/fashion/2024/05/14/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/</link>
+		<pubDate>Mon, 12 Mar 2018 13:10:50 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=48</guid>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=127</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>In the dynamic world of WordPress, we emerge as a beacon of innovation and excellence. Our popular products, like <a href="https://afthemes.com/products/covernews-pro/">CoverNews</a>, <a href="https://afthemes.com/products/chromenews-pro/">ChromeNews</a>, <a href="https://afthemes.com/products/newsphere-pro/">Newsphere</a>, and <a href="https://afthemes.com/products/shopical-pro/">Shopical</a>, alongside powerful plugins such as <a href="https://afthemes.com/plugins/wp-post-author/">WP Post Author</a>, <a href="https://blockspare.com/">Blockspare</a>, and <a href="https://elespare.com/">Elespare</a>, serve as the building blocks of your digital journey.</p>
@@ -4790,26 +4783,25 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 <!-- /wp:paragraph -->
 ]]></content:encoded>
 		<excerpt:encoded><![CDATA[Build Your Website in Minutes with One-Click Import – No Coding Hassle!]]></excerpt:encoded>
-		<wp:post_id>48</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-14 05:11:55]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-06 09:53:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-14 05:11:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-14 05:11:55]]></wp:post_modified_gmt>
+		<wp:post_id>127</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-14 05:11:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-12 13:10:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-14 05:11:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-14 05:11:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[meet-jo-jo-body-positive-model-and-cousin-of-gigi-and-bella]]></wp:post_name>
+		<wp:post_name><![CDATA[this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="model"><![CDATA[Model]]></category>
-		<category domain="post_tag" nicename="model"><![CDATA[Model]]></category>
-		<category domain="category" nicename="music"><![CDATA[Music]]></category>
-		<category domain="post_tag" nicename="music"><![CDATA[Music]]></category>
-		<category domain="post_tag" nicename="trends"><![CDATA[Trends]]></category>
-		<category domain="category" nicename="trends"><![CDATA[Trends]]></category>
+										<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
+		<category domain="post_tag" nicename="collection"><![CDATA[Collection]]></category>
+		<category domain="post_format" nicename="post-format-gallery"><![CDATA[Gallery]]></category>
+		<category domain="post_tag" nicename="iskra-lawrence"><![CDATA[Iskra Lawrence]]></category>
+		<category domain="category" nicename="photography"><![CDATA[Photography]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
@@ -4819,24 +4811,36 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[515]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[ramp-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		<wp:meta_value><![CDATA[full-width-content]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[102]]></wp:meta_value>
+		<wp:meta_value><![CDATA[184]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[full-width-content]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[enternews-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[863]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[chromenews-meta-content-alignment]]></wp:meta_key>
@@ -4848,7 +4852,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-03-06]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2018-03-12]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
@@ -4856,7 +4860,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1715732848]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1715690298]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>

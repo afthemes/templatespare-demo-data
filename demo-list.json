@@ -4118,20 +4118,47 @@
             "beauty"
           ]
         },
+        "minimal-blog": {
+          "slug": "minimal-blog",
+          "theme": "ChromeNews Pro",
+          "main_category": "Design & Creative",
+          "catgory": "Blog",
+          "name": "Minimal Pro",
+          "homepage_type": "blog",
+          "preview": "https://demos.afthemes.com/chromenews-pro/minimal-blog/",
+          "tags": [
+            "pro",
+            "minimal",
+            "blog"
+          ],
+          "main_categories": [
+            "Lifestyle & Personal",
+            "Design & Creative"
+          ],
+          "image_keywords": [
+            "minimalism",
+            "clean",
+            "simple",
+            "interior",
+            "white"
+          ]
+        },
         "sport": {
           "slug": "sport",
           "theme": "ChromeNews Pro",
-          "main_category": "News & Media",
+          "main_category": "Regional & Language Specific",
           "catgory": "Sport",
           "name": "Sport Pro",
           "preview": "https://demos.afthemes.com/chromenews-pro/sport/",
           "tags": [
             "pro",
             "magazine",
-            "sport"
+            "sport",
+            "french"
           ],
           "main_categories": [
-            "News & Media"
+            "News & Media",
+            "Regional & Local News"
           ],
           "image_keywords": [
             "stadium",
@@ -4144,41 +4171,20 @@
         "classic": {
           "slug": "classic",
           "theme": "ChromeNews Pro",
-          "main_category": "Specialty & Niche",
+          "main_category": "Regional & Language Specific",
           "catgory": "Classic",
-          "name": "Classic Pro",
+          "name": "Clásico profesional",
           "preview": "https://demos.afthemes.com/chromenews-pro/classic/",
           "tags": [
             "pro",
             "magazine",
-            "classic"
+            "classic",
+            "spanish"
           ],
           "main_categories": [
             "News & Media",
-            "Specialty & Niche"
-          ],
-          "image_keywords": [
-            "journalism",
-            "press",
-            "media",
-            "news",
-            "magazine"
-          ]
-        },
-        "china-news": {
-          "slug": "china-news",
-          "theme": "ChromeNews Pro",
-          "main_category": "Regional & Language Specific",
-          "catgory": "General",
-          "name": "China News Pro",
-          "preview": "https://demos.afthemes.com/chromenews-pro/china-news/",
-          "tags": [
-            "pro",
-            "magazine",
-            "chinese"
-          ],
-          "main_categories": [
-            "News & Media"
+            "Specialty & Niche",
+            "Regional & Local News"
           ],
           "image_keywords": [
             "journalism",
@@ -4193,15 +4199,17 @@
           "theme": "ChromeNews Pro",
           "main_category": "Regional & Language Specific",
           "catgory": "General",
-          "name": "Arabic News Pro",
+          "name": "أخبار عربية",
           "preview": "https://demos.afthemes.com/chromenews-pro/arabic-news/",
           "tags": [
             "pro",
             "magazine",
-            "rtl"
+            "rtl",
+            "arabic"
           ],
           "main_categories": [
-            "News & Media"
+            "News & Media",
+            "Regional & Local News"
           ],
           "image_keywords": [
             "journalism",
@@ -4216,7 +4224,7 @@
           "theme": "ChromeNews Pro",
           "main_category": "Regional & Language Specific",
           "catgory": "Blog",
-          "name": "\u092d\u093e\u0930\u0924\u0940\u092f",
+          "name": "हमारा भारत",
           "preview": "https://demos.afthemes.com/chromenews-pro/indian",
           "tags": [
             "pro",
@@ -4224,30 +4232,8 @@
             "indian"
           ],
           "main_categories": [
-            "News & Media"
-          ],
-          "image_keywords": [
-            "journalism",
-            "press",
-            "media",
-            "news",
-            "magazine"
-          ]
-        },
-        "spanish": {
-          "slug": "spanish",
-          "theme": "ChromeNews Pro",
-          "main_category": "Regional & Language Specific",
-          "name": "Espa\u00f1ol",
-          "catgory": "Blog",
-          "preview": "https://demos.afthemes.com/chromenews-pro/spanish/",
-          "tags": [
-            "pro",
-            "magazine",
-            "spanish"
-          ],
-          "main_categories": [
-            "News & Media"
+            "News & Media",
+            "Regional & Local News"
           ],
           "image_keywords": [
             "journalism",
@@ -4262,7 +4248,7 @@
           "theme": "ChromeNews Pro",
           "main_category": "Regional & Language Specific",
           "catgory": "Blog",
-          "name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+          "name": "Русская Мода",
           "homepage_type": "blog",
           "preview": "https://demos.afthemes.com/chromenews-pro/russian/",
           "tags": [
@@ -4271,7 +4257,8 @@
             "russian"
           ],
           "main_categories": [
-            "News & Media"
+            "News & Media",
+            "Regional & Local News"
           ],
           "image_keywords": [
             "journalism",
@@ -4286,7 +4273,7 @@
           "theme": "ChromeNews Pro",
           "main_category": "Regional & Language Specific",
           "catgory": "Blog",
-          "name": "\u65e5\u672c\u8a9e",
+          "name": "アニメ",
           "preview": "https://demos.afthemes.com/chromenews-pro/japanese/",
           "tags": [
             "pro",
@@ -4294,7 +4281,8 @@
             "japanese"
           ],
           "main_categories": [
-            "News & Media"
+            "News & Media",
+            "Regional & Local News"
           ],
           "image_keywords": [
             "journalism",
@@ -4304,170 +4292,412 @@
             "magazine"
           ]
         },
-        "nepali": {
-          "slug": "nepali",
+        "popular-news": {
+          "slug": "popular-news",
           "theme": "ChromeNews Pro",
           "main_category": "Regional & Language Specific",
           "catgory": "Blog",
-          "name": "\u0928\u0947\u092a\u093e\u0932\u0940",
-          "preview": "https://demos.afthemes.com/chromenews-pro/nepali/",
+          "name": "Popüler haberler",
+          "preview": "https://demos.afthemes.com/chromenews-pro/popular-news/",
           "tags": [
             "pro",
             "magazine",
+            "turkish"
+          ],
+          "main_categories": [
+            "News & Media",
+            "Regional & Local News"
+          ],
+          "image_keywords": [
+            "journalism",
+            "press",
+            "media",
+            "news",
+            "magazine"
+          ]
+        },
+        "news-nexus": {
+          "slug": "news-nexus",
+          "theme": "ChromeNews Pro",
+          "main_category": "News & Media",
+          "catgory": "Gutenberg",
+          "name": "News Nexus Pro",
+          "preview": "https://demos.afthemes.com/chromenews-pro/news-nexus/",
+          "tags": [
+            "pro",
+            "magazine",
+            "gutenberg"
+          ],
+          "main_categories": [
+            "News & Media"
+          ],
+          "plugins": "blockspare",
+          "image_keywords": [
+            "news",
+            "journalism",
+            "press",
+            "media",
+            "magazine"
+          ]
+        },
+        "essential-news": {
+          "slug": "essential-news",
+          "theme": "ChromeNews Pro",
+          "main_category": "News & Media",
+          "catgory": "Gutenberg",
+          "name": "Essential News Pro",
+          "preview": "https://demos.afthemes.com/chromenews-pro/essential-news/",
+          "tags": [
+            "pro",
+            "magazine",
+            "gutenberg"
+          ],
+          "main_categories": [
+            "News & Media"
+          ],
+          "plugins": "blockspare",
+          "image_keywords": [
+            "news",
+            "journalism",
+            "press",
+            "media",
+            "magazine"
+          ]
+        },
+        "blockmag": {
+          "slug": "blockmag",
+          "theme": "ChromeNews Pro",
+          "main_category": "News & Media",
+          "catgory": "Gutenberg",
+          "name": "Blockmag Pro",
+          "preview": "https://demos.afthemes.com/chromenews-pro/blockmag/",
+          "tags": [
+            "pro",
+            "magazine",
+            "gutenberg"
+          ],
+          "main_categories": [
+            "News & Media"
+          ],
+          "plugins": "blockspare",
+          "image_keywords": [
+            "news",
+            "journalism",
+            "press",
+            "media",
+            "magazine"
+          ]
+        },
+        "chinese-news": {
+          "slug": "chinese-news",
+          "theme": "ChromeNews Pro",
+          "main_category": "Regional & Language Specific",
+          "catgory": "Gutenberg",
+          "name": "中国新闻",
+          "preview": "https://demos.afthemes.com/chromenews-pro/chinese-news/",
+          "tags": [
+            "pro",
+            "magazine",
+            "gutenberg",
+            "chinese"
+          ],
+          "main_categories": [
+            "News & Media",
+            "Regional & Local News"
+          ],
+          "plugins": "blockspare",
+          "image_keywords": [
+            "news",
+            "journalism",
+            "press",
+            "media",
+            "magazine"
+          ]
+        },
+        "french-news": {
+          "slug": "french-news",
+          "theme": "ChromeNews Pro",
+          "main_category": "Regional & Language Specific",
+          "catgory": "Gutenberg",
+          "name": "Actualités françaises",
+          "preview": "https://demos.afthemes.com/chromenews-pro/french-news/",
+          "tags": [
+            "pro",
+            "magazine",
+            "gutenberg",
+            "french"
+          ],
+          "main_categories": [
+            "News & Media",
+            "Regional & Local News"
+          ],
+          "plugins": "blockspare",
+          "image_keywords": [
+            "news",
+            "journalism",
+            "press",
+            "media",
+            "magazine"
+          ]
+        },
+        "spanish-update": {
+          "slug": "spanish-update",
+          "theme": "ChromeNews Pro",
+          "main_category": "Regional & Language Specific",
+          "catgory": "Gutenberg",
+          "name": "Actualización en español",
+          "preview": "https://demos.afthemes.com/chromenews-pro/spanish-update/",
+          "tags": [
+            "pro",
+            "magazine",
+            "gutenberg",
+            "spanish"
+          ],
+          "main_categories": [
+            "News & Media",
+            "Regional & Local News"
+          ],
+          "plugins": "blockspare",
+          "image_keywords": [
+            "news",
+            "journalism",
+            "press",
+            "media",
+            "magazine"
+          ]
+        },
+        "hourly-news": {
+          "slug": "hourly-news",
+          "theme": "ChromeNews Pro",
+          "main_category": "Regional & Language Specific",
+          "catgory": "Gutenberg",
+          "name": "प्रति घण्टा समाचार",
+          "preview": "https://demos.afthemes.com/chromenews-pro/hourly-news/",
+          "tags": [
+            "pro",
+            "magazine",
+            "gutenberg",
             "nepali"
           ],
           "main_categories": [
-            "News & Media"
+            "News & Media",
+            "Regional & Local News"
           ],
+          "plugins": "blockspare",
           "image_keywords": [
+            "news",
             "journalism",
             "press",
             "media",
-            "news",
             "magazine"
           ]
         },
-        "german": {
-          "slug": "german",
+        "russian-blog": {
+          "slug": "russian-blog",
           "theme": "ChromeNews Pro",
           "main_category": "Regional & Language Specific",
-          "catgory": "Blog",
-          "name": "Deutsch",
-          "preview": "https://demos.afthemes.com/chromenews-pro/german/",
+          "catgory": "Gutenberg",
+          "name": "Русский блог",
+          "preview": "https://demos.afthemes.com/chromenews-pro/russian-blog/",
           "tags": [
             "pro",
             "magazine",
-            "german"
-          ],
-          "main_categories": [
-            "News & Media"
-          ],
-          "image_keywords": [
-            "journalism",
-            "press",
-            "media",
-            "news",
-            "magazine"
-          ]
-        },
-        "recipe": {
-          "slug": "recipe",
-          "theme": "ChromeNews Pro",
-          "main_category": "Lifestyle & Personal",
-          "catgory": "Blog",
-          "name": "Recipe Pro",
-          "homepage_type": "blog",
-          "preview": "https://demos.afthemes.com/chromenews-pro/recipe/",
-          "tags": [
-            "pro",
-            "magazine",
-            "food"
+            "gutenberg",
+            "russian"
           ],
           "main_categories": [
             "News & Media",
-            "Lifestyle & Personal"
+            "Regional & Local News"
           ],
+          "plugins": "blockspare",
           "image_keywords": [
-            "cooking",
-            "delicious",
+            "news",
+            "journalism",
+            "press",
+            "media",
+            "magazine"
+          ]
+        },
+        "turkish-times": {
+          "slug": "turkish-times",
+          "theme": "ChromeNews Pro",
+          "main_category": "Regional & Language Specific",
+          "catgory": "Gutenberg",
+          "name": "Türk Times",
+          "preview": "https://demos.afthemes.com/chromenews-pro/turkish-times/",
+          "tags": [
+            "pro",
+            "magazine",
+            "gutenberg",
+            "turkish"
+          ],
+          "main_categories": [
+            "News & Media",
+            "Regional & Local News"
+          ],
+          "plugins": "blockspare",
+          "image_keywords": [
+            "news",
+            "journalism",
+            "press",
+            "media",
+            "magazine"
+          ]
+        },
+        "netherland-times": {
+          "slug": "netherland-times",
+          "theme": "ChromeNews Pro",
+          "main_category": "Regional & Language Specific",
+          "catgory": "Gutenberg",
+          "name": "Nederlandse Tijden",
+          "preview": "https://demos.afthemes.com/chromenews-pro/netherland-times/",
+          "tags": [
+            "pro",
+            "magazine",
+            "gutenberg",
+            "dutch"
+          ],
+          "main_categories": [
+            "News & Media",
+            "Regional & Local News"
+          ],
+          "plugins": "blockspare",
+          "image_keywords": [
+            "news",
+            "journalism",
+            "press",
+            "media",
+            "magazine"
+          ]
+        },
+        "indonesia-update": {
+          "slug": "indonesia-update",
+          "theme": "ChromeNews Pro",
+          "main_category": "Regional & Language Specific",
+          "catgory": "Gutenberg",
+          "name": "Pembaruan Indonesia",
+          "preview": "https://demos.afthemes.com/chromenews-pro/indonesia-update/",
+          "tags": [
+            "pro",
+            "magazine",
+            "gutenberg",
+            "indonesia"
+          ],
+          "main_categories": [
+            "News & Media",
+            "Regional & Local News"
+          ],
+          "plugins": "blockspare",
+          "image_keywords": [
+            "news",
+            "journalism",
+            "press",
+            "media",
+            "magazine"
+          ]
+        },
+        "brazil-times": {
+          "slug": "brazil-times",
+          "theme": "ChromeNews Pro",
+          "main_category": "Regional & Language Specific",
+          "catgory": "Gutenberg",
+          "name": "Brasil Times",
+          "preview": "https://demos.afthemes.com/chromenews-pro/brazil-times/",
+          "tags": [
+            "pro",
+            "magazine",
+            "gutenberg",
+            "brazil"
+          ],
+          "main_categories": [
+            "News & Media",
+            "Regional & Local News"
+          ],
+          "plugins": "blockspare",
+          "image_keywords": [
+            "news",
+            "journalism",
+            "press",
+            "media",
+            "magazine"
+          ]
+        },
+        "hindi-news": {
+          "slug": "hindi-news",
+          "theme": "ChromeNews Pro",
+          "main_category": "Regional & Language Specific",
+          "catgory": "Gutenberg",
+          "name": "हिंदी समाचार",
+          "preview": "https://demos.afthemes.com/chromenews-pro/hindi-news/",
+          "tags": [
+            "pro",
+            "magazine",
+            "gutenberg",
+            "indian"
+          ],
+          "main_categories": [
+            "News & Media",
+            "Regional & Local News"
+          ],
+          "plugins": "blockspare",
+          "image_keywords": [
+            "news",
+            "journalism",
+            "press",
+            "media",
+            "magazine"
+          ]
+        },
+        "generic": {
+          "slug": "generic",
+          "theme": "ChromeNews Pro",
+          "main_category": "Business & Professional",
+          "catgory": "Gutenberg",
+          "name": "Generic Pro",
+          "preview": "https://demos.afthemes.com/chromenews-pro/generic/",
+          "tags": [
+            "pro",
+            "business",
+            "general",
+            "gutenberg"
+          ],
+          "main_categories": [
+            "Business & eCommerce",
+            "Design & Creative"
+          ],
+          "plugins": "blockspare",
+          "image_keywords": [
+            "office",
+            "corporate",
+            "finance",
+            "meeting",
+            "startup"
+          ]
+        },
+        "restro": {
+          "slug": "restro",
+          "theme": "ChromeNews Pro",
+          "main_category": "Business & Professional",
+          "catgory": "Gutenberg",
+          "name": "Restro Pro",
+          "preview": "https://demos.afthemes.com/chromenews-pro/restro/",
+          "tags": [
+            "pro",
+            "business",
+            "general",
+            "gutenberg"
+          ],
+          "main_categories": [
+            "Business & eCommerce",
+            "Design & Creative"
+          ],
+          "plugins": "blockspare",
+          "image_keywords": [
+            "restaurant",
             "recipe",
-            "kitchen",
-            "gourmet"
-          ]
-        },
-        "gaming": {
-          "slug": "gaming",
-          "theme": "ChromeNews Pro",
-          "main_category": "Technology & Innovation",
-          "catgory": "Blog",
-          "name": "Gaming Pro",
-          "preview": "https://demos.afthemes.com/chromenews-pro/gaming/",
-          "tags": [
-            "pro",
-            "blog",
-            "game"
-          ],
-          "main_categories": [
-            "Technology & Innovation",
-            "Lifestyle & Personal"
-          ],
-          "image_keywords": [
-            "video games",
-            "esports",
-            "controller",
-            "gamer",
-            "technology"
-          ]
-        },
-        "automobile": {
-          "slug": "automobile",
-          "theme": "ChromeNews Pro",
-          "main_category": "Specialty & Niche",
-          "catgory": "Blog",
-          "name": "Automobile Pro",
-          "preview": "https://demos.afthemes.com/chromenews-pro/automobile/",
-          "tags": [
-            "pro",
-            "blog",
-            "automobile"
-          ],
-          "main_categories": [
-            "Lifestyle & Personal",
-            "Specialty & Niche"
-          ],
-          "image_keywords": [
-            "car",
-            "vehicle",
-            "automobile",
-            "transport",
-            "luxury"
-          ]
-        },
-        "online-news": {
-          "slug": "online-news",
-          "theme": "ChromeNews Pro",
-          "main_category": "News & Media",
-          "catgory": "General",
-          "name": "Online News Pro",
-          "preview": "https://demos.afthemes.com/chromenews-pro/online-news/",
-          "tags": [
-            "pro",
-            "magazine"
-          ],
-          "main_categories": [
-            "News & Media"
-          ],
-          "image_keywords": [
-            "journalism",
-            "press",
-            "media",
-            "news",
-            "magazine"
-          ]
-        },
-        "construction-blog": {
-          "slug": "construction-blog",
-          "theme": "ChromeNews Pro",
-          "main_category": "Specialty & Niche",
-          "catgory": "Blog",
-          "name": "Construction Blog Pro",
-          "preview": "https://demos.afthemes.com/chromenews-pro/construction-blog/",
-          "tags": [
-            "pro",
-            "magazine",
-            "construction"
-          ],
-          "main_categories": [
-            "News & Media",
-            "Lifestyle & Personal",
-            "Specialty & Niche"
-          ],
-          "image_keywords": [
-            "journalism",
-            "press",
-            "media",
-            "news",
-            "magazine"
+            "food",
+            "business",
+            "drinks"
           ]
         },
         "business": {
@@ -4485,139 +4715,6 @@
           ],
           "main_categories": [
             "News & Media",
-            "Business & eCommerce",
-            "Design & Creative"
-          ],
-          "plugins": "elementor,elespare",
-          "image_keywords": [
-            "office",
-            "corporate",
-            "finance",
-            "meeting",
-            "startup"
-          ]
-        },
-        "restaurant": {
-          "slug": "restaurant",
-          "theme": "ChromeNews Pro",
-          "main_category": "Lifestyle & Personal",
-          "catgory": "Elementor",
-          "name": "Restaurant Pro",
-          "preview": "https://demos.afthemes.com/chromenews-pro/restaurant/",
-          "tags": [
-            "pro",
-            "magazine",
-            "food",
-            "elementor"
-          ],
-          "main_categories": [
-            "News & Media",
-            "Lifestyle & Personal",
-            "Design & Creative"
-          ],
-          "plugins": "elementor,elespare",
-          "image_keywords": [
-            "cooking",
-            "delicious",
-            "recipe",
-            "kitchen",
-            "gourmet"
-          ]
-        },
-        "fitness": {
-          "slug": "fitness",
-          "theme": "ChromeNews Pro",
-          "main_category": "Lifestyle & Personal",
-          "catgory": "Elementor",
-          "name": "Fitness Pro",
-          "preview": "https://demos.afthemes.com/chromenews-pro/fitness/",
-          "tags": [
-            "pro",
-            "magazine",
-            "fitness",
-            "elementor"
-          ],
-          "main_categories": [
-            "News & Media",
-            "Lifestyle & Personal",
-            "Design & Creative"
-          ],
-          "plugins": "elementor,elespare",
-          "image_keywords": [
-            "journalism",
-            "press",
-            "media",
-            "news",
-            "magazine"
-          ]
-        },
-        "charity": {
-          "slug": "charity",
-          "theme": "ChromeNews Pro",
-          "main_category": "Education & Non-Profit",
-          "catgory": "Gutenberg",
-          "name": "Charity Pro",
-          "preview": "https://demos.afthemes.com/chromenews-pro/charity/",
-          "tags": [
-            "pro",
-            "blog",
-            "charity",
-            "gutenberg"
-          ],
-          "main_categories": [
-            "Lifestyle & Personal",
-            "Design & Creative"
-          ],
-          "plugins": "blockspare,latest-posts-block-lite,magic-content-box-lite",
-          "image_keywords": [
-            "charity",
-            "blog",
-            "gutenberg"
-          ]
-        },
-        "travel": {
-          "slug": "travel",
-          "theme": "ChromeNews Pro",
-          "main_category": "Lifestyle & Personal",
-          "catgory": "Elementor",
-          "name": "Travel Pro",
-          "preview": "https://demos.afthemes.com/chromenews-pro/travel/",
-          "tags": [
-            "pro",
-            "magazine",
-            "travel",
-            "elementor"
-          ],
-          "main_categories": [
-            "News & Media",
-            "Lifestyle & Personal",
-            "Design & Creative"
-          ],
-          "plugins": "elementor,elespare",
-          "image_keywords": [
-            "landscape",
-            "adventure",
-            "travel",
-            "vacation",
-            "destination"
-          ]
-        },
-        "crypto-news": {
-          "slug": "crypto-news",
-          "theme": "ChromeNews Pro",
-          "main_category": "Technology & Innovation",
-          "catgory": "Elementor",
-          "name": "Crypto News Pro",
-          "preview": "https://demos.afthemes.com/chromenews-pro/crypto-news/",
-          "tags": [
-            "pro",
-            "magazine",
-            "business",
-            "elementor"
-          ],
-          "main_categories": [
-            "News & Media",
-            "Technology & Innovation",
             "Business & eCommerce",
             "Design & Creative"
           ],
@@ -4684,127 +4781,269 @@
             "magazine"
           ]
         },
-        "gadgets": {
-          "slug": "gadgets",
+        "turkish-league": {
+          "slug": "turkish-league",
           "theme": "ChromeNews Pro",
-          "main_category": "Technology & Innovation",
+          "main_category": "Regional & Language Specific",
           "catgory": "Elementor",
-          "name": "Gadgets Pro",
-          "preview": "https://demos.afthemes.com/chromenews-pro/gadgets/",
+          "name": "Türkçe Lig",
+          "preview": "https://demos.afthemes.com/chromenews-pro/turkish-league/",
           "tags": [
             "pro",
-            "gadgets",
             "magazine",
+            "turkish",
             "elementor"
           ],
           "main_categories": [
             "News & Media",
-            "Technology & Innovation",
+            "Regional & Local News",
             "Design & Creative"
           ],
           "plugins": "elementor,elespare",
           "image_keywords": [
-            "technology",
-            "electronics",
-            "smartphone",
-            "gadget",
-            "innovation"
+            "sport",
+            "football",
+            "media",
+            "news",
+            "magazine"
           ]
         },
-        "masonry": {
-          "slug": "masonry",
+        "indian-premier-league": {
+          "slug": "indian-premier-league",
           "theme": "ChromeNews Pro",
-          "main_category": "Design & Creative",
-          "catgory": "Blog",
-          "name": "Masonry Pro",
-          "homepage_type": "blog",
-          "preview": "https://demos.afthemes.com/chromenews-pro/masonry/",
+          "main_category": "Regional & Language Specific",
+          "catgory": "Elementor",
+          "name": "आईपीएल",
+          "preview": "https://demos.afthemes.com/chromenews-pro/indian-premier-league/",
           "tags": [
             "pro",
-            "masnory",
-            "blog"
+            "magazine",
+            "indian",
+            "elementor"
           ],
           "main_categories": [
+            "News & Media",
+            "Regional & Local News",
+            "Design & Creative"
+          ],
+          "plugins": "elementor,elespare",
+          "image_keywords": [
+            "sport",
+            "circket",
+            "media",
+            "news",
+            "magazine"
+          ]
+        },
+        "university-magazine": {
+          "slug": "university-magazine",
+          "theme": "ChromeNews Pro",
+          "main_category": "Regional & Language Specific",
+          "catgory": "Elementor",
+          "name": "विश्वविद्यालय पत्रिका",
+          "preview": "https://demos.afthemes.com/chromenews-pro/university-magazine/",
+          "tags": [
+            "pro",
+            "magazine",
+            "nepali",
+            "elementor"
+          ],
+          "main_categories": [
+            "News & Media",
+            "Education & Non-Profit News",
+            "Regional & Local News"
+          ],
+          "plugins": "elementor,elespare",
+          "image_keywords": [
+            "education",
+            "libary",
+            "books",
+            "student",
+            "magazine"
+          ]
+        },
+        "travel-france": {
+          "slug": "travel-france",
+          "theme": "ChromeNews Pro",
+          "main_category": "Regional & Language Specific",
+          "catgory": "Elementor",
+          "name": "Voyage France",
+          "preview": "https://demos.afthemes.com/chromenews-pro/travel-france/",
+          "tags": [
+            "pro",
+            "magazine",
+            "french",
+            "elementor"
+          ],
+          "main_categories": [
+            "News & Media",
             "Lifestyle & Personal",
-            "Design & Creative"
+            "Regional & Local News"
           ],
+          "plugins": "elementor,elespare",
           "image_keywords": [
-            "masonry",
-            "masnory",
-            "blog"
+            "travel",
+            "mountains",
+            "hills",
+            "news",
+            "magazine"
           ]
         },
-        "feminine-blog": {
-          "slug": "feminine-blog",
+        "german-fashion": {
+          "slug": "german-fashion",
           "theme": "ChromeNews Pro",
-          "main_category": "Lifestyle & Personal",
-          "catgory": "Blog",
-          "name": "Feminine Pro",
-          "homepage_type": "blog",
-          "preview": "https://demos.afthemes.com/chromenews-pro/feminine-blog/",
+          "main_category": "Regional & Language Specific",
+          "catgory": "Elementor",
+          "name": "Deutsche Mode",
+          "preview": "https://demos.afthemes.com/chromenews-pro/german-fashion/",
           "tags": [
             "pro",
-            "feminine",
-            "blog"
+            "magazine",
+            "german",
+            "elementor"
           ],
           "main_categories": [
-            "Lifestyle & Personal"
-          ],
-          "image_keywords": [
-            "feminine",
-            "blog",
-            "design"
-          ]
-        },
-        "minimal-blog": {
-          "slug": "minimal-blog",
-          "theme": "ChromeNews Pro",
-          "main_category": "Design & Creative",
-          "catgory": "Blog",
-          "name": "Minimal Pro",
-          "homepage_type": "blog",
-          "preview": "https://demos.afthemes.com/chromenews-pro/minimal-blog/",
-          "tags": [
-            "pro",
-            "minimal",
-            "blog"
-          ],
-          "main_categories": [
+            "News & Media",
             "Lifestyle & Personal",
-            "Design & Creative"
+            "Regional & Local News"
           ],
+          "plugins": "elementor,elespare",
           "image_keywords": [
-            "minimalism",
-            "clean",
-            "simple",
-            "interior",
-            "white"
+            "fashion",
+            "cloths",
+            "model",
+            "news",
+            "magazine"
           ]
         },
-        "generic": {
-          "slug": "generic",
+        "netherland-newspaper": {
+          "slug": "netherland-newspaper",
           "theme": "ChromeNews Pro",
-          "main_category": "Business & Professional",
-          "catgory": "Gutenberg",
-          "name": "Generic Pro",
-          "preview": "https://demos.afthemes.com/chromenews-pro/generic/",
+          "main_category": "Regional & Language Specific",
+          "catgory": "Elementor",
+          "name": "Nederlandse krant",
+          "preview": "https://demos.afthemes.com/chromenews-pro/netherland-newspaper/",
           "tags": [
             "pro",
-            "business",
-            "general",
-            "gutenberg"
+            "magazine",
+            "dutch",
+            "elementor"
           ],
           "main_categories": [
-            "Business & eCommerce",
-            "Design & Creative"
+            "News & Media",
+            "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "elementor,elespare",
           "image_keywords": [
-            "office",
-            "corporate",
-            "finance",
-            "meeting",
-            "startup"
+            "journalism",
+            "press",
+            "media",
+            "news",
+            "magazine"
+          ]
+        },
+        "the-spanish": {
+          "slug": "the-spanish",
+          "theme": "ChromeNews Pro",
+          "main_category": "Regional & Language Specific",
+          "catgory": "Elementor",
+          "name": "El español",
+          "preview": "https://demos.afthemes.com/chromenews-pro/the-spanish/",
+          "tags": [
+            "pro",
+            "magazine",
+            "spanish",
+            "elementor"
+          ],
+          "main_categories": [
+            "News & Media",
+            "Regional & Local News"
+          ],
+          "plugins": "elementor,elespare",
+          "image_keywords": [
+            "journalism",
+            "press",
+            "media",
+            "news",
+            "magazine"
+          ]
+        },
+        "russian-highlights": {
+          "slug": "russian-highlights",
+          "theme": "ChromeNews Pro",
+          "main_category": "Regional & Language Specific",
+          "catgory": "Elementor",
+          "name": "Русский Основные моменты",
+          "preview": "https://demos.afthemes.com/chromenews-pro/russian-highlights/",
+          "tags": [
+            "pro",
+            "magazine",
+            "russian",
+            "elementor"
+          ],
+          "main_categories": [
+            "News & Media",
+            "Regional & Local News"
+          ],
+          "plugins": "elementor,elespare",
+          "image_keywords": [
+            "journalism",
+            "press",
+            "media",
+            "news",
+            "magazine"
+          ]
+        },
+        "discover-portugal": {
+          "slug": "discover-portugal",
+          "theme": "ChromeNews Pro",
+          "main_category": "Regional & Language Specific",
+          "catgory": "Elementor",
+          "name": "Descubra Portugal",
+          "preview": "https://demos.afthemes.com/chromenews-pro/discover-portugal/",
+          "tags": [
+            "pro",
+            "magazine",
+            "portugal",
+            "elementor"
+          ],
+          "main_categories": [
+            "News & Media",
+            "Regional & Local News"
+          ],
+          "plugins": "elementor,elespare",
+          "image_keywords": [
+            "journalism",
+            "press",
+            "media",
+            "news",
+            "magazine"
+          ]
+        },
+        "taste-italia": {
+          "slug": "taste-italia",
+          "theme": "ChromeNews Pro",
+          "main_category": "Regional & Language Specific",
+          "catgory": "Elementor",
+          "name": "Assapora l'Italia",
+          "preview": "https://demos.afthemes.com/chromenews-pro/taste-italia/",
+          "tags": [
+            "pro",
+            "magazine",
+            "italy",
+            "elementor"
+          ],
+          "main_categories": [
+            "News & Media",
+            "Regional & Local News"
+          ],
+          "plugins": "elementor,elespare",
+          "image_keywords": [
+            "journalism",
+            "press",
+            "media",
+            "news",
+            "magazine"
           ]
         },
         "elderly-care": {
@@ -4913,6 +5152,34 @@
             "meeting",
             "startup"
           ]
+        },
+        "learn-loop": {
+          "slug": "learn-loop",
+          "theme": "ChromeNews Pro",
+          "main_category": "Regional & Language Specific",
+          "catgory": "Elementor",
+          "name": "Naucz się pętli",
+          "preview": "https://demos.afthemes.com/chromenews-pro/learn-loop/",
+          "tags": [
+            "pro",
+            "business",
+            "education",
+            "elementor",
+            "poland"
+          ],
+          "main_categories": [
+            "Business & eCommerce",
+            "Regional & Local News",
+            "Education & Non-Profit News"
+          ],
+          "plugins": "elementor,elespare",
+          "image_keywords": [
+            "education",
+            "corporate",
+            "finance",
+            "meeting",
+            "startup"
+          ]
         }
       }
     },
@@ -4974,53 +5241,6 @@
             "beauty"
           ]
         },
-        "sport": {
-          "slug": "sport",
-          "theme": "ChromeNews",
-          "main_category": "News & Media",
-          "catgory": "Sport",
-          "name": "Sport",
-          "preview": "https://demos.afthemes.com/chromenews/sport/",
-          "tags": [
-            "free",
-            "blog",
-            "sport"
-          ],
-          "main_categories": [
-            "News & Media",
-            "Lifestyle & Personal"
-          ],
-          "image_keywords": [
-            "stadium",
-            "athlete",
-            "football",
-            "fitness",
-            "action"
-          ]
-        },
-        "arabic-news": {
-          "slug": "arabic-news",
-          "theme": "ChromeNews",
-          "main_category": "Regional & Language Specific",
-          "catgory": "General",
-          "name": "Arabic News",
-          "preview": "https://demos.afthemes.com/chromenews/arabic-news/",
-          "tags": [
-            "free",
-            "magazine",
-            "rtl"
-          ],
-          "main_categories": [
-            "News & Media"
-          ],
-          "image_keywords": [
-            "journalism",
-            "press",
-            "media",
-            "news",
-            "magazine"
-          ]
-        },
         "china-news": {
           "slug": "china-news",
           "theme": "ChromeNews",
@@ -5032,99 +5252,6 @@
             "free",
             "magazine",
             "chinese"
-          ],
-          "main_categories": [
-            "News & Media"
-          ],
-          "image_keywords": [
-            "journalism",
-            "press",
-            "media",
-            "news",
-            "magazine"
-          ]
-        },
-        "indian": {
-          "slug": "indian",
-          "theme": "ChromeNews",
-          "main_category": "Regional & Language Specific",
-          "catgory": "Blog",
-          "name": "\u092d\u093e\u0930\u0924\u0940\u092f",
-          "preview": "https://demos.afthemes.com/chromenews/indian-news/",
-          "tags": [
-            "free",
-            "magazine",
-            "indian"
-          ],
-          "main_categories": [
-            "News & Media"
-          ],
-          "image_keywords": [
-            "journalism",
-            "press",
-            "media",
-            "news",
-            "magazine"
-          ]
-        },
-        "spanish": {
-          "slug": "spanish",
-          "theme": "ChromeNews",
-          "main_category": "Regional & Language Specific",
-          "catgory": "Blog",
-          "name": "Espa\u00f1ol",
-          "preview": "https://demos.afthemes.com/chromenews/spanish/",
-          "tags": [
-            "free",
-            "magazine",
-            "spanish"
-          ],
-          "main_categories": [
-            "News & Media"
-          ],
-          "image_keywords": [
-            "journalism",
-            "press",
-            "media",
-            "news",
-            "magazine"
-          ]
-        },
-        "russian": {
-          "slug": "russian",
-          "theme": "ChromeNews",
-          "main_category": "Regional & Language Specific",
-          "catgory": "Blog",
-          "name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
-          "homepage_type": "blog",
-          "preview": "https://demos.afthemes.com/chromenews/russian/",
-          "tags": [
-            "free",
-            "magazine",
-            "russian"
-          ],
-          "main_categories": [
-            "News & Media"
-          ],
-          "image_keywords": [
-            "journalism",
-            "press",
-            "media",
-            "news",
-            "magazine"
-          ]
-        },
-        "japanese": {
-          "slug": "japanese",
-          "theme": "ChromeNews",
-          "main_category": "Regional & Language Specific",
-          "catgory": "Blog",
-          "name": "\u65e5\u672c\u8a9e",
-          "preview": "https://demos.afthemes.com/chromenews/japanese/",
-          "tags": [
-            "free",
-            "magazine",
-            "japanese"
           ],
           "main_categories": [
             "News & Media"
@@ -5183,500 +5310,6 @@
             "magazine"
           ]
         },
-        "gaming": {
-          "slug": "gaming",
-          "theme": "ChromeNews",
-          "main_category": "Technology & Innovation",
-          "catgory": "Blog",
-          "name": "Gaming",
-          "preview": "https://demos.afthemes.com/chromenews/gaming/",
-          "tags": [
-            "free",
-            "blog",
-            "game"
-          ],
-          "main_categories": [
-            "Technology & Innovation",
-            "Lifestyle & Personal"
-          ],
-          "image_keywords": [
-            "video games",
-            "esports",
-            "controller",
-            "gamer",
-            "technology"
-          ]
-        },
-        "automobile": {
-          "slug": "automobile",
-          "theme": "ChromeNews",
-          "main_category": "Specialty & Niche",
-          "catgory": "Blog",
-          "name": "Automobile",
-          "preview": "https://demos.afthemes.com/chromenews/automobile/",
-          "tags": [
-            "free",
-            "blog",
-            "automobile"
-          ],
-          "main_categories": [
-            "Lifestyle & Personal",
-            "Specialty & Niche"
-          ],
-          "image_keywords": [
-            "car",
-            "vehicle",
-            "automobile",
-            "transport",
-            "luxury"
-          ]
-        },
-        "construction-blog": {
-          "slug": "construction-blog",
-          "main_category": "Specialty & Niche",
-          "theme": "ChromeNews",
-          "catgory": "Blog",
-          "name": "Construction Blog",
-          "preview": "https://demos.afthemes.com/chromenews/construction-blog/",
-          "tags": [
-            "free",
-            "construction",
-            "blog"
-          ],
-          "main_categories": [
-            "Lifestyle & Personal",
-            "Specialty & Niche"
-          ],
-          "image_keywords": [
-            "construction",
-            "blog",
-            "free"
-          ]
-        },
-        "recipe": {
-          "slug": "recipe",
-          "theme": "ChromeNews",
-          "main_category": "Lifestyle & Personal",
-          "catgory": "Blog",
-          "name": "Recipe",
-          "homepage_type": "blog",
-          "preview": "https://demos.afthemes.com/chromenews/recipe/",
-          "tags": [
-            "free",
-            "food",
-            "blog"
-          ],
-          "main_categories": [
-            "Lifestyle & Personal"
-          ],
-          "image_keywords": [
-            "cooking",
-            "delicious",
-            "recipe",
-            "kitchen",
-            "gourmet"
-          ]
-        },
-        "travel": {
-          "slug": "travel",
-          "theme": "ChromeNews",
-          "main_category": "Lifestyle & Personal",
-          "catgory": "Blog",
-          "name": "Travel",
-          "homepage_type": "blog",
-          "preview": "https://demos.afthemes.com/chromenews/travel/",
-          "tags": [
-            "free",
-            "travel",
-            "blog"
-          ],
-          "main_categories": [
-            "Lifestyle & Personal"
-          ],
-          "image_keywords": [
-            "landscape",
-            "adventure",
-            "travel",
-            "vacation",
-            "destination"
-          ]
-        },
-        "online-news": {
-          "slug": "online-news",
-          "theme": "ChromeNews",
-          "main_category": "News & Media",
-          "catgory": "Blog",
-          "name": "Online News",
-          "homepage_type": "blog",
-          "preview": "https://demos.afthemes.com/chromenews/online-news/",
-          "tags": [
-            "free",
-            "magazine"
-          ],
-          "main_categories": [
-            "News & Media"
-          ],
-          "image_keywords": [
-            "journalism",
-            "press",
-            "media",
-            "news",
-            "magazine"
-          ]
-        },
-        "feminine-blog": {
-          "slug": "feminine-blog",
-          "theme": "ChromeNews",
-          "main_category": "Lifestyle & Personal",
-          "catgory": "Blog",
-          "name": "Feminine Blog",
-          "homepage_type": "blog",
-          "preview": "https://demos.afthemes.com/chromenews/feminine-blog/",
-          "tags": [
-            "free",
-            "blog",
-            "feminine"
-          ],
-          "main_categories": [
-            "Lifestyle & Personal"
-          ],
-          "image_keywords": [
-            "feminine",
-            "blog",
-            "free"
-          ]
-        },
-        "minimal-blog": {
-          "slug": "minimal-blog",
-          "theme": "ChromeNews",
-          "main_category": "Design & Creative",
-          "catgory": "Blog",
-          "name": "Minimal Blog",
-          "homepage_type": "blog",
-          "preview": "https://demos.afthemes.com/chromenews/minimal-blog/",
-          "tags": [
-            "free",
-            "blog",
-            "minimal"
-          ],
-          "main_categories": [
-            "Lifestyle & Personal",
-            "Design & Creative"
-          ],
-          "image_keywords": [
-            "minimalism",
-            "clean",
-            "simple",
-            "interior",
-            "white"
-          ]
-        },
-        "charity": {
-          "slug": "charity",
-          "theme": "ChromeNews",
-          "main_category": "Education & Non-Profit",
-          "catgory": "Gutenberg",
-          "name": "Charity",
-          "preview": "https://demos.afthemes.com/chromenews/charity/",
-          "tags": [
-            "free",
-            "gutenberg",
-            "charity"
-          ],
-          "main_categories": [
-            "Design & Creative"
-          ],
-          "plugins": "blockspare,latest-posts-block-lite,magic-content-box-lite",
-          "image_keywords": [
-            "charity",
-            "free",
-            "gutenberg"
-          ]
-        },
-        "covid-19": {
-          "slug": "covid-19",
-          "theme": "ChromeNews",
-          "main_category": "Specialty & Niche",
-          "catgory": "Elementor",
-          "name": "Covid 19",
-          "preview": "https://demos.afthemes.com/chromenews/covid-19/",
-          "tags": [
-            "free",
-            "magazine",
-            "education",
-            "elementor"
-          ],
-          "main_categories": [
-            "Education & Non-Profit News",
-            "News & Media",
-            "Specialty & Niche",
-            "Design & Creative"
-          ],
-          "plugins": "elementor,elespare",
-          "image_keywords": [
-            "university",
-            "learning",
-            "classroom",
-            "student",
-            "book"
-          ]
-        },
-        "business": {
-          "slug": "business",
-          "theme": "ChromeNews",
-          "main_category": "Business & Professional",
-          "catgory": "Elementor",
-          "name": "Business",
-          "preview": "https://demos.afthemes.com/chromenews/business/",
-          "tags": [
-            "free",
-            "magazine",
-            "business",
-            "elementor"
-          ],
-          "main_categories": [
-            "News & Media",
-            "Business & eCommerce",
-            "Design & Creative"
-          ],
-          "plugins": "elementor,elespare",
-          "image_keywords": [
-            "office",
-            "corporate",
-            "finance",
-            "meeting",
-            "startup"
-          ]
-        },
-        "beauty": {
-          "slug": "beauty",
-          "theme": "ChromeNews",
-          "main_category": "Lifestyle & Personal",
-          "catgory": "Elementor",
-          "name": "Beauty",
-          "preview": "https://demos.afthemes.com/chromenews/beauty/",
-          "tags": [
-            "free",
-            "magazine",
-            "fashion",
-            "elementor"
-          ],
-          "main_categories": [
-            "News & Media",
-            "Lifestyle & Personal",
-            "Design & Creative"
-          ],
-          "plugins": "elementor,elespare",
-          "image_keywords": [
-            "runway",
-            "style",
-            "model",
-            "clothing",
-            "beauty"
-          ]
-        },
-        "restaurant": {
-          "slug": "restaurant",
-          "theme": "ChromeNews",
-          "main_category": "Lifestyle & Personal",
-          "catgory": "Elementor",
-          "name": "Restaurant",
-          "preview": "https://demos.afthemes.com/chromenews/restaurant/",
-          "tags": [
-            "free",
-            "magazine",
-            "food",
-            "elementor"
-          ],
-          "main_categories": [
-            "News & Media",
-            "Lifestyle & Personal",
-            "Design & Creative"
-          ],
-          "plugins": "elementor,elespare",
-          "image_keywords": [
-            "cooking",
-            "delicious",
-            "recipe",
-            "kitchen",
-            "gourmet"
-          ]
-        },
-        "blockmag": {
-          "slug": "blockmag",
-          "theme": "ChromeNews",
-          "main_category": "News & Media",
-          "catgory": "Gutenberg",
-          "name": "BlockMag",
-          "preview": "https://demos.afthemes.com/chromenews/blockmag/",
-          "tags": [
-            "free",
-            "magazine",
-            "gutenberg"
-          ],
-          "main_categories": [
-            "News & Media",
-            "Design & Creative"
-          ],
-          "plugins": "blockspare",
-          "image_keywords": [
-            "journalism",
-            "press",
-            "media",
-            "news",
-            "magazine"
-          ]
-        },
-        "essential-news": {
-          "slug": "essential-news",
-          "theme": "ChromeNews",
-          "main_category": "News & Media",
-          "catgory": "Gutenberg",
-          "name": "Essential News",
-          "preview": "https://demos.afthemes.com/chromenews/essential-news/",
-          "tags": [
-            "free",
-            "magazine",
-            "gutenberg"
-          ],
-          "main_categories": [
-            "News & Media",
-            "Design & Creative"
-          ],
-          "plugins": "blockspare",
-          "image_keywords": [
-            "journalism",
-            "press",
-            "media",
-            "news",
-            "magazine"
-          ]
-        },
-        "flash-network": {
-          "slug": "flash-network",
-          "theme": "ChromeNews",
-          "main_category": "News & Media",
-          "catgory": "Gutenberg",
-          "name": "Flash Network",
-          "preview": "https://demos.afthemes.com/chromenews/flash-network/",
-          "tags": [
-            "free",
-            "magazine",
-            "gutenberg"
-          ],
-          "main_categories": [
-            "News & Media",
-            "Design & Creative"
-          ],
-          "plugins": "blockspare",
-          "image_keywords": [
-            "journalism",
-            "press",
-            "media",
-            "news",
-            "magazine"
-          ]
-        },
-        "horizon-headlines": {
-          "slug": "horizon-headlines",
-          "theme": "ChromeNews",
-          "main_category": "News & Media",
-          "catgory": "Gutenberg",
-          "name": "Horizon Headlines",
-          "preview": "https://demos.afthemes.com/chromenews/horizon-headlines/",
-          "tags": [
-            "free",
-            "magazine",
-            "gutenberg"
-          ],
-          "main_categories": [
-            "News & Media",
-            "Design & Creative"
-          ],
-          "plugins": "blockspare",
-          "image_keywords": [
-            "journalism",
-            "press",
-            "media",
-            "news",
-            "magazine"
-          ]
-        },
-        "insightful-news": {
-          "slug": "insightful-news",
-          "theme": "ChromeNews",
-          "main_category": "News & Media",
-          "catgory": "Gutenberg",
-          "name": "Insightful News",
-          "preview": "https://demos.afthemes.com/chromenews/insightful-news/",
-          "tags": [
-            "free",
-            "magazine",
-            "gutenberg"
-          ],
-          "main_categories": [
-            "News & Media",
-            "Design & Creative"
-          ],
-          "plugins": "blockspare",
-          "image_keywords": [
-            "journalism",
-            "press",
-            "media",
-            "news",
-            "magazine"
-          ]
-        },
-        "news-nexus": {
-          "slug": "news-nexus",
-          "theme": "ChromeNews",
-          "main_category": "News & Media",
-          "catgory": "Gutenberg",
-          "name": "News Nexus",
-          "preview": "https://demos.afthemes.com/chromenews/news-nexus/",
-          "tags": [
-            "free",
-            "magazine",
-            "gutenberg"
-          ],
-          "main_categories": [
-            "News & Media",
-            "Design & Creative"
-          ],
-          "plugins": "blockspare",
-          "image_keywords": [
-            "journalism",
-            "press",
-            "media",
-            "news",
-            "magazine"
-          ]
-        },
-        "newsblock": {
-          "slug": "newsblock",
-          "theme": "ChromeNews",
-          "main_category": "News & Media",
-          "catgory": "Gutenberg",
-          "name": "Newsblock",
-          "preview": "https://demos.afthemes.com/chromenews/newsblock/",
-          "tags": [
-            "free",
-            "magazine",
-            "gutenberg"
-          ],
-          "main_categories": [
-            "News & Media",
-            "Design & Creative"
-          ],
-          "plugins": "blockspare",
-          "image_keywords": [
-            "journalism",
-            "press",
-            "media",
-            "news",
-            "magazine"
-          ]
-        },
         "newsbox": {
           "slug": "newsbox",
           "theme": "ChromeNews",
@@ -5702,46 +5335,23 @@
             "magazine"
           ]
         },
-        "prime-press": {
-          "slug": "prime-press",
-          "theme": "ChromeNews",
-          "main_category": "News & Media",
-          "catgory": "Gutenberg",
-          "name": "Prime Press",
-          "preview": "https://demos.afthemes.com/chromenews/prime-press/",
-          "tags": [
-            "free",
-            "magazine",
-            "gutenberg"
-          ],
-          "main_categories": [
-            "News & Media",
-            "Design & Creative"
-          ],
-          "plugins": "blockspare",
-          "image_keywords": [
-            "journalism",
-            "press",
-            "media",
-            "news",
-            "magazine"
-          ]
-        },
         "rapid-report": {
           "slug": "rapid-report",
           "theme": "ChromeNews",
-          "main_category": "News & Media",
+          "main_category": "Regional & Language Specific",
           "catgory": "Gutenberg",
           "name": "Rapid Report",
           "preview": "https://demos.afthemes.com/chromenews/rapid-report/",
           "tags": [
             "free",
             "magazine",
-            "gutenberg"
+            "gutenberg",
+            "arabic"
           ],
           "main_categories": [
             "News & Media",
-            "Design & Creative"
+            "Design & Creative",
+            "Regional & Local News"
           ],
           "plugins": "blockspare",
           "image_keywords": [
@@ -5755,18 +5365,20 @@
         "world-watch": {
           "slug": "world-watch",
           "theme": "ChromeNews",
-          "main_category": "News & Media",
+          "main_category": "Regional & Language Specific",
           "catgory": "Gutenberg",
           "name": "World Watch",
           "preview": "https://demos.afthemes.com/chromenews/world-watch/",
           "tags": [
             "free",
             "magazine",
-            "gutenberg"
+            "gutenberg",
+            "indian"
           ],
           "main_categories": [
             "News & Media",
-            "Design & Creative"
+            "Design & Creative",
+            "Regional & Local News"
           ],
           "plugins": "blockspare",
           "image_keywords": [
@@ -5829,6 +5441,117 @@
             "startup"
           ]
         },
+        "general-business": {
+          "slug": "general-business",
+          "theme": "ChromeNews",
+          "main_category": "Regional & Language Specific",
+          "catgory": "Gutenberg",
+          "name": "General Business",
+          "preview": "https://demos.afthemes.com/chromenews/general-business/",
+          "tags": [
+            "free",
+            "business",
+            "general",
+            "turkish",
+            "gutenberg"
+          ],
+          "main_categories": [
+            "Business & eCommerce",
+            "Regional & Local News"
+          ],
+          "plugins": "blockspare",
+          "image_keywords": [
+            "office",
+            "corporate",
+            "finance",
+            "meeting",
+            "startup"
+          ]
+        },
+        "covid-19": {
+          "slug": "covid-19",
+          "theme": "ChromeNews",
+          "main_category": "Specialty & Niche",
+          "catgory": "Elementor",
+          "name": "Covid 19",
+          "preview": "https://demos.afthemes.com/chromenews/covid-19/",
+          "tags": [
+            "free",
+            "magazine",
+            "education",
+            "elementor"
+          ],
+          "main_categories": [
+            "Education & Non-Profit News",
+            "News & Media",
+            "Specialty & Niche",
+            "Design & Creative"
+          ],
+          "plugins": "elementor,elespare",
+          "image_keywords": [
+            "university",
+            "learning",
+            "classroom",
+            "student",
+            "book"
+          ]
+        },
+        "modeling-blog": {
+          "slug": "modeling-blog",
+          "theme": "ChromeNews",
+          "main_category": "Regional & Language Specific",
+          "catgory": "Elementor",
+          "name": "Modeling Blog",
+          "preview": "https://demos.afthemes.com/chromenews/modeling-blog/",
+          "tags": [
+            "free",
+            "magazine",
+            "fashion",
+            "russian",
+            "elementor"
+          ],
+          "main_categories": [
+            "Regional & Local News",
+            "News & Media",
+            "Specialty & Niche",
+            "Design & Creative"
+          ],
+          "plugins": "elementor,elespare",
+          "image_keywords": [
+            "fashion",
+            "model",
+            "cloths",
+            "trending"
+          ]
+        },
+        "sport-update": {
+          "slug": "sport-update",
+          "theme": "ChromeNews",
+          "main_category": "Regional & Language Specific",
+          "catgory": "Elementor",
+          "name": "Modeling Blog",
+          "preview": "https://demos.afthemes.com/chromenews/sport-update/",
+          "tags": [
+            "free",
+            "magazine",
+            "sport",
+            "french",
+            "elementor"
+          ],
+          "main_categories": [
+            "Regional & Local News",
+            "News & Media",
+            "Specialty & Niche",
+            "Design & Creative"
+          ],
+          "plugins": "elementor,elespare",
+          "image_keywords": [
+            "sport",
+            "ball",
+            "ground",
+            "team"
+          ]
+        },
         "religion": {
           "slug": "religion",
           "theme": "ChromeNews",
@@ -5858,19 +5581,21 @@
         "education": {
           "slug": "education",
           "theme": "ChromeNews",
-          "main_category": "Business & Professional",
+          "main_category": "Regional & Language Specific",
           "catgory": "Elementor",
           "name": "Education",
           "preview": "https://demos.afthemes.com/chromenews/education/",
           "tags": [
             "free",
             "business",
+            "spanish",
             "education",
             "elementor"
           ],
           "main_categories": [
             "Business & eCommerce",
-            "Education & Non-Profit News"
+            "Education & Non-Profit News",
+            "Regional & Local News"
           ],
           "plugins": "elementor,elespare",
           "image_keywords": [
