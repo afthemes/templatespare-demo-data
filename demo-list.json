@@ -18703,6 +18703,9 @@
       "free": "",
       "premium": "",
       "themeType": "fse",
+       "child": [
+        "blogspare"
+      ],
       "demodata": {
         "default": {
           "slug": "newspare",
@@ -19451,6 +19454,33 @@
             "office",
             "government"
           ]
+        }
+      }
+    },
+    "blogspare": {
+      "data": "newspare",
+      "free": "",
+      "premium": "",
+      "themeType": "fse",
+      "demodata": {
+        "default": {
+          "slug": "blogspare",
+          "theme": "newspare",
+          "main_category": "News & Media",
+          "catgory": "General",
+          "name": "BlogSpare",
+          "homepage_type": "blog",
+          "preview": "https://demos.blockspare.com/newspare/blogspare",
+          "tags": ["free", "magazine", "gutenberg"],
+          "main_categories": ["News & Media"],
+          "image_keywords": [
+            "journalism",
+            "press",
+            "media",
+            "news",
+            "magazine"
+          ],
+          "plugins": "blockspare"
         }
       }
     }    
