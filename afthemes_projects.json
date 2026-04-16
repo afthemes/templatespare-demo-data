@@ -18770,7 +18770,7 @@
           "catgory": "Russian",
           "name": "Русские новости",
           "preview": "https://demos.blockspare.com/newspare/russian",
-          "tags": ["pro", "news", "magazine", "gutenberg", "russian"],
+          "tags": ["free", "news", "magazine", "gutenberg", "russian"],
           "main_categories": ["News & Media", "Regional & Local News"],
           "image_keywords": [
             "journalism",
@@ -18789,7 +18789,7 @@
           "catgory": "Netherland",
           "name": "Nederlandse krant",
           "preview": "https://demos.blockspare.com/newspare/nederlandse",
-          "tags": ["pro", "news", "magazine", "gutenberg", "netherland"],
+          "tags": ["free", "news", "magazine", "gutenberg", "netherland"],
           "main_categories": ["News & Media", "Regional & Local News"],
           "image_keywords": [
             "journalism",
