@@ -19458,8 +19458,8 @@
       }
     },
     "blogspare": {
-      "data": "newspare",
-      "free": "",
+      "data": "blogspare",
+      "free": "newspare",
       "premium": "",
       "themeType": "fse",
       "demodata": {
