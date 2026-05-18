@@ -18704,7 +18704,8 @@
       "premium": "",
       "themeType": "fse",
        "child": [
-        "blogspare"
+        "blogspare",
+        "magazinespare"
       ],
       "demodata": {
         "default": {
@@ -19471,7 +19472,34 @@
           "name": "BlogSpare",
           "homepage_type": "blog",
           "preview": "https://demos.blockspare.com/newspare/blogspare",
-          "tags": ["free", "magazine", "gutenberg"],
+          "tags": ["free", "magazine","child", "gutenberg"],
+          "main_categories": ["News & Media"],
+          "image_keywords": [
+            "journalism",
+            "press",
+            "media",
+            "news",
+            "magazine"
+          ],
+          "plugins": "blockspare"
+        }
+      }
+    },    
+    "magazinespare": {
+      "data": "magazinespare",
+      "free": "newspare",
+      "premium": "",
+      "themeType": "fse",
+      "demodata": {
+        "default": {
+          "slug": "magazinespare",
+          "theme": "newspare",
+          "main_category": "News & Media",
+          "catgory": "General",
+          "name": "MagazineSpare",
+          "homepage_type": "blog",
+          "preview": "https://demos.blockspare.com/newspare/magazinespare",
+          "tags": ["free", "magazine", "child", "gutenberg"],
           "main_categories": ["News & Media"],
           "image_keywords": [
             "journalism",
