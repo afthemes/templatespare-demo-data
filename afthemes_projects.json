@@ -2290,6 +2290,7 @@
         "covermag",
         "elenews",
         "circuitnews",
+        "contrastnews",
         "newscircuit"
       ],
       "demodata": {
@@ -3745,6 +3746,36 @@
           "catgory": "General",
           "name": "NewsCircuit",
           "preview": "https://demos.afthemes.com/covernews/newscircuit/",
+          "tags": [
+            "free",
+            "magazine",
+            "child"
+          ],
+          "main_categories": [
+            "News & Media"
+          ],
+          "image_keywords": [
+            "journalism",
+            "press",
+            "media",
+            "news",
+            "magazine"
+          ]
+        }
+      }
+    },
+    "contrastnews": {
+      "data": "contrastnews",
+      "free": "covernews",
+      "premium": "covernews-pro",
+      "demodata": {
+        "default": {
+          "slug": "contrastnews",
+          "theme": "CoverNews",
+          "main_category": "News & Media",
+          "catgory": "General",
+          "name": "ContrastNews",
+          "preview": "https://demos.afthemes.com/covernews/contrastnews/",
           "tags": [
             "free",
             "magazine",
