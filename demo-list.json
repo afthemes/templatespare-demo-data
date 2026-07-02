@@ -405,7 +405,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "indian": {
           "slug": "indian",
@@ -428,7 +429,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "spanish": {
           "slug": "spanish",
@@ -451,7 +453,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "russian": {
           "slug": "russian",
@@ -474,7 +477,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "japanese": {
           "slug": "japanese",
@@ -497,7 +501,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "nepali": {
           "slug": "nepali",
@@ -520,7 +525,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "german": {
           "slug": "german",
@@ -544,7 +550,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "china-news": {
           "slug": "china-news",
@@ -567,7 +574,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "elegant-news": {
           "slug": "elegant-news",
@@ -2289,8 +2297,8 @@
         "newsport",
         "covermag",
         "elenews",
-        "contrastnews",
         "circuitnews",
+        "contrastnews",
         "newscircuit"
       ],
       "demodata": {
@@ -2409,7 +2417,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "china-news": {
           "slug": "china-news",
@@ -2432,7 +2441,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "indian": {
           "slug": "indian",
@@ -2455,7 +2465,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "spanish": {
           "slug": "spanish",
@@ -2478,7 +2489,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "russian": {
           "slug": "russian",
@@ -2501,7 +2513,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "japanese": {
           "slug": "japanese",
@@ -2524,7 +2537,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "nepali": {
           "slug": "nepali",
@@ -2547,7 +2561,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "german": {
           "slug": "german",
@@ -2571,7 +2586,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "business": {
           "slug": "business",
@@ -3734,18 +3750,18 @@
         }
       }
     },
-    "contrastnews": {
-      "data": "contrastnews",
+    "newscircuit": {
+      "data": "newscircuit",
       "free": "covernews",
       "premium": "covernews-pro",
       "demodata": {
         "default": {
-          "slug": "contrastnews",
+          "slug": "newscircuit",
           "theme": "CoverNews",
           "main_category": "News & Media",
           "catgory": "General",
-          "name": "ContrastNews",
-          "preview": "https://demos.afthemes.com/covernews/contrastnews/",
+          "name": "NewsCircuit",
+          "preview": "https://demos.afthemes.com/covernews/newscircuit/",
           "tags": [
             "free",
             "magazine",
@@ -3764,18 +3780,18 @@
         }
       }
     },
-    "newscircuit": {
-      "data": "newscircuit",
+    "contrastnews": {
+      "data": "contrastnews",
       "free": "covernews",
       "premium": "covernews-pro",
       "demodata": {
         "default": {
-          "slug": "newscircuit",
+          "slug": "contrastnews",
           "theme": "CoverNews",
           "main_category": "News & Media",
           "catgory": "General",
-          "name": "NewsCircuit",
-          "preview": "https://demos.afthemes.com/covernews/newscircuit/",
+          "name": "ContrastNews",
+          "preview": "https://demos.afthemes.com/covernews/contrastnews/",
           "tags": [
             "free",
             "magazine",
@@ -4259,7 +4275,8 @@
             "football",
             "fitness",
             "action"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "classic": {
           "slug": "classic",
@@ -4285,7 +4302,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "arabic-news": {
           "slug": "arabic-news",
@@ -4310,7 +4328,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "indian": {
           "slug": "indian",
@@ -4334,7 +4353,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "russian": {
           "slug": "russian",
@@ -4359,7 +4379,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "japanese": {
           "slug": "japanese",
@@ -4383,7 +4404,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "popular-news": {
           "slug": "popular-news",
@@ -4407,7 +4429,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "news-nexus": {
           "slug": "news-nexus",
@@ -4498,7 +4521,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "news",
             "journalism",
@@ -4524,7 +4547,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "news",
             "journalism",
@@ -4550,7 +4573,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "news",
             "journalism",
@@ -4576,7 +4599,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "news",
             "journalism",
@@ -4602,7 +4625,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "news",
             "journalism",
@@ -4628,7 +4651,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "news",
             "journalism",
@@ -4654,7 +4677,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "news",
             "journalism",
@@ -4680,7 +4703,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "news",
             "journalism",
@@ -4706,7 +4729,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "news",
             "journalism",
@@ -4732,7 +4755,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "news",
             "journalism",
@@ -4892,7 +4915,7 @@
             "Regional & Local News",
             "Design & Creative"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "sport",
             "football",
@@ -4919,7 +4942,7 @@
             "Regional & Local News",
             "Design & Creative"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "sport",
             "circket",
@@ -4946,7 +4969,7 @@
             "Education & Non-Profit News",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "education",
             "libary",
@@ -4973,7 +4996,7 @@
             "Lifestyle & Personal",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "travel",
             "mountains",
@@ -5000,7 +5023,7 @@
             "Lifestyle & Personal",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "fashion",
             "cloths",
@@ -5026,7 +5049,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -5052,7 +5075,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -5078,7 +5101,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -5104,7 +5127,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -5130,7 +5153,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -5265,7 +5288,7 @@
             "Regional & Local News",
             "Education & Non-Profit News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "education",
             "corporate",
@@ -5355,7 +5378,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "nepali": {
           "slug": "nepali",
@@ -5378,7 +5402,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "german": {
           "slug": "german",
@@ -5401,7 +5426,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "newsbox": {
           "slug": "newsbox",
@@ -5446,7 +5472,7 @@
             "Design & Creative",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -5473,7 +5499,7 @@
             "Design & Creative",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -5552,7 +5578,7 @@
             "Business & eCommerce",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "office",
             "corporate",
@@ -5609,7 +5635,7 @@
             "Specialty & Niche",
             "Design & Creative"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "fashion",
             "model",
@@ -5637,7 +5663,7 @@
             "Specialty & Niche",
             "Design & Creative"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "sport",
             "ball",
@@ -5690,7 +5716,7 @@
             "Education & Non-Profit News",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "office",
             "corporate",
@@ -6068,7 +6094,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "china-today": {
           "slug": "china-today",
@@ -6091,7 +6118,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "onlinemag": {
           "slug": "onlinemag",
@@ -6331,7 +6359,7 @@
           "main_categories": [
             "Lifestyle & Personal"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "arabic",
             "culture",
@@ -6625,7 +6653,7 @@
           "main_categories": [
             "Design & Creative"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "hinduism",
             "elementor",
@@ -6648,7 +6676,7 @@
           "main_categories": [
             "Design & Creative"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "islamic",
             "prayer",
@@ -6805,7 +6833,7 @@
           "main_categories": [
             "Design & Creative"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "buddhism",
             "elementor",
@@ -6976,7 +7004,7 @@
             "Technology & Innovation",
             "Design & Creative"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "technology",
             "electronics",
@@ -7001,7 +7029,7 @@
           "main_categories": [
             "Design & Creative"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "stadium",
             "athlete",
@@ -7026,7 +7054,7 @@
           "main_categories": [
             "Design & Creative"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "art",
             "culture",
@@ -7052,7 +7080,7 @@
             "News & Media",
             "Design & Creative"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "dutch",
             "news",
@@ -7076,7 +7104,7 @@
             "Lifestyle & Personal",
             "Design & Creative"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "cooking",
             "delicious",
@@ -7102,7 +7130,7 @@
             "News & Media",
             "Design & Creative"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "political",
             "news",
@@ -7127,7 +7155,7 @@
             "News & Media",
             "Design & Creative"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -7363,7 +7391,7 @@
             "Lifestyle & Personal",
             "Design & Creative"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "hindu",
             "religion",
@@ -7389,7 +7417,7 @@
             "News & Media",
             "Design & Creative"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "times",
             "india",
@@ -7415,7 +7443,7 @@
             "Lifestyle & Personal",
             "Design & Creative"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "russian",
             "nova",
@@ -7467,7 +7495,7 @@
             "Lifestyle & Personal",
             "Design & Creative"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "spanish",
             "news",
@@ -7492,7 +7520,7 @@
             "Lifestyle & Personal",
             "Design & Creative"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "german",
             "cars",
@@ -7518,7 +7546,7 @@
             "Lifestyle & Personal",
             "Design & Creative"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "french",
             "news",
@@ -7543,7 +7571,7 @@
             "Lifestyle & Personal",
             "Design & Creative"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "anime",
             "cosplay",
@@ -7569,7 +7597,7 @@
             "Lifestyle & Personal",
             "Design & Creative"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "korean",
             "drama",
@@ -7595,7 +7623,7 @@
             "Lifestyle & Personal",
             "Design & Creative"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "myanmar",
             "news",
@@ -7621,7 +7649,7 @@
             "Lifestyle & Personal",
             "Design & Creative"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "brazil",
             "news",
@@ -7647,7 +7675,7 @@
             "Lifestyle & Personal",
             "Design & Creative"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "romanian",
             "news",
@@ -7671,7 +7699,7 @@
             "Lifestyle & Personal",
             "Design & Creative"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "daily",
             "scope",
@@ -7691,7 +7719,7 @@
             "blog",
             "gutenberg"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "main_categories": [
             "Lifestyle & Personal",
             "Design & Creative"
@@ -7719,7 +7747,7 @@
             "Lifestyle & Personal",
             "Design & Creative"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "pulse",
             "press",
@@ -7743,7 +7771,7 @@
             "Lifestyle & Personal",
             "Design & Creative"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "headliner",
             "hub",
@@ -7767,7 +7795,7 @@
             "Lifestyle & Personal",
             "Design & Creative"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "morning",
             "brief",
@@ -7792,7 +7820,7 @@
             "Lifestyle & Personal",
             "Design & Creative"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "news",
             "scope",
@@ -7816,7 +7844,7 @@
             "Lifestyle & Personal",
             "Design & Creative"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "frontline",
             "reports",
@@ -7841,7 +7869,7 @@
             "Lifestyle & Personal",
             "Design & Creative"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "metro",
             "newsline",
@@ -7865,7 +7893,7 @@
             "Lifestyle & Personal",
             "Design & Creative"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "info",
             "post",
@@ -7889,7 +7917,7 @@
             "Lifestyle & Personal",
             "Design & Creative"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "daily",
             "outlook",
@@ -7914,7 +7942,7 @@
             "Lifestyle & Personal",
             "Design & Creative"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "news",
             "network",
@@ -7939,7 +7967,7 @@
             "Lifestyle & Personal",
             "Design & Creative"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "news",
             "nova",
@@ -7964,7 +7992,7 @@
             "Lifestyle & Personal",
             "Design & Creative"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "frame",
             "news",
@@ -8313,7 +8341,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "local-business": {
           "slug": "local-business",
@@ -8362,7 +8391,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "moreblock": {
           "slug": "moreblock",
@@ -8534,7 +8564,8 @@
             "indian",
             "news",
             "blog"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "real-estate": {
           "slug": "real-estate",
@@ -9007,7 +9038,8 @@
             "nepali",
             "handicrafts",
             "blog"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "arabic-calligraphy": {
           "slug": "arabic-calligraphy",
@@ -9028,7 +9060,8 @@
             "arabic",
             "calligraphy",
             "blog"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "chinese-festivals": {
           "slug": "chinese-festivals",
@@ -9049,7 +9082,8 @@
             "chinese",
             "festivals",
             "blog"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "spanish-news": {
           "slug": "spanish-news",
@@ -9071,7 +9105,8 @@
             "spanish",
             "news",
             "blog"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "play-sports": {
           "slug": "play-sports",
@@ -9094,7 +9129,8 @@
             "football",
             "fitness",
             "action"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "russian-cuisine": {
           "slug": "russian-cuisine",
@@ -9116,7 +9152,8 @@
             "russian",
             "cuisine",
             "blog"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "news-japan": {
           "slug": "news-japan",
@@ -9139,7 +9176,8 @@
             "japan",
             "blog",
             "japanese"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "discover-wildlife": {
           "slug": "discover-wildlife",
@@ -9161,7 +9199,8 @@
             "wildlife",
             "blog",
             "hindi"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "news-bangladesh": {
           "slug": "news-bangladesh",
@@ -9183,7 +9222,8 @@
             "news",
             "bangladesh",
             "blog"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "korean-bbq": {
           "slug": "korean-bbq",
@@ -9204,7 +9244,8 @@
             "korean",
             "bbq",
             "blog"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "france-news": {
           "slug": "france-news",
@@ -9227,7 +9268,8 @@
             "news",
             "blog",
             "french"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "music-dance": {
           "slug": "music-dance",
@@ -9250,7 +9292,8 @@
             "musical",
             "sound",
             "studio"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "romanian-festivals": {
           "slug": "romanian-festivals",
@@ -9271,7 +9314,8 @@
             "romanian",
             "festivals",
             "blog"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "innovation-brazil": {
           "slug": "innovation-brazil",
@@ -9292,7 +9336,8 @@
             "innovation",
             "brazil",
             "blog"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "sport-myanmar": {
           "slug": "sport-myanmar",
@@ -9315,7 +9360,8 @@
             "football",
             "fitness",
             "action"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "blooming-bounty": {
           "slug": "blooming-bounty",
@@ -10225,7 +10271,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "chinese-news": {
           "slug": "chinese-news",
@@ -10249,7 +10296,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "bullet-news": {
           "slug": "bullet-news",
@@ -10316,7 +10364,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -10342,7 +10390,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -10463,7 +10511,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -10489,7 +10537,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -10626,7 +10674,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "the-news-frontier": {
           "slug": "the-news-frontier",
@@ -10669,7 +10718,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -10742,7 +10791,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "cycling",
             "blog",
@@ -10766,7 +10815,7 @@
           "main_categories": [
             "Business & eCommerce"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "office",
             "corporate",
@@ -10947,7 +10996,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "japan-explore": {
           "slug": "japan-explore",
@@ -10971,7 +11021,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "light-news": {
           "slug": "light-news",
@@ -11038,7 +11089,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -11064,7 +11115,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -11186,7 +11237,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -11212,7 +11263,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -11348,7 +11399,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "update-express": {
           "slug": "update-express",
@@ -11392,7 +11444,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -11466,7 +11518,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -11636,7 +11688,8 @@
             "indian",
             "news",
             "blog"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "glamour-blog": {
           "slug": "glamour-blog",
@@ -11682,7 +11735,7 @@
             "News & Media",
             "Education & Non-Profit News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "university",
             "learning",
@@ -11710,7 +11763,7 @@
             "News & Media",
             "Lifestyle & Personal"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -11738,7 +11791,7 @@
             "News & Media",
             "Lifestyle & Personal"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -11789,7 +11842,7 @@
             "Regional & Local News",
             "News & Media"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -11817,7 +11870,7 @@
             "News & Media",
             "Lifestyle & Personal"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -11844,7 +11897,7 @@
             "Regional & Local News",
             "News & Media"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -12041,7 +12094,8 @@
             "automobile",
             "transport",
             "luxury"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "attire-blog": {
           "slug": "attire-blog",
@@ -12062,7 +12116,7 @@
             "Business & eCommerce",
             "Design & Creative"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "attire",
             "blog",
@@ -12139,7 +12193,7 @@
             "News & Media",
             "Design & Creative"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -12341,7 +12395,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "indian": {
           "slug": "indian",
@@ -12365,7 +12420,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "news-panorama": {
           "slug": "news-panorama",
@@ -12432,7 +12488,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -12458,7 +12514,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -12580,7 +12636,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -12606,7 +12662,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "technology",
             "electronics",
@@ -12742,7 +12798,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "bulletin-board": {
           "slug": "bulletin-board",
@@ -12786,7 +12843,7 @@
             "News & Media",
             "Design & Creative"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -12860,7 +12917,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -12975,7 +13032,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "space-blog": {
           "slug": "space-blog",
@@ -12999,7 +13057,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "f1-racing": {
           "slug": "f1-racing",
@@ -13068,7 +13127,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "landscape",
             "adventure",
@@ -13094,7 +13153,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -13216,7 +13275,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -13242,7 +13301,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -13375,7 +13434,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "safari-blog": {
           "slug": "safari-blog",
@@ -13418,7 +13478,7 @@
             "Regional & Local News",
             "Design & Creative"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "indian",
             "free",
@@ -13491,7 +13551,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "visit",
             "china",
@@ -13574,7 +13634,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "soccer-blog": {
           "slug": "soccer-blog",
@@ -13598,7 +13659,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "daily-recipe": {
           "slug": "daily-recipe",
@@ -13665,7 +13727,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -13691,7 +13753,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "runway",
             "style",
@@ -13813,7 +13875,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -13839,7 +13901,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -13973,7 +14035,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "blocknews-light": {
           "slug": "blocknews-light",
@@ -14015,7 +14078,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -14089,7 +14152,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -14231,7 +14294,8 @@
             "recipe",
             "kitchen",
             "gourmet"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "minimal-mag": {
           "slug": "minimal-mag",
@@ -14303,7 +14367,7 @@
             "Technology & Innovation",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -14331,7 +14395,7 @@
             "Lifestyle & Personal",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -14357,7 +14421,7 @@
             "Business & eCommerce",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "office",
             "corporate",
@@ -14456,7 +14520,7 @@
             "Lifestyle & Personal",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "russian",
             "history",
@@ -14480,7 +14544,7 @@
             "Specialty & Niche",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "german",
             "drinks",
@@ -14664,7 +14728,7 @@
             "Lifestyle & Personal",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "stadium",
             "athlete",
@@ -14736,7 +14800,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -14759,7 +14823,7 @@
           "main_categories": [
             "Business & eCommerce"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "office",
             "corporate",
@@ -14944,7 +15008,8 @@
             "smartphone",
             "gadget",
             "innovation"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "nepali-culture": {
           "slug": "nepali-culture",
@@ -14970,7 +15035,8 @@
             "media",
             "news",
             "magazine"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "dark": {
           "slug": "dark",
@@ -15039,7 +15105,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -15066,7 +15132,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "stadium",
             "athlete",
@@ -15235,7 +15301,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "chinese",
             "news",
@@ -15258,7 +15324,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "architecture",
             "arabic",
@@ -15387,7 +15453,7 @@
             "Lifestyle & Personal",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -15460,7 +15526,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "journalism",
             "press",
@@ -16279,7 +16345,8 @@
             "travel",
             "vacation",
             "destination"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "blocknews": {
           "slug": "blocknews",
@@ -16322,7 +16389,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "airlines",
             "blog",
@@ -16396,7 +16463,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "pets",
             "home",
@@ -16565,7 +16632,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "city",
             "hub",
@@ -16591,7 +16658,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "lyrical",
             "blog",
@@ -16712,7 +16779,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "arabic",
             "news",
@@ -16737,7 +16804,7 @@
             "News & Media",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "chinese",
             "news",
@@ -17099,7 +17166,8 @@
             "free",
             "blog",
             "turkish"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "chinese": {
           "slug": "chinese",
@@ -17118,7 +17186,7 @@
             "Lifestyle & Personal",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "chinese",
             "free",
@@ -17143,7 +17211,7 @@
             "Lifestyle & Personal",
             "Regional & Local News"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "deutsche",
             "tech",
@@ -17169,7 +17237,7 @@
             "Lifestyle & Personal",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "spanish",
             "free",
@@ -17194,7 +17262,7 @@
             "Lifestyle & Personal",
             "Regional & Local News"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "beat",
             "blog",
@@ -17222,7 +17290,8 @@
             "arabic",
             "free",
             "blog"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "indian": {
           "slug": "indian",
@@ -17243,7 +17312,8 @@
             "indian",
             "free",
             "blog"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "elementor": {
           "slug": "elementor",
@@ -17682,7 +17752,8 @@
             "recipe",
             "blog",
             "german"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "chinese": {
           "slug": "chinese",
@@ -17699,7 +17770,7 @@
           "main_categories": [
             "Lifestyle & Personal"
           ],
-          "plugins": "elementor,elespare",
+          "plugins": "elementor,elespare,af-translate",
           "image_keywords": [
             "chinese",
             "blog",
@@ -17721,7 +17792,7 @@
           "main_categories": [
             "News & Media"
           ],
-          "plugins": "bzscore-live-score",
+          "plugins": "bzscore-live-score,af-translate",
           "image_keywords": [
             "stadium",
             "athlete",
@@ -17751,7 +17822,8 @@
             "general",
             "blog",
             "french"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "fashion": {
           "slug": "fashion",
@@ -17770,7 +17842,7 @@
           "main_categories": [
             "Lifestyle & Personal"
           ],
-          "plugins": "popup-maker",
+          "plugins": "popup-maker,af-translate",
           "image_keywords": [
             "runway",
             "style",
@@ -17821,7 +17893,8 @@
             "japanese",
             "blog",
             "design"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "automobile": {
           "slug": "automobile",
@@ -17839,7 +17912,7 @@
           "main_categories": [
             "Lifestyle & Personal"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "car",
             "vehicle",
@@ -17891,7 +17964,8 @@
             "nepali",
             "blog",
             "design"
-          ]
+          ],
+          "plugins": "af-translate"
         },
         "the-daily-bloom": {
           "slug": "the-daily-bloom",
@@ -17911,7 +17985,7 @@
             "Specialty & Niche",
             "Design & Creative"
           ],
-          "plugins": "blockspare",
+          "plugins": "blockspare,af-translate",
           "image_keywords": [
             "the",
             "daily",
@@ -18855,7 +18929,7 @@
             "magazine",
             "spanish"
           ],
-          "plugins": "blockspare"
+          "plugins": "blockspare,af-translate"
         },
         "russian": {
           "slug": "russian",
@@ -18874,7 +18948,7 @@
             "magazine",
             "russian"
           ],
-          "plugins": "blockspare"
+          "plugins": "blockspare,af-translate"
         },
         "nederlandse": {
           "slug": "nederlandse",
@@ -18893,7 +18967,7 @@
             "magazine",
             "netherland"
           ],
-          "plugins": "blockspare"
+          "plugins": "blockspare,af-translate"
         },
         "prime-generic": {
           "slug": "prime-generic",
@@ -19141,7 +19215,7 @@
             "indian"
           ],
           "is_builder_pro": "blockspare-pro",
-          "plugins": "blockspare"
+          "plugins": "blockspare,af-translate"
         },
         "japanese": {
           "slug": "japanese",
@@ -19161,7 +19235,7 @@
             "japanese"
           ],
           "is_builder_pro": "blockspare-pro",
-          "plugins": "blockspare"
+          "plugins": "blockspare,af-translate"
         },
         "chinese": {
           "slug": "chinese",
@@ -19181,7 +19255,7 @@
             "chinese"
           ],
           "is_builder_pro": "blockspare-pro",
-          "plugins": "blockspare"
+          "plugins": "blockspare,af-translate"
         },
         "turkish": {
           "slug": "turkish",
@@ -19201,7 +19275,7 @@
             "turkish"
           ],
           "is_builder_pro": "blockspare-pro",
-          "plugins": "blockspare"
+          "plugins": "blockspare,af-translate"
         },
         "french": {
           "slug": "french",
@@ -19221,7 +19295,7 @@
             "french"
           ],
           "is_builder_pro": "blockspare-pro",
-          "plugins": "blockspare"
+           "plugins": "blockspare,af-translate"
         },
         "brazil-stories": {
           "slug": "brazil-stories",
@@ -19241,7 +19315,7 @@
             "brazil"
           ],
           "is_builder_pro": "blockspare-pro",
-          "plugins": "blockspare"
+           "plugins": "blockspare,af-translate"
         },
         "italian-news": {
           "slug": "italian-news",
@@ -19261,7 +19335,7 @@
             "italy"
           ],
           "is_builder_pro": "blockspare-pro",
-          "plugins": "blockspare"
+           "plugins": "blockspare,af-translate"
         },
         "indonesia-news": {
           "slug": "indonesia-news",
@@ -19281,7 +19355,7 @@
             "indonesia"
           ],
           "is_builder_pro": "blockspare-pro",
-          "plugins": "blockspare"
+           "plugins": "blockspare,af-translate"
         },
         "poland-blog": {
           "slug": "poland-blog",
@@ -19301,7 +19375,7 @@
             "poland"
           ],
           "is_builder_pro": "blockspare-pro",
-          "plugins": "blockspare"
+          "plugins": "blockspare,af-translate"
         },
         "enterprise": {
           "slug": "enterprise",
