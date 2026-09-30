@@ -5400,7 +5400,8 @@
         "chromeblog",
         "chromegrid",
         "chromemag",
-        "newschrome"
+        "newschrome",
+        "blogchrome"
       ],
       "demodata": {
         "default": {
@@ -5891,6 +5892,38 @@
           "name": "ChromeBlog",
           "homepage_type": "blog",
           "preview": "https://demos.afthemes.com/chromenews/chromeblog/",
+          "tags": [
+            "free",
+            "magazine",
+            "child"
+          ],
+          "main_categories": [
+            "News & Media",
+            "Lifestyle & Personal"
+          ],
+          "image_keywords": [
+            "journalism",
+            "press",
+            "media",
+            "news",
+            "magazine"
+          ]
+        }
+      }
+    },
+    "blogchrome": {
+      "data": "blogchrome",
+      "free": "chromenews",
+      "premium": "chromenews-pro",
+      "demodata": {
+        "default": {
+          "slug": "blogchrome",
+          "theme": "ChromeNews",
+          "main_category": "News & Media",
+          "catgory": "General",
+          "name": "BlogChrome",
+          "homepage_type": "blog",
+          "preview": "https://demos.afthemes.com/chromenews/blogchrome/",
           "tags": [
             "free",
             "magazine",
