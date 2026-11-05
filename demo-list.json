@@ -8276,7 +8276,8 @@
         "newsday",
         "newsgame",
         "corpnews",
-        "newscell"
+        "newscell",
+        "newsgate"
       ],
       "demodata": {
         "default": {
@@ -9872,6 +9873,39 @@
           "homepage_type": "blog",
           "name": "NewsCell",
           "preview": "https://demos.afthemes.com/morenews/newscell/",
+          "tags": [
+            "free",
+            "magazine",
+            "blog",
+            "child"
+          ],
+          "main_categories": [
+            "News & Media",
+            "Lifestyle & Personal"
+          ],
+          "image_keywords": [
+            "journalism",
+            "press",
+            "media",
+            "news",
+            "magazine"
+          ]
+        }
+      }
+    },
+    "newsgate": {
+      "data": "newsgate",
+      "free": "morenews",
+      "premium": "morenews-pro",
+      "demodata": {
+        "default": {
+          "slug": "newsgate",
+          "theme": "MoreNews",
+          "main_category": "News & Media",
+          "catgory": "General",
+          "homepage_type": "blog",
+          "name": "NewsGate",
+          "preview": "https://demos.afthemes.com/morenews/newsgate/",
           "tags": [
             "free",
             "magazine",
