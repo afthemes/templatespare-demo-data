@@ -17287,7 +17287,8 @@
         "newsreview",
         "reviewmag",
         "newscom",
-        "reviewblog"
+        "reviewblog",
+        "castnews"
       ],
       "demodata": {
         "default": {
@@ -17852,6 +17853,36 @@
           "catgory": "General",
           "name": "NewsReview",
           "preview": "https://demos.afthemes.com/reviewnews/newsreview/",
+          "tags": [
+            "free",
+            "magazine",
+            "child"
+          ],
+          "main_categories": [
+            "News & Media"
+          ],
+          "image_keywords": [
+            "journalism",
+            "press",
+            "media",
+            "news",
+            "magazine"
+          ]
+        }
+      }
+    },
+    "castnews": {
+      "data": "castnews",
+      "free": "reviewnews",
+      "premium": "reviewnews-pro",
+      "demodata": {
+        "default": {
+          "slug": "castnews",
+          "theme": "ReviewNews",
+          "main_category": "News & Media",
+          "catgory": "General",
+          "name": "CastNews",
+          "preview": "https://demos.afthemes.com/reviewnews/castnews/",
           "tags": [
             "free",
             "magazine",
